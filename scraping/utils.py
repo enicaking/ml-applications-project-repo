@@ -1,0 +1,12 @@
+"""Logging and miscellaneous helpers."""
+import logging
+import sys
+
+
+def setup_logging(level: int = logging.INFO) -> None:
+    logging.basicConfig(
+        level=level,
+        format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+        stream=sys.stdout,
+    )
+    logging.getLogger("urllib3").setLevel(logging.WARNING)
