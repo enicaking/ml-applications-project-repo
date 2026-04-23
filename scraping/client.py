@@ -49,10 +49,10 @@ class KomootClient:
         if wait > 0:
             time.sleep(wait)
 
-    def get(self, url: str, **kwargs) -> requests.Response:
+    def get(self, url: str, params: Optional[dict] = None, **kwargs) -> requests.Response:
         self._throttle()
-        logger.debug("GET %s", url)
-        response = self.session.get(url, timeout=self.timeout, **kwargs)
+        logger.debug("GET %s params=%s", url, params)
+        response = self.session.get(url, params=params, timeout=self.timeout, **kwargs)
         self._last_request_at = time.time()
         response.raise_for_status()
         return response
