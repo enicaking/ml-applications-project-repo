@@ -1,0 +1,84 @@
+{
+  "tour_id": "e981171337",
+  "url": "https://www.komoot.com/smarttour/e981171337",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e981171337/etang-d-araing-et-canau-grande-loop-starting-from-anglade-car-park-parc-naturel-regional-des-pyrenees-ariegeoises",
+  "name": "Etang d'Araing et Canau Grande – loop starting from Anglade car park – Parc naturel régional des Pyrénées Ariégeoises",
+  "name_original": "Etang d'Araing et Canau Grande – boucle au départ du parking d'Anglade – Parc naturel régional des Pyrénées Ariégeoises",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 23915.472049877215,
+  "duration_s": 33031,
+  "elevation_up_m": 1501.3855410093443,
+  "elevation_down_m": 1501.3855410093445,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.867022,
+  "start_lng": 0.934354,
+  "start_alt_m": 802.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Etang d'Araing is a high-altitude lagoon which surprises with its crystal clear water. Surrounded by peaks, this site offers a setting that hikers will particularly appreciate!",
+    "Small detour to the Canau Grande with a slightly wider view like from the Col."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.19113742,
+    "unpaved": 0.80886257
+  },
+  "way_types": {
+    "way": 0.0035302916,
+    "mountain_hiking_path": 0.19113742,
+    "hiking_path": 0.8053323
+  },
+  "waypoints": [
+    {
+      "name": "Étang d'Araing",
+      "lat": 42.833994,
+      "lng": 0.877689,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 4199800
+    },
+    {
+      "name": "Canau Grande (2202 m)",
+      "lat": 42.84171,
+      "lng": 0.848517,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3104584
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 4,
+  "visitors": 38,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-17T16:55:28.031Z",
+  "changed_at": "2024-06-06T05:56:09.537Z",
+  "scraped_at": "2026-04-27T12:12:31.865948+00:00"
+}

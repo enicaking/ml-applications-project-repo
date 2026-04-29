@@ -1,0 +1,160 @@
+{
+  "tour_id": "e923754804",
+  "url": "https://www.komoot.com/smarttour/e923754804",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e923754804/gombren-from-campdevanol",
+  "name": "Gombrèn from Campdevànol",
+  "name_original": "Gombreny via Campdevànol - Ripollès",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 25494.92774869966,
+  "duration_s": 4280,
+  "elevation_up_m": 275.06548358286204,
+  "elevation_down_m": 275.3571693609467,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.195832,
+  "start_lng": 2.196473,
+  "start_alt_m": 685.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Enjoy an easy 15.8-mile road cycling route from Gombreny via Campdevanol to Ripolles, featuring scenic mountain views and riparian vegetatio",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Romanesque work of the eleventh century.\r\nThis monument is one of the first architectural works of the Romanesque period built in Catalonia, and stands out for its immaculate state of the bell tower, which is preserved in very good condition. However, its interior has suffered over the years and several wars, which notably destroyed its walls in the 17th century, or the Civil War, where part of the temple was burned.\r\nIn 1990 it was restored and preserved as one of the most outstanding architectural monuments of the Romanesque period in Catalonia.",
+    "Small population, you can't always find food/drinks.",
+    "Stone bridge with views ideal for a swim in the river below in summer"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the Gombreny via Campdevanol - Ripolles road cycling route?",
+      "answer": "This road cycling route is approximately 25.5 kilometers long and generally takes about 1 hour and 11 minutes to complete, depending on your pace and stops."
+    },
+    {
+      "question": "Is this road cycling route suitable for beginners?",
+      "answer": "Yes, the route is classified as an <strong>easy road ride</strong>, making it suitable for cyclists of varying fitness levels, including beginners. It features an elevation gain of around 275 meters, which is manageable."
+    },
+    {
+      "question": "What is the terrain like on this road cycling route?",
+      "answer": "The route primarily features well-paved surfaces, typical for road cycling. However, it's important to be aware that <em>some segments may be unpaved</em> and could be challenging for standard road bikes. Be prepared for occasional rougher patches that might require careful navigation."
+    },
+    {
+      "question": "What notable landmarks or viewpoints can I expect along the way?",
+      "answer": "Along the route, you can enjoy picturesque surroundings and several points of interest. Keep an eye out for the historic <a href=\"https://www.komoot.com/highlight/5014458\" target=\"_blank\" rel=\"noopener\">Sant Llorenç de Campdevànol Hermitage</a>, the charming settlement of <a href=\"https://www.komoot.com/highlight/5034192\" target=\"_blank\" rel=\"noopener\">Gombrèn</a>, and the scenic <a href=\"https://www.komoot.com/highlight/1881854\" target=\"_blank\" rel=\"noopener\">Pont de la Cabreta</a>. The route also follows the Merdàs river, offering views of typical riparian vegetation."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The Ripollès region offers beautiful scenery throughout much of the year. Given its mountainous setting, spring and autumn generally provide the most pleasant temperatures for cycling. Summer can also be enjoyable, but be mindful of potential heat, especially during midday."
+    },
+    {
+      "question": "Is this road cycling route dog-friendly?",
+      "answer": "While the route is primarily a road cycling path, which is generally less restrictive for dogs than hiking trails, it's always best to keep dogs on a leash, especially on public roads and near any settlements or livestock. Consider your dog's comfort with road surfaces and potential traffic."
+    },
+    {
+      "question": "Where can I park to access the Gombreny via Campdevanol - Ripolles route?",
+      "answer": "Specific parking information for this exact route isn't detailed, but Campdevànol and Ripollès are well-known areas. You can typically find parking in or near the towns of Campdevànol or Gombrèn, which serve as good starting points for the route."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this route?",
+      "answer": "No, you do not need any special permits or have to pay entrance fees to cycle this public road cycling route in the Ripollès region of Catalonia."
+    },
+    {
+      "question": "Are there any cafes or restaurants along or near the route?",
+      "answer": "The route passes through or near settlements like <a href=\"https://www.komoot.com/highlight/5034192\" target=\"_blank\" rel=\"noopener\">Gombrèn</a> and Campdevànol. These towns typically offer cafes, restaurants, and other amenities where you can stop for refreshments or a meal."
+    },
+    {
+      "question": "Does this route connect with other trails?",
+      "answer": "Yes, this route intersects with several other paths. You'll find sections that overlap with 'El Camí IT1TR3 El Camí Capçaler: de Salzes a Balaguer', 'La Volta a peu al Ripollés', and 'L'Auró', among others. This offers opportunities to explore further if you wish."
+    },
+    {
+      "question": "What type of bike is best suited for this route?",
+      "answer": "While the route is designated for racebikes, be aware that some sections may be unpaved. If you prefer a smoother ride and want to avoid potential difficulties, a gravel bike or a road bike with wider, more robust tires might offer a more comfortable experience on those mixed-surface segments."
+    }
+  ],
+  "surfaces": {
+    "sb#unpaved": 0.00010128486,
+    "unknown": 0.006070211,
+    "sb#paved": 0.046058513,
+    "sb#asphalt": 0.94777
+  },
+  "way_types": {
+    "way": 0.00010128486,
+    "service": 0.006070211,
+    "minor_road": 0.096837014,
+    "primary": 0.1980202,
+    "street": 0.6989713
+  },
+  "waypoints": [
+    {
+      "name": "Sant Llorenç de Campdevànol Hermitage",
+      "lat": 42.232346,
+      "lng": 2.127646,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "man_made_monument",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 5014458
+    },
+    {
+      "name": "Gombrèn",
+      "lat": 42.248177,
+      "lng": 2.0911,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "restaurant"
+      ],
+      "highlight_id": 5034192
+    },
+    {
+      "name": "Pont de la Cabreta",
+      "lat": 42.221428,
+      "lng": 2.166422,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "intermediate",
+        "river",
+        "historical_site",
+        "viewpoint"
+      ],
+      "highlight_id": 1881854
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 56,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-12T09:52:00.973Z",
+  "changed_at": "2026-02-26T18:52:38.620Z",
+  "scraped_at": "2026-04-28T20:23:48.574116+00:00"
+}

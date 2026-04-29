@@ -1,0 +1,78 @@
+{
+  "tour_id": "e939633785",
+  "url": "https://www.komoot.com/smarttour/e939633785",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e939633785/running-gerber-waterfall-aigueestortes-y-lago-de-san-mauricio-national-park",
+  "name": "Running Gerber Waterfall — Aigüestortes y Lago de San Mauricio National Park",
+  "name_original": "Running Cascada de Gerber — Parque Nacional de Aigüestortes y Lago de San Mauricio",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6197.671599233802,
+  "duration_s": 3062,
+  "elevation_up_m": 202.35814187667233,
+  "elevation_down_m": 202.3581418766721,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.63767,
+  "start_lng": 1.039804,
+  "start_alt_m": 1514.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "We find one of the most popular waterfalls in the Aigüestortes National Park, the Cascada de Gerber or Salto de Comials and it is the highest in the national park. There are information panels that tell us the story and a viewpoint from where people want to take the famous photo.\nIt can be accessed from the Gerber Refuge, by a nice walk under the trees of the Gerber forest or from a small parking lot that is closer.\nQuite busy during summer and spring weekends."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.007147435,
+    "asphalt": 0.04478236,
+    "unpaved": 0.9480702
+  },
+  "way_types": {
+    "minor_road": 0.007147435,
+    "street": 0.04478236,
+    "hiking_path": 0.9480702
+  },
+  "waypoints": [
+    {
+      "name": "Gerber Waterfall",
+      "lat": 42.643359,
+      "lng": 1.009122,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 3217857
+    }
+  ],
+  "categories": [
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 33,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-30T09:17:27.948Z",
+  "changed_at": "2024-07-24T09:30:49.914Z",
+  "scraped_at": "2026-04-27T15:53:24.462512+00:00"
+}

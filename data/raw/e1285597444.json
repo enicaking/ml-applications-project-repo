@@ -1,0 +1,147 @@
+{
+  "tour_id": "e1285597444",
+  "url": "https://www.komoot.com/smarttour/e1285597444",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1285597444/varrados-cycle-touring-in-catalonia",
+  "name": "Varradòs – cycle touring in Catalonia",
+  "name_original": "Varradòs – Cicloturismo en Cataluña",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 46579.05318654579,
+  "duration_s": 16490,
+  "elevation_up_m": 1406.719020015692,
+  "elevation_down_m": 1403.3053186765583,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.701749,
+  "start_lng": 0.798176,
+  "start_alt_m": 983.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This circular route, of certain physical demand, takes you to know the most mythical mountains, valleys and rivers of the Aran Valley. It is ideal to enjoy on your rally bike, especially gravel. They are about 50 kilometers full of emotion that will surely leave you with a good taste in your mouth.\n\nYou travel through the beautiful valleys of the Garonne, Varradòs and Unhòla, where you will discover unique places such as the Saut deth Pish and the Còth de Varradòs. In addition, the Route passes through numerous towns, where you can regain energy and enjoy traditional mountain architecture: Gausach, Bagergue and Salardú, among others.\n\nThe proposal we make here takes advantage of the new Garonne cycle route and avoids the trail sections, to make it more affordable and more suitable for gravel cycling. You can complicate it a little by looking for the trails from the Solana de Vila, and also from Bagergue to Vielha. The Route can also start in any of the towns it passes through. Keep in mind that from Bagergue to Vielha it is not marked, it circulates on the wide shoulder of the road.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Romanesque church of Sant Andreu de Salardú, located in the upper part of the municipality of Alto Arán and dating from the 12th century.\r\nWe should not miss the interior of the church where we will notice the Christ and the frescoes on the cross and the ceiling.",
+    "Bagergue is considered one of the most beautiful villages in Spain. At 1,419 meters above sea level, it is the municipality located at the highest altitude in the Arán Valley. It belongs to the province of Lleida and has about 100 inhabitants.",
+    "The road navigates along the edge of the hillside, from where you get sensational views of the valley. If you leave Bagergue behind you you face slopes of up to 16% until you reach the top of the mountain.",
+    "In this area, the earth shows you its darkest colors and gives you the best panoramic views of the highest peaks. I invite you to park your bike and savor the incredible views that surround you.",
+    "The solitary track is sandwiched between the mountains next to the Varradòs river. It crosses dense pine forests and the views of the valley are beautiful. If you're heading towards the national highway, you're in luck, as you just have to go with the long descent."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.0013079975,
+    "unknown": 0.0039308122,
+    "sb#paved": 0.119681425,
+    "sb#asphalt": 0.42405105,
+    "sb#unpaved": 0.4510287
+  },
+  "way_types": {
+    "trail": 0.028872631,
+    "minor_road": 0.07511154,
+    "primary": 0.09415034,
+    "street": 0.2861531,
+    "way": 0.5157124
+  },
+  "waypoints": [
+    {
+      "name": "Church of Sant Andreu de Salardú",
+      "lat": 42.70718,
+      "lng": 0.901678,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 5182679
+    },
+    {
+      "name": "Bagergue",
+      "lat": 42.718847,
+      "lng": 0.915658,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 5182705
+    },
+    {
+      "name": "Varradòs Road",
+      "lat": 42.7463,
+      "lng": 0.8976,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "cycle_way",
+        "trail"
+      ],
+      "highlight_id": 6075922
+    },
+    {
+      "name": "Mahls de Varradòs",
+      "lat": 42.766645,
+      "lng": 0.869698,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "mountain_pass",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 6075926
+    },
+    {
+      "name": "Varradòs Trail",
+      "lat": 42.7449,
+      "lng": 0.7592,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "viewpoint",
+        "intermediate",
+        "river"
+      ],
+      "highlight_id": 6075916
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 147,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2023-08-31T09:30:04.394Z",
+  "changed_at": "2025-05-15T10:53:55.848Z",
+  "scraped_at": "2026-04-29T00:09:16.129921+00:00"
+}

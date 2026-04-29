@@ -1,0 +1,113 @@
+{
+  "tour_id": "e1427157972",
+  "url": "https://www.komoot.com/smarttour/e1427157972",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1427157972/artzamendi-and-its-surroundings",
+  "name": "Artzamendi and its surroundings",
+  "name_original": "L'Artzamendi et ses environs",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9814.746397043846,
+  "duration_s": 14351,
+  "elevation_up_m": 506.5534803394992,
+  "elevation_down_m": 498.69447385133947,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.272863,
+  "start_lng": -1.416674,
+  "start_alt_m": 705.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This spectacular route spans the heights of the Basque Country on the border between France and Spain. It offers an anthology of panoramas between iconic peaks and breathtaking trails. Although spectacular and sometimes dizzying, the trails do not involve any major difficulty. To get there, you have to reach the Mehatze pass by car from the village of Itxassou.\n\nFrom the pass, you first make a large loop before finishing with the ascent of Artzamendi. If you prefer, you can reverse starting at the top and then loop. Otherwise, initially, the route follows the route of the GR 10, which leads to the Espalza pass. From here, a steep descent begins before branching off onto a balcony path.\n\nYou continue with an absolutely remarkable section on a balcony path which offers dizzying views. This portion alternates short climbs and descents, while providing numerous panoramas of the cliffs. The route then embarks on a gradual climb towards Iguzki. In addition to giving its name to a local beer, this summit offers a remarkable view of its neighbor, Artzamendi.\n\nIdentifiable by its white radar station in the shape of a large balloon, Artzamendi is a summit culminating at 924 meters. From the Mehatze pass, it is reached quickly with a steep climb then more gentle at the end. Once reached, it offers a panorama that extends to the Atlantic Ocean. Then all you have to do is go back down the same way as you went up.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Magnificent trail that winds along superb cliffs. It reveals superb panoramas as you progress.",
+    "The peak of Iguzki is located at 842 meters above sea level and offers an incredible panoramic view of the surrounding mountains.",
+    "Artzamendi rises to 924 meters above sea level, making it the highest point in the Labourd province. The “bear mountain” in Basque is identifiable by its large white ball which serves as a civilian radar station. This summit offers a very nice 360 degree panorama."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.029277397,
+    "asphalt": 0.106810056,
+    "alpin": 0.31518272,
+    "unpaved": 0.54872984
+  },
+  "way_types": {
+    "way": 0.06276885,
+    "mountain_hiking_path": 0.06617783,
+    "street": 0.106810056,
+    "alpine_hiking_path": 0.24900489,
+    "hiking_path": 0.5152384
+  },
+  "waypoints": [
+    {
+      "name": "Magnificent dizzying trail",
+      "lat": 43.2602,
+      "lng": -1.4038,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "challenging",
+        "gorge",
+        "ridge"
+      ],
+      "highlight_id": 5522278
+    },
+    {
+      "name": "Iguzki",
+      "lat": 43.26924,
+      "lng": -1.42034,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4394688
+    },
+    {
+      "name": "Artzamendi Summit",
+      "lat": 43.2828,
+      "lng": -1.4078,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate",
+        "challenging"
+      ],
+      "highlight_id": 2829783
+    }
+  ],
+  "categories": [
+    "challenging",
+    "gorge",
+    "intermediate",
+    "natural_monument",
+    "ridge",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.8125,
+  "rating_count": 16,
+  "visitors": 136,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-30T12:51:36.218Z",
+  "changed_at": "2024-06-13T14:54:07.787Z",
+  "scraped_at": "2026-04-27T11:19:03.996646+00:00"
+}

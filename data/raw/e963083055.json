@@ -1,0 +1,157 @@
+{
+  "tour_id": "e963083055",
+  "url": "https://www.komoot.com/smarttour/e963083055",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963083055/trail-of-the-10-hermitages",
+  "name": "Trail of the 10 Hermitages",
+  "name_original": "Castillo y ermita de Mare de Déu de Farners - running circular desde Santa Coloma de Farners",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7215.004209087907,
+  "duration_s": 3650,
+  "elevation_up_m": 262.0982927170252,
+  "elevation_down_m": 262.0982927170252,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.85863,
+  "start_lng": 2.658307,
+  "start_alt_m": 145.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 4.5-mile jogging route from Santa Coloma de Farners climbs 860 feet to Farners Castle and Hermitage with panoramic views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Recently, its access has been improved with the installation of ropes that facilitate the passage through the most exposed section of the climb. It is worth climbing for the view of the castle and the hermitage and the panoramic view of the surroundings. Recommended.",
+    "the final stretch cannot be reached by bike",
+    "Beautiful hermitage of Romanesque construction from the 12th century located very close to the castle of Farners. After a major expansion during the 18th century, the hermitage also has Baroque-style details."
+  ],
+  "faqs": [
+    {
+      "question": "Where does the trail start and is there parking available?",
+      "answer": "The circular route typically starts from Santa Coloma de Farners, often near <em>Sant Salvador Park</em>. This park is a good starting point and usually offers amenities like picnic areas. Parking is generally available in Santa Coloma de Farners, especially around the park area, making it convenient for accessing the trailhead."
+    },
+    {
+      "question": "What is the terrain like for running on this route?",
+      "answer": "The terrain is quite varied and challenging, featuring unpaved mountain tracks and wooded sections. You'll encounter stony paths, areas with exposed tree roots, and segments of dirt road. Be prepared for a significant and continuous ascent, described as a 'never-ending hill', which contributes to the trail's 'difficult' grading for running."
+    },
+    {
+      "question": "Are there any particularly challenging sections on the trail?",
+      "answer": "Yes, a notable and challenging section is the 'Pas de l'Os', which involves climbing rocks with the aid of ropes. For those who prefer to avoid this part, a less complicated alternative route is available. This section is a key reason for the trail's 'difficult' rating."
+    },
+    {
+      "question": "What historical sites and natural features can I see along the way?",
+      "answer": "The route is rich in both history and natural beauty. You'll pass by the Romanesque <strong><a href=\"https://www.komoot.com/highlight/4402052\" target=\"_blank\" rel=\"noopener\">Farners Castle</a></strong>, dating back to the 11th century, and the <strong><a href=\"https://www.komoot.com/highlight/4402049\" target=\"_blank\" rel=\"noopener\">Hermitage of Mare de Déu de Farners</a></strong> from the 11th or 12th century. Natural highlights include lush, green forests, panoramic views of the castle, the hermitage, and the plain of La Selva. You'll also encounter the <strong><a href=\"https://www.komoot.com/highlight/1449444\" target=\"_blank\" rel=\"noopener\">Turó de vent</a></strong> summit and the 'Font Picant', a spring known for its iron-tinged water."
+    },
+    {
+      "question": "Is this running route suitable for dogs?",
+      "answer": "While the trail passes through natural areas, specific regulations regarding dogs are not explicitly stated. It's generally advisable to keep dogs on a leash, especially given the varied terrain and potential for wildlife. Always ensure your dog is capable of handling the 'difficult' grade and challenging sections like stony paths and ascents."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The trail can be enjoyed throughout much of the year, but spring and autumn generally offer the most pleasant running conditions with milder temperatures and beautiful foliage. Summer can be hot, so an early morning start is recommended. Winter running is possible, but be mindful of potentially wet or slippery conditions on stony and wooded sections."
+    },
+    {
+      "question": "Do I need any special permits or pay an entrance fee for this trail?",
+      "answer": "No, there are no specific permits or entrance fees required to access the 'Castillo y ermita de Mare de Déu de Farners - running circular desde Santa Coloma de Farners' trail. It's a public route through natural and historical areas."
+    },
+    {
+      "question": "How long does it typically take to complete this running route?",
+      "answer": "This running route is estimated to take approximately 1 hour and 1 minute (3650 seconds) to complete. However, given its 'difficult' grading and significant elevation gain, individual times may vary based on fitness level and how much time you spend enjoying the historical sites and views."
+    },
+    {
+      "question": "Does this trail intersect with any other known paths?",
+      "answer": "Yes, this route shares sections with several other official trails. You'll find yourself on parts of the Ruta de les 10 ermites, Xicu 2, Xicu 1, Xicu 3, Carretera de Farners, Passeig de la Font Picant, Camí de Lloret, Dragon Khan, and Aymerigalls, among others."
+    },
+    {
+      "question": "Are there any facilities or amenities near the trailhead?",
+      "answer": "The starting point in Santa Coloma de Farners, particularly around Sant Salvador Park, offers amenities such as picnic areas. In the town itself, you'll find various services including cafes and restaurants, perfect for a post-run refreshment."
+    },
+    {
+      "question": "Is this a good trail for beginner runners?",
+      "answer": "Given its 'difficult' grading, significant ascent, and varied challenging terrain including stony paths and the 'Pas de l'Os' section, this trail is generally not recommended for beginner runners. It's better suited for intermediate to experienced runners looking for a challenging and rewarding experience."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0011937306,
+    "asphalt": 0.18090038,
+    "unpaved": 0.19366537,
+    "alpin": 0.19670132,
+    "nature": 0.4275392
+  },
+  "way_types": {
+    "street": 0.18090038,
+    "mountain_hiking_path": 0.19670132,
+    "way": 0.23922129,
+    "hiking_path": 0.383177
+  },
+  "waypoints": [
+    {
+      "name": "Turó de vent",
+      "lat": 41.8612,
+      "lng": 2.63101,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "challenging",
+        "viewpoint",
+        "castle",
+        "historical_site"
+      ],
+      "highlight_id": 1449444
+    },
+    {
+      "name": "Farners Castle",
+      "lat": 41.86053,
+      "lng": 2.63124,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "intermediate",
+        "viewpoint",
+        "historical_site"
+      ],
+      "highlight_id": 4402052
+    },
+    {
+      "name": "Hermitage of Mare de Déu de Farners",
+      "lat": 41.85995,
+      "lng": 2.63279,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate",
+        "castle"
+      ],
+      "highlight_id": 4402049
+    }
+  ],
+  "categories": [
+    "castle",
+    "challenging",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 17,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-26T11:36:32.786Z",
+  "changed_at": "2026-02-26T18:42:10.533Z",
+  "scraped_at": "2026-04-27T16:14:12.364861+00:00"
+}

@@ -1,0 +1,134 @@
+{
+  "tour_id": "e1068532124",
+  "url": "https://www.komoot.com/smarttour/e1068532124",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1068532124/pailheres-pass-emblematic-passes-of-the-pyrenees",
+  "name": "Pailhères Pass – emblematic passes of the Pyrenees",
+  "name_original": "Circuit 14 : Col de Pailhères — Les cols emblématiques des Pyrénées",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 106891.01262169752,
+  "duration_s": 23822,
+  "elevation_up_m": 3005.9408669092777,
+  "elevation_down_m": 3006.0177854974304,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.724523,
+  "start_lng": 1.832867,
+  "start_alt_m": 705.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Col de Pailhères or Port de Pailhères is an emblematic passage in the Pyrenees. Culminating at 2,001 meters above sea level, it stands as a magnificent link between the resort of Ax-les-Thermes and the Ariège gorges. The Tour de France used it for the first time in 2003.\n\nThe start of this great loop is at the Ax-les-Thermes SNCF station. The mountain resort has the advantage of being as attractive in winter as in summer. The route begins by immediately climbing to the heights of the city. It continues until you reach the Col du Pradet which is a great first ascent. After a few bends downhill you come across the Rébenty which flows down the valley. He will be the guarantor of a magnificent section that wanders through beautiful gorges for about thirty kilometers until reaching the Aude.\n\nYou then dive into new gorges, those of the Aude this time. They take care of taking you to Usson-les-Bains on a slight uphill false flat. This is where the climb officially begins towards the Col de Pailhères. Relatively regular, it has about twenty hairpin bends that are above the Mijanès-Donezan station. The last part of the climb includes passages around 10%.\n\nAt the top, enjoy the magnificent panoramas that unfold before you before falling into a superb descent. This one also has a few switchbacks but much less than the other side. Gradually you dive into the valley until you find your starting point in Ax-les-Thermes.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col du Pradel culminates at 1,673 meters above sea level. The climb from Ax-les-Thermes is 14.4 kilometers long at an average of 6.6% with passages at more than 11%.",
+    "The Rébenty gorges offer a magnificent stretch along the stream of the same name. The Rébenty has its source at the Col du Pradel before winding through a canyon which separates the Sault plateau in two.",
+    "Magnificent road that follows the course of the Aude winding through a verdant forest. This portion takes place on a false flat rising towards Mijanès and the Col de Pailhères.",
+    "The Col de Pailhères, or Port de Pailhères, is one of the emblematic passes of the Pyrenees and the Tour de France. Culminating at 2,001 meters above sea level, it is one of the few passes in the Pyrenees to exceed the symbolic bar of 2,000 meters.\r\n\r\nThe climb from Mijanès is 10.6 kilometers long with an average of 8.2%, including some passages at more than 10%.\r\nIt is also possible to climb from Ax-les-Thermes by means of a climb of 18.6 kilometers with an average of 6.9%.",
+    "Ax-les-Thermes is a magnificent mountain town located in Ariège. This spa resort has the advantage of being attractive all year round for all sports and nature lovers. There you will find all the necessary amenities to have a pleasant time. The range of accommodation, restaurants and shops is relatively wide."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0007820443,
+    "sb#paved": 0.0133792395,
+    "sb#asphalt": 0.9858387
+  },
+  "way_types": {
+    "service": 2.2249253e-05,
+    "minor_road": 0.003507324,
+    "primary": 0.19973543,
+    "street": 0.796735
+  },
+  "waypoints": [
+    {
+      "name": "Pradel Pass",
+      "lat": 42.747753,
+      "lng": 1.93905,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2725232
+    },
+    {
+      "name": "Gorges du Rébenty",
+      "lat": 42.824038,
+      "lng": 2.169104,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "viewpoint",
+        "intermediate",
+        "river",
+        "canyon"
+      ],
+      "highlight_id": 2527647
+    },
+    {
+      "name": "Scenic road along the Aude",
+      "lat": 42.77174,
+      "lng": 2.126841,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 1509515
+    },
+    {
+      "name": "Pailhères Pass",
+      "lat": 42.733589,
+      "lng": 1.99242,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "climb",
+        "challenging",
+        "mountain_pass",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 128888
+    },
+    {
+      "name": "Ax-les-Thermes",
+      "lat": 42.72101,
+      "lng": 1.83866,
+      "type": "settlement",
+      "categories": [
+        "settlement"
+      ],
+      "highlight_id": 5596535
+    }
+  ],
+  "categories": [
+    "canyon",
+    "challenging",
+    "climb",
+    "gorge",
+    "intermediate",
+    "mountain_pass",
+    "river",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.800000190734863,
+  "rating_count": 5,
+  "visitors": 197,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-04T13:31:36.076Z",
+  "changed_at": "2024-06-07T19:16:57.063Z",
+  "scraped_at": "2026-04-28T20:20:52.149724+00:00"
+}

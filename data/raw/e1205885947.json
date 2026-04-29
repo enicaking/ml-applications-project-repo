@@ -1,0 +1,97 @@
+{
+  "tour_id": "e1205885947",
+  "url": "https://www.komoot.com/smarttour/e1205885947",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1205885947/refugio-angel-orus-from-cascada-de-espigantosa-parque-natural-posets-maladeta",
+  "name": "Refugio Angel Orus from Cascada de Espigantosa — Parque Natural Posets-Maladeta",
+  "name_original": "Refugio Ángel Orús desde Cascada de Espigantosa — Parque Natural Posets-Maladeta",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6866.599648121468,
+  "duration_s": 12295,
+  "elevation_up_m": 458.35147021403213,
+  "elevation_down_m": 458.35147021403213,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.613912,
+  "start_lng": 0.47833,
+  "start_alt_m": 1541.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful and powerful waterfall that can be comfortably observed from the Pleta del Estalló, located at about 1,500 meters above sea level. This is also where the bus departing from Eriste arrives in the summer months. You can check the bus schedules at the tourist office or on the website of the town hall.",
+    "The Ángel Orús refuge is located at an altitude of 2,150 metres and is perfect for starting the climb to Posets Peak. \n\nIt has 96 places to stay overnight with bedding and blankets. The showers have hot water and it offers a meal service. It also has lockers, a multipurpose room and a bar-restaurant service."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.012980388,
+    "alpin": 0.9870196
+  },
+  "way_types": {
+    "way": 0.002645888,
+    "hiking_path": 0.0103345,
+    "mountain_hiking_path": 0.05676795,
+    "alpine_hiking_path": 0.93025166
+  },
+  "waypoints": [
+    {
+      "name": "Espigantosa Waterfall",
+      "lat": 42.61532,
+      "lng": 0.478269,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "natural_monument",
+        "family_friendly",
+        "intermediate"
+      ],
+      "highlight_id": 4105529
+    },
+    {
+      "name": "Ángel Orús Refuge",
+      "lat": 42.627123,
+      "lng": 0.457597,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "accomodation",
+        "pub",
+        "restaurant"
+      ],
+      "highlight_id": 877756
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "family_friendly",
+    "hut",
+    "intermediate",
+    "natural_monument",
+    "pub",
+    "restaurant",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 3,
+  "visitors": 172,
+  "author_name": "Eriste, Sahún y Eresué",
+  "author_id": "eristesahuneresue",
+  "created_at": "2023-07-10T09:12:09.824Z",
+  "changed_at": "2024-08-12T12:30:13.994Z",
+  "scraped_at": "2026-04-27T11:45:39.584732+00:00"
+}

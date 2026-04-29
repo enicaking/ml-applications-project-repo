@@ -1,0 +1,78 @@
+{
+  "tour_id": "e963744912",
+  "url": "https://www.komoot.com/smarttour/e963744912",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963744912/jusqu-au-sommet-d-okabe",
+  "name": "Jusqu'au sommet d'Okabé",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 26170.79327257974,
+  "duration_s": 12405,
+  "elevation_up_m": 1095.7972210419618,
+  "elevation_down_m": 1101.3388111523152,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.038396,
+  "start_lng": -1.026817,
+  "start_alt_m": 1331,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful view of the flat country as well as the Pic d'Orhy. Summit very flat and wide. Almost a small plateau. But in September 2016 it was covered all over with sheep droppings, so not really suitable for a bivouac, although otherwise nice."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#paved": 0.0017572299,
+    "unknown": 0.019886358,
+    "sm#alpin": 0.12670814,
+    "sm#nature": 0.14575353,
+    "sm#asphalt": 0.14988753,
+    "sm#unpaved": 0.5560072
+  },
+  "way_types": {
+    "minor_road": 0.021643586,
+    "street": 0.14988753,
+    "trail": 0.28514072,
+    "way": 0.54332817
+  },
+  "waypoints": [
+    {
+      "name": "Okabe summit",
+      "lat": 43.034801,
+      "lng": -1.106781,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1783345
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 4,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-27T07:37:05.009Z",
+  "changed_at": "2024-05-31T09:23:07.044Z",
+  "scraped_at": "2026-04-28T14:57:54.120032+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "tour_id": "e1221092676",
+  "url": "https://www.komoot.com/smarttour/e1221092676",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1221092676/ribera-de-gallego-y-cascada-oros-circular-desde-biescas",
+  "name": "Ribera de Gállego y Cascada Orós — circular desde Biescas",
+  "name_original": null,
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 13831.674495912366,
+  "duration_s": 6090,
+  "elevation_up_m": 316.0565994376137,
+  "elevation_down_m": 315.62861662252465,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.626538,
+  "start_lng": -0.321744,
+  "start_alt_m": 853.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Path that passes right next to the Río Sía before it joins the Río Gállego and that lets us see its waters in a beautiful setting!",
+    "Beautiful waterfall that is located at the foot of Orós Bajo and that the path that starts at the end of the village ends at the same waterfall again and again, which is worth going there!",
+    "Biescas is one of the largest and most important municipalities in the Pyrenees. It has 19 population centers —in addition to Biescas itself—, but at least seven of them are uninhabited. It is considered the gateway to the Tena Valley and, in fact, remains of an ancient Roman road that communicated with it are still preserved."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.027082166,
+    "paved": 0.032073807,
+    "unpaved": 0.17817597,
+    "nature": 0.21381803,
+    "asphalt": 0.25821674,
+    "gravel": 0.2906333
+  },
+  "way_types": {
+    "minor_road": 0.047105376,
+    "hiking_path": 0.27600533,
+    "way": 0.28029403,
+    "street": 0.39659527
+  },
+  "waypoints": [
+    {
+      "name": "Río Sía via the Ribera de Gállego Trail",
+      "lat": 42.608363,
+      "lng": -0.322915,
+      "type": "river",
+      "categories": [
+        "river",
+        "intermediate",
+        "forest",
+        "trail",
+        "family_friendly"
+      ],
+      "highlight_id": 5916347
+    },
+    {
+      "name": "Orós Waterfall",
+      "lat": 42.592215,
+      "lng": -0.30662,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5928144
+    },
+    {
+      "name": "Biescas",
+      "lat": 42.628735,
+      "lng": -0.32158,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 5754858
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 7,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-20T06:44:51.146Z",
+  "changed_at": "2024-07-26T13:19:35.679Z",
+  "scraped_at": "2026-04-27T15:13:14.478456+00:00"
+}

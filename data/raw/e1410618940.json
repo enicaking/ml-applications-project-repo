@@ -1,0 +1,113 @@
+{
+  "tour_id": "e1410618940",
+  "url": "https://www.komoot.com/smarttour/e1410618940",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1410618940/puerto-de-envalira-y-grau-roig-circular-desde-pas-de-la-casa",
+  "name": "Puerto de Envalira y Grau Roig — circular desde Pas de la Casa",
+  "name_original": null,
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21156.82886988239,
+  "duration_s": 6814,
+  "elevation_up_m": 683.0325846049318,
+  "elevation_down_m": 683.0998604124752,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.544444,
+  "start_lng": 1.733681,
+  "start_alt_m": 2092,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "From this track that leaves Grau Roig you can see good views of what would be the area that forms Pic dels Pessons with the valley at its feet and all of its lakes.",
+    "Port d'Envalira connects Andorra with France and Spain by road, located at 2409 meters above sea level, it is reached by the highest paved road in the Pyrenees and is passable throughout the year.",
+    "Before arriving at the port of Envalira, you can see good views of the mountains, both those on the Andorran side and those on the French side."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.025302915,
+    "sb#unpaved": 0.21555012,
+    "sb#asphalt": 0.7591469
+  },
+  "way_types": {
+    "minor_road": 0.01647028,
+    "street": 0.14980285,
+    "way": 0.21555012,
+    "primary": 0.24492761,
+    "cycleway": 0.37324914
+  },
+  "waypoints": [
+    {
+      "name": "Views of the Pessons Valley/Cirque",
+      "lat": 42.526429,
+      "lng": 1.697571,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "forest",
+        "summit",
+        "intermediate",
+        "lake"
+      ],
+      "highlight_id": 6360578
+    },
+    {
+      "name": "Port d'Envalira",
+      "lat": 42.540046,
+      "lng": 1.719959,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "intermediate",
+        "viewpoint",
+        "climb",
+        "mountain_pass"
+      ],
+      "highlight_id": 849136
+    },
+    {
+      "name": "View of the Pyrenees Mountains",
+      "lat": 42.539429,
+      "lng": 1.727843,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "summit",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 3999587
+    }
+  ],
+  "categories": [
+    "climb",
+    "cycle_way",
+    "forest",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 9,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-08T06:52:01.553Z",
+  "changed_at": "2024-08-13T15:25:01.765Z",
+  "scraped_at": "2026-04-29T00:31:44.658365+00:00"
+}

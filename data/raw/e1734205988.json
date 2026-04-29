@@ -1,0 +1,115 @@
+{
+  "tour_id": "e1734205988",
+  "url": "https://www.komoot.com/smarttour/e1734205988",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1734205988/els-empedrats-and-refuge-sant-jordi",
+  "name": "Els Empedrats and Refuge Sant Jordi",
+  "name_original": "Els Empedrats y refugio de Sant Jordi",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8572.8968644112,
+  "duration_s": 14796,
+  "elevation_up_m": 627.7877917223416,
+  "elevation_down_m": 627.7877917223414,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.268018,
+  "start_lng": 1.815143,
+  "start_alt_m": 918.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This incredible route takes you to discover one of Catalonia's most spectacular natural features: Els Empedrats. To get here, you follow the riverbed, which forms pools and waterfalls that you won't be able to stop photographing. Halfway through the journey, we recommend taking a short detour to see the beautiful Bullidor de la Llet waterfall. Once back on the main trail, the best part of Els Empedrats awaits you: the central section, where the high stone walls that surround you are breathtaking.\n\nThe route takes you to the beautiful Sant Jordi refuge. Want to recharge your batteries before returning to the starting point along the same path? Order one of their delicious burgers. It's best to book in advance, though.\n\nKeep in mind that you'll have to cross the river on occasion, so this route is not recommended in case of frost or if it has rained heavily and the river is carrying a lot of water. The starting point of the trail is the La Salle Nature Classroom. There is a parking lot where you can park your car.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The detour to Bullidor de la Llet is just after crossing the river over a beautiful stone bridge. It is well worth coming here.",
+    "Els Empedrats is a very pretty waterfall with a small pool of crystal clear water at its feet. It is easily accessible from a very well marked footpath, and is also on the famous Cavalls del Vent footpath.",
+    "The Sant Jordi refuge is one of the eight refuges on the Cavalls del Vent loop. It is located at an altitude of 1,560 meters and has a capacity of 44 people."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.011313478,
+    "gravel": 0.038847547,
+    "nature": 0.949839
+  },
+  "way_types": {
+    "hiking_path": 0.0075895595,
+    "way": 0.032408383,
+    "mountain_hiking_path": 0.96000206
+  },
+  "waypoints": [
+    {
+      "name": "Bullidor de la Llet Waterfall",
+      "lat": 42.276005,
+      "lng": 1.816738,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 1623556
+    },
+    {
+      "name": "Els Empedrats Waterfall and Gorge",
+      "lat": 42.276982,
+      "lng": 1.818499,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "trail",
+        "waterfall"
+      ],
+      "highlight_id": 3069375
+    },
+    {
+      "name": "Sant Jordi Refuge",
+      "lat": 42.294151,
+      "lng": 1.804955,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "pub",
+        "accomodation",
+        "restaurant"
+      ],
+      "highlight_id": 153049
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "forest",
+    "gorge",
+    "hut",
+    "intermediate",
+    "natural_monument",
+    "pub",
+    "restaurant",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 6,
+  "visitors": 109,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2024-07-30T12:52:18.959Z",
+  "changed_at": "2024-09-05T14:57:34.860Z",
+  "scraped_at": "2026-04-27T12:12:51.899811+00:00"
+}

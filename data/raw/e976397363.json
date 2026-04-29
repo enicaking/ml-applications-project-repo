@@ -1,0 +1,178 @@
+{
+  "tour_id": "e976397363",
+  "url": "https://www.komoot.com/smarttour/e976397363",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e976397363/castellar-de-n-hug-circular-gravel-in-the-cadi-moixero-natural-park",
+  "name": "Castellar de n'Hug - circular gravel in the Cadí-Moixeró Natural Park",
+  "name_original": "Castellar de n'Hug - circular gravel por el Parque Natural del Cadí-Moixeró",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 47063.962941269914,
+  "duration_s": 15459,
+  "elevation_up_m": 1359.3637004653674,
+  "elevation_down_m": 1360.948682291115,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.243287,
+  "start_lng": 1.973303,
+  "start_alt_m": 852.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 29.2-mile circular gravel touring cycling route in Cadí-Moixeró Natural Park offers challenging climbs and stunning mountain ",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This mostly paved road climb is thankfully not too severe in terms of gradient, zig-zagging its way up the southern side of Puig de Coma Ermada. It's well worth the effort, as you'll find some incredible gravel roads at the top!",
+    "Small hermitage perched on top of a rock. Very aesthetic. Beautiful",
+    "Worth detouring, nice plaza, church and castle",
+    "Small pass that separates two parallel valleys. Very aesthetic due to the color of the stones and their shapes"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of this gravel cycling route?",
+      "answer": "<p>This route is considered <strong>difficult</strong> for touring bicycles, demanding very good fitness levels. It features a significant elevation gain and varied terrain, including sections where you may need to push your bike due to the challenge.</p>"
+    },
+    {
+      "question": "What kind of terrain can I expect on the trail?",
+      "answer": "<p>The terrain is quite varied. You'll encounter a mix of asphalt (about 18.6 km), unpaved sections (around 15.6 km), compacted gravel (about 3.31 km), and some paved sections (2.78 km). There are also short singletrack segments (2.54 km) and cycleways (260 m).</p>"
+    },
+    {
+      "question": "Where can I park when cycling this route?",
+      "answer": "<p>Castellar de n'Hug is a common starting point for routes in the area. You can typically find parking within or near the village. As it's a popular destination, especially during peak seasons, arriving early is advisable to secure a spot.</p>"
+    },
+    {
+      "question": "Do I need a permit to cycle in the Cadí-Moixeró Natural Park?",
+      "answer": "<p>Generally, no specific permit is required for cycling on established routes within the Cadí-Moixeró Natural Park. However, always respect park regulations, stay on marked trails, and be mindful of protected areas.</p>"
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "<p>The Cadí-Moixeró Natural Park is a high-mountain area. The best time to cycle this route is typically from late spring through early autumn (May to October) when the weather is more stable and snow has melted from higher elevations. Always check the local weather forecast before you go, as conditions can change rapidly in the mountains.</p>"
+    },
+    {
+      "question": "Is the trail suitable for beginners or families?",
+      "answer": "<p>Given its <strong>difficult</strong> rating, significant elevation gain, and varied terrain that includes challenging gravel and singletrack sections, this route is not recommended for beginners or families with young children. It requires very good fitness and experience with gravel cycling.</p>"
+    },
+    {
+      "question": "Are dogs allowed on the trail?",
+      "answer": "<p>While dogs are generally allowed in the Cadí-Moixeró Natural Park, they must be kept on a leash at all times to protect wildlife and ensure the safety of other users. Be prepared to carry out any waste.</p>"
+    },
+    {
+      "question": "What natural features and viewpoints can I expect to see?",
+      "answer": "<p>The route offers stunning panoramic views of the Cadí-Moixeró Natural Park, characterized by impressive mountainous barriers, deep valleys, and extensive forests. You'll experience diverse alpine landscapes and potentially see highlights like <a href=\"https://www.komoot.com/highlight/5459012\" target=\"_blank\" rel=\"noopener\">Collado Roig</a>. The picturesque village of <a href=\"https://www.komoot.com/highlight/6315063\" target=\"_blank\" rel=\"noopener\">Castellar de n'Hug</a> itself is a notable feature, known for being the source of the Llobregat River.</p>"
+    },
+    {
+      "question": "Are there any points of interest along the route?",
+      "answer": "<p>Yes, the route passes by several interesting spots. You'll experience the scenic <a href=\"https://www.komoot.com/highlight/1860767\" target=\"_blank\" rel=\"noopener\">Carretera de Montgrony</a>, the historic <a href=\"https://www.komoot.com/highlight/3539856\" target=\"_blank\" rel=\"noopener\">Sant Joan de Cornudell Hermitage</a>, and the charming village of <a href=\"https://www.komoot.com/highlight/6315063\" target=\"_blank\" rel=\"noopener\">Castellar de n'Hug</a>. The <a href=\"https://www.komoot.com/highlight/5459012\" target=\"_blank\" rel=\"noopener\">Collado Roig</a> also offers beautiful views.</p>"
+    },
+    {
+      "question": "Does this route intersect with other trails?",
+      "answer": "<p>Yes, this route shares sections with several other official trails. You'll find yourself on parts of El Camí IT1TR4 El Camí Capçaler: de Salzes a Balaguer, Camí Ramader de Marina, Etapa 25, Camí del Llobregat, and Etapa 26, among others.</p>"
+    },
+    {
+      "question": "Are there places to eat or get supplies near the trail?",
+      "answer": "<p>The village of <a href=\"https://www.komoot.com/highlight/6315063\" target=\"_blank\" rel=\"noopener\">Castellar de n'Hug</a>, a key point on this route, offers amenities such as cafes, restaurants, and possibly small shops where you can refuel or get basic supplies before or after your ride.</p>"
+    }
+  ],
+  "surfaces": {
+    "sb#cobbles": 0.0008856072,
+    "unknown": 0.00092580006,
+    "sb#paved": 0.16822603,
+    "sb#unpaved": 0.34834418,
+    "sb#asphalt": 0.48161837
+  },
+  "way_types": {
+    "service": 0.00092580006,
+    "minor_road": 0.011171156,
+    "trail": 0.018685801,
+    "way": 0.40819603,
+    "street": 0.5610212
+  },
+  "waypoints": [
+    {
+      "name": "Carretera de Montgrony",
+      "lat": 42.265521,
+      "lng": 2.075415,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 1860767
+    },
+    {
+      "name": "Sant Joan de Cornudell Hermitage",
+      "lat": 42.281443,
+      "lng": 2.03804,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3539856
+    },
+    {
+      "name": "Castellar de n'Hug",
+      "lat": 42.282157,
+      "lng": 2.01667,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "historical_site",
+        "castle"
+      ],
+      "highlight_id": 6315063
+    },
+    {
+      "name": "Collado Roig",
+      "lat": 42.277289,
+      "lng": 1.94796,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "intermediate",
+        "trail",
+        "viewpoint",
+        "summit",
+        "mountain_pass"
+      ],
+      "highlight_id": 5459012
+    }
+  ],
+  "categories": [
+    "castle",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-10T17:57:25.979Z",
+  "changed_at": "2026-02-26T19:00:08.016Z",
+  "scraped_at": "2026-04-29T00:26:06.272191+00:00"
+}

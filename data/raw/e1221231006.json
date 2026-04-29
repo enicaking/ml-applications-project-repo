@@ -1,0 +1,158 @@
+{
+  "tour_id": "e1221231006",
+  "url": "https://www.komoot.com/smarttour/e1221231006",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1221231006/santa-elena-accessible-trail",
+  "name": "Santa Elena Accessible Trail",
+  "name_original": "Fuente y Ermita de Santa Elena — circular",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 3654.1106486379226,
+  "duration_s": 1635,
+  "elevation_up_m": 117.9657403463242,
+  "elevation_down_m": 117.63859011406373,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.660206,
+  "start_lng": -0.323499,
+  "start_alt_m": 968.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog the Santa Elena Accessible Trail, a moderate 2.3-mile route with 387 feet of gain, offering historical sites in Aragon, Spain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "I wouldn't have expected it here.\n\nIn addition to the Santa Elena dolmen, there are several testimonies of this type, e.g. in Guarrinza, on the ascent to Puerto del Palo, Canal Roya and Puerto de Escalé.\n\nhttps://es.wikipedia.org/wiki/Dólmenes_de_Santa_Elena_(Biescas)",
+    "The construction of Fort Santa Elena began in the reign of Felipe II (1527-1598) as part of the fortification of the border with France. It was partially destroyed during the War of Independence (1807 - 1814) and rebuilt between 1884 and 1889. In 1905 it was rebuilt again and has been used for civilian purposes since 1926.\n\nIn 2004 the Ministry of Defense sold the facility to a private investor.\n\nhttps://es.wikipedia.org/wiki/Fuerte_de_Santa_Elena",
+    "Legend has it that Saint Helena took refuge in the cave from which the fountain flows and was protected by a spider's web until the danger that awaited her passed. When he came out of the cave, the spring gushed out and for this reason the hermitage was built in his honor in this place."
+  ],
+  "faqs": [
+    {
+      "question": "Where is this Santa Elena Accessible Trail located?",
+      "answer": "This specific Santa Elena Accessible Trail is located in the Spanish Pyrenees, near Biescas, and is distinct from trails found in Costa Rica or Big Bend National Park. It's known for its accessible paths and historical sites in the region."
+    },
+    {
+      "question": "Is this trail suitable for beginner joggers?",
+      "answer": "Yes, with a 'moderate' difficulty grade and a relatively short distance of approximately 3.65 km, this trail is suitable for beginner joggers. The accessible nature of the path makes it a good option for those starting out."
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "The trail is designed to be accessible, suggesting well-maintained paths. While specific surface details aren't provided, accessible trails often feature compacted earth, gravel, or paved sections. Expect some elevation changes, as the route includes about 118 meters of ascent."
+    },
+    {
+      "question": "What historical sites and landmarks can I see along the way?",
+      "answer": "The route features several notable historical and religious sites. You can visit the <a href=\"https://www.komoot.com/highlight/4761604\" target=\"_blank\" rel=\"noopener\">Dolmen of Santa Elena</a>, the <a href=\"https://www.komoot.com/highlight/5069757\" target=\"_blank\" rel=\"noopener\">Fort of Santa Elena</a>, and the <a href=\"https://www.komoot.com/highlight/4326488\" target=\"_blank\" rel=\"noopener\">Santa Elena Hermitage and Fountain</a>."
+    },
+    {
+      "question": "Does this trail connect with other paths?",
+      "answer": "Yes, the route intersects with and utilizes sections of several other official trails. Notably, it covers 83% of the 'Sendero adaptado Santa Elena' and 71% of the 'Ermita de Santa Elena' trail. It also overlaps with parts of 'Biescas - Hoz de Jaca' and 'R9 - Santa Elena'."
+    },
+    {
+      "question": "Is the Santa Elena Accessible Trail dog-friendly?",
+      "answer": "Information regarding dog policies for this specific trail is not available. It's always best to check local regulations or signage at the trailhead regarding pets before you go."
+    },
+    {
+      "question": "What is the best time of year to visit for jogging?",
+      "answer": "Given its location in the Pyrenees, spring, summer, and early autumn are generally the best times for jogging. These seasons offer more favorable weather conditions, avoiding potential snow or ice that could affect accessibility and enjoyment during winter months."
+    },
+    {
+      "question": "Are there any permits or entrance fees required to access the trail?",
+      "answer": "There is no information indicating that permits or entrance fees are required for this trail. Typically, accessible trails in natural areas are free to use, but it's always good practice to look for local signage upon arrival."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "Specific parking details are not provided, but for trails like this, parking is usually available near the main access point or a nearby village. Look for designated parking areas close to the start of the 'Sendero adaptado Santa Elena' or the 'Ermita de Santa Elena' sections."
+    },
+    {
+      "question": "Are there restrooms available along the route?",
+      "answer": "Information about restrooms directly on the trail is not available. It's advisable to use facilities in nearby towns or at the trailhead before starting your jog."
+    },
+    {
+      "question": "Can I jog this trail with a stroller?",
+      "answer": "While the trail is designated as 'accessible,' the term can vary in meaning. With 118 meters of elevation gain and a 'moderate' difficulty, some sections might be challenging for all types of strollers. It's best suited for sturdy, all-terrain strollers if you plan to bring one."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.056316506,
+    "paved": 0.095762074,
+    "unknown": 0.120323814,
+    "nature": 0.16337328,
+    "unpaved": 0.16742097,
+    "gravel": 0.39680335
+  },
+  "way_types": {
+    "minor_road": 0.014026607,
+    "street": 0.10393122,
+    "hiking_path": 0.25013363,
+    "way": 0.63190854
+  },
+  "waypoints": [
+    {
+      "name": "Dolmen of Santa Elena",
+      "lat": 42.65963,
+      "lng": -0.31854,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "natural_monument",
+        "man_made_monument"
+      ],
+      "highlight_id": 4761604
+    },
+    {
+      "name": "Fort of Santa Elena",
+      "lat": 42.66156,
+      "lng": -0.32093,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "man_made_monument"
+      ],
+      "highlight_id": 5069757
+    },
+    {
+      "name": "Santa Elena Hermitage and Fountain",
+      "lat": 42.66284,
+      "lng": -0.32092,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "other_man_made",
+        "family_friendly",
+        "intermediate",
+        "natural_monument",
+        "cave"
+      ],
+      "highlight_id": 4326488
+    }
+  ],
+  "categories": [
+    "cave",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "religious_building"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 7,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-20T08:25:11.908Z",
+  "changed_at": "2026-02-26T19:48:19.202Z",
+  "scraped_at": "2026-04-27T15:13:18.079698+00:00"
+}

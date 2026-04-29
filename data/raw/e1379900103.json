@@ -1,0 +1,125 @@
+{
+  "tour_id": "e1379900103",
+  "url": "https://www.komoot.com/smarttour/e1379900103",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1379900103/ascent-to-cortals-d-encamp-from-encamp",
+  "name": "Ascent to Cortals d'Encamp from Encamp",
+  "name_original": "Subida a Cortals d'Encamp desde Encamp",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 20318.374630113594,
+  "duration_s": 5581,
+  "elevation_up_m": 828.0372249567713,
+  "elevation_down_m": 828.0372249567715,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.534627,
+  "start_lng": 1.580823,
+  "start_alt_m": 1260.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Ascend to Cortals d'Encamp from Encamp on this 12.6-mile (20.3 km) road cycling route with 2717 feet (828 metres) of elevation gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The route has an incline of 10.2%, which then smooths out to 5.4%, coinciding with the Bordas de Rígoder area. The average slope of the ascent is 8.5% with a difference of 754 meters and 8.9 kilometers of distance."
+  ],
+  "faqs": [
+    {
+      "question": "How challenging is the Ascent to Cortals d'Encamp by road bike?",
+      "answer": "This climb is considered challenging to difficult for road cycling, requiring very good fitness levels. It features an average gradient of 8.5% over approximately 8.9 km. The initial kilometers are particularly steep, with sections reaching 10-20%."
+    },
+    {
+      "question": "Is this climb suitable for beginner cyclists?",
+      "answer": "Due to its significant steepness, especially in the first few kilometers, this climb is generally not recommended for beginner cyclists. It requires a very good fitness level and experience with sustained steep gradients."
+    },
+    {
+      "question": "What kind of views can I expect along the route?",
+      "answer": "The route offers beautiful views throughout, especially as you gain elevation. You'll traverse open mountain scenery and can even catch glimpses of gondolas. At the summit, near the Grandvalira ski domain, the panorama is considered stunning."
+    },
+    {
+      "question": "What is the best time of year to cycle to Cortals d'Encamp?",
+      "answer": "While the road is kept open year-round for ski resort access, the most pleasant experience for cycling is typically between <strong>June and October</strong>. During these months, you'll find more favorable weather conditions."
+    },
+    {
+      "question": "Where can I park to start the Ascent to Cortals d'Encamp?",
+      "answer": "You can typically find parking in Encamp to begin the ascent. Specific parking areas are available within the town, though it's advisable to check local signage for the most convenient spots."
+    },
+    {
+      "question": "Are there any specific landmarks or points of interest on the climb?",
+      "answer": "Yes, the climb gained significant recognition as a stage finish in the 2015 and 2019 Vuelta a España. The destination itself, <a href=\"https://www.komoot.com/highlight/759404\" target=\"_blank\" rel=\"noopener\">Els Cortals d'Encamp</a>, is a notable mountain pass and part of the Grandvalira ski domain."
+    },
+    {
+      "question": "Are dogs allowed on the route?",
+      "answer": "As this is primarily a road cycling route, dogs are generally permitted if they are secured and do not interfere with traffic. However, always ensure your pet is safe and adheres to local regulations, especially if you plan to stop at any facilities."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to cycle this route?",
+      "answer": "No, there are no specific permits or entrance fees required to cycle the road to Cortals d'Encamp. It is a public road accessible to cyclists."
+    },
+    {
+      "question": "Are there kilometer markers on the climb?",
+      "answer": "Yes, like many climbs in Andorra, you will find kilometer markers along the route. These markers typically indicate the remaining distance to the top and the gradient for each kilometer, helping you track your progress."
+    },
+    {
+      "question": "What are the road conditions like?",
+      "answer": "The road surface is generally in excellent condition. While the first 3 km on the main road might have more traffic, it significantly lessens after turning off into Encamp itself, providing a more serene cycling experience further up."
+    },
+    {
+      "question": "Is there only one way to climb to Els Cortals d'Encamp?",
+      "answer": "Yes, there is only one main road that leads up to <a href=\"https://www.komoot.com/highlight/759404\" target=\"_blank\" rel=\"noopener\">Els Cortals d'Encamp</a> from Encamp, making the ascent straightforward in terms of navigation."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.005394547,
+    "sb#asphalt": 0.9946055
+  },
+  "way_types": {
+    "service": 0.005394547,
+    "minor_road": 0.0076576318,
+    "primary": 0.035087552,
+    "street": 0.95186025
+  },
+  "waypoints": [
+    {
+      "name": "Els Cortals d'Encamp",
+      "lat": 42.539452,
+      "lng": 1.632291,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "climb",
+        "viewpoint",
+        "trail",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 759404
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "intermediate",
+    "mountain_pass",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 85,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-11-22T14:37:49.306Z",
+  "changed_at": "2026-02-26T20:11:08.188Z",
+  "scraped_at": "2026-04-28T20:16:51.536147+00:00"
+}

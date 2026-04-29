@@ -1,0 +1,187 @@
+{
+  "tour_id": "e951922760",
+  "url": "https://www.komoot.com/smarttour/e951922760",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e951922760/salardu-vielha-salto-del-pish-varrados-bagergue-ruta-circular-por-el-valle-de-aran",
+  "name": "Salardú - Vielha - Salto del Pish - Varradós - Bagergue — Ruta circular por el Valle de Arán",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 45690.567199740115,
+  "duration_s": 16143,
+  "elevation_up_m": 1396.7947380674225,
+  "elevation_down_m": 1389.659048781559,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.707782,
+  "start_lng": 0.903494,
+  "start_alt_m": 1265.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Romanesque church of Sant Andreu de Salardú, located in the upper part of the municipality of Alto Arán and dating from the 12th century.\r\nWe should not miss the interior of the church where we will notice the Christ and the frescoes on the cross and the ceiling.",
+    "Romanesque style church, it was built between the 12th and 13th centuries. There are also remains of the castle of Entresanaigües, documented from the 13th century and which experienced several battles. Those of the War of the Reapers, almost completely destroyed the castle.",
+    "Located in the small town of the Arán Valley, this church from the 13th century and renovated in the 15th century, is Romanesque in style and when renovated it obtained touches of Gothic style.",
+    "This bridge crosses the Garonne River as it passes through Escunhau. The Garonne is the only river that originates in the Pyrenees and flows into the Atlantic. The Nere River joins in Vielha. When it reaches Toulouse, the Garonne becomes a larger river.",
+    "This Romanesque-style building —in Aranès, Mare de Diu deth Rosèr d'Aubèrt— is located in the municipality of Aubert, in Vielha. Although it was built around the 12th century, it has undergone several renovations over the years. The most representative is the octagonal bell tower.",
+    "From Vielha, take the N-230 road towards Les and Francia. At approximately five kilometers and at the height of the village of Pont d'Arros, we will turn right to follow a paved forest track for twelve kilometers. The road is in perfect condition but it has significant percentages of unevenness and in some sections it is very narrow and it is advisable to be careful. Every kilometer a sign informs us of the percentage of slope of that section and the height gained.",
+    "The views are spectacular from the highest point of the Varradós track next to the lake of the same name.",
+    "Bagergue is considered one of the most beautiful villages in Spain. At 1,419 meters above sea level, it is the municipality located at the highest altitude in the Arán Valley. It belongs to the province of Lleida and has about 100 inhabitants."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#paved": 0.18984938,
+    "sm#unpaved": 0.23301512,
+    "sm#nature": 0.27626523,
+    "sm#asphalt": 0.30087027
+  },
+  "way_types": {
+    "service": 0.00083440886,
+    "primary": 0.021590695,
+    "minor_road": 0.14172228,
+    "trail": 0.17960735,
+    "street": 0.26006854,
+    "way": 0.39617673
+  },
+  "waypoints": [
+    {
+      "name": "Church of Sant Andreu de Salardú",
+      "lat": 42.707318,
+      "lng": 0.901549,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 5182679
+    },
+    {
+      "name": "Church of Santa Maria de Arties",
+      "lat": 42.698042,
+      "lng": 0.871047,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 5131117
+    },
+    {
+      "name": "Sant Julià de Garòs Church",
+      "lat": 42.700403,
+      "lng": 0.843592,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "unknown",
+        "intermediate"
+      ],
+      "highlight_id": 5131142
+    },
+    {
+      "name": "Bridge Over the Garona River in Escunhau",
+      "lat": 42.699193,
+      "lng": 0.824811,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "river",
+        "family_friendly"
+      ],
+      "highlight_id": 3103709
+    },
+    {
+      "name": "Church of the Rosary (Iglesia del Rosario), Aubert",
+      "lat": 42.73089,
+      "lng": 0.777712,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 3005208
+    },
+    {
+      "name": "Salto del Pish Waterfall",
+      "lat": 42.777672,
+      "lng": 0.83507,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "forest",
+        "river"
+      ],
+      "highlight_id": 3416675
+    },
+    {
+      "name": "Còth de Varradòs",
+      "lat": 42.758904,
+      "lng": 0.885456,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "lake",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5131187
+    },
+    {
+      "name": "Bagergue Village",
+      "lat": 42.718587,
+      "lng": 0.915561,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 2671169
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "river",
+    "settlement",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.785714149475098,
+  "rating_count": 14,
+  "visitors": 243,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-13T10:59:04.185Z",
+  "changed_at": "2024-05-31T09:21:38.539Z",
+  "scraped_at": "2026-04-28T15:36:45.637320+00:00"
+}

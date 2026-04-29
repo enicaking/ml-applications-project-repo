@@ -1,0 +1,156 @@
+{
+  "tour_id": "e931067583",
+  "url": "https://www.komoot.com/smarttour/e931067583",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e931067583/besiberri-lake-trail",
+  "name": "Besiberri Lake Trail",
+  "name_original": "Running - Lago de Besiberri por el Valle de Arán",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 6501.153510710977,
+  "duration_s": 4786,
+  "elevation_up_m": 451.3012710827136,
+  "elevation_down_m": 451.30127108271336,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.614357,
+  "start_lng": 0.767825,
+  "start_alt_m": 1556.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 4.0-mile (6.5 km) trail running route to Lake Besiberri in the Aran Valley offers challenging terrain and alpine views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beech forest that will accompany us during a good part of the route that passes through this area near the Conangles refuge.",
+    "Waterfall that we find next to the path that runs through the ravine of Besiberri",
+    "Wonderful lake with views of the 3000m peaks of Besiberri"
+  ],
+  "faqs": [
+    {
+      "question": "Where does the trail start and is there parking available?",
+      "answer": "The trail for 'Running - Lake of Besiberri through the Aran Valley' typically starts in the lower parts of the valley. While specific parking details aren't provided, access points to trails leading to Besiberri often have limited parking. It's advisable to research local parking options or potential shuttle services in the Aran Valley area before your visit, especially during peak season."
+    },
+    {
+      "question": "What is the terrain like on this running route?",
+      "answer": "This route features a varied and often difficult terrain. You'll start on wider dirt and pebble tracks, transitioning to narrower, gravelled paths alongside torrents. As you ascend, the path becomes steeper, with sections of uneven rock that can incline over 45 degrees. Sure-footedness and sturdy footwear are essential for these demanding conditions."
+    },
+    {
+      "question": "What natural features and highlights will I see along the way?",
+      "answer": "The route offers breathtaking natural beauty. You'll pass through the <a href=\"https://www.komoot.com/highlight/3245549\" target=\"_blank\" rel=\"noopener\">Besiberri Beech Forest</a>, encounter the impressive <a href=\"https://www.komoot.com/highlight/5034205\" target=\"_blank\" rel=\"noopener\">Besiberri Gorge Waterfall</a>, and ultimately reach the pristine <a href=\"https://www.komoot.com/highlight/5034193\" target=\"_blank\" rel=\"noopener\">Lago de Besiberri</a>. The journey is also characterized by majestic high mountain peaks, roaring rivers, and ancient trees, with panoramic views of the surrounding alpine landscape."
+    },
+    {
+      "question": "How challenging is this running route?",
+      "answer": "This trail is classified as a 'difficult' run, requiring very good fitness and alpine experience. It involves a significant elevation gain of over 450 meters over 6.5 kilometers, with steep, rocky sections. Runners should be sure-footed and wear sturdy trail running shoes suitable for rugged mountain terrain."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The best time to run this trail is typically from late spring to early autumn. During these seasons, the weather is generally more favorable for high-altitude running. Spring and autumn offer an explosion of colors in the landscape, while summer provides access to the higher alpine sections. Always check local weather conditions before heading out."
+    },
+    {
+      "question": "Is this running route dog-friendly?",
+      "answer": "This trail is located within the Parc Nacional d'Aigüestortes i Estany de Sant Maurici. National parks often have specific regulations regarding dogs, such as requiring them to be on a leash or restricting access in certain areas to protect wildlife. It's crucial to check the official park regulations before bringing your dog."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this trail?",
+      "answer": "As this trail is situated within the Parc Nacional d'Aigüestortes i Estany de Sant Maurici, there are typically no entrance fees for general access. However, certain activities or access to specific areas within the park might require permits or have restrictions. It's always best to consult the official park website for the most current regulations before your visit."
+    },
+    {
+      "question": "Does this trail intersect with other well-known paths?",
+      "answer": "Yes, this route shares sections with several other official trails. You will find parts of the Tour de l'Aneto, Aran Pirineos. Camino de Santiago, Encantats, Ramat de Camins. Etapa 14 : Refugi de Conangles => Barruera, Senda Pirenaica - E20, Variante 21.2, Via Aran - Pirineus, el Gran Bucle, Pedals de Foc, Ramat de Camins. Etapa 13 : Vielha => Refugi de Conangles, Setau Sagèth, Camí de Besiberri, Pista de Besiberri, and the GR 11 along the way."
+    },
+    {
+      "question": "What should I bring for a run on this trail?",
+      "answer": "Given the trail's difficulty and alpine environment, you should bring sturdy trail running shoes with good grip, appropriate layers of clothing for changing mountain weather, sufficient water and snacks, a map or GPS device, and a first-aid kit. Trekking poles can also be beneficial for the steep and uneven sections."
+    },
+    {
+      "question": "Are there any facilities like cafes or accommodation near the trailhead?",
+      "answer": "The Aran Valley region, being a popular tourist destination, offers various facilities. While there might not be cafes directly at the trailhead, you can find cafes, pubs, and accommodation options in the nearby villages and towns within the Aran Valley. It's recommended to plan your refreshments and lodging in advance."
+    },
+    {
+      "question": "Is there any specific strategy for tackling the steep sections?",
+      "answer": "The trail includes sections with inclinations over 45 degrees, particularly as you approach the lake. For these very steep and rocky parts, it's often more efficient and safer to power hike rather than attempt to run. Focus on short, strong steps, use your arms for balance, and utilize trekking poles if you have them. Conserve energy on the flatter sections for these challenging ascents."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.00013147981,
+    "paved": 0.0022888943,
+    "unpaved": 0.0057238243,
+    "gravel": 0.006342868,
+    "asphalt": 0.033277087,
+    "nature": 0.9522358
+  },
+  "way_types": {
+    "footway": 0.0022888943,
+    "minor_road": 0.0056384536,
+    "way": 0.2866773,
+    "track": 0.70539534
+  },
+  "waypoints": [
+    {
+      "name": "Besiberri Beech Forest",
+      "lat": 42.613362,
+      "lng": 0.768399,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "family_friendly"
+      ],
+      "highlight_id": 3245549
+    },
+    {
+      "name": "Besiberri Gorge Waterfall",
+      "lat": 42.605679,
+      "lng": 0.773495,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "gorge"
+      ],
+      "highlight_id": 5034205
+    },
+    {
+      "name": "Lago de Besiberri",
+      "lat": 42.603973,
+      "lng": 0.789546,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5034193
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 29,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-20T07:06:51.407Z",
+  "changed_at": "2026-02-26T18:53:24.504Z",
+  "scraped_at": "2026-04-27T15:47:43.842565+00:00"
+}

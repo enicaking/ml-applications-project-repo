@@ -1,0 +1,121 @@
+{
+  "tour_id": "e1151977068",
+  "url": "https://www.komoot.com/smarttour/e1151977068",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1151977068/loop-2-passes-around-ascain-basque-country-passes",
+  "name": "Loop 2: Passes around Ascain – Basque Country passes",
+  "name_original": "Circuit 2 : Les cols autour d'Ascain — Cols du pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 33030.01897048631,
+  "duration_s": 6364,
+  "elevation_up_m": 661.2754326571905,
+  "elevation_down_m": 659.6069566648944,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.34469,
+  "start_lng": -1.620859,
+  "start_alt_m": 23.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This pretty loop of about thirty kilometers offers a route that takes accessible passes in the surroundings of Ascain. This route criss-crosses the valleys between France and Spain, completely skirting the Rhune, the emblematic peak of the region.\n\nThe start is in the authentic little village of Ascain. Its architecture and atmosphere are ideal for starting and ending a great outing in the Basque Country. The first kilometers are on hilly terrain which then leads to the ascent to the Col d'Ibardin.\n\nThe climb, relatively regular, includes short passages above 10%. Arrived at the pass, you switch to Spain, which explains the presence of many shops called ventas. Take the opportunity to take a break to refuel while enjoying the beautiful view of the bay of Saint-Jean-de-Luz. Then comes the beautiful descent punctuated by beautiful turns which leads to the village of Bera. From there you continue on a new climb to the Col de Lizuniaga.\n\nShorter than the previous one, it announces an imminent return to France. Shortly after the flip, you're there. A pleasant descent leads to the picturesque village of Sare, nestled at the foot of the Rhune. The small pass of Saint-Ignace separates you from your return to Ascain. Simple formality after the two previous ones, it remains very significant. At the top, an inn allows you to enjoy a last break before completing this outing. If your schedule allows it, you can also take the little train there to discover the summit of La Rhune.\n\nThe last downhill portion begins in the forest before you find the first houses in the village of Ascain.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Ascain is an authentic village in the Basque Country. Populated by its typical houses, it sits in a unique atmosphere at the foot of the first peaks of the Pyrenees.",
+    "Located on the Franco-Spanish border, the Col d'Ibardin separates the Pyrénées-Atlantiques in France from the foral community of Navarre in Spain. In addition to its many ventas, the pass offers a breathtaking view of Saint-Jean-de-Luz and its bay.",
+    "Located in Spain, a few steps from the border with France, the Col de Lizuniaga is 250 meters above sea level. From the village of Bera, the climb is 4.2 kilometers long with an average of 4.3% including a passage of 8.7% at most. At the foot of the Rhune, it offers a beautiful view of this emblematic summit of the Basque Country.",
+    "The Col de Saint-Ignace is at an altitude of 169 meters. It is the starting point for many trails which lead to La Rhune and its surroundings. There is a car park but also a restaurant as well as the little train which leads to the summit of La Rhune."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.0025771742,
+    "sb#asphalt": 0.9974228
+  },
+  "way_types": {
+    "street": 1.0
+  },
+  "waypoints": [
+    {
+      "name": "Ascain",
+      "lat": 43.3447,
+      "lng": -1.62089,
+      "type": "settlement",
+      "categories": [
+        "family_friendly",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 3411050
+    },
+    {
+      "name": "Col d'Ibardin",
+      "lat": 43.30969,
+      "lng": -1.68429,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "settlement",
+        "mountain_pass"
+      ],
+      "highlight_id": 883677
+    },
+    {
+      "name": "Col Lizuniaga",
+      "lat": 43.282354,
+      "lng": -1.632201,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 5456397
+    },
+    {
+      "name": "Saint-Ignace Pass",
+      "lat": 43.324714,
+      "lng": -1.600707,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "restaurant",
+        "family_friendly",
+        "viewpoint",
+        "facilities"
+      ],
+      "highlight_id": 852512
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "restaurant",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.464285850524902,
+  "rating_count": 28,
+  "visitors": 606,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-04T13:27:20.309Z",
+  "changed_at": "2024-06-08T05:51:53.014Z",
+  "scraped_at": "2026-04-28T19:17:19.186348+00:00"
+}

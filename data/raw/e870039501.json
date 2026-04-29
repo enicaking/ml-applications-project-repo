@@ -1,0 +1,116 @@
+{
+  "tour_id": "e870039501",
+  "url": "https://www.komoot.com/smarttour/e870039501",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e870039501/along-the-coast-north-of-saint-jean-de-luz",
+  "name": "Along the coast, north of Saint-Jean de Luz",
+  "name_original": "Le long de la côte, au nord de Saint-Jean de Luz",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 5894.99325996462,
+  "duration_s": 5580,
+  "elevation_up_m": 49.290095039047735,
+  "elevation_down_m": 50.13572817255895,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.403923,
+  "start_lng": -1.649805,
+  "start_alt_m": 44.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A nice picnic area",
+    "Superb view, you can see the road to the corniche on the other side!",
+    "The church is from the 17th century."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.0023881698,
+    "unknown": 0.052594386,
+    "unpaved": 0.22000922,
+    "paved": 0.30264166,
+    "asphalt": 0.42236656
+  },
+  "way_types": {
+    "street": 0.001580832,
+    "hiking_path": 0.10503663,
+    "minor_road": 0.18818344,
+    "way": 0.29550484,
+    "footway": 0.40969425
+  },
+  "waypoints": [
+    {
+      "name": "Superb views of the ocean and Saint-Jean-de-Luz",
+      "lat": 43.401334,
+      "lng": -1.661789,
+      "type": "settlement",
+      "categories": [
+        "coast",
+        "settlement"
+      ],
+      "highlight_id": 457472
+    },
+    {
+      "name": "Pointe de la Sainte-Barbe viewpoint",
+      "lat": 43.399991,
+      "lng": -1.664093,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "coast",
+        "other_natural",
+        "beach",
+        "family_friendly"
+      ],
+      "highlight_id": 461689
+    },
+    {
+      "name": "Saint-Jean-Baptiste Church of Saint-Jean-de-Luz",
+      "lat": 43.388328,
+      "lng": -1.662903,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "man_made_monument",
+        "historical_site",
+        "religious",
+        "unknown"
+      ],
+      "highlight_id": 3494915
+    }
+  ],
+  "categories": [
+    "beach",
+    "coast",
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "other_natural",
+    "religious",
+    "religious_building",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.714285850524902,
+  "rating_count": 28,
+  "visitors": 323,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-03T09:13:16.653Z",
+  "changed_at": "2024-06-04T23:26:59.544Z",
+  "scraped_at": "2026-04-27T11:17:59.572360+00:00"
+}

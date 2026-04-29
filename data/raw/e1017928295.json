@@ -1,0 +1,152 @@
+{
+  "tour_id": "e1017928295",
+  "url": "https://www.komoot.com/smarttour/e1017928295",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1017928295/transnevada-route-i-nigueelas-la-rinconada-loop",
+  "name": "Transnevada Route I: Nigüelas - La Rinconada Loop",
+  "name_original": "La Rinconada de Nigüelas — circular por el Monumento Natural Falla de Nigüelas",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 29631.581595270538,
+  "duration_s": 13615,
+  "elevation_up_m": 1295.4572446098298,
+  "elevation_down_m": 1295.4572446098296,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 36.977515,
+  "start_lng": -3.538644,
+  "start_alt_m": 915.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Transnevada Route I: Nigüelas - La Rinconada Loop is a difficult 18.4-mile mountain bike trail in Sierra Nevada National Park with signi",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Rinconada de Nigüelas path offers privileged views of the Loma de las Tres Encinas mountain.",
+    "Good physical condition is required, but it's worth the climb to enjoy the views.",
+    "From the vantage point it's 14 km down....great for Mtb, even 2 steep curves on the way...many hairpin bends....ideal for a sporty descent until the brake discs glow..."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the Transnevada Route I: Nigüelas - La Rinconada Loop?",
+      "answer": "This challenging mountain bike route typically takes around <em>3 hours and 47 minutes</em> to complete. However, your actual time may vary depending on your fitness level, riding speed, and how often you stop to enjoy the views."
+    },
+    {
+      "question": "Is the Transnevada Route I: Nigüelas - La Rinconada Loop suitable for beginners?",
+      "answer": "No, this route is considered a 'difficult' mountain bike ride, requiring <strong>very good fitness</strong> and advanced riding skills. It involves significant elevation changes, including a strenuous ascent and a continuous descent, with narrow and winding terrain that can be technical in places."
+    },
+    {
+      "question": "What kind of terrain can I expect on this mountain bike route?",
+      "answer": "The terrain is varied, starting from Nigüelas with sections of concrete before transitioning to worn and dusty dirt tracks. You'll ascend through impressive landscapes of cliffs and steep slopes, following both sides of the River Torrente. At higher altitudes, the path can be rocky and exposed."
+    },
+    {
+      "question": "What are the main scenic highlights and viewpoints along the route?",
+      "answer": "You'll encounter stunning and varied scenery. Notable highlights include the <a href=\"https://www.komoot.com/highlight/4108847\" target=\"_blank\" rel=\"noopener\">View of Loma de las Tres Encinas</a> and the <a href=\"https://www.komoot.com/highlight/2788995\" target=\"_blank\" rel=\"noopener\">La Rinconada de Nigüelas Viewpoint</a>, which offers panoramic views of the high basin of the River Torrente and the valley stretching from Cerro del Caballo down to Nigüelas. You might even catch glimpses of the Mediterranean Sea and the Tropical Coast in the distance."
+    },
+    {
+      "question": "Where can I park to access the Transnevada Route I: Nigüelas - La Rinconada Loop?",
+      "answer": "The route is a circular loop starting from Nigüelas. You can typically find parking within the village of Nigüelas to begin your ride. Specific parking areas may vary, so it's advisable to check local signage upon arrival."
+    },
+    {
+      "question": "What is the best time of year to mountain bike the Transnevada Route I: Nigüelas - La Rinconada Loop?",
+      "answer": "Spring and autumn are generally the best times to ride this route, offering more moderate temperatures. In summer, it can be very hot, especially at lower elevations. Winter can bring snow and extreme cold at higher altitudes, making sections impassable or very challenging due to snowmelt near the River Torrente's source."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for mountain biking in Sierra Nevada National Park?",
+      "answer": "While there are generally no entrance fees for accessing Sierra Nevada National Park, certain activities or specific areas might require permits, especially for large groups or organized events. For individual mountain biking on established trails like this one, permits are typically not required, but it's always good practice to check the latest regulations from the park authority before your visit."
+    },
+    {
+      "question": "Is the Transnevada Route I: Nigüelas - La Rinconada Loop dog-friendly?",
+      "answer": "While dogs are generally allowed in Sierra Nevada National Park, they should be kept under control, preferably on a leash, to protect wildlife and ensure a pleasant experience for all trail users. Given the route's difficulty and length, consider if it's suitable for your dog's fitness and paw pads."
+    },
+    {
+      "question": "What essential gear should I bring for this mountain bike route?",
+      "answer": "Given the route's difficulty and remote sections, you should bring plenty of water and food, a basic bike repair kit, and wear a helmet and gloves. Checking the weather forecast is crucial, and be prepared for varying conditions as you gain elevation."
+    },
+    {
+      "question": "Does this route intersect with other notable trails?",
+      "answer": "Yes, the route primarily follows the <strong>Transnevada Ruta I</strong> for almost its entire length. It also briefly intersects with sections of the <strong>Transnevada (Stage 7 / 8)</strong>, <strong>Transandalus</strong>, and the <strong>Andalucía - South Route (Provincia de Granada)</strong>, among others."
+    },
+    {
+      "question": "Are there any specific challenges or tips for navigating the route's elevation changes?",
+      "answer": "Be prepared for a continuous, strenuous climb followed by a long descent. Some sections may be so steep or technical that you'll need to push your bike. Pacing yourself on the ascent and maintaining control on the winding downhill sections, especially on dusty terrain, is key to a safe and enjoyable ride."
+    }
+  ],
+  "surfaces": {
+    "sm#paved": 0.004765479,
+    "sm#asphalt": 0.021189112,
+    "sm#unpaved": 0.9740454
+  },
+  "way_types": {
+    "minor_road": 0.004765479,
+    "trail": 0.012470381,
+    "street": 0.021189112,
+    "way": 0.96157503
+  },
+  "waypoints": [
+    {
+      "name": "View of Loma de las Tres Encinas",
+      "lat": 37.001372,
+      "lng": -3.472779,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "trail",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4108847
+    },
+    {
+      "name": "La Rinconada de Nigüelas Viewpoint",
+      "lat": 37.010469,
+      "lng": -3.486941,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 2788995
+    },
+    {
+      "name": "Downhill Trail",
+      "lat": 36.992208,
+      "lng": -3.512555,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "mtb_park",
+        "viewpoint"
+      ],
+      "highlight_id": 4108851
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mtb_park",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.4285712242126465,
+  "rating_count": 7,
+  "visitors": 26,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-01-25T16:25:41.352Z",
+  "changed_at": "2026-02-26T19:27:47.569Z",
+  "scraped_at": "2026-04-28T14:00:50.227372+00:00"
+}

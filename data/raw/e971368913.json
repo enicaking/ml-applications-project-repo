@@ -1,0 +1,105 @@
+{
+  "tour_id": "e971368913",
+  "url": "https://www.komoot.com/smarttour/e971368913",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971368913/old-road-to-casas-de-irati-old-road-to-koixta-trail-run-circular-by-roncesvalles-sierra-irati-sl-na-69",
+  "name": "Old road to Casas de Irati - Old road to Koixta – trail run circular by Roncesvalles-Sierra Irati (SL-NA 69)",
+  "name_original": "Camino viejo a Casas de Irati - Camino viejo a Koixta – trail run circular por Roncesvalles-Sierra Irati (SL-NA 69)",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 10234.222456331743,
+  "duration_s": 5088,
+  "elevation_up_m": 375.41322056964964,
+  "elevation_down_m": 384.4718397208824,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.988505,
+  "start_lng": -1.105951,
+  "start_alt_m": 882.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Very close to the border with France in the Pyrenees area is this wonderful path that runs along the Urtxuria riverbed through a dense beech grove that depends on the time you visit you will have a different landscape.",
+    "This wonderful reservoir located in the Pyrenees area is a place you cannot miss. Surrounded by a dense beech forest, you can get here by a picturesque path, an ideal walk for the whole family,"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.024581788,
+    "asphalt": 0.041472767,
+    "paved": 0.11768386,
+    "unknown": 0.2136193,
+    "unpaved": 0.6026423
+  },
+  "way_types": {
+    "footway": 0.0072069056,
+    "street": 0.041472767,
+    "way": 0.35697094,
+    "hiking_path": 0.5943494
+  },
+  "waypoints": [
+    {
+      "name": "Enchanted beech forest",
+      "lat": 42.97136,
+      "lng": -1.08708,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "natural_monument",
+        "river",
+        "intermediate",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 5228542
+    },
+    {
+      "name": "Koixta Reservoir",
+      "lat": 42.9719,
+      "lng": -1.06963,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_man_made",
+        "viewpoint",
+        "forest",
+        "intermediate",
+        "family_friendly",
+        "natural_monument",
+        "other_natural"
+      ],
+      "highlight_id": 3769664
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 5,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T12:08:17.782Z",
+  "changed_at": "2024-06-06T02:34:21.922Z",
+  "scraped_at": "2026-04-27T15:05:14.344179+00:00"
+}

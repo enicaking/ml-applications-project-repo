@@ -1,0 +1,111 @@
+{
+  "tour_id": "e1411426128",
+  "url": "https://www.komoot.com/smarttour/e1411426128",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1411426128/vall-d-incles-ida-y-vuelta-desde-soldeu",
+  "name": "Vall d'Incles — ida y vuelta desde Soldeu",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10695.595961905292,
+  "duration_s": 4612,
+  "elevation_up_m": 396.09240574532055,
+  "elevation_down_m": 396.4942863153519,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.57597,
+  "start_lng": 1.669109,
+  "start_alt_m": 1822.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "An incredible trail that explores the rich landscape of the Vall d'Incles. Crossing the river there are some small bridges, which allow riding on both sides of the valley.",
+    "Very nice picnic area, but overcrowded on weekends because it's not far from the road.\r\nTour to the highlight: https://www.komoot.de/tour/340805299?ref=itd"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.029857775,
+    "sm#paved": 0.054163788,
+    "sm#nature": 0.13749483,
+    "sm#alpin": 0.15704988,
+    "sm#asphalt": 0.2868161,
+    "sm#unpaved": 0.3346176
+  },
+  "way_types": {
+    "primary": 0.07184733,
+    "minor_road": 0.07324222,
+    "street": 0.21496877,
+    "trail": 0.2503845,
+    "way": 0.38955718
+  },
+  "waypoints": [
+    {
+      "name": "Obac de Incles Trail",
+      "lat": 42.595464,
+      "lng": 1.678274,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "river",
+        "forest",
+        "viewpoint"
+      ],
+      "highlight_id": 6361961
+    },
+    {
+      "name": "Font del Travenc Bridge",
+      "lat": 42.601586,
+      "lng": 1.697785,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "other_natural",
+        "natural_monument",
+        "viewpoint",
+        "family_friendly",
+        "summit",
+        "trail",
+        "river",
+        "intermediate",
+        "challenging",
+        "other_man_made"
+      ],
+      "highlight_id": 961923
+    }
+  ],
+  "categories": [
+    "bridge",
+    "challenging",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "river",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 5,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-09T14:40:02.069Z",
+  "changed_at": "2024-05-31T10:41:05.111Z",
+  "scraped_at": "2026-04-28T15:57:51.373345+00:00"
+}

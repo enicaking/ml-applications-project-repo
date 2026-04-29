@@ -1,0 +1,118 @@
+{
+  "tour_id": "e1069390030",
+  "url": "https://www.komoot.com/smarttour/e1069390030",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069390030/pic-du-midi-d-ossau-and-its-lakes-running-in-the-ossau-valley",
+  "name": "Pic du Midi d'Ossau and its lakes – running in the Ossau Valley",
+  "name_original": "Le pic du Midi d'Ossau et ses lacs — Courir dans la vallée d'Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 23077.593271934842,
+  "duration_s": 16125,
+  "elevation_up_m": 1547.619360176052,
+  "elevation_down_m": 1547.6193601760522,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.872757,
+  "start_lng": -0.448598,
+  "start_alt_m": 1341.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This superb loop of 23.1 kilometers and 1,550 meters of elevation takes you around the Pic du Midi d'Ossau, making you discover its most beautiful lakes.\n\n\nThe start of this route in the Ossau valley is in the Bious-Oumettes car park. From there, you climb to the Col de Suzon passing by the lake of Bious-Artigues and a beautiful valley made up of wide grassy areas.\n\nAt the pass, you switch towards the refuge of Pombie where you join a variant of the HRP (Haute Route Pyrénéenne). At first, it takes you up to the Col de Peyreget, before descending in laces on the Ossau plateau to the foot of Castérau.\n\nGradually, you climb around the peak to Lake Bersau nestled under the peaks of Hourette and Larry. From this pretty water point, you only have a long downhill stretch that begins with Lake Gentau and its breathtaking view of the Pic du Midi d'Ossau. Here, you find the GR 10 that you do not leave until you return to your starting point. Along the way, you will discover the Miey and Roumassot lakes.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col de Suzon peaks at 2,131 meters above sea level. It opens a door between the Saoubiste peak and the Midi d'Ossau peak allowing you to switch to the other side of the mountain towards the Pombie refuge and its lake.\r\n\r\nAt the top, the panorama is spectacular and takes your eyes far to the horizon. An even more magical scene in the morning when the clouds are still low in the valley.",
+    "At the Col de Peyreget, you are at an altitude of 2,313 meters and you benefit from a 360-degree panorama of all the peaks that surround you. This passage from the HRP is a marvel in terms of points of view. Pic de Peyreget, valley of Arrious, small peak of Midi d'Ossau, there are beautiful people to photograph.",
+    "Lake Bersau is located 2,080 meters above sea level, at the foot of Pic Casterau. It is one of the six lakes of Ayous which mark out the paths of the Pyrenean Haute Route and the GR10, in this sector.",
+    "The Ayous lakes form a group of six lakes: Castérau, Miey, Gentau, Bersau, Paradis and Roumassot.\r\n\r\nArranged in stairs, they form a magnificent amphitheater to land and admire the Pic du Midi d'Ossau."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.012663564,
+    "unpaved": 0.3617893,
+    "alpin": 0.6255471
+  },
+  "way_types": {
+    "street": 0.012663564,
+    "alpine_hiking_path": 0.044833552,
+    "way": 0.08963312,
+    "hiking_path": 0.27215618,
+    "mountain_hiking_path": 0.58071357
+  },
+  "waypoints": [
+    {
+      "name": "Suzon Pass",
+      "lat": 42.84699,
+      "lng": -0.42343,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 2338072
+    },
+    {
+      "name": "Peyreget Pass",
+      "lat": 42.83418,
+      "lng": -0.43945,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass"
+      ],
+      "highlight_id": 3108195
+    },
+    {
+      "name": "Lake Bersau",
+      "lat": 42.83893,
+      "lng": -0.49313,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 5393784
+    },
+    {
+      "name": "Lac Gentau",
+      "lat": 42.8499,
+      "lng": -0.4871,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_natural",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 2100671
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 177,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T10:34:18.816Z",
+  "changed_at": "2024-06-07T19:26:46.721Z",
+  "scraped_at": "2026-04-27T15:20:40.712354+00:00"
+}

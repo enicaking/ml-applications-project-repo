@@ -1,0 +1,117 @@
+{
+  "tour_id": "e1369623369",
+  "url": "https://www.komoot.com/smarttour/e1369623369",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369623369/highest-point-of-the-aldudes",
+  "name": "Highest point of the Aldudes ",
+  "name_original": "Point culminant des Aldudes",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21110.686570720613,
+  "duration_s": 13318,
+  "elevation_up_m": 1362.7270434738518,
+  "elevation_down_m": 1361.1406694172497,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.069696,
+  "start_lng": -1.416273,
+  "start_alt_m": 420.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This magnificent route runs from the border village of Urepel to the highest point of the Aldudes valley: the Adi. Also called “Ahadi” in Basque, it rises to an altitude of 1,457 meters. Shared between France and Spain, the route offers you an immersion in authentic and preserved nature.\n\nThis journey begins in the center of Urepel, nestled in a basin at the foot of the border mountains. Leaving the village you embark on a long uphill session which initially leads to the Korrotako pass. The Isterbergi, peaking slightly above 1,000 meters above sea level, symbolizes your visit to Spain.\n\nAfter a slight descent, it is a steep climb which concludes your ascent of the Adi. Arriving at the top, the 360 degree panorama is marvelous. On a clear day, many peaks present themselves to you. Savor this magnificent spectacle which rewards the efforts made to achieve it.\n\nBefore heading towards the heart of Aldudes, the path wanders past other peaks in the mountainous belt of the valley. Whether you pass over their summits or their foothills, they offer spectacular portions. The route ends on a path that plunges into the bottom of the valley, wandering through its beautiful forests.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Urepel is a pretty little Basque village nestled in the Aldudes valley. Located near the Spanish border, it is 421 meters above sea level.",
+    "The Adi or “Ahadi” in Basque is the highest point of the Aldudes valley. Located at 1,457 meters, it is located in the Spanish Basque Country.",
+    "The Sorogain pass is located on the heights of the Aldudes valley in the Spanish Basque Country, not far from the border with France.",
+    "Great passage clinging to the hillside, above the Aldude valley. The trail alternates between open parts and more shaded portions."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.0027519856,
+    "asphalt": 0.01140815,
+    "paved": 0.0793832,
+    "unknown": 0.11394821,
+    "alpin": 0.14058328,
+    "nature": 0.22084843,
+    "unpaved": 0.43107674
+  },
+  "way_types": {
+    "minor_road": 0.038464606,
+    "street": 0.06686386,
+    "mountain_hiking_path": 0.22787303,
+    "way": 0.23296979,
+    "hiking_path": 0.4338287
+  },
+  "waypoints": [
+    {
+      "name": "Urepel",
+      "lat": 43.06969,
+      "lng": -1.41628,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5540829
+    },
+    {
+      "name": "Adi",
+      "lat": 43.01951,
+      "lng": -1.44522,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "challenging",
+        "trail"
+      ],
+      "highlight_id": 6276026
+    },
+    {
+      "name": "Col de Sorogain",
+      "lat": 43.03462,
+      "lng": -1.41816,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "mountain_pass"
+      ],
+      "highlight_id": 6276336
+    },
+    {
+      "name": "Joli chemin suspendu",
+      "lat": 43.0452,
+      "lng": -1.3968,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 6276342
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 17,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T15:42:36.941Z",
+  "changed_at": "2024-06-11T23:03:08.587Z",
+  "scraped_at": "2026-04-27T15:04:53.855295+00:00"
+}

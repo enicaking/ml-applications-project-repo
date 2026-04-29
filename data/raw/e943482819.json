@@ -1,0 +1,83 @@
+{
+  "tour_id": "e943482819",
+  "url": "https://www.komoot.com/smarttour/e943482819",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e943482819/peyresourde-pass",
+  "name": "Peyresourde pass",
+  "name_original": "Le col de Peyresourde",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 27228.721326239953,
+  "duration_s": 7049,
+  "elevation_up_m": 1029.1800712118497,
+  "elevation_down_m": 1029.253746040838,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.792666,
+  "start_lng": 0.590209,
+  "start_alt_m": 633.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col de Peyresourde is one of the legendary passes of the Pyrenees. Located at an altitude of 1,589 meters, it marks the separation between the Hautes-Pyrénées and Haute-Garonne departments. The most emblematic climb is the one that starts from Bagnères-de-Luchon. It extends over 13.74 kilometers with an average of 6.9%. It begins with a long false flat before really rising over the last few kilometers."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0021063294,
+    "sb#paved": 0.016570056,
+    "sb#asphalt": 0.9813236
+  },
+  "way_types": {
+    "service": 0.0021063294,
+    "minor_road": 0.016570056,
+    "street": 0.9813236
+  },
+  "waypoints": [
+    {
+      "name": "Peyresourde Pass",
+      "lat": 42.802249,
+      "lng": 0.46222,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "climb",
+        "challenging",
+        "mountain_pass",
+        "restaurant",
+        "family_friendly",
+        "cafe"
+      ],
+      "highlight_id": 128886
+    }
+  ],
+  "categories": [
+    "cafe",
+    "challenging",
+    "climb",
+    "family_friendly",
+    "mountain_pass",
+    "restaurant",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.909090995788574,
+  "rating_count": 11,
+  "visitors": 628,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-04T09:57:16.338Z",
+  "changed_at": "2024-06-05T21:20:44.655Z",
+  "scraped_at": "2026-04-28T19:54:56.774525+00:00"
+}

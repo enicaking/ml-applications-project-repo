@@ -1,0 +1,98 @@
+{
+  "tour_id": "e970866035",
+  "url": "https://www.komoot.com/smarttour/e970866035",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e970866035/cascada-de-erroiarri-circular-by-eskas-artikutza-trail-pr-na-124",
+  "name": "Cascada de Erroiarri – circular by Eskas-Artikutza trail (PR-NA 124)",
+  "name_original": "Cascada de Erroiarri – circular por senda Eskas-Artikutza (PR-NA 124)",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 10619.827904868884,
+  "duration_s": 6158,
+  "elevation_up_m": 361.1007016361019,
+  "elevation_down_m": 361.1007016361019,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.239538,
+  "start_lng": -1.803576,
+  "start_alt_m": 645.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Not only is it a beautiful waterfall of almost 20 m, but also the environment that surrounds it is wonderful and very picturesque. The forest is an ideal place to visit and explore in the summer months, the shade and fresh air will be your great reward!",
+    "It is a room open to visitors to Artikutza where we will have different services: vending machines with coffee and some soft drinks (just take coins), bathrooms, tables..."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.003075959,
+    "paved": 0.033625454,
+    "unpaved": 0.1380851,
+    "alpin": 0.33589983,
+    "nature": 0.48931366
+  },
+  "way_types": {
+    "street": 0.02514554,
+    "way": 0.044779874,
+    "hiking_path": 0.36163804,
+    "mountain_hiking_path": 0.56843656
+  },
+  "waypoints": [
+    {
+      "name": "Artikutza Waterfall",
+      "lat": 43.228634,
+      "lng": -1.787609,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "natural_monument",
+        "forest",
+        "intermediate",
+        "family_friendly"
+      ],
+      "highlight_id": 3009800
+    },
+    {
+      "name": "Ostatu Zaharra of Artikutza",
+      "lat": 43.213145,
+      "lng": -1.796576,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 4470973
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "settlement",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 14,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-02T15:51:08.131Z",
+  "changed_at": "2024-06-06T02:27:37.298Z",
+  "scraped_at": "2026-04-27T15:03:09.399281+00:00"
+}

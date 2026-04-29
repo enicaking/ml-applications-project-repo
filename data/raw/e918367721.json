@@ -1,0 +1,124 @@
+{
+  "tour_id": "e918367721",
+  "url": "https://www.komoot.com/smarttour/e918367721",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e918367721/running-lago-de-gerber-from-la-peuella-aigueestortes-i-estany-de-sant-maurici-national-park",
+  "name": "Running Lago de Gerber from la Peülla — Aigüestortes i Estany de Sant Maurici National Park",
+  "name_original": "Running Lago de Gerber desde la Peülla — Parque Nacional de Aigüestortes y Lago de San Mauricio",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 6635.728668352335,
+  "duration_s": 3644,
+  "elevation_up_m": 323.4449572987453,
+  "elevation_down_m": 323.44495729874575,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.65364,
+  "start_lng": 0.999454,
+  "start_alt_m": 1916.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Second precious pond from the glaciation of 50,000 years ago",
+    "Point with magnificent views of the small lake of Gerber. Ideal to rest and gather strength.",
+    "This lake is one of those you pass on your way to the largest lake in the Vall de Gerber. It's beautiful up to here, but it's still worth reaching the third and last lake on the route: Estany de Gerber or even reaching the Gerber Mataró refuge.",
+    "We are in the beautiful valley of Gerber, which at this point gives us a beautiful picture with the homonymous lake and the surrounding mountains. If we come up from La Peülla, we will have left behind the two little brothers of the Gerber lake, which will accompany us for a long time during our route.\r\n\r\nIt is a lake of glacial origin located at an altitude of 2,150 meters within the Aigüestortes National Park."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.0022705118,
+    "paved": 0.00960367,
+    "alpin": 0.08333827,
+    "nature": 0.90478754
+  },
+  "way_types": {
+    "way": 0.00960367,
+    "hiking_path": 0.029768858,
+    "mountain_hiking_path": 0.09405891,
+    "track": 0.86656857
+  },
+  "waypoints": [
+    {
+      "name": "Gerber Pond",
+      "lat": 42.641537,
+      "lng": 1.002399,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 2250795
+    },
+    {
+      "name": "View of Estanyola de Gerber",
+      "lat": 42.64017,
+      "lng": 1.001966,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "lake",
+        "forest"
+      ],
+      "highlight_id": 325187
+    },
+    {
+      "name": "Lower Gerber Lake",
+      "lat": 42.634874,
+      "lng": 1.000142,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_natural",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3590248
+    },
+    {
+      "name": "Estany de Gerber",
+      "lat": 42.630493,
+      "lng": 0.99618,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "other_natural"
+      ],
+      "highlight_id": 3216988
+    }
+  ],
+  "categories": [
+    "forest",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 55,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-07T09:18:59.788Z",
+  "changed_at": "2024-06-05T04:45:42.576Z",
+  "scraped_at": "2026-04-27T15:53:17.782994+00:00"
+}

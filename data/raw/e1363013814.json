@@ -1,0 +1,132 @@
+{
+  "tour_id": "e1363013814",
+  "url": "https://www.komoot.com/smarttour/e1363013814",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1363013814/route-of-the-three-ravines-circular-from-benasque",
+  "name": "Route of the Three Ravines — circular from Benasque",
+  "name_original": "Ruta de los Tres Barrancos — circular desde Benasque",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4524.765950955756,
+  "duration_s": 5733,
+  "elevation_up_m": 253.34605708507934,
+  "elevation_down_m": 254.85332620960799,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.607595,
+  "start_lng": 0.52304,
+  "start_alt_m": 1160.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This will be the first or third ravine you find on the Three Barrancos route, depending on the direction in which you take the route. This route runs through the foothills of Tuca del Mon(t) and is a popular activity among residents and visitors to Benasque due to its relatively short duration. It offers very good views of the towns of Benasque and Anciles, the Ésera river and the Remáscaro ravine in front, descending from Cerler.",
+    "In the second ravine of the Tres Barrancos route you will also find the Fuen d'Aranda in a leafy corner with its own microclimate fed by the fountain itself.",
+    "The third (or first) ravine of the Tres Barrancos route, equipped with a comfortable wooden walkway. Like the other two, this ravine usually descends with little water, especially in the central summer months.",
+    "In addition to a beautiful town center, here you will find all kinds of tourist services, from shops to hotels and restaurants."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0032573948,
+    "unpaved": 0.015523933,
+    "asphalt": 0.044953607,
+    "paved": 0.20208758,
+    "nature": 0.7341775
+  },
+  "way_types": {
+    "way": 0.061084133,
+    "footway": 0.08698275,
+    "minor_road": 0.093390286,
+    "hiking_path": 0.75854284
+  },
+  "waypoints": [
+    {
+      "name": "Tica del León Gorge",
+      "lat": 42.60975,
+      "lng": 0.51499,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "other_natural",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 6259867
+    },
+    {
+      "name": "Fuen d'Aranda and Barranco Sobarriba",
+      "lat": 42.607379,
+      "lng": 0.51139,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "intermediate",
+        "gorge",
+        "other_natural",
+        "viewpoint",
+        "river",
+        "facilities"
+      ],
+      "highlight_id": 4785090
+    },
+    {
+      "name": "Barranco dels Molinazos",
+      "lat": 42.6057,
+      "lng": 0.50943,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "other_natural",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 6259857
+    },
+    {
+      "name": "Historic Center of Benasque",
+      "lat": 42.6068,
+      "lng": 0.5224,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 6259824
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.666666507720947,
+  "rating_count": 24,
+  "visitors": 202,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-10-30T10:48:48.366Z",
+  "changed_at": "2024-08-13T10:01:34.981Z",
+  "scraped_at": "2026-04-27T11:45:33.282591+00:00"
+}

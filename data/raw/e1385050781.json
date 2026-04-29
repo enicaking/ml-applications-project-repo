@@ -1,0 +1,164 @@
+{
+  "tour_id": "e1385050781",
+  "url": "https://www.komoot.com/smarttour/e1385050781",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1385050781/ossa-and-lake-engolasters-trail",
+  "name": "Ossa and Lake Engolasters Trail",
+  "name_original": "De Encamp al estanque de Engolasters — circular el camino de Pardines",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 10254.585808152544,
+  "duration_s": 5259,
+  "elevation_up_m": 478.4013772759506,
+  "elevation_down_m": 474.68639950388365,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.537248,
+  "start_lng": 1.584938,
+  "start_alt_m": 1288.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "A challenging 6.4-mile (10.3 km) jogging route from Encamp to Lake Engolasters, offering mountain views and varied terrain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "It is also worth exploring the alleys around the church a little; even if a passage is sometimes only 50 cm or less wide that does not mean that it cannot go any further;)",
+    "The ascent from La Comella is very enjoyable, the gravel section bordering the spectacular lake and the ascent to Cortals d'Encamp brutal.",
+    "Spectacular path that has several names and that runs along this mountainside from what is called Valle dels Cortals and that takes you to Llac d'Engolasters. Clean track, with views and easy to jog."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of this jogging route?",
+      "answer": "While the official rating for this route is 'difficult' due to its length and elevation changes, the <a href=\"https://www.komoot.com/highlight/6311127\" target=\"_blank\" rel=\"noopener\">Ossa Trail (Pardines Trail)</a> section is widely considered easy and suitable for all fitness levels, including families. It features gentle slopes and accessible paths, making it a popular choice for a relaxed jog."
+    },
+    {
+      "question": "Is this trail suitable for families with children?",
+      "answer": "Yes, this route is highly recommended as a family-friendly excursion. Its easy difficulty, varied scenery, and amenities like resting areas with water fountains and tables make it ideal for families. At <a href=\"https://www.komoot.com/highlight/760809\" target=\"_blank\" rel=\"noopener\">Lake Engolasters</a>, you'll even find an adventure park."
+    },
+    {
+      "question": "Can I bring my dog on the trail?",
+      "answer": "The trail is generally dog-friendly, making it a great option for enjoying the outdoors with your canine companion. Always ensure your dog is under control, preferably on a leash, and remember to clean up after them to preserve the natural environment for everyone."
+    },
+    {
+      "question": "Where can I park to access the trail, and is public transport available?",
+      "answer": "You can typically find parking in Encamp, which is the starting point for this circular route. For public transport options to Encamp or near <a href=\"https://www.komoot.com/highlight/760809\" target=\"_blank\" rel=\"noopener\">Engolasters Lake</a>, it's best to check local bus schedules on sites like <a href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8G_QQCKgPWjiRcQQny9lw_pUuBma3aduw-ynOJJ-fCMHSwF4MFd2NsSWWiDE_2xUCS5LULNeWHQ-KJLcRo32KMuvT4gfRY_ePV5SR5S36Gkylc0w_h9YA92DLJ8Y-f97TI_DNvjbD47PzIRdwABeux9BfBPeZu4-J-6L_fdHMUnP6sXpcze0\" target=\"_blank\" rel=\"noopener\">visitandorra.com</a>."
+    },
+    {
+      "question": "What is the best time of year to jog this route?",
+      "answer": "The trail is enjoyable across multiple seasons. Spring and autumn offer pleasant temperatures and beautiful foliage. Summer is also great, especially with the shaded sections and the refreshing presence of <a href=\"https://www.komoot.com/highlight/760809\" target=\"_blank\" rel=\"noopener\">Engolasters Lake</a>. Always check the local weather forecast before heading out."
+    },
+    {
+      "question": "Are there any permits or fees required to use the trail?",
+      "answer": "No, there are no specific permits or entrance fees required to access and enjoy this trail. It is freely accessible to the public."
+    },
+    {
+      "question": "What kind of scenery and landmarks can I expect to see?",
+      "answer": "You'll experience diverse and picturesque scenery. The path features small botanical gardens with Pyrenean species, constant views of Encamp and surrounding mountains like Llevant, Torralleda, and Pala Alta. You'll also pass springs, a small waterfall, and culminate at the beautiful <a href=\"https://www.komoot.com/highlight/760809\" target=\"_blank\" rel=\"noopener\">Lake Engolasters</a>, nestled in a dense pine forest. Don't miss the <a href=\"https://www.komoot.com/highlight/2993893\" target=\"_blank\" rel=\"noopener\">Church of Saint Michael and Saint John of la Mosquera</a> near the start."
+    },
+    {
+      "question": "What is the terrain like for jogging?",
+      "answer": "The terrain is varied but manageable for jogging. You'll encounter mostly flat, easily accessible paths, including dirt paths, gravel sections, unpaved stretches, and some asphalt and paved sections. The route also includes shaded areas and a tunnel, all on a wide and well-maintained path."
+    },
+    {
+      "question": "Are there facilities like water fountains or restrooms along the way?",
+      "answer": "Yes, the route is well-equipped with convenient resting areas that include water fountains and tables. Upon reaching <a href=\"https://www.komoot.com/highlight/760809\" target=\"_blank\" rel=\"noopener\">Engolasters Lake</a>, you'll find additional amenities, including restaurants."
+    },
+    {
+      "question": "Does this route connect with other trails?",
+      "answer": "Yes, this route incorporates significant sections of other official trails. You'll be jogging along parts of the Camí de l'Ossa (78% of the route), El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer (52%), and the Senda Pirenaica - E13 (46%), among others, including the Camí de les Pardines (peatonal)."
+    },
+    {
+      "question": "Are there places to eat or stay near the trail?",
+      "answer": "Yes, both Encamp, where the route starts, and the area around <a href=\"https://www.komoot.com/highlight/760809\" target=\"_blank\" rel=\"noopener\">Engolasters Lake</a> offer options. At the lake, you'll find restaurants, and Encamp provides a wider range of cafes, pubs, and accommodation choices."
+    },
+    {
+      "question": "Is this a circular path?",
+      "answer": "Yes, the route is a circular path, meaning you'll start and end in the same location, typically Encamp, without needing to retrace your steps."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.023600886,
+    "unknown": 0.058269758,
+    "paved": 0.17383629,
+    "unpaved": 0.74429303
+  },
+  "way_types": {
+    "primary": 0.0023788319,
+    "footway": 0.008769363,
+    "minor_road": 0.07421493,
+    "street": 0.11496506,
+    "hiking_path": 0.3801563,
+    "way": 0.4195155
+  },
+  "waypoints": [
+    {
+      "name": "Church of Saint Michael and Saint John of la Mosquera",
+      "lat": 42.535206,
+      "lng": 1.581903,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "settlement",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 2993893
+    },
+    {
+      "name": "Lake Engolasters",
+      "lat": 42.518522,
+      "lng": 1.568449,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "natural_monument",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 760809
+    },
+    {
+      "name": "Ossa Trail (Pardines Trail)",
+      "lat": 42.527466,
+      "lng": 1.593573,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 6311127
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 194,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-12-01T13:14:33.885Z",
+  "changed_at": "2026-02-26T20:10:43.346Z",
+  "scraped_at": "2026-04-27T16:05:52.173428+00:00"
+}

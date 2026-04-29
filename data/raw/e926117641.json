@@ -1,0 +1,91 @@
+{
+  "tour_id": "e926117641",
+  "url": "https://www.komoot.com/smarttour/e926117641",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926117641/rio-segre-tour-from-bellver-de-cerdanya",
+  "name": "Rio Segre - Tour from Bellver de Cerdanya",
+  "name_original": "Rio Segre - Vuelta desde Bellver de Cerdanya",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 35330.157241764275,
+  "duration_s": 5554,
+  "elevation_up_m": 293.4630475291053,
+  "elevation_down_m": 293.65952056677634,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.368645,
+  "start_lng": 1.778219,
+  "start_alt_m": 1042.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "small cross road, without traffic and in the middle of fields. a real treat !",
+    "He belonged to the vegueria de Cerdanya until 1716, and from then until 1833 to the regiment of Puigcerdà, except in the period 1812-1813, when he was from the French department of Segre. Since then it is from the province of Lleida.\n\n\n\n\nhttps://www.bellver.org/el-municipi/historia-i-patrimoni"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.093174025,
+    "sb#asphalt": 0.90682596
+  },
+  "way_types": {
+    "minor_road": 0.17381856,
+    "street": 0.40520388,
+    "primary": 0.4209776
+  },
+  "waypoints": [
+    {
+      "name": "Pla de Canters Road",
+      "lat": 42.396079,
+      "lng": 1.876231,
+      "type": "cycle_way",
+      "categories": [
+        "cycle_way",
+        "viewpoint",
+        "trail",
+        "family_friendly"
+      ],
+      "highlight_id": 3556820
+    },
+    {
+      "name": "Bellver de Cerdanya Old Town",
+      "lat": 42.37298,
+      "lng": 1.77489,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 4274539
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 118,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-14T14:59:56.599Z",
+  "changed_at": "2024-07-24T09:11:10.814Z",
+  "scraped_at": "2026-04-28T20:13:20.941211+00:00"
+}

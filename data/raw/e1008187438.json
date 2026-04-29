@@ -1,0 +1,133 @@
+{
+  "tour_id": "e1008187438",
+  "url": "https://www.komoot.com/smarttour/e1008187438",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1008187438/big-loop-running-to-the-rhune-from-olhette",
+  "name": "Big loop – running to the Rhune from Olhette",
+  "name_original": "La grande boucle — Courir à la Rhune depuis Olhette",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 32068.728313854008,
+  "duration_s": 20273,
+  "elevation_up_m": 2063.061395367042,
+  "elevation_down_m": 2056.763218073282,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.331385,
+  "start_lng": -1.659478,
+  "start_alt_m": 104.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This large loop of 33 kilometers and 2,200 meters of elevation gain is aimed at experienced trail runners who wish to discover the surroundings and the secrets of the Rhune massif while enjoying extraordinary views of the Basque Country.\n\nThe route starts from the car park located at the end of Chemin Xurien Borda, in the Olhette district towards Ascain, opposite the Trabenia hotel. You start your outing with the short climb of the mountain of Ciboure before heading towards the venta Yasola. The path continues in the woods on a small single track that connects a crossing with two variants of the HRP (Haute Route Pyrénéenne). You take the one that goes up to the Rhune following a small path that intersects the track several times to the foot of the Zizkuitza. Stay a few meters on the track before embarking on a new path which goes to the right and descends mainly for five kilometers to the D406 road.\n\nFrom now on, a climb of just over six kilometers awaits you to take you to the Rhune passing by the superb ridges of Fageko Harria and Athekaleun. After having taken advantage of the exceptional panorama offered by the summit, you turn back slightly on the track before embarking on a descent which joins the GR 10 which you follow to the outskirts of the village of Sare.\n\nYou leave the GR 10 to tackle your last long ascent of the loop. This leads to the Altsanga balcony and its magnificent view of the Basque-Landes coastline. From then on, you join the GR 10 at the Col des Trois Fontaines, stay on the marked trail until you return to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The mountain of Ciboure is full of legends and traditions. One of them explains in an obscure way that the little blue chapel, which we see on the way down, would have been built in one night by strange characters.\r\nThe Basque name for this mountain is Ziburu Mendi.",
+    "Small open flat area which offers a superb panorama of the first peaks of the Pyrenees.",
+    "The breach of Athekaleun is located on the sides of the Rhune at an altitude of 741 meters. Ideal for a break, this gap offers superb views of the first peaks of the Pyrenees to the south and the Landes and Basque coastline to the north.",
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "Altsanga is a peak in the Basque Country which culminates at 625 meters. This path runs along it just below its crest and offers a beautiful view of the Atlantic Ocean and Saint-Jean-de-Luz on one side and some peaks (Hautza, Orhy) of the Pyrenees chain on the other.\r\n\r\nBe sure to stay on the trail and don't get caught up in the tracks of the Pottoks, the local ponies."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.02635083,
+    "gravel": 0.028653974,
+    "paved": 0.037120588,
+    "nature": 0.2569909,
+    "unpaved": 0.30149397,
+    "alpin": 0.34938973
+  },
+  "way_types": {
+    "footway": 0.0014630819,
+    "minor_road": 0.01252413,
+    "street": 0.015915208,
+    "track": 0.035989486,
+    "hiking_path": 0.2842314,
+    "mountain_hiking_path": 0.32062525,
+    "way": 0.32925147
+  },
+  "waypoints": [
+    {
+      "name": "Ciboure mountain",
+      "lat": 43.32192,
+      "lng": -1.66329,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 3542385
+    },
+    {
+      "name": "Panorama of the Pyrenees",
+      "lat": 43.2986,
+      "lng": -1.6303,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5387577
+    },
+    {
+      "name": "Athekaleun Gap",
+      "lat": 43.30691,
+      "lng": -1.62086,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass"
+      ],
+      "highlight_id": 5387553
+    },
+    {
+      "name": "La Rhune summit",
+      "lat": 43.309069,
+      "lng": -1.635631,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Altsanga Balcony",
+      "lat": 43.316139,
+      "lng": -1.620927,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "summit"
+      ],
+      "highlight_id": 5387512
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.333333492279053,
+  "rating_count": 3,
+  "visitors": 413,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-01-08T15:18:25.510Z",
+  "changed_at": "2024-06-06T17:53:07.897Z",
+  "scraped_at": "2026-04-27T15:08:54.129531+00:00"
+}

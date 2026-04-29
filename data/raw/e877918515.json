@@ -1,0 +1,131 @@
+{
+  "tour_id": "e877918515",
+  "url": "https://www.komoot.com/smarttour/e877918515",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e877918515/refuge-and-lac-d-estom-trail",
+  "name": "Refuge and Lac d'Estom Trail",
+  "name_original": "Randonnée au lac d'Estom",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11150.252172259494,
+  "duration_s": 15528,
+  "elevation_up_m": 423.921101850337,
+  "elevation_down_m": 423.921101850337,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.853779,
+  "start_lng": -0.09801,
+  "start_alt_m": 1365.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 6.9-mile Refuge and Lac d'Estom Trail in Pyrenees National Park, featuring waterfalls, wildlife, and a stunning lake.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Arriving from the bottom of the valley, you cannot see it directly. Indeed, the Pouey-Caut cabin is hidden in the shadow of a large rock that looks like a meteorite on the ground.\r\n\r\nThis unguarded hut serves as a good half-way refuge. If you prefer to enjoy the tranquility of the place rather than continuing to the refuge of Estom, this cabin will make an excellent lodging.\r\n\r\nInside, the raised slab provides some insulation from the cold of the ground. However, do not hesitate to make yourself a small fire in the stove at the back of the room in order to warm up the atmosphere.",
+    "On the way before reaching the lake, many waterfalls and waterfalls are to be admired. This is the most impressive"
+  ],
+  "faqs": [
+    {
+      "question": "Where does the Refuge and Lac d'Estom Trail start, and what are the parking options?",
+      "answer": "<p>The trail officially starts at La Fruitière, located in the Lutour valley. You'll find parking available at this starting point.</p>"
+    },
+    {
+      "question": "How long does it typically take to hike this trail?",
+      "answer": "<p>This is considered a half-day walk. Most hikers complete the route to <a href=\"https://www.komoot.com/highlight/2594363\" target=\"_blank\" rel=\"noopener\">Estom Lake</a> and back in about 4 to 6 hours, depending on pace and stops.</p>"
+    },
+    {
+      "question": "What is the terrain like on the way to Lac d'Estom?",
+      "answer": "<p>The initial kilometers from La Fruitière are relatively flat, following a clear track alongside the Gave de Lutour river. As you progress, the path gradually climbs, becoming steeper and stonier, especially after the Portail de Limouras. The valley floor rises in steps, characteristic of glacial valleys. Proper footwear is recommended due to some uneven sections.</p>"
+    },
+    {
+      "question": "Is the Refuge and Lac d'Estom Trail suitable for families or beginners?",
+      "answer": "<p>Yes, the trail is generally considered of moderate difficulty, making it suitable for families with children and those with a reasonable level of fitness. Its captivating scenery, including waterfalls and diverse flora, adds to its family-friendly appeal.</p>"
+    },
+    {
+      "question": "What can I see along the route to Lac d'Estom?",
+      "answer": "<p>You'll encounter diverse scenery, including lush green valleys, pine forests, and meadows. Notable features include the <a href=\"https://www.komoot.com/highlight/4743188\" target=\"_blank\" rel=\"noopener\">Estom Waterfall</a> and numerous cascades from the Gave de Lutour. The highlight is the pristine glacial <a href=\"https://www.komoot.com/highlight/2594363\" target=\"_blank\" rel=\"noopener\">Estom Lake</a> and the <a href=\"https://www.komoot.com/highlight/4108287\" target=\"_blank\" rel=\"noopener\">Pouey-Caut Hut</a>, which offers a welcoming stop.</p>"
+    },
+    {
+      "question": "What wildlife might I encounter on the trail?",
+      "answer": "<p>The trail offers opportunities to spot local fauna. You might see herds of cows and sheep grazing in the pastures, horses, chamois, and even Pyrenean isards, particularly if you start your hike in the early hours.</p>"
+    },
+    {
+      "question": "Is the trail dog-friendly?",
+      "answer": "<p>As this trail is located within the Pyrenees National Park, dogs are generally not permitted, even on a leash, to protect the local wildlife and environment. Please check the latest regulations before your visit.</p>"
+    },
+    {
+      "question": "What is the best time of year to hike the Refuge and Lac d'Estom Trail?",
+      "answer": "<p>The trail is best enjoyed from late spring to early autumn. Early summer is particularly vibrant with rhododendron glades in bloom. Always check local weather conditions before heading out, as mountain weather can change rapidly.</p>"
+    },
+    {
+      "question": "Are there any permits or entrance fees required to hike in the Pyrenees National Park?",
+      "answer": "<p>There are generally no entrance fees to access the Pyrenees National Park for hiking. However, specific regulations apply, especially regarding dogs, camping, and environmental protection. Always respect the park's rules to preserve its natural beauty.</p>"
+    },
+    {
+      "question": "Is there water available on the trail?",
+      "answer": "<p>Yes, the <a href=\"https://www.komoot.com/highlight/4108287\" target=\"_blank\" rel=\"noopener\">Refuge d'Estom</a>, located by the lake, has a spring where you can refill your water bottles. It's always wise to carry sufficient water for your hike, especially on warmer days.</p>"
+    },
+    {
+      "question": "Does this trail connect with other hiking paths?",
+      "answer": "<p>Yes, the route to Lac d'Estom is part of the official \"Refuge et Lac d'Estom\" trail. It also briefly intersects with sections of the \"Sentier Falisse\" and the \"Passerelle de Pouey Caut\" trails.</p>"
+    }
+  ],
+  "surfaces": {
+    "nature": 0.0119010275,
+    "unpaved": 0.012195739,
+    "unknown": 0.017685607,
+    "alpin": 0.9582176
+  },
+  "way_types": {
+    "hiking_path": 0.012195739,
+    "way": 0.029586636,
+    "mountain_hiking_path": 0.9582176
+  },
+  "waypoints": [
+    {
+      "name": "Pouey-Caut Hut",
+      "lat": 42.829183,
+      "lng": -0.096225,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4108287
+    },
+    {
+      "name": "Estom Waterfall",
+      "lat": 42.81157,
+      "lng": -0.099541,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4743188
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "natural_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.730496406555176,
+  "rating_count": 141,
+  "visitors": 1696,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-08T15:07:04.566Z",
+  "changed_at": "2026-02-26T18:50:44.032Z",
+  "scraped_at": "2026-04-27T11:31:25.336678+00:00"
+}

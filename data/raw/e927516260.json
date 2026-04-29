@@ -1,0 +1,123 @@
+{
+  "tour_id": "e927516260",
+  "url": "https://www.komoot.com/smarttour/e927516260",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e927516260/ascent-to-ampriu-from-benasque",
+  "name": "Ascent to Ampriu from Benasque",
+  "name_original": "Subida a l'Ampriu desde Benasque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 29892.9077738339,
+  "duration_s": 8160,
+  "elevation_up_m": 1190.784849762818,
+  "elevation_down_m": 1191.304055130813,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.604129,
+  "start_lng": 0.520905,
+  "start_alt_m": 1134.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "13,7 km with 5.6% average but few kms at 10%. \r\nYou'll find Cerler half-way up where there's food and water, and at the top of the climb there is a café open during summer.",
+    "Impressive mountain pass in the Pyrenees of Huesca surrounded by peaks with 3,000 meters of altitude, it is located at 1,912 meters of altitude right on the ski slopes of Aramón Cerler.",
+    "The highest town in the Aragonese Pyrenees, with the Aramón Cerler alpine ski resort as the main sports engine for decades, is increasingly a meeting point for different types of cycling.",
+    "In addition to a beautiful town center, here you will find all kinds of tourist services, from shops to hotels and restaurants."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.003466496,
+    "unknown": 0.0072138617,
+    "sb#asphalt": 0.9893196
+  },
+  "way_types": {
+    "service": 0.0072138617,
+    "minor_road": 0.007881343,
+    "street": 0.98490477
+  },
+  "waypoints": [
+    {
+      "name": "Puerto del Ampriu",
+      "lat": 42.586099,
+      "lng": 0.545583,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cafe",
+        "climb",
+        "intermediate"
+      ],
+      "highlight_id": 1908873
+    },
+    {
+      "name": "Puerto de Ampriu",
+      "lat": 42.5609,
+      "lng": 0.569,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "parking",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 5013288
+    },
+    {
+      "name": "Historic Village of Cerler",
+      "lat": 42.5931,
+      "lng": 0.5384,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 5013294
+    },
+    {
+      "name": "Historic Center of Benasque",
+      "lat": 42.60298,
+      "lng": 0.52226,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 5013297
+    }
+  ],
+  "categories": [
+    "cafe",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "parking",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 131,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-16T08:22:25.558Z",
+  "changed_at": "2024-07-24T09:14:22.498Z",
+  "scraped_at": "2026-04-28T19:49:08.071507+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "tour_id": "e870072258",
+  "url": "https://www.komoot.com/smarttour/e870072258",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e870072258/hike-in-saint-jean-de-luz",
+  "name": "Hike in Saint-Jean-de-Luz",
+  "name_original": "Randonnée à Saint-Jean-de-Luz",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4866.394221099324,
+  "duration_s": 4476,
+  "elevation_up_m": 17.212940499506587,
+  "elevation_down_m": 17.39715639272657,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.387195,
+  "start_lng": -1.662842,
+  "start_alt_m": 4.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Palace Louis XIV is located in the heart of Saint-Jean-de-Luz",
+    "Nice walk along the long beach. You will find what you need to refuel"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.05064954,
+    "paved": 0.28487116,
+    "asphalt": 0.28629103,
+    "nature": 0.37818825
+  },
+  "way_types": {
+    "way": 0.12888369,
+    "minor_road": 0.19276059,
+    "footway": 0.30016747,
+    "hiking_path": 0.37818825
+  },
+  "waypoints": [
+    {
+      "name": "Place Louis XIV",
+      "lat": 43.387822,
+      "lng": -1.664312,
+      "type": "unknown",
+      "categories": [
+        "square"
+      ],
+      "highlight_id": 3496287
+    },
+    {
+      "name": "Saint-Jean-de-Luz pedestrian promenade",
+      "lat": 43.387817,
+      "lng": -1.667053,
+      "type": "beach",
+      "categories": [
+        "beach"
+      ],
+      "highlight_id": 3496282
+    }
+  ],
+  "categories": [
+    "beach",
+    "square"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 64,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-03T09:38:00.188Z",
+  "changed_at": "2024-06-04T23:27:46.019Z",
+  "scraped_at": "2026-04-27T11:36:22.882864+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "tour_id": "e1422215906",
+  "url": "https://www.komoot.com/smarttour/e1422215906",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422215906/campbieil-peak",
+  "name": "Campbieil peak",
+  "name_original": "Le pic du Campbieil",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 12513.047848782102,
+  "duration_s": 23434,
+  "elevation_up_m": 1095.315630757039,
+  "elevation_down_m": 1089.9844125229151,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.81916,
+  "start_lng": 0.141102,
+  "start_alt_m": 2161,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The hike that leads to the Campbieil peak is probably one of those that offers one of the most complete panoramic views of the Pyrenees. Aneto, Mont-Perdu, Brèche de Roland, the Gavarnie cirque, the Néouvielle massif, are all part of the landscapes that the summit offers. Culminating at 3,173 meters, it is one of the most accessible 3,000 meters. Its relatively significant difference in altitude, however, requires you to be in good physical condition and to devote enough time to it.\n\nThe start is at Lake Cap de Long, perched at an altitude of 2,160 meters. Accessible by car, it has an impressive dam which overlooks the valley. The loop begins with a quiet part which goes down to the Estaragne valley. This is where the first climb begins which climbs to the pass of the same name. From here, you can see the two objectives of the day. In the foreground the peak of Estaragne, then that of Campbieil which is behind.\n\nThe trail climbs gradually below these two peaks of more than 3,000 meters. From time to time, it approaches a dizzying ridge which offers spectacular views. Once you arrive at Campbieil, the panorama opens up and allows you to discern the Mont-Perdu massif, the Gavarnie cirque and all the neighboring peaks of the Néouvielle massif. On a clear day, Aneto, the highest point in the Pyrenees, can be seen in the distance.\n\nYou then begin a long descent which plunges into the Cap de Long valley. This section is broken down into several portions. First of all, a beautiful path on small gravel, followed by a fairly rocky portion before ending with a beautiful balcony overlooking the lake.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Spectacular climb! One of the great unknown of the Pyrenees, one of my favorites. Hard and long climb, but the landscape and the solitude are well worth the suffering.",
+    "Culminating at 3,006 meters above sea level. The peak of Estaragne is a 3000 meters relatively easy to access. The panorama it offers is all the more striking.",
+    "The Pic du Campbieil dominates a rocky ridge at an altitude of 3,197 metres.\r\nThis superb peak offers a panorama of many surrounding peaks, such as Pic Long and Pic Badet."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.028422635,
+    "asphalt": 0.062171675,
+    "unpaved": 0.069483146,
+    "alpin": 0.83992255
+  },
+  "way_types": {
+    "minor_road": 0.028422635,
+    "street": 0.062171675,
+    "hiking_path": 0.069483146,
+    "mountain_hiking_path": 0.83992255
+  },
+  "waypoints": [
+    {
+      "name": "Lake Cap-de-Long",
+      "lat": 42.819552,
+      "lng": 0.141181,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "challenging",
+        "climb",
+        "viewpoint"
+      ],
+      "highlight_id": 2472481
+    },
+    {
+      "name": "Estaragne Peak",
+      "lat": 42.797253,
+      "lng": 0.130524,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 3548036
+    },
+    {
+      "name": "Campbieil Peak",
+      "lat": 42.792,
+      "lng": 0.1197,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 5557351
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.6875,
+  "rating_count": 16,
+  "visitors": 171,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-25T10:46:38.696Z",
+  "changed_at": "2024-06-13T13:16:12.150Z",
+  "scraped_at": "2026-04-27T11:58:39.631140+00:00"
+}

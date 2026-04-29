@@ -1,0 +1,117 @@
+{
+  "tour_id": "e975863829",
+  "url": "https://www.komoot.com/smarttour/e975863829",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e975863829/valle-de-tena-ibonciecho-y-embalse-de-lanuza-desde-escarrilla",
+  "name": "Valle de Tena – Ibonciecho y Embalse de Lanuza desde Escarrilla",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 29386.109857747193,
+  "duration_s": 11308,
+  "elevation_up_m": 939.3245316565681,
+  "elevation_down_m": 939.3245316565683,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.73795,
+  "start_lng": -0.318245,
+  "start_alt_m": 1188.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "In summer a festival is held in this reservoir, next to the town of Lanuza that gives it its name, on a stage that seems to float over the reservoir.",
+    "The perfect climb on a gravel bike. 45mm tires are recommended. There are sections with lots of loose rocks, and if you're not careful, you'll hit a flat.\nI don't understand why people go to the Alps looking for mountain passes when they have this at home.",
+    "The stopover village for skiing, hiking, restaurants and especially the landscapes."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#paved": 0.02585673,
+    "sm#nature": 0.10627472,
+    "sm#asphalt": 0.24781029,
+    "sm#unpaved": 0.62005824
+  },
+  "way_types": {
+    "minor_road": 0.05716192,
+    "primary": 0.08117956,
+    "street": 0.13319914,
+    "trail": 0.22061615,
+    "way": 0.50784326
+  },
+  "waypoints": [
+    {
+      "name": "Lanuza Reservoir",
+      "lat": 42.75304,
+      "lng": -0.317822,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "viewpoint",
+        "other_man_made"
+      ],
+      "highlight_id": 4702151
+    },
+    {
+      "name": "Ibónciecho",
+      "lat": 42.796867,
+      "lng": -0.318536,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 4760029
+    },
+    {
+      "name": "Sallent de Gállego",
+      "lat": 42.771875,
+      "lng": -0.331375,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river",
+        "parking",
+        "bridge",
+        "historical_site"
+      ],
+      "highlight_id": 5013898
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "parking",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.333333492279053,
+  "rating_count": 9,
+  "visitors": 115,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-09T19:43:12.692Z",
+  "changed_at": "2024-05-31T09:24:44.247Z",
+  "scraped_at": "2026-04-28T15:04:07.289275+00:00"
+}

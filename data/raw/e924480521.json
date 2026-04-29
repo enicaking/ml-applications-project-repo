@@ -1,0 +1,99 @@
+{
+  "tour_id": "e924480521",
+  "url": "https://www.komoot.com/smarttour/e924480521",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e924480521/circular-tour-to-brunyola",
+  "name": "Circular Tour to Brunyola",
+  "name_original": "Recorrido circular a Brunyola",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 30605.488167889915,
+  "duration_s": 5405,
+  "elevation_up_m": 291.6336403104002,
+  "elevation_down_m": 291.976037376844,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.855827,
+  "start_lng": 2.668183,
+  "start_alt_m": 129.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Vilobí d'Onyar is a Spanish municipality in the Selva region, in the province of Gerona, Catalonia, located in the east of the region and on the border with Gironés. In addition to the municipal capital, it includes the cores of Salitja and Sant Dalmai.\n\nhttps://es.m.wikipedia.org/wiki/Vilov%C3%AD_de_O%C3%B1ar",
+    "High Middle Age Gothic-style castle located in the municipality of Brunyola. The fortified castle was built on top of a hill where the town currently stands."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.00018942561,
+    "sb#paved": 0.44392273,
+    "sb#asphalt": 0.5558879
+  },
+  "way_types": {
+    "way": 0.00018942561,
+    "service": 0.0041127307,
+    "minor_road": 0.09553338,
+    "primary": 0.19785583,
+    "street": 0.70230865
+  },
+  "waypoints": [
+    {
+      "name": "Vilobí d'Onyar",
+      "lat": 41.88849,
+      "lng": 2.744586,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "unknown",
+        "religious_building",
+        "historical_site",
+        "castle"
+      ],
+      "highlight_id": 5649904
+    },
+    {
+      "name": "Brunyola Castle",
+      "lat": 41.90412,
+      "lng": 2.68296,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "intermediate",
+        "viewpoint",
+        "historical_site",
+        "climb",
+        "settlement"
+      ],
+      "highlight_id": 1564707
+    }
+  ],
+  "categories": [
+    "castle",
+    "climb",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 43,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-12T19:56:20.633Z",
+  "changed_at": "2024-06-05T05:36:24.434Z",
+  "scraped_at": "2026-04-28T20:27:15.938319+00:00"
+}

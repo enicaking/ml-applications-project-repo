@@ -1,0 +1,96 @@
+{
+  "tour_id": "e947692704",
+  "url": "https://www.komoot.com/smarttour/e947692704",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e947692704/tuca-del-mon-trail-running-from-benasque",
+  "name": "Tuca del Mon – trail running from Benasque",
+  "name_original": "Tuca del Mon – trail running desde Benasque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 12325.075970750986,
+  "duration_s": 16267,
+  "elevation_up_m": 1364.549522686481,
+  "elevation_down_m": 1364.692047280419,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606797,
+  "start_lng": 0.524521,
+  "start_alt_m": 1166,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Popular route among the inhabitants of the Benasque Valley for their uneven training.",
+    "In addition to a beautiful town center, here you will find all kinds of tourist services, from shops to hotels and restaurants."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0052783033,
+    "paved": 0.008160023,
+    "unpaved": 0.011258545,
+    "asphalt": 0.03808435,
+    "nature": 0.14729871,
+    "alpin": 0.7899201
+  },
+  "way_types": {
+    "minor_road": 0.0036885284,
+    "hiking_path": 0.017824551,
+    "street": 0.020290952,
+    "way": 0.02097719,
+    "mountain_hiking_path": 0.14729871,
+    "alpine_hiking_path": 0.7899201
+  },
+  "waypoints": [
+    {
+      "name": "Tuca del Mon",
+      "lat": 42.6224,
+      "lng": 0.5012,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 5114254
+    },
+    {
+      "name": "Historic Center of Benasque",
+      "lat": 42.60697,
+      "lng": 0.52397,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 6259824
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "historical_site",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 48,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-08T17:34:58.215Z",
+  "changed_at": "2024-07-24T09:38:43.942Z",
+  "scraped_at": "2026-04-27T15:40:00.062316+00:00"
+}

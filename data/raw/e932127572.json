@@ -1,0 +1,79 @@
+{
+  "tour_id": "e932127572",
+  "url": "https://www.komoot.com/smarttour/e932127572",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e932127572/witch-s-route-of-tredos-from-salardu-valle-de-aran",
+  "name": "Witch's Route of Tredos from Salardu — Valle de Aran",
+  "name_original": "Ruta de la Bruja de Tredós desde Salardú — Valle de Arán",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4528.834509158327,
+  "duration_s": 4685,
+  "elevation_up_m": 112.9765521058223,
+  "elevation_down_m": 112.97655210582207,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.707047,
+  "start_lng": 0.905521,
+  "start_alt_m": 1280.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Camin d'era Bruisha or Path of the Witch, is a circular route with beautiful corners."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.11931378,
+    "paved": 0.23185615,
+    "unknown": 0.64883006
+  },
+  "way_types": {
+    "street": 0.06746849,
+    "primary": 0.11931378,
+    "minor_road": 0.16933307,
+    "way": 0.64388466
+  },
+  "waypoints": [
+    {
+      "name": "Witch's Path",
+      "lat": 42.70014,
+      "lng": 0.91972,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "family_friendly",
+        "river",
+        "forest",
+        "viewpoint"
+      ],
+      "highlight_id": 3693326
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.454545497894287,
+  "rating_count": 11,
+  "visitors": 57,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-21T10:49:38.442Z",
+  "changed_at": "2024-06-05T07:23:13.422Z",
+  "scraped_at": "2026-04-27T12:12:34.354164+00:00"
+}

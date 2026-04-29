@@ -1,0 +1,141 @@
+{
+  "tour_id": "e851028521",
+  "url": "https://www.komoot.com/smarttour/e851028521",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e851028521/loop-from-biarritz-to-saint-jean-de-luz",
+  "name": "Loop from Biarritz to Saint-Jean De Luz",
+  "name_original": "Boucle de Biarritz à Saint-Jean De Luz",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 34688.388660285374,
+  "duration_s": 6253,
+  "elevation_up_m": 406.6929391500676,
+  "elevation_down_m": 406.07009500361374,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.481169,
+  "start_lng": -1.559531,
+  "start_alt_m": 35.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 21.6-mile (34.7 km) road cycling loop from Biarritz to Saint-Jean-de-Luz offers exceptional ocean views along the Basque coast",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nice view of the coast! This side is quite wild and not too built",
+    "Get in the right gear before climbing this hill!"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of this road cycling loop?",
+      "answer": "This loop is generally considered a <strong>moderate</strong> road ride. While it's mostly on well-paved surfaces, some segments might be challenging for road bikes due to varied terrain. It requires a good level of fitness to comfortably complete the approximately 34.7 km distance with around 400 meters of elevation gain."
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "You'll primarily ride on asphalt, quiet roads, and some pedestrian areas. About 80% of the route is paved. Be mindful of traffic when passing through Biarritz and Saint-Jean-de-Luz, as some streets can be busy. Sections between Bidart and Sainte-Barbe offer a calmer cycling experience, often winding through residential areas."
+    },
+    {
+      "question": "What are the main scenic highlights along the way?",
+      "answer": "The route offers exceptional ocean views and passes through charming Basque villages. Key highlights include the magnificent seafront of Biarritz, the Côte des Basques, and the <a href=\"https://www.komoot.com/highlight/1509467\" target=\"_blank\" rel=\"noopener\">View of the Basque Coast</a>. You'll also pass through Bidart and Guéthary, and arrive at the bay of Saint-Jean-de-Luz with the majestic La Rhune mountain in the background. Don't miss the <a href=\"https://www.komoot.com/highlight/781202\" target=\"_blank\" rel=\"noopener\">Steep Hill With a View of the Beach</a> for another great vista."
+    },
+    {
+      "question": "Does this route connect with other cycling trails?",
+      "answer": "Yes, this route is notably a stage of La Vélodyssée, also known as the Atlantic Cycling Route (EuroVelo 1). It also incorporates sections of the Northern Route (Basque Country), Sentier Littoral Bidart - Hendaye, and Sentier Littoral Bidart."
+    },
+    {
+      "question": "What is the best time of year to cycle this loop?",
+      "answer": "The Basque coast offers pleasant cycling conditions for much of the year. Spring and early autumn are often ideal, providing comfortable temperatures and fewer crowds than the peak summer months. Always check local weather patterns, especially for wind and rain, as coastal conditions can change."
+    },
+    {
+      "question": "Are there any cafes or places to stop for refreshments along the route?",
+      "answer": "Yes, you'll find various cafes, restaurants, and accommodation options in Biarritz, Bidart, Guéthary, and Saint-Jean-de-Luz. The route is designed to pass through these towns, making it easy to find places to refuel and relax."
+    },
+    {
+      "question": "Is the Loop from Biarritz to Saint-Jean De Luz dog-friendly?",
+      "answer": "While the route is primarily on roads and shared paths, specific regulations for dogs can vary by municipality and specific sections. Generally, dogs on a leash are tolerated in public outdoor spaces, but it's always best to check local signage, especially in busy town centers or beaches. Be prepared to clean up after your pet."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this cycling route?",
+      "answer": "No, you do not need any special permits or pay entrance fees to cycle this route. It utilizes public roads and designated cycling paths that are freely accessible."
+    },
+    {
+      "question": "Where can I park my car to start this loop?",
+      "answer": "You can find parking options in both Biarritz and Saint-Jean-de-Luz. In Biarritz, consider public parking garages or street parking, keeping in mind that spots can be busy, especially during peak season. Saint-Jean-de-Luz also offers various parking facilities. Starting from either town allows you to complete the loop."
+    },
+    {
+      "question": "What should I bring for this road cycling trip?",
+      "answer": "For this moderate road cycling loop, bring your road bike in good condition, a helmet, appropriate cycling attire, water, and snacks. A basic repair kit (spare tube, pump, tire levers) is always recommended. Don't forget sunscreen, sunglasses, and a phone for navigation or emergencies. A light jacket might be useful for coastal breezes."
+    },
+    {
+      "question": "How long does it typically take to complete this cycling loop?",
+      "answer": "The estimated duration for this 34.7 km loop is around 1 hour and 44 minutes of active cycling time. This can vary significantly based on your fitness level, the number and length of stops you make for sightseeing, and weather conditions."
+    }
+  ],
+  "surfaces": {
+    "sb#compacted": 0.0027727694,
+    "unknown": 0.00440993,
+    "sb#paved": 0.27436838,
+    "sb#asphalt": 0.71844894
+  },
+  "way_types": {
+    "service": 0.0038256824,
+    "way": 0.005641677,
+    "primary": 0.1112997,
+    "minor_road": 0.18697149,
+    "cycleway": 0.25591037,
+    "street": 0.4363511
+  },
+  "waypoints": [
+    {
+      "name": "View of the Basque Coast",
+      "lat": 43.480919,
+      "lng": -1.566337,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "other_natural",
+        "beach"
+      ],
+      "highlight_id": 1509467
+    },
+    {
+      "name": "Steep Hill With a View of the Beach",
+      "lat": 43.409114,
+      "lng": -1.637025,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "beach",
+        "climb"
+      ],
+      "highlight_id": 781202
+    }
+  ],
+  "categories": [
+    "beach",
+    "climb",
+    "family_friendly",
+    "intermediate",
+    "other_natural",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.545454502105713,
+  "rating_count": 11,
+  "visitors": 82,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-20T13:15:41.817Z",
+  "changed_at": "2026-02-26T18:47:30.340Z",
+  "scraped_at": "2026-04-28T19:41:22.551497+00:00"
+}

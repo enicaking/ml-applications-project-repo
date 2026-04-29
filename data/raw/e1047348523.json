@@ -1,0 +1,138 @@
+{
+  "tour_id": "e1047348523",
+  "url": "https://www.komoot.com/smarttour/e1047348523",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1047348523/pico-de-veleta-from-hoya-de-la-mora-sierra-nevada-national-park",
+  "name": "Pico de Veleta from Hoya de la Mora — Sierra Nevada National Park",
+  "name_original": "Pico de Veleta desde Hoya de la Mora — Parque Nacional de Sierra Nevada",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 23645.099463151324,
+  "duration_s": 7673,
+  "elevation_up_m": 881.7557250256973,
+  "elevation_down_m": 881.7557250256973,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.093922,
+  "start_lng": -3.386315,
+  "start_alt_m": 2515.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "La Hoya de la Mora is the highest point that can be reached by vehicle to climb the Veleta peak. In this place, there is a large parking lot and a bus stop.",
+    "The northern part of the Sierra Nevada – where the ski area is located – may have nothing in common with the pristine southern slopes, but this region also has its charm – especially when the magnificent descent on smooth asphalt down into the valley awaits you.",
+    "Pico del Veleta (\"Weather vane\") is the third highest peak of the Iberian peninsula and the second highest in the Sierra Nevada. Its height is given variously between 3,394 metres (11,135 ft) and 3,398 metres (11,148 ft).The mountain can be seen from the city of Granada. Veleta's northern slopes are home to the Sierra Nevada Ski Station. The access road to approximately 10 metres below the summit is the highest paved road in Europe. This road across the mountains from Granada to the western Alpujarras was built before the creation of the Sierra Nevada National Park in 1999. It has since been closed to general traffic beyond Hoya de la Mora, just above the ski station. However, the road is still used by ski station employees, national park rangers, observatory staff, cyclists and walkers, and a microbus service also takes hikers up to Posiciones del Veleta, a viewpoint 3,100 metres above sea level.",
+    "Heaven close"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#alpin": 0.0007666241,
+    "unknown": 0.0027286243,
+    "sb#unpaved": 0.0859649,
+    "sb#asphalt": 0.91053987
+  },
+  "way_types": {
+    "trail": 0.0007666241,
+    "service": 0.0009524247,
+    "minor_road": 0.0017761997,
+    "way": 0.0859649,
+    "street": 0.91053987
+  },
+  "waypoints": [
+    {
+      "name": "Hoya de la Mora",
+      "lat": 37.09374,
+      "lng": -3.386418,
+      "type": "parking",
+      "categories": [
+        "parking",
+        "family_friendly",
+        "viewpoint",
+        "settlement",
+        "facilities",
+        "trail",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 5574338
+    },
+    {
+      "name": "Upper Sierra Nevada",
+      "lat": 37.082682,
+      "lng": -3.379476,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "trail",
+        "challenging",
+        "mountain_pass",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 3303399
+    },
+    {
+      "name": "Pico Veleta viewpoint",
+      "lat": 37.051556,
+      "lng": -3.371532,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "natural_monument",
+        "challenging",
+        "summit"
+      ],
+      "highlight_id": 154326
+    },
+    {
+      "name": "Pico del Veleta",
+      "lat": 37.055575,
+      "lng": -3.366088,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "challenging",
+        "climb",
+        "viewpoint",
+        "mountain_pass"
+      ],
+      "highlight_id": 5136393
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "parking",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 8,
+  "visitors": 168,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-03-09T16:10:56.802Z",
+  "changed_at": "2024-06-07T09:16:51.110Z",
+  "scraped_at": "2026-04-28T22:32:44.214566+00:00"
+}

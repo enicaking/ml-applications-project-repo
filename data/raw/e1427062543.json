@@ -1,0 +1,122 @@
+{
+  "tour_id": "e1427062543",
+  "url": "https://www.komoot.com/smarttour/e1427062543",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1427062543/itxassou-to-mount-mondarrain",
+  "name": "Itxassou to Mount Mondarrain ",
+  "name_original": "Le Mondarrain depuis Itxassou",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 12835.407530948238,
+  "duration_s": 17346,
+  "elevation_up_m": 697.5247125523391,
+  "elevation_down_m": 699.323321318043,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.332654,
+  "start_lng": -1.410364,
+  "start_alt_m": 87.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This magnificent route departing from Itxassou offers a beautiful diversity of landscapes and atmospheres. Affordable for the day by everyone, it climbs to the summit of Mondarrain from the center of the village before returning via the famous Pas de Roland.\n\nYou leave the picturesque village of Itxassou heading towards the adjoining forest. After crossing a small stream, you begin to gradually gain height. Below the Atharri, the slope rises drastically before reaching the summit. Then, a path leads to the open foothills of Ezkondiaraï.\n\nIt is at the end of this pleasant passage that the final ascent towards the Mondarrain really begins. The path goes straight up the slope before entering the forest. Finally, at the cost of a final dry climb, you climb to this emblematic summit of the Basque Country.\n\nThen, you go back down through the forest, before following another path which crosses a small place where there is a Basque pelota wall. You then plunge onto a small stony path which leads to Laxia. A few meters further, on the edge of the Nice, is the famous Pas de Roland. From there, all you have to do is follow the beautiful road which winds through the gorges towards Itxassou.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Itxassou is a pretty little village in the heart of the Basque Country. Crossed by the Nive, Itxassou has typical Basque architecture. The village partly owes its reputation to Itxassou cherries. Also worth discovering is the Rabbit Forest, a space dedicated to dozens of species of rabbit. You will find many restaurants there which offer local gastronomy.",
+    "Culminating at 749 meters, Mondarrain is an iconic peak in the Basque Country. Its particular shape makes it easy to distinguish. The “Mount of Eagles” in Basque offers a magnificent view of the surrounding area including its neighbor, Artzamendi.",
+    "The Pas de Roland is a gorge dug by the Nive on the outskirts of Itxassou en Labourd. Located at the bottom of the gorge, the path runs along beautiful cliffs in a remarkable mineral setting. The road follows the river, in the Basque hinterland in a pleasant and bucolic atmosphere."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.02628815,
+    "unknown": 0.12271667,
+    "paved": 0.14790843,
+    "asphalt": 0.16593547,
+    "alpin": 0.2156404,
+    "unpaved": 0.32151088
+  },
+  "way_types": {
+    "minor_road": 0.13036765,
+    "hiking_path": 0.18344751,
+    "street": 0.20270407,
+    "mountain_hiking_path": 0.23347355,
+    "way": 0.2500072
+  },
+  "waypoints": [
+    {
+      "name": "Itxassou",
+      "lat": 43.3327,
+      "lng": -1.4107,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "religious_building",
+        "forest",
+        "family_friendly",
+        "river",
+        "settlement"
+      ],
+      "highlight_id": 5537862
+    },
+    {
+      "name": "Mondarrain",
+      "lat": 43.30192,
+      "lng": -1.43212,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate"
+      ],
+      "highlight_id": 2829786
+    },
+    {
+      "name": "Roland's Pass",
+      "lat": 43.31418,
+      "lng": -1.400529,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "trail",
+        "river",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "historical_site"
+      ],
+      "highlight_id": 795097
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.785714149475098,
+  "rating_count": 84,
+  "visitors": 388,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-30T10:43:13.679Z",
+  "changed_at": "2024-06-13T14:50:40.835Z",
+  "scraped_at": "2026-04-27T11:18:54.982968+00:00"
+}

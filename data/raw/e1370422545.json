@@ -1,0 +1,142 @@
+{
+  "tour_id": "e1370422545",
+  "url": "https://www.komoot.com/smarttour/e1370422545",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1370422545/saint-etienne-de-baigorry-to-saint-jean-pied-de-port",
+  "name": "Saint-Étienne-de-Baïgorry to Saint-Jean-Pied-de-Port",
+  "name_original": "De Saint-Étienne-de-Baïgorry à Saint-Jean-Pied-de-Port",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 18475.616614847804,
+  "duration_s": 9618,
+  "elevation_up_m": 914.5876048335168,
+  "elevation_down_m": 897.729779773569,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 43.178552,
+  "start_lng": -1.340962,
+  "start_alt_m": 154.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This route takes up a classic stage of the GR 10, the one which links Saint-Étienne-de-Baïgorry to Saint-Jean-Pied-de-Port. The route, particularly well marked, winds as close as possible to the summits of Oilarandoi, Munhogain and Munhoa. Note that a bus connection between the villages is operated by line 10 of the Txik Txak company. All the information here: https://www.txiktxak.fr/.\n\nYou leave the center of Saint-Étienne-de-Baïgorry following the red and white markings of the GR 10 which will be your guide for the day. The route begins with a steep climb which takes place in a shaded area. When the vegetation becomes scarce, a beautiful view of the Aldudes valley is offered to you.\n\nThe path continues around the Oilarandoi peak and its summit chapel. If you wish, a variant climbs there before returning to the GR 10 a little further on. Otherwise the route evolves on the sides of the mountain towards the Aharza pass. From here, you explore the foothills of a new summit, that of Munhogain, which you can also cross with a small detour.\n\nThe Munhoa and its 1,023 meters of altitude constitute the highest point of the outing. It offers beautiful views of the adjoining valleys before embarking on the descent. This last section is done via wide tracks then ends with the road, near Lasse and its palombières.\n\nSaint-Jean-Pied-de-Port then extends its arms to you. This medieval town of character and typical of the Basque Country forms an ideal destination. The numerous restaurants, bars and shops present provide a wonderful conclusion to your outing.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "Superb view of the Nive des Aldudes valley. This valley is traversed by a stream of the same name which flows into the Nive de Baigorry.",
+    "The Aharza or Ahartza pass is on the GR 10 trail. This pretty belvedere is the access point to several peaks such as the Oilarandoi. It also has a nearby car park.",
+    "The Munhoa is a peak in the French Basque Country which culminates at 1,023 meters above sea level. Its toponymy finds its origin in the Basque word muino which means hill.\r\n\r\nFrom this mountain you can admire the valleys of Luzaide and Baïgorry separated by the Adartza massif.",
+    "Saint-Jean-Pied-de-Port is a medieval town that is definitely worth a visit. Plan a walk along the ramparts. You will be impressed by the large amount of hostels for pilgrims. It's normal, here converge several roads of the way of Saint-Jacques!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.017297074,
+    "alpin": 0.10097879,
+    "asphalt": 0.13824911,
+    "paved": 0.32004264,
+    "unpaved": 0.42343238
+  },
+  "way_types": {
+    "footway": 0.0031884287,
+    "primary": 0.021110203,
+    "minor_road": 0.09713001,
+    "mountain_hiking_path": 0.10097879,
+    "street": 0.1906781,
+    "hiking_path": 0.22136916,
+    "way": 0.3655453
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.17706,
+      "lng": -1.34189,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "View over the Aldudes Valley",
+      "lat": 43.16295,
+      "lng": -1.33697,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "valley"
+      ],
+      "highlight_id": 3761082
+    },
+    {
+      "name": "Aharza Pass",
+      "lat": 43.14468,
+      "lng": -1.33521,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass"
+      ],
+      "highlight_id": 3138707
+    },
+    {
+      "name": "Munhoa Summit",
+      "lat": 43.14201,
+      "lng": -1.30708,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 935045
+    },
+    {
+      "name": "Saint-Jean-Pied-de-Port",
+      "lat": 43.1622,
+      "lng": -1.2373,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "family_friendly",
+        "settlement"
+      ],
+      "highlight_id": 761411
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "river",
+    "settlement",
+    "summit",
+    "valley",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 40,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-08T18:04:59.515Z",
+  "changed_at": "2024-06-11T23:51:24.478Z",
+  "scraped_at": "2026-04-27T15:18:54.080331+00:00"
+}

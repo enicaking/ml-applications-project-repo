@@ -1,0 +1,108 @@
+{
+  "tour_id": "e936958644",
+  "url": "https://www.komoot.com/smarttour/e936958644",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e936958644/iron-and-coal-route-circular-from-ripoll-to-ogassa-llances",
+  "name": "Iron and Coal Route - Circular from Ripoll to Ogassa & Llances",
+  "name_original": "Ruta del Hierro y el Carbón - Circular desde Ripoll hasta Ogassa & Llances",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 33693.59229315198,
+  "duration_s": 8703,
+  "elevation_up_m": 651.3102532120178,
+  "elevation_down_m": 650.3819681338629,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.195832,
+  "start_lng": 2.196473,
+  "start_alt_m": 685.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small town that deserves a cycling visit. Continuing on the road, we have different cycling options. To the west we ascend the Jou pass and then down to the Freser valley passing Ribes. To the east, we string a series of puzzle walls to the town of Camprodón. In some sections the asphalt is in poor condition.",
+    "Beautiful and quiet neck. Very hard on the north slope. Softer to the south. It runs parallel to the Santigosa pass"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0045950133,
+    "sb#cobbles": 0.0073550693,
+    "sb#compacted": 0.008242698,
+    "sb#asphalt": 0.23977798,
+    "sb#paved": 0.7400292
+  },
+  "way_types": {
+    "service": 0.0045950133,
+    "way": 0.007793414,
+    "primary": 0.019177413,
+    "minor_road": 0.031198865,
+    "street": 0.38021007,
+    "cycleway": 0.5570252
+  },
+  "waypoints": [
+    {
+      "name": "Molí de Malatosca",
+      "lat": 42.241512,
+      "lng": 2.289147,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5054547
+    },
+    {
+      "name": "Ogassa Village",
+      "lat": 42.265901,
+      "lng": 2.27736,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 1139189
+    },
+    {
+      "name": "Coll de les Llances",
+      "lat": 42.20749,
+      "lng": 2.276013,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging"
+      ],
+      "highlight_id": 2649763
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 10,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T10:07:51.806Z",
+  "changed_at": "2024-06-05T08:29:35.272Z",
+  "scraped_at": "2026-04-29T00:29:16.403487+00:00"
+}

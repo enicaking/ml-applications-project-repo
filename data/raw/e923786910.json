@@ -1,0 +1,114 @@
+{
+  "tour_id": "e923786910",
+  "url": "https://www.komoot.com/smarttour/e923786910",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e923786910/climb-to-the-mythical-vallter2000-capcaleres-del-ter-cavallera-natural-park",
+  "name": "Climb to the mythical Vallter2000 - Capçaleres del Ter & Cavallera Natural Park",
+  "name_original": "Subida al mítico Vallter2000 - Parque Natural Capçaleres del Ter & Cavallera",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 80297.89008994329,
+  "duration_s": 17659,
+  "elevation_up_m": 1997.8352440632498,
+  "elevation_down_m": 1998.3652089750549,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.235983,
+  "start_lng": 2.288521,
+  "start_alt_m": 785.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Municipality of the Ripollés region (Girona) located north of the Camprodón valley, at the head of the river Ter and to which the Vallter 2000 ski resort belongs.",
+    "Typical port of the region and Catalonia. End of stage of several editions of the Tour of Catalonia. Busy for skiers and mountaineers in winter and cyclists and hikers the rest of the year. The part above has a series of very beautiful and aesthetic \"lacets\".",
+    "Very nice cement road, with great views.\r\nYou can not run too much as it is very boggy."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#unpaved": 0.00013863036,
+    "unknown": 0.0003420965,
+    "sb#cobbles": 0.0015187644,
+    "sb#paved": 0.19044006,
+    "sb#asphalt": 0.80756044
+  },
+  "way_types": {
+    "trail": 2.8868635e-05,
+    "minor_road": 0.0128026195,
+    "cycleway": 0.03805936,
+    "way": 0.1306423,
+    "primary": 0.15954058,
+    "street": 0.65892625
+  },
+  "waypoints": [
+    {
+      "name": "Setcases",
+      "lat": 42.37577,
+      "lng": 2.302598,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "unknown",
+        "historical_site"
+      ],
+      "highlight_id": 3482494
+    },
+    {
+      "name": "Vallter 2000 Mountain Pass",
+      "lat": 42.426663,
+      "lng": 2.265211,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "challenging",
+        "climb"
+      ],
+      "highlight_id": 1138617
+    },
+    {
+      "name": "Ogassa Cement Road",
+      "lat": 42.283184,
+      "lng": 2.308553,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "challenging",
+        "cycle_way",
+        "viewpoint"
+      ],
+      "highlight_id": 2607339
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "mountain_pass",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 6,
+  "visitors": 783,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-12T10:27:48.078Z",
+  "changed_at": "2024-06-05T05:23:28.146Z",
+  "scraped_at": "2026-04-28T20:26:00.337672+00:00"
+}

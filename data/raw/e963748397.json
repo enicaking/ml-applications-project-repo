@@ -1,0 +1,158 @@
+{
+  "tour_id": "e963748397",
+  "url": "https://www.komoot.com/smarttour/e963748397",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963748397/saint-jean-de-luz-to-santa-barbara-cross-loop",
+  "name": "Saint-Jean-de-Luz to Santa Barbara Cross Loop",
+  "name_original": "Boucle de Saint-Jean-de-Luz à la Croix Santa Barbara",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 30176.81410850742,
+  "duration_s": 8128,
+  "elevation_up_m": 414.778224661459,
+  "elevation_down_m": 414.446011935773,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.386558,
+  "start_lng": -1.659455,
+  "start_alt_m": 3.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 18.8-mile mountain bike loop from Saint-Jean-de-Luz to Croix Santa Barbara offers panoramic views of the Basque coast.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Very accessible mountain bike, bicycle, car... but very beautiful.",
+    "Nice gravel roads passing this what seems to be a stylish protest against another high speed train route!",
+    "Viewpoint at the top of Lizardia! At the top, this tribute cross from 1938, very often surrounded by wild pottocks, is a great reward for the climb!"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of this mountain bike trail?",
+      "answer": "This mountain bike trail is rated as <strong>moderate</strong>. It spans approximately 30.2 kilometers with an elevation gain of about 410 meters. While suitable for all skill levels, it requires good physical fitness due to its length and elevation. Some sections, like an eroded climbing track and steep forest paths, suggest a technical difficulty level of S2 on the Single Track Scale."
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "The route offers a varied terrain. You'll ride on paved streets, dedicated bike paths, and other roads for a significant portion. There's also an earthen forest path with a steep climb and an eroded track that ascends. You'll cross an old stone bridge and follow an evident ridge path leading to the Santa Barbara cross."
+    },
+    {
+      "question": "What are the main points of interest along the way?",
+      "answer": "The trail offers several remarkable sights. You'll pass by the <a href=\"https://www.komoot.com/highlight/4475952\" target=\"_blank\" rel=\"noopener\">View of the Archilua Cross</a> and the <a href=\"https://www.komoot.com/highlight/1858756\" target=\"_blank\" rel=\"noopener\">Protest Stone at Chemin de Zela</a>. A major highlight is reaching the <a href=\"https://www.komoot.com/highlight/4386895\" target=\"_blank\" rel=\"noopener\">Santa Barbara Cross (Suhalmendi)</a>, which provides exceptional panoramic views."
+    },
+    {
+      "question": "What kind of views can I expect from the Santa Barbara Cross?",
+      "answer": "From the Santa Barbara Cross, you'll be treated to unparalleled 360-degree panoramic views. These include the Nivelle valley, the entire Basque coast, the beautiful bay of Saint-Jean-de-Luz, and the historic Fort de Socoa. On clear days, you can see the coastline stretching as far as Anglet and prominent peaks like Jaizkibel, La Rhune, and Artzamendi in the mountainous backdrop."
+    },
+    {
+      "question": "Is the Boucle de Saint-Jean-de-Luz à la Croix Santa Barbara suitable for families?",
+      "answer": "While the trail is rated moderate and requires good physical fitness due to its length and elevation, it is generally suitable for all skill levels. Families with experienced young riders who are comfortable with varied terrain, including some steep and eroded sections, could enjoy it. However, less experienced families might find the full 30.2 km challenging."
+    },
+    {
+      "question": "What is the best time of year to ride this trail?",
+      "answer": "The trail can be enjoyed during many seasons, but spring and autumn generally offer the most pleasant conditions with milder temperatures and beautiful scenery. Summer can be good, but be prepared for potentially warmer weather. Always check local weather conditions before heading out, especially for rain which can affect trail surfaces."
+    },
+    {
+      "question": "Does the trail intersect with other well-known paths?",
+      "answer": "Yes, the route incorporates sections of several other paths. You'll find yourself on parts of La route des contrebandiers, La route des cols Hendaye - Larrau, Véloroute de la Rhune, and the Northern Route (Basque Country), among others."
+    },
+    {
+      "question": "Is the Boucle de Saint-Jean-de-Luz à la Croix Santa Barbara dog-friendly?",
+      "answer": "The trail itself is generally accessible for dogs, but specific regulations regarding leashes can vary depending on the exact sections you are on, especially near populated areas or protected natural zones. It's always best to keep your dog on a leash for their safety and to respect wildlife and other trail users. Remember to bring water for your dog, especially on longer rides."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "Specific parking information for the start of the 'Boucle de Saint-Jean-de-Luz à la Croix Santa Barbara' is not detailed in the provided data. However, as it starts and ends in Saint-Jean-de-Luz, you would typically look for public parking options within the town or near the initial sections of the route. It's advisable to check local parking availability in Saint-Jean-de-Luz before your visit."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this trail?",
+      "answer": "Based on the available information, there are no specific permits or entrance fees mentioned for accessing the 'Boucle de Saint-Jean-de-Luz à la Croix Santa Barbara' mountain bike trail. It appears to be freely accessible."
+    },
+    {
+      "question": "Are there any unique natural features along the route?",
+      "answer": "Yes, beyond the panoramic views, the trail traverses the wild and secluded Uzkain river valley. This tranquil area, without road access, offers a peaceful experience with the sounds of nature, fresh stream water, and intriguing 'trognes' (ancient pollarded trees). You'll also pass through charming traditional Basque houses in the initial sections."
+    }
+  ],
+  "surfaces": {
+    "sm#gravel": 0.0019932827,
+    "sm#nature": 0.021812443,
+    "unknown": 0.13741313,
+    "sm#paved": 0.21398716,
+    "sm#unpaved": 0.30618706,
+    "sm#asphalt": 0.3186069
+  },
+  "way_types": {
+    "service": 0.005171452,
+    "trail": 0.04215025,
+    "primary": 0.11191082,
+    "way": 0.19429345,
+    "street": 0.19454126,
+    "cycleway": 0.21172073,
+    "minor_road": 0.24021202
+  },
+  "waypoints": [
+    {
+      "name": "View of the Archilua Cross",
+      "lat": 43.404522,
+      "lng": -1.649764,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "beach",
+        "intermediate"
+      ],
+      "highlight_id": 4475952
+    },
+    {
+      "name": "Protest Stone at Chemin de Zela",
+      "lat": 43.386665,
+      "lng": -1.582856,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1858756
+    },
+    {
+      "name": "Santa Barbara Cross (Suhalmendi)",
+      "lat": 43.355931,
+      "lng": -1.587304,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "man_made_monument",
+        "mtb_park",
+        "intermediate",
+        "family_friendly"
+      ],
+      "highlight_id": 4386895
+    }
+  ],
+  "categories": [
+    "beach",
+    "family_friendly",
+    "intermediate",
+    "man_made_monument",
+    "mtb_park",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.2,
+  "rating_count": 25,
+  "visitors": 65,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-27T07:42:55.727Z",
+  "changed_at": "2026-02-26T18:44:56.918Z",
+  "scraped_at": "2026-04-28T15:00:37.751762+00:00"
+}

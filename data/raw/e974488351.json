@@ -1,0 +1,89 @@
+{
+  "tour_id": "e974488351",
+  "url": "https://www.komoot.com/smarttour/e974488351",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e974488351/the-balconies-of-sode-trail-loop-starting-from-bagneres-de-luchon",
+  "name": "The balconies of Sode - trail loop starting from Bagnères-de-Luchon",
+  "name_original": "Les balcons de Sode – boucle trail au départ Bagnères-de-Luchon",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 8151.413374928832,
+  "duration_s": 4205,
+  "elevation_up_m": 351.91442407168586,
+  "elevation_down_m": 351.91442407168586,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.804876,
+  "start_lng": 0.600516,
+  "start_alt_m": 614.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nice views over the Luchon valley and the Pyrenees.",
+    "This pretty waterfall is located on the heights of Juzet-de-Luchon. Its long, so-called ponytail waterfall is worth taking the small path that leads to it."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.040245023,
+    "paved": 0.05734775,
+    "unpaved": 0.15330604,
+    "asphalt": 0.2566808,
+    "nature": 0.4924204
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.029395083,
+    "minor_road": 0.039099902,
+    "way": 0.1785695,
+    "street": 0.2566808,
+    "hiking_path": 0.49625474
+  },
+  "waypoints": [
+    {
+      "name": "Sode Viewpoint",
+      "lat": 42.815917,
+      "lng": 0.61517,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3882002
+    },
+    {
+      "name": "Juzet-de-Luchon Waterfall",
+      "lat": 42.808869,
+      "lng": 0.611345,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate"
+      ],
+      "highlight_id": 3574229
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 26,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-07T15:09:14.528Z",
+  "changed_at": "2024-06-06T03:30:17.726Z",
+  "scraped_at": "2026-04-27T15:45:35.529518+00:00"
+}

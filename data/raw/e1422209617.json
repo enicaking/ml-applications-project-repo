@@ -1,0 +1,113 @@
+{
+  "tour_id": "e1422209617",
+  "url": "https://www.komoot.com/smarttour/e1422209617",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422209617/lac-de-gaube-and-refuge-des-oulettes",
+  "name": "Lac de Gaube and Refuge des Oulettes ",
+  "name_original": "Le lac de Gaube et le refuge des Oulettes",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16462.14480916934,
+  "duration_s": 19199,
+  "elevation_up_m": 688.1993330871364,
+  "elevation_down_m": 687.5906351014823,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.851619,
+  "start_lng": -0.137021,
+  "start_alt_m": 1484,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This is one of the most emblematic hikes in the Pyrenees. This pretty route connects the Pont d’Espagne to the superb Oulettes refuge. To do this, the route follows the markings of the GR 10 route. Along the way, you will discover the famous Gaube lake and incomparable landscapes. If you wish, you can limit yourself to the part that leads to the lake, which is already a very nice outing.\n\nFrom the paid parking lot of the Pont d'Espagne, you quickly reach this iconic footbridge. Located between two rock walls downstream of a beautiful waterfall, the bridge sets the tone from the start. Following the red and white marks of the GR 10, you immerse yourself in a beautiful Scots pine forest. The clicking of the stream punctuates your steps as you progress.\n\nAs you advance, Lake Gaube reveals itself. Arriving at the hotel, treat yourself to an unforgettable break. Lake Gaube is one of the best known in the Pyrenees. The beauty of this site inspired a multitude of romantic artists, including Victor Hugo. The eternal snows of Vignemale are reflected in its clear waters.\n\nThe route continues on a very pleasant section which runs along its banks. Then, a brief climb leads to a large plateau nestled in the hollow of the valley. Here, pastoralism mixes with wildlife. By being attentive, you can observe numerous marmots around the rocks which litter the path.\n\nA small waterfall presents itself to you, offering a superb panorama, with the Vignemale in the background. At the end of the valley, you reach the Oulettes refuge. Its exceptional panorama of the Vignemale rewards all the efforts made. Culminating at 3,298 meters, it is the highest peak in the French Pyrenees. Enjoy every second of your encounter before turning back, taking the same route as on the way out.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Pont d'Espagne, beyond the construction, is an exceptional natural site where waterfalls follow one another. It is the starting point for many hikes and walks which lead to Lac de Gaube and to the Oulettes glacier. Others take you to the Marcadau valley or to the banks of Lake Ilhéou, where you can spend the night in a refuge. From Cauterets, the site which is located in the heart of the Pyrenees national park is accessible by transport (choose the bus rather than your car), by chairlift but also on foot via the GR10.",
+    "Lake Gaube is one of the wonders of the GR10. This lake highlights in the landscape the Vignemale massif which is located at the bottom of the valley 600 meters higher. Its ease of access makes it a privileged site for day walkers, and its beauty attracts crowds, but don't deprive yourself of stopping for a moment. The spectacle is magnificent both upstream and downstream of the lake. The Hôtellerie du lac de Gaube will also be an opportunity for a little refreshment or a particularly nice snack if you are arriving from the Haute Route Pyrénéenne (HRP).",
+    "Located at the foot of Vignemale in the hollow of the Gaube valley, the Oulettes refuge enjoys an exceptional location in the heart of the mountain. Relatively large, it has a capacity of 95 people. More information here: https://refugeoulettesdegaube.ffcam.fr/"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0056255776,
+    "unpaved": 0.9943744
+  },
+  "way_types": {
+    "footway": 0.004528642,
+    "way": 0.017060624,
+    "minor_road": 0.03147816,
+    "hiking_path": 0.94693255
+  },
+  "waypoints": [
+    {
+      "name": "View of the Pont d'Espagne waterfalls",
+      "lat": 42.85101,
+      "lng": -0.13992,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "bridge",
+        "lake",
+        "family_friendly",
+        "river"
+      ],
+      "highlight_id": 94909
+    },
+    {
+      "name": "Lake Gaube",
+      "lat": 42.834563,
+      "lng": -0.139314,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 94910
+    },
+    {
+      "name": "Oulettes de Gaube Mountain Hut",
+      "lat": 42.792878,
+      "lng": -0.141476,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "accomodation",
+        "pub",
+        "restaurant"
+      ],
+      "highlight_id": 2730895
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "bridge",
+    "family_friendly",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "pub",
+    "restaurant",
+    "river",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.768116,
+  "rating_count": 138,
+  "visitors": 1789,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-25T10:33:58.982Z",
+  "changed_at": "2024-06-13T13:15:39.920Z",
+  "scraped_at": "2026-04-27T11:31:22.389678+00:00"
+}

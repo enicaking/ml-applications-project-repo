@@ -1,0 +1,118 @@
+{
+  "tour_id": "e1427014842",
+  "url": "https://www.komoot.com/smarttour/e1427014842",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1427014842/mount-errebi-and-the-chapel-in-ainhoa",
+  "name": "Mount Errebi and the chapel in Ainhoa ",
+  "name_original": "Le mont Errebi et la chapelle d’Ainhoa",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7474.8469875979645,
+  "duration_s": 9562,
+  "elevation_up_m": 439.96189161409956,
+  "elevation_down_m": 440.34633568356685,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.306798,
+  "start_lng": -1.498767,
+  "start_alt_m": 122,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This pretty little loop is accessible to hikers of all levels. Growing on the heights of the picturesque village of Ainhoa, it offers superb panoramas. In addition to its pretty landscapes, the route takes two emblematic routes of the region: the GR 10 and the Camino de Santiago.\n\nThe start of the route is in the center of the typically Basque village of Ainhoa. Its houses with colorful facades give it an authentic charm. In a few streets, you are already at the exit of the village. A wide track winds up the sides of the hill. This leads to the chapel of the Hawthorn and the three crosses. In addition to its religious dimension, this place offers you a spectacular view that stretches all the way to the Atlantic coast.\n\nShortly after, you leave the GR 10 markings to climb Mount Errebi. The climb is as short as it is steep. However, arriving at the summit gives you a beautiful panorama of the surrounding mountains, including the Mondarrain and the Artzamendi.\n\nThen, a fairly steep descent finds the GR 10 then, a little further, you join the Chemin de Compostela. Following in the footsteps of the pilgrims, all you have to do is return to the center of Ainhoa.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "In the heart of the Basque Country, Ainhoa is considered one of the most beautiful villages in France. Its typical Basque houses are notably on the way to Compostela as well as the GR 10.",
+    "Disappointing place! The stelae are decorated with Basque crosses, few sources allow us to define the date of these stelae",
+    "Mount Errebi culminates at 583 meters above sea level. This summit, which looks like a large grassy bump, dominates the village of Ainhoa and offers a pretty panorama of the Pyrenees chain and the Atlantic coast."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.07609063,
+    "gravel": 0.079020426,
+    "paved": 0.100589365,
+    "unpaved": 0.19790612,
+    "unknown": 0.2617023,
+    "nature": 0.28469115
+  },
+  "way_types": {
+    "footway": 0.017831828,
+    "street": 0.07366237,
+    "minor_road": 0.12731516,
+    "hiking_path": 0.28397915,
+    "way": 0.4972115
+  },
+  "waypoints": [
+    {
+      "name": "Ainhoa",
+      "lat": 43.306603,
+      "lng": -1.498783,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 3412283
+    },
+    {
+      "name": "Discoidal Steles and Three Crosses of Xareta",
+      "lat": 43.30395,
+      "lng": -1.48166,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "intermediate",
+        "viewpoint",
+        "historical_site",
+        "archeological_site",
+        "man_made_monument",
+        "religious_building",
+        "challenging"
+      ],
+      "highlight_id": 1033924
+    },
+    {
+      "name": "Mont Errebi",
+      "lat": 43.305126,
+      "lng": -1.471928,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2529385
+    }
+  ],
+  "categories": [
+    "archeological_site",
+    "challenging",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "religious_building",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.633333206176758,
+  "rating_count": 30,
+  "visitors": 110,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-30T09:23:27.791Z",
+  "changed_at": "2024-06-13T14:48:28.840Z",
+  "scraped_at": "2026-04-27T11:08:37.339330+00:00"
+}

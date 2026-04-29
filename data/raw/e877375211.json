@@ -1,0 +1,130 @@
+{
+  "tour_id": "e877375211",
+  "url": "https://www.komoot.com/smarttour/e877375211",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e877375211/great-lakes-hike",
+  "name": "Great Lakes Hike",
+  "name_original": "Grande randonnée des lacs",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21078.37518691778,
+  "duration_s": 26743,
+  "elevation_up_m": 1132.5050665579463,
+  "elevation_down_m": 1132.505066557946,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.853507,
+  "start_lng": -0.133945,
+  "start_alt_m": 1468.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Pont d'Espagne, beyond the construction, is an exceptional natural site where waterfalls follow one another. It is the starting point for many hikes and walks which lead to Lac de Gaube and to the Oulettes glacier. Others take you to the Marcadau valley or to the banks of Lake Ilhéou, where you can spend the night in a refuge. From Cauterets, the site which is located in the heart of the Pyrenees national park is accessible by transport (choose the bus rather than your car), by chairlift but also on foot via the GR10.",
+    "Beautifully situated lake in the Pyrenees.",
+    "Magnificent high mountain lake perched at an altitude of 2,417 metres. Its banks offer beautiful places to rest while opening up wide panoramas of the surrounding peaks.",
+    "A long technical and difficult climb but which gives us the reward of seeing this beautiful lake.... But after that we have to climb again and again to see the other lakes before starting the descent and returning to the Pont d'Espagne. A superb hike although long and intense. Be in good shape and sporty to do this recovery."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.0082337465,
+    "paved": 0.011172133,
+    "unknown": 0.050620876,
+    "alpin": 0.10113986,
+    "nature": 0.14664136,
+    "unpaved": 0.682192
+  },
+  "way_types": {
+    "footway": 0.0068505933,
+    "street": 0.0082337465,
+    "mountain_hiking_path": 0.10113986,
+    "minor_road": 0.10418927,
+    "way": 0.23524635,
+    "hiking_path": 0.5443402
+  },
+  "waypoints": [
+    {
+      "name": "View of the Pont d'Espagne waterfalls",
+      "lat": 42.85088,
+      "lng": -0.140097,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "bridge",
+        "lake",
+        "family_friendly",
+        "river"
+      ],
+      "highlight_id": 94909
+    },
+    {
+      "name": "Lake Nère",
+      "lat": 42.833668,
+      "lng": -0.203103,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 883279
+    },
+    {
+      "name": "Lac du Pourtet",
+      "lat": 42.843472,
+      "lng": -0.201259,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 3161260
+    },
+    {
+      "name": "Lac de l'Embarrat",
+      "lat": 42.840967,
+      "lng": -0.182977,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 4631969
+    }
+  ],
+  "categories": [
+    "bridge",
+    "challenging",
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "river",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.833333492279053,
+  "rating_count": 78,
+  "visitors": 803,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-08T08:28:13.533Z",
+  "changed_at": "2024-06-05T00:10:56.665Z",
+  "scraped_at": "2026-04-27T11:31:35.969760+00:00"
+}

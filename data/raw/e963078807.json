@@ -1,0 +1,93 @@
+{
+  "tour_id": "e963078807",
+  "url": "https://www.komoot.com/smarttour/e963078807",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963078807/boucle-de-saint-jean-pied-de-port-a-saint-etienne-de-baigorry",
+  "name": "Boucle de Saint-Jean-Pied-de-Port à Saint-Etienne-De Baigorry",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 36797.237460251665,
+  "duration_s": 12960,
+  "elevation_up_m": 1236.4680348782376,
+  "elevation_down_m": 1236.3136530250483,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.165029,
+  "start_lng": -1.232391,
+  "start_alt_m": 164.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "If you want to avoid the road, here begins the main trail, a path that offers breathtaking views of the mountains."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.025489127,
+    "sm#asphalt": 0.21866071,
+    "sm#unpaved": 0.3193748,
+    "sm#paved": 0.43647537
+  },
+  "way_types": {
+    "service": 0.0033455263,
+    "trail": 0.047381774,
+    "primary": 0.055691656,
+    "minor_road": 0.10439539,
+    "street": 0.35970414,
+    "way": 0.42948154
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.177282,
+      "lng": -1.341952,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "Alternative to road: main path",
+      "lat": 43.148186,
+      "lng": -1.295223,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4394037
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "river",
+    "settlement"
+  ],
+  "tags": [],
+  "rating_score": 3.3333332538604736,
+  "rating_count": 3,
+  "visitors": 11,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-26T11:30:21.510Z",
+  "changed_at": "2024-05-31T09:23:02.916Z",
+  "scraped_at": "2026-04-28T15:01:51.666256+00:00"
+}

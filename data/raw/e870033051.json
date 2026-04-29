@@ -1,0 +1,103 @@
+{
+  "tour_id": "e870033051",
+  "url": "https://www.komoot.com/smarttour/e870033051",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e870033051/along-the-coast-starting-from-guethary",
+  "name": "Along the coast starting from Guéthary",
+  "name_original": "Le long du littoral à partir de Guéthary",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7581.326955039299,
+  "duration_s": 7400,
+  "elevation_up_m": 106.43524236182209,
+  "elevation_down_m": 102.67790506986361,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.426001,
+  "start_lng": -1.608716,
+  "start_alt_m": 27.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Chinringuito Kostaldea has the best view of the sea, the best chipirones, the best rosé ...",
+    "Incredible viewpoint in a calm atmosphere with the sound of the waves on the boats and the beautiful view.",
+    "Great views in good weather can be seen by the surfers."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.013107825,
+    "paved": 0.03973585,
+    "unpaved": 0.07401965,
+    "nature": 0.10499753,
+    "gravel": 0.17747752,
+    "asphalt": 0.59066164
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.014606925,
+    "way": 0.06708907,
+    "hiking_path": 0.17365466,
+    "street": 0.20326784,
+    "footway": 0.23396087,
+    "minor_road": 0.30742064
+  },
+  "waypoints": [
+    {
+      "name": "Panoramic trail",
+      "lat": 43.429337,
+      "lng": -1.602758,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 316787
+    },
+    {
+      "name": "Port of Guéthary",
+      "lat": 43.42597,
+      "lng": -1.609655,
+      "type": "unknown",
+      "categories": [
+        "port_harbour"
+      ],
+      "highlight_id": 3411584
+    },
+    {
+      "name": "Coastal Path",
+      "lat": 43.421956,
+      "lng": -1.618651,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint",
+        "beach"
+      ],
+      "highlight_id": 456018
+    }
+  ],
+  "categories": [
+    "beach",
+    "intermediate",
+    "port_harbour",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.375,
+  "rating_count": 16,
+  "visitors": 102,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-03T09:07:25.763Z",
+  "changed_at": "2024-06-05T19:42:08.119Z",
+  "scraped_at": "2026-04-27T11:36:10.961563+00:00"
+}

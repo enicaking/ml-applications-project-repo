@@ -1,0 +1,126 @@
+{
+  "tour_id": "e938223861",
+  "url": "https://www.komoot.com/smarttour/e938223861",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e938223861/hermitage-fort-and-dolmen-of-santa-elena-from-biescas",
+  "name": "Hermitage, Fort and Dolmen of Santa Elena from Biescas",
+  "name_original": "Ermita, Fuerte y Dolmen de Santa Elena desde Biescas",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10662.55145038638,
+  "duration_s": 11273,
+  "elevation_up_m": 294.0335151298274,
+  "elevation_down_m": 294.0335151298274,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.628597,
+  "start_lng": -0.321376,
+  "start_alt_m": 857.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "I wouldn't have expected it here.\n\nIn addition to the Santa Elena dolmen, there are several testimonies of this type, e.g. in Guarrinza, on the ascent to Puerto del Palo, Canal Roya and Puerto de Escalé.\n\nhttps://es.wikipedia.org/wiki/Dólmenes_de_Santa_Elena_(Biescas)",
+    "The construction of Fort Santa Elena began in the reign of Felipe II (1527-1598) as part of the fortification of the border with France. It was partially destroyed during the War of Independence (1807 - 1814) and rebuilt between 1884 and 1889. In 1905 it was rebuilt again and has been used for civilian purposes since 1926.\n\nIn 2004 the Ministry of Defense sold the facility to a private investor.\n\nhttps://es.wikipedia.org/wiki/Fuerte_de_Santa_Elena",
+    "House of Saint Helena",
+    "Legend has it that Saint Helena took refuge in the cave from which the fountain flows and was protected by a spider's web until the danger that awaited her passed. When he came out of the cave, the spring gushed out and for this reason the hermitage was built in his honor in this place."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.03823997,
+    "unknown": 0.038487535,
+    "paved": 0.05856277,
+    "unpaved": 0.14991501,
+    "gravel": 0.1662451,
+    "nature": 0.5485496
+  },
+  "way_types": {
+    "street": 0.0040774457,
+    "minor_road": 0.057775557,
+    "way": 0.3396964,
+    "hiking_path": 0.5984506
+  },
+  "waypoints": [
+    {
+      "name": "Dolmen of Santa Elena",
+      "lat": 42.659408,
+      "lng": -0.318542,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "natural_monument",
+        "man_made_monument"
+      ],
+      "highlight_id": 4761604
+    },
+    {
+      "name": "Fort of Santa Elena",
+      "lat": 42.66147,
+      "lng": -0.32093,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "man_made_monument"
+      ],
+      "highlight_id": 5069757
+    },
+    {
+      "name": "Casa de Santa Eulalia",
+      "lat": 42.663302,
+      "lng": -0.320575,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 4326491
+    },
+    {
+      "name": "Santa Elena Hermitage and Fountain",
+      "lat": 42.662879,
+      "lng": -0.320858,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "other_man_made",
+        "family_friendly",
+        "intermediate",
+        "natural_monument",
+        "cave"
+      ],
+      "highlight_id": 4326488
+    }
+  ],
+  "categories": [
+    "cave",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "religious_building"
+  ],
+  "tags": [],
+  "rating_score": 4.588235378265381,
+  "rating_count": 17,
+  "visitors": 97,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-28T09:14:33.801Z",
+  "changed_at": "2024-07-24T09:28:18.979Z",
+  "scraped_at": "2026-04-27T11:12:43.952434+00:00"
+}

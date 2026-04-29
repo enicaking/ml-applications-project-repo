@@ -1,0 +1,94 @@
+{
+  "tour_id": "e949855030",
+  "url": "https://www.komoot.com/smarttour/e949855030",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e949855030/etangs-de-fontargente-loop-starting-from-the-pla-de-las-peyres-car-park",
+  "name": "Etangs de Fontargente – loop starting from the Pla de las Peyres car park",
+  "name_original": "Etangs de Fontargente – boucle au départ du parking du Pla de las Peyres",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8315.712635280213,
+  "duration_s": 12828,
+  "elevation_up_m": 452.1785060221216,
+  "elevation_down_m": 451.45131884521993,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.650575,
+  "start_lng": 1.703518,
+  "start_alt_m": 1715.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Rather than a climb to the plateau of Beille so busy. In addition you will have the possibility of a small swim in the river. Be careful on the descent, the road is quite uneven",
+    "Take in any case a towel and a swimming trunks!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.0055132126,
+    "nature": 0.013907346,
+    "unpaved": 0.01997541,
+    "asphalt": 0.028020723,
+    "alpin": 0.93258333
+  },
+  "way_types": {
+    "way": 0.003465182,
+    "street": 0.033533935,
+    "hiking_path": 0.033882756,
+    "mountain_hiking_path": 0.9291181
+  },
+  "waypoints": [
+    {
+      "name": "Pla de las Peyres",
+      "lat": 42.649468,
+      "lng": 1.703212,
+      "type": "other_natural",
+      "categories": [
+        "other_natural",
+        "river",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5160796
+    },
+    {
+      "name": "Étangs de Fontargente",
+      "lat": 42.62787,
+      "lng": 1.707802,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 711764
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "other_natural",
+    "river",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.677419185638428,
+  "rating_count": 31,
+  "visitors": 343,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-10T16:39:19.526Z",
+  "changed_at": "2024-06-05T22:18:49.432Z",
+  "scraped_at": "2026-04-27T12:15:54.335998+00:00"
+}

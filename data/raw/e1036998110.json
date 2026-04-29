@@ -1,0 +1,146 @@
+{
+  "tour_id": "e1036998110",
+  "url": "https://www.komoot.com/smarttour/e1036998110",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1036998110/heights-of-fontarabie-running-in-the-basque-country",
+  "name": "Heights of Fontarabie – running in the Basque Country",
+  "name_original": "Les hauteurs de Fontarabie — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 23040.760175391835,
+  "duration_s": 11210,
+  "elevation_up_m": 674.4965085427403,
+  "elevation_down_m": 675.2435753333667,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.391471,
+  "start_lng": -1.792247,
+  "start_alt_m": 48.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Superb loop of 23 kilometers in the Spanish Basque Country, very close to the French border.\nIn proportion to the distance, the elevation gain of approximately 650 meters is affordable. Nevertheless, it remains relatively demanding given the terrain.\n\nThe route begins at Cape Higuer in the town of Hondarribia, “Hondarribia” in Spanish. This seaside resort faces Hendaye in the bay of Chingoudy. A campsite car park allows you to park a few meters from the starting point.\n\nThe first nine kilometers are mostly uphill. The first portion takes tracks and a bit of road that runs through small forests. As you progress, the landscape clears up and very quickly some superb viewpoints open up.\nYou go around Fort Guadeloupe before climbing onto Mount Erramutz. Take the time to turn around to admire the superb view of the bay.\n\nThe path continues to climb up to Jaizkibel, the highest point of your outing. Easily recognizable by its large antenna, it suggests a magnificent 360 degree panorama. You can admire the Atlantic facade and guess its extension which sinks into Spain. On the other side, there are several peaks of the Basque Country including the Rhune.\n\nThe first part of the descent is on a rocky section before continuing on a wider track that leads to the coast. This winding portion is really nice. At the cost of short climbs and descents, you discover pretty little coves.\n\nAll you have to do is go back up along the coast to find your starting point.\nI advise you to take enough water and a small snack, because you will not find anything to sustain yourself on the way.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Located in Spain, Cape Higuer is the easternmost point of the Cantabrian Sea as well as the westernmost point of the Pyrenees range.\r\n\r\nTwo watchtowers offer magnificent views of the surrounding ocean.",
+    "The fort of Guadalupe is one of the finest defensive constructions in Hondarribia. It is located near Mount Jaizkibel. Its construction began in 1890 and lasted ten years. The fort served as a military barracks until the late 1980s.",
+    "The Jaizkibel is a mountain culminating at 545 meters in the Spanish Basque Country. It is the westernmost mountain of the Pyrenees chain. It offers a magnificent panorama over the bay of Hendaye, the Atlantic coast and Spain which is revealed little by little.",
+    "Gorgeous little cove that has beautiful sand-colored rock formations. Superb geological spectacle at the edge of the water.",
+    "Very beautiful cove on the path that runs along the coast towards Cape Higuer."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.0043660714,
+    "gravel": 0.022832321,
+    "nature": 0.11873432,
+    "alpin": 0.12409732,
+    "paved": 0.13588116,
+    "unknown": 0.1533114,
+    "unpaved": 0.44077742
+  },
+  "way_types": {
+    "minor_road": 0.005450211,
+    "mountain_hiking_path": 0.10014919,
+    "track": 0.11610115,
+    "street": 0.14006175,
+    "way": 0.19883315,
+    "hiking_path": 0.43940455
+  },
+  "waypoints": [
+    {
+      "name": "Cabo Higuer",
+      "lat": 43.39147,
+      "lng": -1.79231,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 5505019
+    },
+    {
+      "name": "Fort of Nuestra Señora de Guadalupe",
+      "lat": 43.3695,
+      "lng": -1.8199,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "man_made_monument",
+        "intermediate",
+        "castle",
+        "viewpoint"
+      ],
+      "highlight_id": 590579
+    },
+    {
+      "name": "Jaizkibel Summit",
+      "lat": 43.345322,
+      "lng": -1.855806,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "unknown"
+      ],
+      "highlight_id": 295029
+    },
+    {
+      "name": "Arlatz",
+      "lat": 43.37854,
+      "lng": -1.84011,
+      "type": "beach",
+      "categories": [
+        "beach",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 5505033
+    },
+    {
+      "name": "Errota Sein Cove",
+      "lat": 43.386092,
+      "lng": -1.813465,
+      "type": "beach",
+      "categories": [
+        "beach",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 4463990
+    }
+  ],
+  "categories": [
+    "beach",
+    "castle",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 160,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-02-22T16:53:53.789Z",
+  "changed_at": "2024-06-07T05:06:00.388Z",
+  "scraped_at": "2026-04-27T15:17:48.228283+00:00"
+}

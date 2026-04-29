@@ -1,0 +1,138 @@
+{
+  "tour_id": "e878711545",
+  "url": "https://www.komoot.com/smarttour/e878711545",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e878711545/saint-jean-de-luz-and-socoa-coastal-trail-loop",
+  "name": "Saint-Jean-de-Luz and Socoa Coastal Trail Loop",
+  "name_original": "Boucle maritime de Saint-Jean-de-Luz",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10242.435078120581,
+  "duration_s": 3862,
+  "elevation_up_m": 66.61745504640795,
+  "elevation_down_m": 66.61745504640795,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.391794,
+  "start_lng": -1.660663,
+  "start_alt_m": 12.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog this 6.4-mile (10.2 km) moderate coastal loop in Saint-Jean-de-Luz, offering panoramic views and historic landmarks.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The lighthouse, like its twin, the Ciboure lighthouse, facilitates navigation at the entrance to the port of Saint-Jean-de-Luz. Both date from 1936, based on plans by architect André Pavlovsky.",
+    "A historic defensive fortress built in 1627, the circular tower provided views of the bay and ocean."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to jog the Maritime loop of Saint-Jean-de-Luz?",
+      "answer": "This jogging route is approximately 10.2 kilometers long and generally takes about 1 hour and 5 minutes to complete at a steady jogging pace."
+    },
+    {
+      "question": "What is the terrain like on the Maritime loop of Saint-Jean-de-Luz?",
+      "answer": "The terrain is quite varied. You'll find many paved sections, especially along the promenade, but also natural coastal paths. Some parts can be narrow, unpaved, and may include slippery wooden steps between the shore and cliffs. The route features an undulating landscape with climbs and descents."
+    },
+    {
+      "question": "Is the Maritime loop of Saint-Jean-de-Luz suitable for beginners?",
+      "answer": "The route is generally considered moderate. While its 10.2 km length and 66 meters of elevation gain require good fitness for a continuous jog, many sections are accessible and mostly paved. Shorter iterations or walking parts of it can be suitable for various fitness levels, including beginners."
+    },
+    {
+      "question": "What kind of scenery and landmarks will I see along the route?",
+      "answer": "You'll be treated to stunning coastal vistas, including the beautiful beach of <a href=\"https://www.komoot.com/highlight/7311727\" target=\"_blank\" rel=\"noopener\">Saint Jean de Luz</a> with its traditional Basque houses. Key viewpoints include Pointe de Sainte-Barbe, offering panoramic views of the city and bay. You'll also pass by historic lighthouses and get views towards Ciboure and the <a href=\"https://www.komoot.com/highlight/940340\" target=\"_blank\" rel=\"noopener\">Socoa Fort</a>."
+    },
+    {
+      "question": "Does this route connect with other trails?",
+      "answer": "Yes, the Maritime loop of Saint-Jean-de-Luz is often considered a segment of the longer Sentier Littoral (Coastal Path), which extends for 25 kilometers. You'll also find sections that overlap with the Northern Route (Basque Country) and Promenade Léon Marin."
+    },
+    {
+      "question": "Where can I park to access the Maritime loop of Saint-Jean-de-Luz?",
+      "answer": "Saint-Jean-de-Luz offers several parking options, particularly near the town center and along the beachfront. It's advisable to look for public car parks in the town, especially near the promenade, which provides direct access to the loop."
+    },
+    {
+      "question": "Is the Maritime loop of Saint-Jean-de-Luz dog-friendly?",
+      "answer": "While specific regulations for this exact loop aren't detailed, coastal paths in France often require dogs to be kept on a leash. It's best to assume a leash policy, especially in populated areas and on shared paths, to ensure a pleasant experience for everyone."
+    },
+    {
+      "question": "What is the best time of year to jog the Maritime loop of Saint-Jean-de-Luz?",
+      "answer": "The trail can be enjoyed year-round, but spring and autumn offer pleasant temperatures and fewer crowds, making them ideal. Summer is also popular, though it can be busier. Winter jogging is possible, but be mindful of potentially wetter and windier conditions, especially on exposed coastal sections."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this jogging route?",
+      "answer": "No, there are no permits or entrance fees required to jog the Maritime loop of Saint-Jean-de-Luz. It's a public access route along the coast."
+    },
+    {
+      "question": "Are there facilities like cafes or restrooms along the route?",
+      "answer": "As the route passes through and around the town of <a href=\"https://www.komoot.com/highlight/7311727\" target=\"_blank\" rel=\"noopener\">Saint Jean de Luz</a>, you'll find numerous cafes, restaurants, and public restrooms, particularly along the promenade and in the town center. These are easily accessible for refreshments or breaks during your jog."
+    },
+    {
+      "question": "Is the Maritime loop of Saint-Jean-de-Luz a loop trail?",
+      "answer": "Yes, as its name suggests, this is a circular route, allowing you to start and finish in the same location without retracing your steps."
+    }
+  ],
+  "surfaces": {
+    "unpaved": 0.032492988,
+    "gravel": 0.045234665,
+    "asphalt": 0.19944263,
+    "unknown": 0.27369902,
+    "paved": 0.4491307
+  },
+  "way_types": {
+    "street": 0.024274463,
+    "hiking_path": 0.045234665,
+    "way": 0.17687784,
+    "minor_road": 0.20880692,
+    "footway": 0.5448061
+  },
+  "waypoints": [
+    {
+      "name": "Saint Jean de Luz",
+      "lat": 43.387326,
+      "lng": -1.668543,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "beach",
+        "viewpoint",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 7311727
+    },
+    {
+      "name": "Socoa Fort",
+      "lat": 43.394943,
+      "lng": -1.687048,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 940340
+    }
+  ],
+  "categories": [
+    "beach",
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 8,
+  "visitors": 723,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-09T07:06:57.871Z",
+  "changed_at": "2026-02-26T18:50:47.343Z",
+  "scraped_at": "2026-04-27T15:17:44.027550+00:00"
+}

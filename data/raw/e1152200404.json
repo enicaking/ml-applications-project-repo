@@ -1,0 +1,129 @@
+{
+  "tour_id": "e1152200404",
+  "url": "https://www.komoot.com/smarttour/e1152200404",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1152200404/loop-4-otxondo-pass-basque-country-passes",
+  "name": "Loop 4: Otxondo Pass – Basque Country passes",
+  "name_original": "Circuit 4 : Col d’Otxondo — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 56698.861391315484,
+  "duration_s": 12650,
+  "elevation_up_m": 1462.638835500043,
+  "elevation_down_m": 1462.9110435113507,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.306591,
+  "start_lng": -1.498746,
+  "start_alt_m": 121.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This loop starting from Ainhoa offers a beautiful and authentic excursion in the Spanish Basque Country. From the intimacy of its valleys to the beauty of its panoramas, you will discover a beautiful sample.\n\nThe route starts from the center of the village of Ainhoa, nestled at the foot of the Spanish border. Its architecture faithful to the Basque Country and its small shops give it an incomparable charm. Quickly, the road rises towards Dantxaria and its ventas (shops).\n\nIt is at the exit of this first Spanish village that the ascent for the Otxondo pass really begins. Regular, she understands few difficulties. As you progress, the panorama opens on the Rhune to your right. When you enter the forest, the slope becomes gentler until Otxondo. At the pass, some vestiges of fortifications remain as well as a beautiful picnic area.\n\nIn the descent, be sure to turn right on a road that climbs slightly before embarking on a section as unfrequented as it is magnificent. Crisscrossing among several preserved peaks and mountains, you evolve in a remarkable environment. A new climb, in two stages, includes some difficult percentages before undertaking a nice descent towards Etxalar.\n\nIn the village, take the time to take a break to appreciate its architecture before setting off to attack the last pass of the day, that of Lizarrieta. A few hairpins punctuate this climb, the maximum percentages of which barely exceed 6%. At the top, enjoy the view before falling into a long descent that begins in the forest. The valley opens up as you approach Ainhoa.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small col on the border between the Basque Country and France. It has a restaurant with a bar and a small shop that sells snacks and souvenirs",
+    "Known for the beauty of its houses, Etxalar is a pretty village in the Basque Country surrounded by mountains and forests. Wood pigeon hunting is one of the traditions that reinforces its authentic culture.",
+    "The Lizarrieta pass is 411 meters above sea level on the Franco-Spanish border between the villages of Sare and Etxalar. From the village of Sare the climb is about 11 kilometers long for an average of 3.3% with a maximum passage of 6.3%.",
+    "In the heart of the Basque Country, Ainhoa is considered one of the most beautiful villages in France. Its typical Basque houses are notably on the way to Compostela as well as the GR 10."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.2047314,
+    "sb#asphalt": 0.7952686
+  },
+  "way_types": {
+    "minor_road": 0.016325532,
+    "primary": 0.18425141,
+    "street": 0.79942304
+  },
+  "waypoints": [
+    {
+      "name": "Otxondo Pass",
+      "lat": 43.23703,
+      "lng": -1.49411,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "facilities",
+        "intermediate",
+        "cycle_way",
+        "restaurant"
+      ],
+      "highlight_id": 211367
+    },
+    {
+      "name": "Etxalar Village",
+      "lat": 43.234,
+      "lng": -1.6369,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "bridge",
+        "historical_site",
+        "river"
+      ],
+      "highlight_id": 4017261
+    },
+    {
+      "name": "Col de Lizarrieta",
+      "lat": 43.26113,
+      "lng": -1.618805,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "facilities",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 661537
+    },
+    {
+      "name": "Ainhoa",
+      "lat": 43.30687,
+      "lng": -1.4988,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 3412283
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 3,
+  "visitors": 57,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-04T14:50:19.360Z",
+  "changed_at": "2024-06-08T05:52:18.432Z",
+  "scraped_at": "2026-04-28T19:17:30.912330+00:00"
+}

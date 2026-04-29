@@ -1,0 +1,146 @@
+{
+  "tour_id": "e988550204",
+  "url": "https://www.komoot.com/smarttour/e988550204",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e988550204/selva-de-irati-vuelta-al-pantano-de-irabia-por-las-casas-de-irati",
+  "name": "Selva de Irati – Vuelta al Pantano de Irabia por las Casas de Irati",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 27186.884442604052,
+  "duration_s": 10716,
+  "elevation_up_m": 536.1707100695894,
+  "elevation_down_m": 524.9533248501739,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.007293,
+  "start_lng": -1.08312,
+  "start_alt_m": 944.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "On the bed of the Urbeltza River and within the Roncesvalles-Sierra Irati Protected Area is this beautiful waterfall surrounded by a picturesque setting of beech forests that make it the ideal place to relax and cool off, especially on summer days.",
+    "It is a picturesque path that runs around the beautiful Irabia reservoir within the Roncesvalles-Sierra de Irati park. A very pleasant place especially in the summer months, where shade abounds.",
+    "A classic in the area of the Navarrese Pyrenees, the tour of the Irabia reservoir runs along very picturesque paths and roads among a dense grove of trees that makes it the ideal tour for the summer months.",
+    "Located in the heart of the Selva de Irati, this site is a classic route and tourist recognized for its charm. There you have a bar, restaurant, a bike shop and a water fountain, as well as being surrounded by a beautiful setting in the heart of the Navarrese Pyrenees."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#nature": 0.0016589497,
+    "sm#asphalt": 0.080602586,
+    "sm#unpaved": 0.108605534,
+    "sm#alpin": 0.13590413,
+    "sm#gravel": 0.6732288
+  },
+  "way_types": {
+    "street": 0.080602586,
+    "trail": 0.09132137,
+    "way": 0.82807606
+  },
+  "waypoints": [
+    {
+      "name": "El Cubo Waterfall",
+      "lat": 42.999144,
+      "lng": -1.102126,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "river",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 4900460
+    },
+    {
+      "name": "Burdinzokoa Trail",
+      "lat": 42.998881,
+      "lng": -1.144949,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "natural_monument",
+        "family_friendly",
+        "river"
+      ],
+      "highlight_id": 5316079
+    },
+    {
+      "name": "Irabia Reservoir",
+      "lat": 42.984967,
+      "lng": -1.157219,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "forest",
+        "family_friendly",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 2457928
+    },
+    {
+      "name": "Irati Houses",
+      "lat": 42.9886,
+      "lng": -1.10619,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "forest",
+        "river",
+        "family_friendly",
+        "settlement",
+        "restaurant",
+        "mtb_park",
+        "parking",
+        "bridge",
+        "cafe",
+        "unknown",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5316113
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cafe",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "mtb_park",
+    "natural_monument",
+    "parking",
+    "restaurant",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 5,
+  "visitors": 68,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-12-02T14:02:27.868Z",
+  "changed_at": "2024-05-31T09:27:49.615Z",
+  "scraped_at": "2026-04-28T14:49:29.428054+00:00"
+}

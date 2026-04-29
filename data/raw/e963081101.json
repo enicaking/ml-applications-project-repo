@@ -1,0 +1,109 @@
+{
+  "tour_id": "e963081101",
+  "url": "https://www.komoot.com/smarttour/e963081101",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963081101/boucle-dans-les-vignobles-de-saint-etienne-de-baigorry",
+  "name": "Boucle dans les vignobles de Saint-Etienne-de-Baigorry",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 26753.327721914164,
+  "duration_s": 11752,
+  "elevation_up_m": 1249.6512630136544,
+  "elevation_down_m": 1250.0412915975232,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.175718,
+  "start_lng": -1.347225,
+  "start_alt_m": 162.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "Irouléguy is a village and an AOC, one of the smallest vineyards in France. This is why the winegrowers work together in this cooperative. You can do tastings there!",
+    "Path towards a summit which is worth after Baïgorry with a beautiful steep coast. With a bit of luck, you can see the vultures in the meadows. The TV antenna peaks at the top and the top offers a panoramic view of the region."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#alpin": 0.028735194,
+    "sm#nature": 0.039676156,
+    "unknown": 0.11905377,
+    "sm#asphalt": 0.15248443,
+    "sm#paved": 0.26257002,
+    "sm#unpaved": 0.39748043
+  },
+  "way_types": {
+    "trail": 0.039676156,
+    "minor_road": 0.15677644,
+    "street": 0.35731867,
+    "way": 0.4462287
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.177282,
+      "lng": -1.341952,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "Irouléguy Winery",
+      "lat": 43.183336,
+      "lng": -1.333919,
+      "type": "other_man_made",
+      "categories": [
+        "other_man_made",
+        "family_friendly"
+      ],
+      "highlight_id": 4394118
+    },
+    {
+      "name": "Jara's summit",
+      "lat": 43.200092,
+      "lng": -1.296687,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 2558300
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "other_man_made",
+    "river",
+    "settlement",
+    "summit"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 3,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-26T11:33:49.819Z",
+  "changed_at": "2024-05-31T09:23:02.964Z",
+  "scraped_at": "2026-04-28T15:09:20.474364+00:00"
+}

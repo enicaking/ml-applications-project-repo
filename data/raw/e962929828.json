@@ -1,0 +1,139 @@
+{
+  "tour_id": "e962929828",
+  "url": "https://www.komoot.com/smarttour/e962929828",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962929828/route-of-sol-blau-coves-de-can-riera-penya-del-moro-circular-route",
+  "name": "Route of Sol Blau, Coves de Can Riera, Penya del Moro – Circular Route",
+  "name_original": "Ruta de Sol Blau, Coves de Can Riera, Penya del Moro – Ruta Circular",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 18530.683730781944,
+  "duration_s": 8176,
+  "elevation_up_m": 587.0582124263997,
+  "elevation_down_m": 587.0582124264001,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.358743,
+  "start_lng": 1.979621,
+  "start_alt_m": 139.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Turó del Tàbor is a peak of 356 meters that is located between the municipalities of Sant Climent de Llobregat and Torrelles de Llobregat. Here there are communication antennas and great views.",
+    "After a good walk from Barcelona, the colors and the rock are worth it.",
+    "Once up there you can enjoy good views towards the valley and the Mediterranean and towards Collserola.",
+    "An easily accessible site with extensive views of Barcelona, the Baix Llobregat and the nearby mountains. An emblematic place and a place of peace and fresh air. It belongs to the list of the 100 Cims of the FEEC.",
+    "Beautiful place with incredible views. Here are the caves of Can Riera, a hidden natural oasis in Torrelles de Llobregat. They are three clay caves with reddish and orange walls, shaped by the erosive action of wind and rain over thousands of years. On weekends there are usually a lot of people visiting the caves, so if you can, try to go during the week."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.03585058,
+    "alpin": 0.06626886,
+    "unknown": 0.15665562,
+    "nature": 0.27441713,
+    "unpaved": 0.46680778
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.021225795,
+    "minor_road": 0.054884367,
+    "hiking_path": 0.09412029,
+    "footway": 0.09413251,
+    "way": 0.735637
+  },
+  "waypoints": [
+    {
+      "name": "View from Turó del Tàbor",
+      "lat": 41.34479,
+      "lng": 1.986869,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 827166
+    },
+    {
+      "name": "Barret Rock",
+      "lat": 41.334503,
+      "lng": 1.949911,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "other_natural",
+        "cave"
+      ],
+      "highlight_id": 3819686
+    },
+    {
+      "name": "View from Mirador de la Penya del Moro",
+      "lat": 41.349989,
+      "lng": 1.94532,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 917145
+    },
+    {
+      "name": "Mount Vicenç",
+      "lat": 41.367701,
+      "lng": 1.953656,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1559713
+    },
+    {
+      "name": "Can Riera Caves",
+      "lat": 41.365489,
+      "lng": 1.962593,
+      "type": "cave",
+      "categories": [
+        "cave",
+        "challenging",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 3915664
+    }
+  ],
+  "categories": [
+    "cave",
+    "challenging",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 52,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-26T07:57:13.636Z",
+  "changed_at": "2024-06-06T01:07:08.479Z",
+  "scraped_at": "2026-04-27T15:57:43.265854+00:00"
+}

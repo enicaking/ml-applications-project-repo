@@ -1,0 +1,163 @@
+{
+  "tour_id": "e861261252",
+  "url": "https://www.komoot.com/smarttour/e861261252",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e861261252/col-du-tourmalet-from-luz-saint-sauveur",
+  "name": "Col du Tourmalet from Luz-Saint-Sauveur",
+  "name_original": "Le col du Tourmalet à partir de Luz-Saint-Sauveur",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 33393.95283909305,
+  "duration_s": 10994,
+  "elevation_up_m": 1347.0374364130166,
+  "elevation_down_m": 1347.0374364130162,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.875329,
+  "start_lng": 0.006499,
+  "start_alt_m": 774.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Tackle the difficult 20.8-mile (33.4 km) Col du Tourmalet climb from Luz-Saint-Sauveur, gaining 4420 feet (1347 metres) in the Pyrenees.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "quiet village in the middle of the Tourmalet ascent, perfect for a coffee break",
+    "Small portion to climb the Tourmalet where the roads are reserved for bicycles 🚲.",
+    "Mythical pass of the Pyrenees, impossible to come and not climb it. But prepare your most beautiful smile because photographers are present to immortalize everything ;)"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to cycle the Col du Tourmalet from Luz-Saint-Sauveur?",
+      "answer": "The ascent is demanding and can take an average cyclist well over an hour, with some taking nearly two hours for their first attempt. The total duration for the round trip, including the descent, will vary depending on your pace and stops."
+    },
+    {
+      "question": "What is the difficulty level of this cycling route?",
+      "answer": "This route is classified as a \"difficult\" touring bicycle climb, often considered \"Strenuous\" or \"Hors Catégorie (HC)\" in professional cycling terms. Its consistent and sustained gradient, significant length, and elevation gain make it a tough challenge requiring good pacing."
+    },
+    {
+      "question": "What is the terrain like on the climb to Col du Tourmalet from Luz-Saint-Sauveur?",
+      "answer": "The road surface is generally in very good condition. The climb starts gently, then becomes progressively steeper, averaging 7.1% to 7.5% with sections reaching 10% or more, especially after Barèges. Unlike some mountain climbs, it features a long, continuous ascent rather than numerous switchbacks."
+    },
+    {
+      "question": "Are there any specific highlights or viewpoints along the route?",
+      "answer": "Absolutely. Initially, you'll pass through dense forests, which open up to lush meadows and then rocky, open landscapes. The final 8 kilometers offer fantastic vistas. Notable points include the village of <a href=\"https://www.komoot.com/highlight/963538\" target=\"_blank\" rel=\"noopener\">Barèges Village</a>, and at the summit, the iconic <a href=\"https://www.komoot.com/highlight/973096\" target=\"_blank\" rel=\"noopener\">Cyclist statue at the Col du Tourmalet</a>, offering panoramic Pyrenean views."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The pass is typically open for cycling from early June to late October. However, it's always wise to check local conditions, as snow or repair work can sometimes affect opening dates. Summer months generally offer the most reliable weather."
+    },
+    {
+      "question": "Where can I park to start this cycling route in Luz-Saint-Sauveur?",
+      "answer": "Luz-Saint-Sauveur serves as the starting point for this ascent. You can find parking within the town, which is a common base for cyclists tackling the Col du Tourmalet and other nearby climbs."
+    },
+    {
+      "question": "Are there any permits or entrance fees required to cycle the Col du Tourmalet?",
+      "answer": "No, there are no specific permits or entrance fees required to cycle the Col du Tourmalet. It's a public road through the Pyrenees. However, always respect local regulations and road safety guidelines."
+    },
+    {
+      "question": "Is this route suitable for families or dog-friendly?",
+      "answer": "Given its classification as a \"difficult\" and \"Strenuous\" touring bicycle climb with significant elevation gain and consistent gradients, this route is generally not recommended for casual family cycling or for bringing dogs along, especially if they are not accustomed to such strenuous activity or being carried on a bike for long durations."
+    },
+    {
+      "question": "Does the route intersect with any other well-known paths?",
+      "answer": "Yes, the route intersects with several other paths. Notably, it follows sections of <a href=\"https://www.komoot.com/highlight/2326876\" target=\"_blank\" rel=\"noopener\">Voie Fignon</a>, an old road not open to cars, for about 4 kilometers past Barèges before rejoining the main road. Other intersecting paths include La traversée des Pyrénées - sec.6 and GR 10F."
+    },
+    {
+      "question": "Are there any alternative sections or hidden gems on the climb?",
+      "answer": "Yes, an interesting alternative for cyclists is the \"Voie Laurent Fignon,\" an old road not open to cars. It follows the route for about 4 kilometers past Barèges before rejoining the main road, offering a slightly different experience away from vehicle traffic."
+    },
+    {
+      "question": "What kind of views can I expect at the summit of Col du Tourmalet?",
+      "answer": "At the summit, you'll be rewarded with breathtaking panoramic views of the surrounding Pyrenean peaks. It's common to break through clouds into clear blue skies as you ascend, revealing a stunning sea of clouds in the valleys below. The iconic <a href=\"https://www.komoot.com/highlight/973096\" target=\"_blank\" rel=\"noopener\">Cyclist statue at the Col du Tourmalet</a> also stands proudly at the top."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.012175054,
+    "sb#paved": 0.019540602,
+    "sb#unpaved": 0.03266321,
+    "sb#asphalt": 0.93562114
+  },
+  "way_types": {
+    "way": 0.00079176045,
+    "service": 0.0060521667,
+    "minor_road": 0.02883738,
+    "trail": 0.031871453,
+    "cycleway": 0.124361984,
+    "street": 0.80808526
+  },
+  "waypoints": [
+    {
+      "name": "Barèges Village",
+      "lat": 42.897533,
+      "lng": 0.066342,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 963538
+    },
+    {
+      "name": "Voie Fignon",
+      "lat": 42.90295,
+      "lng": 0.108218,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "cycle_way",
+        "intermediate",
+        "climb",
+        "mountain_pass"
+      ],
+      "highlight_id": 2326876
+    },
+    {
+      "name": "Cyclist statue at the Col du Tourmalet",
+      "lat": 42.908436,
+      "lng": 0.145158,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "challenging",
+        "mountain_pass",
+        "viewpoint",
+        "mountain_pass",
+        "intermediate",
+        "summit",
+        "cycle_way"
+      ],
+      "highlight_id": 973096
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "family_friendly",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.742856979370117,
+  "rating_count": 35,
+  "visitors": 2301,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-28T08:08:29.619Z",
+  "changed_at": "2026-02-26T18:58:02.395Z",
+  "scraped_at": "2026-04-28T23:56:21.490750+00:00"
+}

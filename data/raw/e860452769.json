@@ -1,0 +1,145 @@
+{
+  "tour_id": "e860452769",
+  "url": "https://www.komoot.com/smarttour/e860452769",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e860452769/col-de-bagargui-loop",
+  "name": "Col de Bagargui Loop",
+  "name_original": "Boucle à partir d'Irraty",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 48670.86961037901,
+  "duration_s": 14753,
+  "elevation_up_m": 1611.5779672772596,
+  "elevation_down_m": 1612.08187254198,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.048315,
+  "start_lng": -1.073149,
+  "start_alt_m": 1017.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 30.2-mile touring cycling loop from Irraty in the Iraty Forest offers challenging climbs and stunning forest scenery.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Located in the heart of the Iraty Forest, the Bagargui Pass is reached via a beautiful 28-kilometer climb from Saint-Jean-le-Vieux. The climb averages 4%, with peaks reaching 11%. \nAt the pass, you'll find the famous Iraty chalets and a grocery store for supplies.",
+    "A magnificent mountain road between the Ahüzki pass and that of Bagargui which winds on the ridge line passes at the foot of the peak of the stairs and which offers a splendid view of this corner of the Basque Country.",
+    "Wild and demanding climb at the foot of Arbailles with a breathtaking view towards Iraty!"
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park to start the Loop from Irraty?",
+      "answer": "The Loop from Irraty typically starts and ends in the Irraty area. While specific parking lots aren't detailed, ample parking is usually available at the main access points or villages surrounding the Irati Forest, which serves as the trailhead for many routes in the region. Look for designated parking areas near the forest entrances."
+    },
+    {
+      "question": "What is the difficulty level of the Loop from Irraty and what type of bike is recommended?",
+      "answer": "This loop is rated as <strong>difficult</strong>, featuring significant elevation gains of over 1600 meters over its 48.7 km distance. The terrain is diverse, including asphalt roads, forest tracks, and potentially some mountain trails. For this route, a touring bicycle is specified, but given the difficulty and varied terrain, a hybrid or trekking bike, or even an electric bike, would offer a more comfortable and accessible experience, especially for those without advanced off-road skills."
+    },
+    {
+      "question": "How long does it typically take to complete the Loop from Irraty?",
+      "answer": "The estimated duration for completing this 48.7 km loop is approximately 4 hours and 6 minutes. However, this is a moving time estimate and does not account for stops for rest, photos, or exploring points of interest. Actual completion time will vary based on your fitness level, bike type, and how often you pause."
+    },
+    {
+      "question": "What scenic highlights will I encounter along the Loop from Irraty?",
+      "answer": "The route offers immersion in the stunning Irati Forest, one of Europe's largest and best-preserved beech forests. You'll pass through areas known for dense, ancient trees and panoramic views. Notable points along the way include <a href=\"https://www.komoot.com/highlight/211377\" target=\"_blank\" rel=\"noopener\">Bagargui</a>, and sections like <a href=\"https://www.komoot.com/highlight/2526601\" target=\"_blank\" rel=\"noopener\">From Ahüzki to Bagargui</a>, offering classic Pyrenean scenery."
+    },
+    {
+      "question": "What is the best time of year to cycle the Loop from Irraty?",
+      "answer": "The Irati Forest is particularly spectacular in autumn when the beech leaves change to vibrant shades of ochre, yellow, and red. Spring and summer also offer pleasant cycling conditions with lush greenery. However, always check the weather forecast, as the mountainous region can experience varied conditions, and some higher sections might be affected by snow or ice in late autumn or early spring."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for cycling in the Irati Forest?",
+      "answer": "The Irati Forest is a vast natural area. While there are no general entrance fees for cycling on public roads and tracks, specific protected reserves within the forest, such as Lizardoia Integral Reserve and Mendilatz Nature Reserve, may have their own regulations or restricted access. It's always advisable to check local regulations if you plan to deviate from the main route or explore specific natural reserves."
+    },
+    {
+      "question": "Is the Loop from Irraty dog-friendly?",
+      "answer": "Generally, dogs are allowed on trails within the Irati Forest, but they must be kept on a leash to protect wildlife and ensure the safety of other users. Always practice Leave No Trace principles, including picking up after your dog. Specific rules might apply in certain protected areas or reserves within the forest, so be mindful of signage."
+    },
+    {
+      "question": "Does the Loop from Irraty intersect other well-known paths?",
+      "answer": "Yes, this route shares sections with several other trails. You will find yourself on parts of 'La route des cols Hendaye - Larrau', 'Onsycol Bagargui', and 'La traversée des Pyrénées - sec.8'. Smaller portions also overlap with 'Pic des Escaliers' and 'Étape 05', among others."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling loop?",
+      "answer": "The terrain on this loop is quite varied. You'll encounter a mix of asphalt roads, which can include significant climbs, and forest tracks. Some sections might be rougher, typical of mountain trails, especially given the 'difficult' rating. A bike capable of handling both paved and unpaved surfaces is recommended."
+    },
+    {
+      "question": "Are there any amenities like cafes or accommodation along the Loop from Irraty?",
+      "answer": "The Irati Forest is a natural area, so amenities directly on the loop might be limited. However, the region connects to picturesque villages where you can find local restaurants, cafes, and accommodation. It's recommended to carry sufficient water and snacks, especially on longer stretches, and plan your stops in advance."
+    },
+    {
+      "question": "What should I bring for a touring bicycle trip on the Loop from Irraty?",
+      "answer": "Given the loop's length and difficulty, it's essential to be well-prepared. Bring plenty of water, high-energy snacks, a repair kit for your bike (including spare tubes and a pump), appropriate clothing for varying weather conditions (layers are key in the mountains), sun protection, and a first-aid kit. A fully charged phone or GPS device with the route downloaded is also highly recommended."
+    }
+  ],
+  "surfaces": {
+    "sb#unpaved": 0.008677268,
+    "sb#paved": 0.23216389,
+    "sb#asphalt": 0.75915885
+  },
+  "way_types": {
+    "trail": 0.0011889488,
+    "minor_road": 0.010500035,
+    "street": 0.988311
+  },
+  "waypoints": [
+    {
+      "name": "Bagargui",
+      "lat": 43.036432,
+      "lng": -1.034657,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 211377
+    },
+    {
+      "name": "From Ahüzki to Bagargui",
+      "lat": 43.066545,
+      "lng": -1.023651,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "mountain_pass",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 2526601
+    },
+    {
+      "name": "Ahusquy from Béhorléguy.",
+      "lat": 43.127898,
+      "lng": -1.089875,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 2990436
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mountain_pass",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 21,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-27T15:08:55.499Z",
+  "changed_at": "2026-02-26T18:58:00.362Z",
+  "scraped_at": "2026-04-28T23:35:38.969563+00:00"
+}

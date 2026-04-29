@@ -1,0 +1,159 @@
+{
+  "tour_id": "e1132076380",
+  "url": "https://www.komoot.com/smarttour/e1132076380",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1132076380/pr-c-156-garnatxa-trail",
+  "name": "PR-C 156 Garnatxa Trail",
+  "name_original": "Valle del Río Anoia — circular desde el Castillo de Subirats",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6888.825782370891,
+  "duration_s": 3300,
+  "elevation_up_m": 260.2183152261928,
+  "elevation_down_m": 255.227008999929,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.415699,
+  "start_lng": 1.818514,
+  "start_alt_m": 297.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 4.3-mile (6.9 km) jogging trail features 854 feet (260 metres) of elevation gain and takes about 55 minutes.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "From here you can contemplate the eastern Penedes valley with the witness of the Montserrat mountains in the background. Take a breath and go down the trail to the medieval town of Torre Ramona (Subirats).",
+    "Very nice road, technical, difficult to run.",
+    "In this elevated area of the Serra del Pi Moió we find impressive views of the entire valley formed by the Anoia River. Not only that, but also the surrounding mountains."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the PR-C 156 Garnatxa Trail for jogging?",
+      "answer": "The PR-C 156 Garnatxa Trail is rated as <strong>moderate</strong>, making it suitable for joggers with some experience. While it's not overly strenuous, expect some elevation changes that will provide a good workout."
+    },
+    {
+      "question": "What kind of terrain can I expect on this jogging route?",
+      "answer": "As a moderate jogging trail, you can expect varied terrain. It will likely include a mix of natural paths and possibly some unpaved tracks. Given the elevation changes, there will be uphill and downhill sections."
+    },
+    {
+      "question": "Are there any notable landmarks or viewpoints along the PR-C 156 Garnatxa Trail?",
+      "answer": "Yes, the route offers several interesting points. You'll pass by <a href=\"https://www.komoot.com/highlight/5474201\" target=\"_blank\" rel=\"noopener\">Subirats Castle</a>, experience the natural beauty of <a href=\"https://www.komoot.com/highlight/4214073\" target=\"_blank\" rel=\"noopener\">Torrent del Gavatx</a>, and enjoy scenic <a href=\"https://www.komoot.com/highlight/5734280\" target=\"_blank\" rel=\"noopener\">Views of the Anoia River valley</a>."
+    },
+    {
+      "question": "Is the PR-C 156 Garnatxa Trail suitable for beginners?",
+      "answer": "Given its <strong>moderate</strong> difficulty rating and approximately 260 meters of elevation gain, this trail might be challenging for absolute jogging beginners. However, those with a basic level of fitness and some jogging experience should find it manageable."
+    },
+    {
+      "question": "What is the best time of year to jog the PR-C 156 Garnatxa Trail?",
+      "answer": "Specific seasonal conditions for this trail are not detailed. However, for jogging in regions like this, spring and autumn generally offer the most pleasant temperatures and conditions. Summer can be hot, and winter might bring cooler, potentially wetter weather."
+    },
+    {
+      "question": "Is the PR-C 156 Garnatxa Trail dog-friendly?",
+      "answer": "Information regarding specific dog policies for the PR-C 156 Garnatxa Trail is not available. It's always best to check local regulations or signage at the trailhead regarding dogs and leash requirements before you go."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for this trail?",
+      "answer": "There is no information indicating that a permit or entrance fee is required to access the PR-C 156 Garnatxa Trail. Most public trails in the region do not require these, but it's always good practice to look for official signage at the trailhead."
+    },
+    {
+      "question": "Where can I find parking and access the trailhead for the PR-C 156 Garnatxa Trail?",
+      "answer": "Specific parking and trailhead access details for the PR-C 156 Garnatxa Trail are not provided. We recommend checking local maps or community resources for the most accurate starting points and parking options near the trail."
+    },
+    {
+      "question": "Does the PR-C 156 Garnatxa Trail intersect with other paths?",
+      "answer": "Yes, the route intersects with several other paths. Notably, it covers a significant portion of the official <em>PR-C 156 Garnatxa</em> trail (75%) and also includes sections of the <em>Penedès 360 Trekking</em> (63%). You'll also find smaller segments of various <em>Pr-C 156/Olesa de Bonesvalls- St. Llorenç D'Hortons</em> variants and the <em>Camí de Can Vidal</em>."
+    },
+    {
+      "question": "Are there any cafes or amenities near the PR-C 156 Garnatxa Trail?",
+      "answer": "Specific amenities like cafes or pubs directly on or immediately adjacent to the trail are not detailed. However, given its location, you may find options in nearby towns or villages. It's advisable to carry your own water and snacks."
+    },
+    {
+      "question": "What should I bring for a jogging session on this trail?",
+      "answer": "For a moderate jogging trail of this length (approximately 6.9 km), you should bring appropriate jogging footwear, comfortable athletic clothing, water, and perhaps a small snack. Sun protection is also recommended, especially during warmer months."
+    }
+  ],
+  "surfaces": {
+    "paved": 0.012468062,
+    "unknown": 0.029126033,
+    "asphalt": 0.07120896,
+    "unpaved": 0.4134983,
+    "nature": 0.47369862
+  },
+  "way_types": {
+    "minor_road": 0.029126033,
+    "street": 0.08367702,
+    "hiking_path": 0.4134983,
+    "way": 0.47369862
+  },
+  "waypoints": [
+    {
+      "name": "Subirats Castle",
+      "lat": 41.416292,
+      "lng": 1.816365,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "intermediate",
+        "viewpoint",
+        "historical_site"
+      ],
+      "highlight_id": 5474201
+    },
+    {
+      "name": "Torrent del Gavatx",
+      "lat": 41.408235,
+      "lng": 1.821969,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "challenging",
+        "other_natural",
+        "trail"
+      ],
+      "highlight_id": 4214073
+    },
+    {
+      "name": "Views of the Anoia River valley",
+      "lat": 41.409056,
+      "lng": 1.827206,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "other_natural",
+        "mountain_pass",
+        "river"
+      ],
+      "highlight_id": 5734280
+    }
+  ],
+  "categories": [
+    "castle",
+    "challenging",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "other_natural",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-05-23T16:45:25.708Z",
+  "changed_at": "2026-02-26T19:39:37.626Z",
+  "scraped_at": "2026-04-27T15:51:10.636312+00:00"
+}

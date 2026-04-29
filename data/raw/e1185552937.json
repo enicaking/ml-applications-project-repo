@@ -1,0 +1,157 @@
+{
+  "tour_id": "e1185552937",
+  "url": "https://www.komoot.com/smarttour/e1185552937",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1185552937/cumbres-verdes-pinares-de-la-zubia-loop",
+  "name": "Cumbres Verdes - Pinares de la Zubia Loop",
+  "name_original": "Desde La Zubia a Cumbres Verdes — ruta de enduro por el Parque Nacional de Sierra Nevada",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11437.806750265003,
+  "duration_s": 5595,
+  "elevation_up_m": 445.6386896998878,
+  "elevation_down_m": 450.8568124264491,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.114505,
+  "start_lng": -3.568367,
+  "start_alt_m": 883.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 7.1-mile enduro mountain bike route from La Zubia to Cumbres Verdes offers technical descents and challenging climbs in Sierra",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Forest track with views of the green peaks of the Sierra Nevada.",
+    "Nice viewpoint with a picnic area and a fountain that sometimes has water.",
+    "Quite a technical descent towards La Zumbia. It is only recommended for those with a lot of MTB experience."
+  ],
+  "faqs": [
+    {
+      "question": "What kind of riding skills are needed for this enduro route?",
+      "answer": "<p>This route is classified as moderate but demands good fitness and advanced riding skills. It corresponds to approximately STS S2 difficulty, meaning you'll encounter obstacles like roots and rocks, and potentially some steeper sections requiring precise bike handling. There are also technical downhill sections around Cumbres Verdes that may feature jumps.</p>"
+    },
+    {
+      "question": "Is this enduro route suitable for beginners?",
+      "answer": "<p>No, this trail is not recommended for beginners. It's an enduro route that requires advanced riding skills and good fitness due to its technical sections, constant uphill gradients, and challenging downhill features.</p>"
+    },
+    {
+      "question": "Where can I park to access the trail?",
+      "answer": "<p>While the trail starts in La Zubia, specific parking information for the trailhead isn't detailed. However, Cumbres Verdes is easily accessible from Granada, suggesting parking options might be available in or near La Zubia, which is a known area for mountain biking.</p>"
+    },
+    {
+      "question": "How can I get to La Zubia using public transport?",
+      "answer": "<p>La Zubia is well-connected to Granada, making it accessible by public transport. You can typically find bus services from Granada to La Zubia, which would allow you to reach the starting point of the route.</p>"
+    },
+    {
+      "question": "Do I need a permit to mountain bike in Sierra Nevada National Park?",
+      "answer": "<p>It's crucial to check local regulations before undertaking any route within the Sierra Nevada National Park. While specific permit requirements for mountain biking this particular trail are not detailed, it's always best to confirm with local authorities or park information centers.</p>"
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "<p>Information regarding whether this specific enduro route is dog-friendly is not available. When riding in national parks, it's generally advisable to check park-specific rules on pets, especially regarding leash laws and restricted areas, to ensure compliance and safety for your dog and local wildlife.</p>"
+    },
+    {
+      "question": "What is the best time of year to ride this enduro route?",
+      "answer": "<p>The best time of year to ride this route would generally be during spring or autumn when temperatures are milder. Summer can be very hot, especially on the constant uphill climb to Cumbres Verdes which offers little shade. Winter might bring colder temperatures and potentially snow at higher elevations.</p>"
+    },
+    {
+      "question": "What can I expect to see along the trail?",
+      "answer": "<p>The route passes through pine forests, and while the climb itself isn't exceptionally scenic, you can catch glimpses of Granada by looking over your shoulder in certain spots. Notable features include the <a href=\"https://www.komoot.com/highlight/6362268\" target=\"_blank\" rel=\"noopener\">Scenic trail</a> and the <a href=\"https://www.komoot.com/highlight/5654411\" target=\"_blank\" rel=\"noopener\">Mirador del Fraile</a>. The <a href=\"https://www.komoot.com/highlight/2597100\" target=\"_blank\" rel=\"noopener\">Descent from Cumbres Verdes</a> is a highlight for its technical aspects.</p>"
+    },
+    {
+      "question": "Are there any challenging downhill sections on this route?",
+      "answer": "<p>Yes, the route features technical downhill sections, particularly around Cumbres Verdes. Some parts are described as DH (downhill) sections with jumps, including a substantial 8-10 meter jump, though not all riders attempt these. You might also encounter a dry streambed with scattered jumps.</p>"
+    },
+    {
+      "question": "Are there places to eat or resupply near the trail?",
+      "answer": "<p>La Zubia, being the starting point, is a town where you can expect to find cafes, restaurants, and shops for resupply. Cumbres Verdes is also easily accessible from Granada, suggesting amenities might be available in the vicinity, but it's always wise to carry enough water and snacks for the duration of your ride.</p>"
+    },
+    {
+      "question": "What should I pack for an enduro ride on this route?",
+      "answer": "<p>Given the moderate difficulty and technical sections, pack essential mountain biking gear including a well-maintained enduro bike, helmet, gloves, and appropriate protective pads. Carry plenty of water, especially for the exposed climb, snacks, a repair kit, and navigation tools. Sun protection is also recommended due to limited shade.</p>"
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0067766835,
+    "sm#paved": 0.014466906,
+    "sm#nature": 0.017023206,
+    "sm#gravel": 0.099338695,
+    "sm#alpin": 0.19434923,
+    "sm#unpaved": 0.6680453
+  },
+  "way_types": {
+    "minor_road": 0.0017166954,
+    "service": 0.0050599882,
+    "cycleway": 0.014466906,
+    "way": 0.38703582,
+    "trail": 0.5917206
+  },
+  "waypoints": [
+    {
+      "name": "Scenic trail",
+      "lat": 37.093509,
+      "lng": -3.536932,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "intermediate",
+        "forest"
+      ],
+      "highlight_id": 6362268
+    },
+    {
+      "name": "Mirador del Fraile",
+      "lat": 37.095785,
+      "lng": -3.542427,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "facilities"
+      ],
+      "highlight_id": 5654411
+    },
+    {
+      "name": "Descent from Cumbres Verdes",
+      "lat": 37.101931,
+      "lng": -3.552264,
+      "type": "mtb_park",
+      "categories": [
+        "mtb_park",
+        "challenging",
+        "trail"
+      ],
+      "highlight_id": 2597100
+    }
+  ],
+  "categories": [
+    "challenging",
+    "facilities",
+    "forest",
+    "intermediate",
+    "mtb_park",
+    "natural_monument",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 2,
+  "visitors": 5,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-06-26T13:38:38.844Z",
+  "changed_at": "2026-02-26T19:50:23.912Z",
+  "scraped_at": "2026-04-28T13:40:05.746150+00:00"
+}

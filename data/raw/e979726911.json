@@ -1,0 +1,145 @@
+{
+  "tour_id": "e979726911",
+  "url": "https://www.komoot.com/smarttour/e979726911",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e979726911/vuelta-al-valle-de-pineta-por-el-camino-del-canal",
+  "name": "Vuelta al Valle de Pineta por el Camino del Canal",
+  "name_original": "Valle de Pineta — ida y vuelta desde Bielsa",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 31085.863461231544,
+  "duration_s": 8585,
+  "elevation_up_m": 489.7536939970837,
+  "elevation_down_m": 489.7536939970835,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.634126,
+  "start_lng": 0.220625,
+  "start_alt_m": 1016.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 19.3-mile touring cycling route from Bielsa takes you through the stunning Pineta Valley, gaining 1607 feet in elevation.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Pineta Valley sees the birth of the Cinca River and forms one of the most spectacular river courses in the Aragonese Pyrenees. Its landscape is a compendium between the valley, on one side the river, the trees and at the end, the Peineta circus.",
+    "Small swamp at the entrance to the Pineta valley and where it collects the waters of the cirque and the slopes of the mountains overlooking the valley. Quiet space with mountain atmosphere."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this touring cycling route?",
+      "answer": "The Pineta Valley — round trip from Bielsa is a challenging touring bicycle route. It typically takes around 2 hours and 23 minutes to complete, but this can vary based on your fitness level and how often you stop to enjoy the scenery."
+    },
+    {
+      "question": "What is the terrain like on the Pineta Valley cycling route?",
+      "answer": "The route is mostly paved, making it suitable for touring cyclists. You'll encounter a demanding initial ascent out of Bielsa with some steeper sections. After passing the dam, the ride generally becomes fairly easy. The road through the valley is quiet, winding through forests, though some sections may have bumpy patches due to filled potholes."
+    },
+    {
+      "question": "Where can I park to start the Pineta Valley — round trip from Bielsa?",
+      "answer": "The route starts and ends in Bielsa. You should be able to find parking options within the town to begin your cycling adventure into the Pineta Valley."
+    },
+    {
+      "question": "What are the best times of year to cycle this route?",
+      "answer": "The best time to cycle this route is generally during the warmer months, from late spring through early autumn. This avoids winter road closures and ensures more favorable weather conditions for cycling in the Pyrenees. Always check local weather forecasts before you go."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this cycling route?",
+      "answer": "No specific permits or entrance fees are required to cycle the Pineta Valley — round trip from Bielsa. However, as the valley is a natural gateway to the Ordesa and Monte Perdido National Park, always respect park regulations if you venture off the main cycling path."
+    },
+    {
+      "question": "Is this touring cycling route dog-friendly?",
+      "answer": "While the route itself is a public road, specific regulations for dogs may apply within the Ordesa and Monte Perdido National Park, which the valley borders. It's best to check with local tourist information in Bielsa regarding current rules for dogs, especially if you plan to stop or explore areas off the main cycling path."
+    },
+    {
+      "question": "What natural features and landmarks can I see along the way?",
+      "answer": "You'll be immersed in stunning Pyrenean scenery. Highlights include the dramatic glacial origins of the <a href=\"https://www.komoot.com/highlight/5285390\" target=\"_blank\" rel=\"noopener\">Pineta Valley</a> itself, the Cinca River with its waterfalls, and towering peaks like Monte Perdido. You'll also pass the <a href=\"https://www.komoot.com/highlight/5285408\" target=\"_blank\" rel=\"noopener\">Pineta Reservoir</a>. The views become increasingly astounding as you progress deeper into the valley."
+    },
+    {
+      "question": "Is the Pineta Valley — round trip from Bielsa suitable for beginners?",
+      "answer": "This route is classified as 'difficult' and requires 'very good fitness'. The initial ascent out of Bielsa is demanding. Therefore, it is not recommended for beginners. Experienced touring cyclists looking for a challenging ride will find it rewarding."
+    },
+    {
+      "question": "Are there any cafes or restaurants along the cycling route?",
+      "answer": "The route winds through quiet areas and small hamlets. While Bielsa offers amenities, options directly along the valley road might be limited. It's advisable to carry sufficient water and snacks, and plan for any stops in advance."
+    },
+    {
+      "question": "Does this route intersect with other well-known trails?",
+      "answer": "Yes, this route shares sections with several other paths. Notably, it overlaps significantly with parts of the 'Bielsa - Refugio de Ronatiza' and 'Bielsa - Tella' trails. You'll also find smaller sections that coincide with 'Sobrarbe. BTT. Ruta 1. Camino del Canal' and the 'Antiguo camino a Pineta'."
+    },
+    {
+      "question": "What kind of wildlife might I encounter?",
+      "answer": "The Pyrenean environment offers a chance to spot diverse flora and fauna. Keep an eye out for Pyrenean chamois, wild boars, and various birds of prey soaring above the majestic peaks."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0047492804,
+    "sb#paved": 0.04408811,
+    "sb#unpaved": 0.27202323,
+    "sb#asphalt": 0.6791394
+  },
+  "way_types": {
+    "service": 0.0031720295,
+    "primary": 0.0054785972,
+    "minor_road": 0.027402697,
+    "way": 0.28624904,
+    "street": 0.67769766
+  },
+  "waypoints": [
+    {
+      "name": "Pineta Valley",
+      "lat": 42.678341,
+      "lng": 0.085543,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "intermediate",
+        "forest",
+        "natural_monument",
+        "river",
+        "viewpoint"
+      ],
+      "highlight_id": 5285390
+    },
+    {
+      "name": "Pineta Reservoir",
+      "lat": 42.633728,
+      "lng": 0.202588,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_man_made",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 5285408
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "river",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 4,
+  "visitors": 57,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-14T17:11:11.404Z",
+  "changed_at": "2026-02-26T18:57:47.166Z",
+  "scraped_at": "2026-04-28T23:50:42.607941+00:00"
+}

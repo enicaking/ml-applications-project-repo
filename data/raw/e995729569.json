@@ -1,0 +1,225 @@
+{
+  "tour_id": "e995729569",
+  "url": "https://www.komoot.com/smarttour/e995729569",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e995729569/el-coll-de-la-creueta-return-via-coll-de-merolla",
+  "name": "El Coll de la Creueta  – return via Coll de Merolla",
+  "name_original": "El Coll de la Creueta  – vuelta por el Coll de Merolla",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 107583.41598849441,
+  "duration_s": 23011,
+  "elevation_up_m": 2647.878681642638,
+  "elevation_down_m": 2647.8786816426336,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.24124,
+  "start_lng": 1.964957,
+  "start_alt_m": 831.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Starting town of the Creueta or Merolla pass. Vestiges of Gaudí to enjoy culturally.",
+    "Worth detouring, nice plaza, church and castle",
+    "1921 meters high.\r\nBordering peak between the Ripollés and Berguedá regions and dividing the waters between the Ter and Llobregat rivers.\r\nThe slope of the bergadá is included in the Cadí Moixeró Natural Park.\r\nIt is considered one of the great ports of Catalonia (from the south side) through which La Volta a Catalunya or La Vuelta a España have passed on several occasions.",
+    "Coll de la Creueta, nice views at 1600mtrs of altitude",
+    "Collado between Cerdanya and Ripoll.",
+    "Hill on a quiet road with views of the valley.",
+    "Because of the treatment they give to all the people who pass through here, especially athletes, and if you notify David in advance, maybe he'll even dare to go out with you, yes, you'd better go trained because he's always strong...",
+    "Small population, you can't always find food/drinks.",
+    "It is located on the cliffs of the Sierra de Sant Pere, about 1370 meters.\nThere is also a restaurant.",
+    "Small stone-cut tunnel on the road that goes up from Gombren to Can Ros (Castellar d'Hug) A picturesque place on the route."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.092500694,
+    "sb#asphalt": 0.9074993
+  },
+  "way_types": {
+    "way": 0.0010963932,
+    "minor_road": 0.025332447,
+    "primary": 0.30388758,
+    "street": 0.6696836
+  },
+  "waypoints": [
+    {
+      "name": "La Pobla de Lillet",
+      "lat": 42.244846,
+      "lng": 1.975787,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "unknown",
+        "facilities",
+        "man_made_monument"
+      ],
+      "highlight_id": 1139353
+    },
+    {
+      "name": "Castellar de n'Hug",
+      "lat": 42.280815,
+      "lng": 2.017277,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "historical_site",
+        "castle"
+      ],
+      "highlight_id": 6315063
+    },
+    {
+      "name": "Views climbing the Coll de la Creueta",
+      "lat": 42.298313,
+      "lng": 2.016875,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1437954
+    },
+    {
+      "name": "Coll de la Creueta",
+      "lat": 42.301403,
+      "lng": 1.99314,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "trail"
+      ],
+      "highlight_id": 6315018
+    },
+    {
+      "name": "Collada de Toses Pass",
+      "lat": 42.336037,
+      "lng": 1.991149,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "cycle_way",
+        "mountain_pass"
+      ],
+      "highlight_id": 1139176
+    },
+    {
+      "name": "Collada de Toses",
+      "lat": 42.338905,
+      "lng": 2.029219,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 4574252
+    },
+    {
+      "name": "Bar Gusi",
+      "lat": 42.30149,
+      "lng": 2.16696,
+      "type": "cafe",
+      "categories": [
+        "cafe",
+        "family_friendly",
+        "pub",
+        "restaurant"
+      ],
+      "highlight_id": 1063413
+    },
+    {
+      "name": "Gombrèn",
+      "lat": 42.248328,
+      "lng": 2.090921,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "restaurant"
+      ],
+      "highlight_id": 5034192
+    },
+    {
+      "name": "Sanctuary of Mare de Déu de Montgrony",
+      "lat": 42.26599,
+      "lng": 2.084762,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "viewpoint",
+        "restaurant",
+        "facilities",
+        "challenging"
+      ],
+      "highlight_id": 2128407
+    },
+    {
+      "name": "Road from Gombrén to Cal Ros",
+      "lat": 42.263652,
+      "lng": 2.042897,
+      "type": "cycle_way",
+      "categories": [
+        "cycle_way",
+        "trail",
+        "intermediate",
+        "other_man_made",
+        "viewpoint"
+      ],
+      "highlight_id": 1444161
+    }
+  ],
+  "categories": [
+    "cafe",
+    "castle",
+    "challenging",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "natural_monument",
+    "other_man_made",
+    "pub",
+    "religious_building",
+    "restaurant",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.800000190734863,
+  "rating_count": 5,
+  "visitors": 1217,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-12-19T18:03:00.965Z",
+  "changed_at": "2024-06-06T14:12:55.823Z",
+  "scraped_at": "2026-04-28T20:19:50.395319+00:00"
+}

@@ -1,0 +1,153 @@
+{
+  "tour_id": "e970065785",
+  "url": "https://www.komoot.com/smarttour/e970065785",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e970065785/alkaxuri-and-ezkieta-loop",
+  "name": "Alkaxuri and Ezkieta Loop",
+  "name_original": "Ezkieta-Alkaxurri – circular desde Basasagara",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8101.763165968206,
+  "duration_s": 13291,
+  "elevation_up_m": 805.2104430721529,
+  "elevation_down_m": 805.2104430721525,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.257332,
+  "start_lng": -1.387803,
+  "start_alt_m": 261.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate Ezkieta-Alkaxurri circular from Basasagara, gaining 2642 feet over 5.0 miles with panoramic Pyrenees views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful views from the top at 635 meters above sea level. On days with good visibility you can enjoy very beautiful views of the entire Pyrenees, both on the Spanish and French sides.",
+    "The Alkaxuri dominates a superb ridge at an altitude of 949 meters.\r\n\r\nThe panorama is magnificent, especially on the neighboring ridge of Iparla as well as the peaks of the Pyrenees chain in the distance.\r\n\r\nAccess to this ridge is not easy, but the view is well worth it.",
+    "This is a great spot for lunch, and you might even be able to bivouac camp in a flat spot."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the Ezkieta-Alkaxurri circular hike?",
+      "answer": "This circular route usually takes around 3 hours and 42 minutes to complete. This estimate is for continuous hiking and does not include breaks."
+    },
+    {
+      "question": "What is the starting point for the Ezkieta-Alkaxurri circular trail?",
+      "answer": "The trail typically starts from Basasagara. While specific parking details aren't provided, it's common for circular routes in this region to have parking available near the village or trailhead."
+    },
+    {
+      "question": "What kind of terrain can I expect on this circular route?",
+      "answer": "The trail features mostly accessible paths, but you should be prepared for significant unpaved sections (7.25 km), some flagstones (742 m), and a small portion of alpine terrain (119 m). Hikers should be ready for potentially technical or difficult sections."
+    },
+    {
+      "question": "What are the main scenic highlights along the trail?",
+      "answer": "The primary highlight is the ascent to <a href=\"https://www.komoot.com/highlight/4732866\" target=\"_blank\" rel=\"noopener\">Ezkieta Summit</a>, which offers breathtaking panoramic views. On clear days, you can see across the entire Pyrenees mountain range, including both the Spanish and French sides. You will also pass by <a href=\"https://www.komoot.com/highlight/2524776\" target=\"_blank\" rel=\"noopener\">Alkaxuri (967 m)</a> and a <a href=\"https://www.komoot.com/highlight/3764821\" target=\"_blank\" rel=\"noopener\">Shaded spot by the river</a>."
+    },
+    {
+      "question": "Is the Ezkieta-Alkaxurri circular trail suitable for beginners?",
+      "answer": "This trail is classified as 'moderate' by Komoot. It requires a good level of fitness and sure-footedness, with up to 5 hours of activity and significant elevation gain. It is not recommended for beginners."
+    },
+    {
+      "question": "Is the Ezkieta-Alkaxurri circular from Basasagara dog-friendly?",
+      "answer": "While specific regulations for dogs on this exact trail are not detailed, many trails in the Pyrenees region are dog-friendly. However, it's always advisable to keep dogs on a leash, especially given the presence of alpine terrain and potential wildlife, and to check local signage at the trailhead."
+    },
+    {
+      "question": "What is the best time of year to hike this route?",
+      "answer": "The best time to hike this route is typically during seasons with clear weather to fully enjoy the panoramic views from Ezkieta Summit. Spring and autumn often offer pleasant temperatures and vibrant scenery, while summer can be good but might be warmer. Winter hiking could present challenges due to snow or ice on higher sections."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this trail?",
+      "answer": "This trail is located within the ZEC Aritzakun - Urritzate - Gorramendi area. Generally, there are no specific permits or entrance fees required for hiking on public trails within these types of protected zones in Navarra. However, always respect local regulations regarding nature conservation and private property."
+    },
+    {
+      "question": "Does this route intersect with other trails?",
+      "answer": "Yes, the route intersects with several other paths. You will find sections that are part of the Aritzakun trail, Iruegiko bideska, Urbakurako bidea, Urritzateko bidea, Antsugarroko bidea, Martikoten Bordako bidea, Bordatxarko bidea, and Buruzuneko bidea."
+    },
+    {
+      "question": "Are there amenities like cafes or accommodation near the trailhead in Basasagara?",
+      "answer": "Basasagara is a small village. While specific amenities directly at the trailhead are not guaranteed, you may find local cafes, pubs, or guesthouses in Basasagara itself or in nearby larger villages in the Baztan valley. It's recommended to check in advance for opening hours and availability."
+    }
+  ],
+  "surfaces": {
+    "alpin": 0.01617309,
+    "paved": 0.07684433,
+    "unpaved": 0.9069826
+  },
+  "way_types": {
+    "street": 0.004504115,
+    "mountain_hiking_path": 0.01617309,
+    "minor_road": 0.106302425,
+    "way": 0.18477252,
+    "hiking_path": 0.68824786
+  },
+  "waypoints": [
+    {
+      "name": "Ezkieta Summit",
+      "lat": 43.247653,
+      "lng": -1.398574,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4732866
+    },
+    {
+      "name": "Alkaxuri (967 m)",
+      "lat": 43.238795,
+      "lng": -1.410095,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "forest",
+        "trail",
+        "challenging",
+        "viewpoint",
+        "climb"
+      ],
+      "highlight_id": 2524776
+    },
+    {
+      "name": "Shaded spot by the river",
+      "lat": 43.25361,
+      "lng": -1.402704,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 3764821
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "river",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 2.4000000953674316,
+  "rating_count": 5,
+  "visitors": 33,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-01T15:15:11.469Z",
+  "changed_at": "2026-02-26T19:02:27.422Z",
+  "scraped_at": "2026-04-27T11:19:07.157042+00:00"
+}

@@ -1,0 +1,131 @@
+{
+  "tour_id": "e1151854716",
+  "url": "https://www.komoot.com/smarttour/e1151854716",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1151854716/loop-3-lizarrieta-and-lizuniaga-passes-from-sare-basque-country-passes",
+  "name": "Loop 3: Lizarrieta and Lizuniaga passes from Sare – Basque Country passes ",
+  "name_original": "Circuit 3 : Les cols de Lizarrieta et Lizuniaga depuis Sare — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 41100.69516735984,
+  "duration_s": 8115,
+  "elevation_up_m": 780.3917896286396,
+  "elevation_down_m": 784.6305654351321,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.312776,
+  "start_lng": -1.580175,
+  "start_alt_m": 81.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "From the village of Sare to Exaltar via Bera, this route takes you to meet authentic and charming villages of the French and Spanish Basque Country. Two passes are added to the program to complete this discovery with beautiful panoramas.\n\nThe start is in the center of Sare, considered one of the most beautiful villages in France. Nestled at the foot of the Rhune, Sare has a warm architecture and atmosphere. From the village, the first kilometers are on a slight uphill false flat. The slope then intensifies at the edge of a beautiful forest. .\n\nThe climb to Lizarrieta is easy with a maximum passage of 6.3%. The pass marks the separation between France and Spain. A beautiful descent including several hairpins leads to the picturesque village of Exaltar. Animated by many traditions, such as wood pigeon hunting, it is worth exploring.\n\nYou continue on a hilly section which leads to the village of Bera. Here begins the second ascent of the day to the Col de Lizuniaga. About four kilometers long, the climb includes passages a little higher than the previous pass. Arrived at the top take the time to appreciate the view before making the switch towards France to find the village of Sare.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Sare is one of the most beautiful villages in the Basque Country. Nestled at the foot of the Pyrenees and in particular the Rhune, its history dates back to the Bronze Age.",
+    "The Lizarrieta pass is 411 meters above sea level on the Franco-Spanish border between the villages of Sare and Etxalar. From the village of Sare the climb is about 11 kilometers long for an average of 3.3% with a maximum passage of 6.3%.",
+    "Known for the beauty of its houses, Etxalar is a pretty village in the Basque Country surrounded by mountains and forests. Wood pigeon hunting is one of the traditions that reinforces its authentic culture.",
+    "Located in Spain, a few steps from the border with France, the Col de Lizuniaga is 250 meters above sea level. From the village of Bera, the climb is 4.2 kilometers long with an average of 4.3% including a passage of 8.7% at most. At the foot of the Rhune, it offers a beautiful view of this emblematic summit of the Basque Country."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#unpaved": 0.00028988288,
+    "sb#cobbles": 0.0006888925,
+    "unknown": 0.004750112,
+    "sb#paved": 0.08020733,
+    "sb#asphalt": 0.91406375
+  },
+  "way_types": {
+    "way": 0.0019617127,
+    "minor_road": 0.014363761,
+    "cycleway": 0.06877658,
+    "street": 0.914898
+  },
+  "waypoints": [
+    {
+      "name": "Sare",
+      "lat": 43.3126,
+      "lng": -1.58005,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "wheelchair_accessible"
+      ],
+      "highlight_id": 5778510
+    },
+    {
+      "name": "Col de Lizarrieta",
+      "lat": 43.26113,
+      "lng": -1.618805,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "facilities",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 661537
+    },
+    {
+      "name": "Etxalar Village",
+      "lat": 43.234,
+      "lng": -1.6372,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "bridge",
+        "historical_site",
+        "river"
+      ],
+      "highlight_id": 4017261
+    },
+    {
+      "name": "Col Lizuniaga",
+      "lat": 43.282354,
+      "lng": -1.632201,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 5456397
+    }
+  ],
+  "categories": [
+    "bridge",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": 4.4285712242126465,
+  "rating_count": 7,
+  "visitors": 235,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-04T12:44:08.982Z",
+  "changed_at": "2024-06-08T05:51:35.913Z",
+  "scraped_at": "2026-04-28T19:17:25.506933+00:00"
+}

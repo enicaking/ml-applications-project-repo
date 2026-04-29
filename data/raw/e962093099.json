@@ -1,0 +1,147 @@
+{
+  "tour_id": "e962093099",
+  "url": "https://www.komoot.com/smarttour/e962093099",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962093099/volcan-el-puig-d-adri-and-the-pools-of-la-font-de-la-torre-running-through-the-rocacorba-mountains",
+  "name": "Volcán el Puig d'Adri and the pools of la Font de la Torre - running through the Rocacorba mountains",
+  "name_original": "Volcán el Puig d'Adri y las pozas de la Font de la Torre - running por las montañas de Rocacorba",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11450.136927917247,
+  "duration_s": 5071,
+  "elevation_up_m": 198.58376132163772,
+  "elevation_down_m": 198.34341813370364,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.038198,
+  "start_lng": 2.734563,
+  "start_alt_m": 240.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "XI century Romanesque church located in the municipality of Canet d'Adri, in the region of Girona.",
+    "Romanesque church from the 12th century located in the town of Adri within the municipality of Canet d'Adri. Although the building is simple, the door of the temple has a great religious iconography. It is listed as Architectural Heritage of Catalonia.",
+    "The Puig d'Adri is a volcano on the southern slope of the Rocacorba mountain. It is located in the municipality of Canet d'Adrii. The main attraction lies in the three superimposed volcanic buildings that were built throughout the different eruptive phases.",
+    "The Canet stream, or Tornavellins, is born under the Rocacorba mountain and during its course it forms caves and small waterfalls of very special beauty.",
+    "Set of pools located in the heart of the Llémena Valley. They are small and deep cavities of volcanic origin dug by the waters in the basalt rock."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.0076868506,
+    "paved": 0.18957311,
+    "unknown": 0.25570735,
+    "unpaved": 0.54703265
+  },
+  "way_types": {
+    "minor_road": 0.02345351,
+    "street": 0.02658897,
+    "way": 0.43519616,
+    "hiking_path": 0.5147613
+  },
+  "waypoints": [
+    {
+      "name": "Church of Sant Vicenç de Canet d'Adri",
+      "lat": 42.03821,
+      "lng": 2.73483,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "unknown",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 5095842
+    },
+    {
+      "name": "Sant Llorenç d'Adri Romanesque Church",
+      "lat": 42.0522,
+      "lng": 2.74108,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate",
+        "unknown",
+        "man_made_monument"
+      ],
+      "highlight_id": 5095803
+    },
+    {
+      "name": "Ruins at Volcán El Puig d'Adri",
+      "lat": 42.04454,
+      "lng": 2.74114,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "volcano",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5095911
+    },
+    {
+      "name": "Pools of the Riera de Canet",
+      "lat": 42.038098,
+      "lng": 2.712057,
+      "type": "river",
+      "categories": [
+        "river",
+        "other_natural",
+        "waterfall",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 5183305
+    },
+    {
+      "name": "Gorges of the Font de la Torre",
+      "lat": 42.03599,
+      "lng": 2.72989,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "natural_monument",
+        "intermediate",
+        "river",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 3943260
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_natural",
+    "religious_building",
+    "river",
+    "unknown",
+    "viewpoint",
+    "volcano",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-25T06:40:09.856Z",
+  "changed_at": "2024-06-06T00:52:06.522Z",
+  "scraped_at": "2026-04-27T16:16:17.134542+00:00"
+}

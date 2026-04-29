@@ -1,0 +1,159 @@
+{
+  "tour_id": "e950227280",
+  "url": "https://www.komoot.com/smarttour/e950227280",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e950227280/ibones-de-batisielles-trail-running-from-the-valle-de-estos",
+  "name": "Ibones de Batisielles – trail running from the Valle de Estós",
+  "name_original": "Ibones de Batisielles – trail running desde el Valle de Estós",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 13101.381401926046,
+  "duration_s": 8820,
+  "elevation_up_m": 965.9513576021409,
+  "elevation_down_m": 965.9513576021409,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.628909,
+  "start_lng": 0.540678,
+  "start_alt_m": 1324.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 8.1-mile trail running route from Valle de Estós leads to the stunning Ibones de Batisielles, gaining 3169 feet in elevation.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The smallest ibon of all the Batisielles, it is usually surrounded by a lot of green and next to it you will find a small refuge, the Batisielles cabin.",
+    "A mountain river begins in the Pyrenees."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this trail run?",
+      "answer": "The estimated duration for trail running the Ibones de Batisielles route from Valle de Estós is approximately 2 hours and 27 minutes. This is for the full 13.1 km route with nearly 1000 meters of elevation gain, so individual times may vary based on fitness and pace."
+    },
+    {
+      "question": "Is this trail suitable for beginner trail runners?",
+      "answer": "This route is classified as <strong>difficult</strong> for trail running. It involves significant elevation gains and can be rocky and steep in sections, requiring good fitness and sure-footedness. While there are shorter, less strenuous options in the area, this specific 13.1 km route is best suited for experienced trail runners."
+    },
+    {
+      "question": "What is the terrain like on the Ibones de Batisielles trail?",
+      "answer": "The terrain is primarily an alpine wilderness trail. You can expect sections that are rocky and steep, with significant elevation changes. The path winds through green meadows, dense forests of fir and black pine, and alongside dramatic waterfalls. It requires careful footing, especially on descents."
+    },
+    {
+      "question": "What natural features and points of interest can I see along the route?",
+      "answer": "The trail offers stunning Pyrenean scenery. You'll encounter charming glacial lakes such as <a href=\"https://www.komoot.com/highlight/1819825\" target=\"_blank\" rel=\"noopener\">Ibón Grande de Batisielles</a> and <a href=\"https://www.komoot.com/highlight/2730495\" target=\"_blank\" rel=\"noopener\">Ibonet de Batisielles</a>, which reflect the surrounding high peaks. The route also runs parallel to the <a href=\"https://www.komoot.com/highlight/1469481\" target=\"_blank\" rel=\"noopener\">Estós River</a> for a portion, passing a small reservoir and the cascades of the Canal de Marasal ravine."
+    },
+    {
+      "question": "What is the best time of year to visit for trail running?",
+      "answer": "The best time to visit is generally during the warmer months, from late spring to early autumn, when the trails are free of snow and the weather is more stable. Always check the local weather forecast before heading out, as conditions in the high mountains can change rapidly."
+    },
+    {
+      "question": "Where can I park and access the trailhead for this route?",
+      "answer": "The trail starts from the Valle de Estós. Parking is typically available at the entrance to the valley. It's advisable to arrive early, especially during peak season, as parking can fill up quickly. Public transport options to the trailhead are limited, so driving is often the most convenient way to access it."
+    },
+    {
+      "question": "Is the Ibones de Batisielles trail dog-friendly?",
+      "answer": "Yes, the trail is generally dog-friendly. However, as it is located within the Posets-Maladeta Natural Park, it is crucial to keep your dog on a leash at all times to protect local wildlife and ensure the safety of other trail users. Be mindful of the challenging terrain for your pet."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to access the trail?",
+      "answer": "No, there are no specific permits or entrance fees required to access the Ibones de Batisielles trail from Valle de Estós. However, as it's part of a natural park, please respect all park regulations regarding waste, wildlife, and trail use."
+    },
+    {
+      "question": "Does this trail intersect with any other well-known paths?",
+      "answer": "Yes, this route shares sections with several other official trails. You will encounter parts of the Variante 20.2, Senda Pirenaica - E21, and Variante 19.1. It also briefly crosses the Camino de la Coma and the Variante Circuito de los tres Refugios."
+    },
+    {
+      "question": "What essential gear should I bring for this trail run?",
+      "answer": "Given the trail's difficulty and alpine environment, essential gear includes appropriate trail running shoes with good grip, layers of clothing suitable for changing mountain weather, sufficient water and nutrition, a map or GPS device (like komoot's app), and a first-aid kit. Trekking poles can also be beneficial for steep sections."
+    },
+    {
+      "question": "Are there any facilities or accommodation near the trailhead?",
+      "answer": "Yes, the Valle de Estós area offers some facilities. The Refugio de Estós is a mountain hut that provides accommodation and basic services. While there might not be cafes directly at the trailhead, you can find options in nearby towns in the Benasque Valley for pre or post-run refreshments and accommodation."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0029449046,
+    "paved": 0.0417956,
+    "alpin": 0.23349601,
+    "nature": 0.26520827,
+    "unpaved": 0.45655522
+  },
+  "way_types": {
+    "minor_road": 0.007611917,
+    "hiking_path": 0.021400461,
+    "way": 0.46734178,
+    "mountain_hiking_path": 0.50364584
+  },
+  "waypoints": [
+    {
+      "name": "Ibón Grande de Batisielles",
+      "lat": 42.649477,
+      "lng": 0.498314,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_natural",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1819825
+    },
+    {
+      "name": "Ibonet de Batisielles",
+      "lat": 42.6542,
+      "lng": 0.50997,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "forest",
+        "viewpoint",
+        "hut",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 2730495
+    },
+    {
+      "name": "Estós River",
+      "lat": 42.63621,
+      "lng": 0.53922,
+      "type": "river",
+      "categories": [
+        "river",
+        "viewpoint",
+        "family_friendly",
+        "forest",
+        "trail"
+      ],
+      "highlight_id": 1469481
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "hut",
+    "intermediate",
+    "lake",
+    "other_natural",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 103,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-11T08:14:34.580Z",
+  "changed_at": "2026-02-26T18:55:31.272Z",
+  "scraped_at": "2026-04-27T15:39:54.254237+00:00"
+}

@@ -1,0 +1,122 @@
+{
+  "tour_id": "e947671926",
+  "url": "https://www.komoot.com/smarttour/e947671926",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e947671926/sorrosal-waterfall-trail-running-from-broto",
+  "name": "Sorrosal Waterfall - trail running from Broto",
+  "name_original": "Cascada del Sorrosal – trail running desde Broto",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 4155.030377030845,
+  "duration_s": 1841,
+  "elevation_up_m": 123.29174834061223,
+  "elevation_down_m": 132.6188926891864,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.598531,
+  "start_lng": -0.12006,
+  "start_alt_m": 929.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This beautiful Pyrenean town is divided into two neighborhoods by the Ara River. It is located at the gates of the Ordesa y Monte Perdido National Park.",
+    "The Sorrosal is a tributary of the Ara and its famous waterfall is located west of Broto. From the base there is a spectacular view. It is an area where canyoning is practiced, and it also has a via ferrata that leads to the top of the waterfall.",
+    "Easy access point to the water for a quick dip."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.05859129,
+    "unknown": 0.07801433,
+    "unpaved": 0.42444688,
+    "paved": 0.4389475
+  },
+  "way_types": {
+    "footway": 0.013340402,
+    "street": 0.06359578,
+    "minor_road": 0.16373749,
+    "hiking_path": 0.24368909,
+    "way": 0.5156372
+  },
+  "waypoints": [
+    {
+      "name": "Broto village on the Ara River",
+      "lat": 42.60439,
+      "lng": -0.12277,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river",
+        "bridge",
+        "historical_site"
+      ],
+      "highlight_id": 4988512
+    },
+    {
+      "name": "Sorrosal Waterfall",
+      "lat": 42.60552,
+      "lng": -0.1278,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "climb",
+        "challenging",
+        "canyon",
+        "other_man_made"
+      ],
+      "highlight_id": 565020
+    },
+    {
+      "name": "Swimming Area on the Ara River",
+      "lat": 42.59295,
+      "lng": -0.12017,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly",
+        "beach"
+      ],
+      "highlight_id": 5114082
+    }
+  ],
+  "categories": [
+    "beach",
+    "bridge",
+    "canyon",
+    "challenging",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "other_man_made",
+    "river",
+    "settlement",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-08T17:15:22.043Z",
+  "changed_at": "2024-07-24T09:38:40.554Z",
+  "scraped_at": "2026-04-27T15:22:25.311580+00:00"
+}

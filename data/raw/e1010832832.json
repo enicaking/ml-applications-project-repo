@@ -1,0 +1,149 @@
+{
+  "tour_id": "e1010832832",
+  "url": "https://www.komoot.com/smarttour/e1010832832",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1010832832/the-belvederes-of-ossau-running-on-the-pic-du-midi-d-ossau",
+  "name": "The belvederes of Ossau – running on the Pic du Midi d'Ossau",
+  "name_original": "Les belvédères d'Ossau — Courir au pic du Midi d'Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 34343.13876806751,
+  "duration_s": 22577,
+  "elevation_up_m": 2288.922778051773,
+  "elevation_down_m": 2309.927085484811,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.872751,
+  "start_lng": -0.448567,
+  "start_alt_m": 1341.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful and large loop of 34.3 kilometers and 2,300 meters of elevation is intended for trail runners who wish to discover all the secrets of the Ossau valley. This route takes you on a route that delivers the most beautiful views of one of the most emblematic peaks of the Pyrenees, the Pic du Midi d'Ossau.\n\nThe starting point of this odyssey is in the free Bious-Oumettes car park. You start with a gradual climb in the forest which continues on beautiful grassy expanses before ending at the Col de Suzon. A pleasant false flat leads you to the Pombie refuge before diving towards the Gave du Brousset.\n\nFrom the river, the path climbs again on the sides of several peaks that delimit the Franco-Spanish border. From the peak of Astú, a beautiful portion of ridge guides you to the peak of the Moines while dancing on the border. This spectacular summit offers a magnificent panorama over the Ossau valley and the Spanish side.\n\nThe trail descends again to Lac de Gentau via the pretty Lac Bersau before climbing back up to the Col d'Ayous. A wonderful new view of the Ossau valley and its lakes is revealed to you. From the pass, you take a new ridge line that runs to the Aule valley, passing through the soum d’Aas and the turon Garié.\n\nThis magnificent valley suggests a last glimpse of the Pic du Midi d'Ossau before plunging into the forest and reaching your starting point for images full of your head.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Located at the foot of the Pic du Midi d'Ossau, the Pombie refuge offers you what is called a room with a view. The refuge has 45 beds in high season, reduced to 15 during the winter period. \nRemember to book on the information site: \nhttps://refugedepombie.ffcam.fr/",
+    "Culminating at 2,349 meters above sea level, the Pic des Moines is located a few meters from the border between France and Spain.\r\n\r\nThis summit offers a breathtaking view of the Pic du Midi d'Ossau, its valley and the Spanish side.",
+    "The Col d'Ayous is located at the foot of the eponymous peak, at an altitude of 2,188 meters. It allows you to reach the Aspe valley from the Ossau valley. On the way to the pass, you can admire the magnificent Ayous lakes and their refuge on the eastern slope.",
+    "The turon Garié is located on a beautiful ridge line culminating at 2,381 meters. It offers a magnificent view of the Aspe and Ossau valley.\r\n\r\nThe ridge that leads to the summit is rocky but remains easily accessible.",
+    "Located at an altitude of 2,402 meters, Lac d'Aule offers a superb view of the Pic du Midi d'Ossau.\r\n\r\nThis small altitude lake is home to many fish such as brown trout, brook salmon and minnows."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0005963084,
+    "asphalt": 0.004270335,
+    "alpin": 0.34691286,
+    "unpaved": 0.6482205
+  },
+  "way_types": {
+    "street": 0.004270335,
+    "minor_road": 0.005377599,
+    "way": 0.041391693,
+    "alpine_hiking_path": 0.041645844,
+    "mountain_hiking_path": 0.30304205,
+    "hiking_path": 0.6042725
+  },
+  "waypoints": [
+    {
+      "name": "Refuge de Pombie",
+      "lat": 42.83539,
+      "lng": -0.42697,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "viewpoint",
+        "accomodation",
+        "lake"
+      ],
+      "highlight_id": 2234384
+    },
+    {
+      "name": "Pic des Moines",
+      "lat": 42.82929,
+      "lng": -0.50034,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5393796
+    },
+    {
+      "name": "Ayous Pass",
+      "lat": 42.85189,
+      "lng": -0.49713,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "lake",
+        "natural_monument",
+        "mountain_pass",
+        "challenging"
+      ],
+      "highlight_id": 3072506
+    },
+    {
+      "name": "Turon Garié",
+      "lat": 42.88477,
+      "lng": -0.48914,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5393754
+    },
+    {
+      "name": "Lac d'Aule",
+      "lat": 42.88621,
+      "lng": -0.47816,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "other_natural",
+        "natural_monument"
+      ],
+      "highlight_id": 5393742
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "hut",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 9,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-01-13T16:02:32.976Z",
+  "changed_at": "2024-06-06T19:19:40.263Z",
+  "scraped_at": "2026-04-27T15:21:01.933715+00:00"
+}

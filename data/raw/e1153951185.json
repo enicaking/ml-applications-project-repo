@@ -1,0 +1,107 @@
+{
+  "tour_id": "e1153951185",
+  "url": "https://www.komoot.com/smarttour/e1153951185",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1153951185/loop-11-les-cols-d-iraty-basque-country-passes",
+  "name": "Loop 11: Les cols d'Iraty – Basque Country passes",
+  "name_original": "Circuit 11 : Les cols d'Iraty — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 64490.657094712486,
+  "duration_s": 18882,
+  "elevation_up_m": 1856.8638458243245,
+  "elevation_down_m": 1856.8638458243256,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.165427,
+  "start_lng": -1.193896,
+  "start_alt_m": 203.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "From the village of Saint-Jean-le-Vieux to the unfathomable forest of Iraty, passing through impressive passes, this route will delight lovers of cycling and nature. The requirement of the passes combines with the beauty of the landscapes to offer a remarkable excursion on the heights of the Basque Country.\n\nNot far from Saint-Jean-Pied-de-Port, Saint-Jean-le-Vieux largely owes its existence to the Roman Empire. At the crossroads of history and nature, this charming little village is the ideal starting point for many nature outings. It is from here that the route begins, following the meanders of the Laurhibar. It is away from the stream that the road really begins to rise.\n\nOn the program, a start of ascent that leads to the Burdincurutcheta pass before leading to the Bagargui pass a little higher. Large yaw turns allow you to quickly gain height and open up wide panoramas. On your left stands the rocky peak of Béhorléguy. The climb ends by entering the forest of Iraty. Largest beech forest in Europe, it gives a mystical character at the end of the ascent.\n\nAt the Col de Bagargui, located in Iraty, there are many chalets as well as a grocery store and a restaurant, perfect for a break. In the distance, you can see the peak of Orhy, the highest point in the Basque Country at 2,017 meters above sea level.\n\nFrom the pass you continue on a hilly portion that leads to the Inharpu pass, bypassing the Escaliers peak and passing through Arhansus. This beautiful portion continues until the descent that leads to Lecumberry. Along the way you find the peak of Béhorléguy, at the foot of which the descent progresses. From the village, all you have to do is take the same portion as on the outward journey to find Saint-Jean-le-Vieux.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This pretty pass provides a beautiful introduction to the largest beech forest in Europe: the Iraty forest. From the village of Saint-Jean-le-Vieux, the climb is 20 kilometers long at an average gradient of 4.6% with a maximum of around 11%.",
+    "Located in the heart of the Iraty Forest, the Bagargui Pass is reached via a beautiful 28-kilometer climb from Saint-Jean-le-Vieux. The climb averages 4%, with peaks reaching 11%. \nAt the pass, you'll find the famous Iraty chalets and a grocery store for supplies.",
+    "The road that leads to the Inharpu pass is magnificent. From Lecumberry, the climb is about 14 kilometers at an average of 5.3%. A few meters after the pass is the Auberge d'Ahusquy for a well-deserved break.",
+    "The village of Saint-Jean-le-Vieux is nestled at the foot of the Pyrenees in the heart of the Basque Country. The surrounding hills are dotted with protohistoric remains that bear witness to a rich history. The Roman Empire had positioned one of its most important garrisons there, contributing to the development of the village."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.07064112,
+    "sb#paved": 0.19095501,
+    "sb#asphalt": 0.73840386
+  },
+  "way_types": {
+    "minor_road": 0.093831114,
+    "street": 0.9061689
+  },
+  "waypoints": [
+    {
+      "name": "Burdincurutcheta Pass",
+      "lat": 43.062602,
+      "lng": -1.087089,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 211375
+    },
+    {
+      "name": "Bagargui",
+      "lat": 43.038078,
+      "lng": -1.026621,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 211377
+    },
+    {
+      "name": "Inharpu Pass",
+      "lat": 43.0947,
+      "lng": -1.0297,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5784491
+    },
+    {
+      "name": "Saint-Jean-le-Vieux",
+      "lat": 43.16538,
+      "lng": -1.19387,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5784655
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mountain_pass",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 4,
+  "visitors": 105,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-05T17:50:08.163Z",
+  "changed_at": "2024-06-08T06:06:53.100Z",
+  "scraped_at": "2026-04-28T19:26:25.308107+00:00"
+}

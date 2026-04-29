@@ -1,0 +1,173 @@
+{
+  "tour_id": "e1363054557",
+  "url": "https://www.komoot.com/smarttour/e1363054557",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1363054557/benasque-cerler-anciles-loop",
+  "name": "Benasque - Cerler - Anciles Loop",
+  "name_original": "Anciles y Barranco de Remáscaro — circular desde Benasque por los senderos Praus de les Cases y els Felegars (PR-HU 33 y PR-HU 27)",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9932.75594512852,
+  "duration_s": 12854,
+  "elevation_up_m": 463.99988712456116,
+  "elevation_down_m": 463.9998871245609,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.607595,
+  "start_lng": 0.52304,
+  "start_alt_m": 1159.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 6.2-mile Benasque - Cerler - Anciles Loop, exploring charming villages, diverse forests, and panoramic valley views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "In addition to a beautiful town center, here you will find all kinds of tourist services, from shops to hotels and restaurants.",
+    "The town of Anciles in the Benasque Valley, Ansils in patués, is considered one of the most beautiful towns on the peninsula. It's not by chance. Although its size is closer to a village than a town, the marvelous group of houses that it brings together and its state of conservation make its visit essential.",
+    "This mighty ravine collects the waters of seven other ravines: Mascarada, Cllotet, Ardonés, Ubago de Ardonés, Ampríu, Puimestre and La Selva. That large basin was partly responsible for the great floods of 1963 that left Anciles looking like an island.",
+    "A good point from which to observe Benasque with the Tuca del Mont behind, as well as the planned expansions of the municipality."
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park to start the Benasque - Cerler - Anciles Loop?",
+      "answer": "You can typically find parking in Benasque, which serves as the central hub for this loop. From Benasque, you can easily access the start of the trail."
+    },
+    {
+      "question": "Is this loop trail suitable for families or beginners?",
+      "answer": "Yes, the Benasque - Cerler - Anciles Loop is generally considered to be of easy to medium difficulty, making it suitable for families and those looking for a moderate physical challenge. While much of the path between Benasque and Anciles is flatter, the ascent from Anciles back towards Cerler can be more demanding."
+    },
+    {
+      "question": "What is the terrain like on this hike?",
+      "answer": "The trail offers diverse terrain, blending into dense forests of pine, beech, oak, and hazelnut, providing welcome shade. You'll also walk along the right bank of the Ésera River. The route features traditional paths, some of which are stony or cobbled, requiring careful footing in steeper sections. As you gain altitude towards Cerler, you'll encounter more open areas with panoramic views."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "This loop connects three charming villages: Benasque, <a href=\"https://www.komoot.com/highlight/5857874\" target=\"_blank\" rel=\"noopener\">Ancils / Anciles</a>, and Cerler, each with traditional architecture and historical significance. You'll also pass by the impressive <a href=\"https://www.komoot.com/highlight/6259947\" target=\"_blank\" rel=\"noopener\">Remáscaro Gorge Waterfalls</a> and enjoy a <a href=\"https://www.komoot.com/highlight/5085947\" target=\"_blank\" rel=\"noopener\">Viewpoint of Benasque and Tuca del Mont</a>, offering spectacular vistas of the valley and surrounding peaks."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, sections of this route overlap with other official trails. You'll find yourself on parts of the Benasque – Cerler trail, the Sendero Praus de Cases, and the PR-HU 33, among others."
+    },
+    {
+      "question": "Is the Benasque - Cerler - Anciles Loop dog-friendly?",
+      "answer": "Generally, dogs are welcome on trails in this region, but it's always best to keep them on a leash, especially when passing through villages or near livestock, and to clean up after them. Specific local regulations may apply, so check signage."
+    },
+    {
+      "question": "What is the best time of year to hike this route?",
+      "answer": "The trail is enjoyable across multiple seasons. Spring and early autumn offer pleasant temperatures and vibrant scenery. Summer provides shaded sections through forests, ideal for warmer days. Always check local weather conditions before you go, especially for snow in higher elevations during late autumn or early spring."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this hike?",
+      "answer": "No, there are no specific permits or entrance fees required to hike the Benasque - Cerler - Anciles Loop. It's a publicly accessible trail."
+    },
+    {
+      "question": "Are there any cafes or amenities available along the way?",
+      "answer": "Yes, the loop connects the villages of Benasque, Anciles, and Cerler. Benasque, as the central hub, offers a range of cafes, restaurants, and shops. Anciles and Cerler also have amenities where you can find refreshments or a meal, especially in Cerler's old town."
+    },
+    {
+      "question": "What is the most challenging section of the loop?",
+      "answer": "While the overall difficulty is moderate, the ascent from <a href=\"https://www.komoot.com/highlight/5857874\" target=\"_blank\" rel=\"noopener\">Ancils / Anciles</a> back towards Cerler is generally considered the most demanding part due to the elevation gain. Some stony sections also require careful footing."
+    },
+    {
+      "question": "Are there good viewpoints for photography on this trail?",
+      "answer": "Absolutely! The elevated sections, particularly around Cerler, provide some of the best panoramic views of the Benasque Valley, the Sierra de Chía, and the Tucas de Ixeia. The <a href=\"https://www.komoot.com/highlight/5085947\" target=\"_blank\" rel=\"noopener\">Viewpoint of Benasque and Tuca del Mont</a> is a specific highlight for stunning vistas."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.059488975,
+    "paved": 0.13194467,
+    "unknown": 0.17789143,
+    "unpaved": 0.29341713,
+    "alpin": 0.33725783
+  },
+  "way_types": {
+    "primary": 0.0029445037,
+    "street": 0.050683927,
+    "minor_road": 0.054861,
+    "footway": 0.11991219,
+    "way": 0.22136746,
+    "hiking_path": 0.26055786,
+    "mountain_hiking_path": 0.28967306
+  },
+  "waypoints": [
+    {
+      "name": "Historic Center of Benasque",
+      "lat": 42.6068,
+      "lng": 0.5224,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 6259824
+    },
+    {
+      "name": "Ancils / Anciles",
+      "lat": 42.5907,
+      "lng": 0.5093,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly",
+        "intermediate"
+      ],
+      "highlight_id": 5857874
+    },
+    {
+      "name": "Remáscaro Gorge Waterfalls",
+      "lat": 42.586882,
+      "lng": 0.538641,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "gorge",
+        "river",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 6259947
+    },
+    {
+      "name": "Viewpoint of Benasque and Tuca del Mont",
+      "lat": 42.593478,
+      "lng": 0.526811,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5085947
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "settlement",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.400000095367432,
+  "rating_count": 15,
+  "visitors": 124,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-10-30T11:42:46.825Z",
+  "changed_at": "2026-02-26T20:42:14.257Z",
+  "scraped_at": "2026-04-27T11:45:42.368513+00:00"
+}

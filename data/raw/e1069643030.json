@@ -1,0 +1,145 @@
+{
+  "tour_id": "e1069643030",
+  "url": "https://www.komoot.com/smarttour/e1069643030",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069643030/loop-of-orteig-running-in-the-ossau-valley",
+  "name": "Loop of Orteig – running in the Ossau Valley",
+  "name_original": "La boucle d'Orteig — Courir dans la vallée d’Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 31784.765782012713,
+  "duration_s": 21187,
+  "elevation_up_m": 2231.144481795676,
+  "elevation_down_m": 2248.502862561998,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.973387,
+  "start_lng": -0.393819,
+  "start_alt_m": 720.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This course owes its name to the guide and hunter Jacques Orteig. His walking abilities were known throughout the Ossau Valley. The loop begins in the car park of the casino of the spa town of Orteig's birthplace: Les Eaux-Bonnes.\n\nThe route begins by following the Sourde stream immersed in a beautiful wooded area. This part is done uphill until you leave La Sourde. Then it's a beautiful flat area that takes you to the heights of Gourette.\n\nYou then join the GR 10 and follow its markings towards Lake Anglas then Hourquette d’Arre. Nestled at 2,574 meters above sea level, this pass marks the highest point of your outing and your return to the Ossau valley.\n\nThe beginning of the descent is quite steep before softening when you reach the foothills of the Petite Arcizette. You leave the GR 10 to embark on the last climb of the route towards the Col de Lurdé. A pretty path takes you to Pas de Brèque in an absolutely remarkable setting.\n\nEnjoy the unobstructed view of the valley one last time before following a track that plunges into the woods of Assouste. Many switchbacks fork in this beautiful forest before bringing you back to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The pretty little mountain village of Eaux-Bonnes is perched 715 meters above sea level. It owes its fame to its thermal springs which have contributed to its development since the 17th century.\r\nNestled between Laruns and Gourette, the village encourages a pleasant break in a beautiful valley.",
+    "From here you can admire the Small and the Large Gabizos, which are among the celebrities of the area. These peaks are connected by ridges and ridges that tease the 3000 meters.\r\nIf you come back to the area or have time for a big detour, a quite spectacular ridge path can be taken there.",
+    "Anglas is a small natural lake perched 2,068 meters above sea level.\r\nIt is nestled at the bottom of a small circus and surrounded by the Pène-Médaa (2,521 meters above sea level) and the Arre Sourins (2,614 meters above sea level).",
+    "La Hourquette d'Arrê peaks at 2,574 meters above sea level. This chain of small peaks forms a barrier between the Ossau and Aspe valleys.\r\n\r\nA small passage on the GR10 allows you to go from one to the other.",
+    "The Pas de Brèque marks the end of the Vallon de Gourziotte that you have just crossed. From here you slowly start your descent to Eaux-Chaudes. Be sure to follow the yellow and red GRP trail as there are a lot of trails in this area which can easily mislead you."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.005271111,
+    "paved": 0.011718923,
+    "unknown": 0.015217115,
+    "alpin": 0.44659543,
+    "unpaved": 0.52119744
+  },
+  "way_types": {
+    "street": 0.0002439354,
+    "footway": 0.005027176,
+    "minor_road": 0.018488763,
+    "way": 0.06798991,
+    "mountain_hiking_path": 0.44659543,
+    "hiking_path": 0.46165478
+  },
+  "waypoints": [
+    {
+      "name": "Eaux-Bonnes",
+      "lat": 42.9732,
+      "lng": -0.39369,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "natural_monument",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5588632
+    },
+    {
+      "name": "Viewpoint over the Petit and Grand Gabizos",
+      "lat": 42.9545,
+      "lng": -0.3454,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "mountain_pass",
+        "summit"
+      ],
+      "highlight_id": 4199861
+    },
+    {
+      "name": "Lake Anglas",
+      "lat": 42.9325,
+      "lng": -0.3243,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "lake"
+      ],
+      "highlight_id": 4230689
+    },
+    {
+      "name": "Hourquette d'Arre",
+      "lat": 42.92029,
+      "lng": -0.33029,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate",
+        "summit",
+        "challenging"
+      ],
+      "highlight_id": 3461924
+    },
+    {
+      "name": "Brècque Pass",
+      "lat": 42.9443,
+      "lng": -0.4016,
+      "type": "viewpoint",
+      "categories": [
+        "intermediate",
+        "viewpoint",
+        "mountain_pass"
+      ],
+      "highlight_id": 4199883
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 29,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T14:47:30.490Z",
+  "changed_at": "2024-06-07T19:30:49.618Z",
+  "scraped_at": "2026-04-27T15:29:22.534795+00:00"
+}

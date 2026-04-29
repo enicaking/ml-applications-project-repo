@@ -1,0 +1,212 @@
+{
+  "tour_id": "e931595112",
+  "url": "https://www.komoot.com/smarttour/e931595112",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e931595112/tres-cascadas-trail",
+  "name": "Tres Cascadas Trail",
+  "name_original": "Ruta de las Tres Cascadas de Ardonés – circular desde Cerler",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 4,
+  "distance_m": 6545.341568120176,
+  "duration_s": 7559,
+  "elevation_up_m": 300.3034145616148,
+  "elevation_down_m": 300.56422034754587,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.593926,
+  "start_lng": 0.539422,
+  "start_alt_m": 1623.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 4.1-mile Tres Cascadas Trail in Posets-Maladeta Natural Park to discover three beautiful waterfalls.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small hermitage with camping tables and good views of Pico Cerler and the Molino area.",
+    "Really a beautiful waterfall and well worth a visit. It's a nice hike from Cerler. There may be a lot of hikers on the way, also because there is a parking lot nearby.",
+    "The highest of the 3 waterfalls. It is at its peak in late spring.",
+    "Smaller waterfall and less spectacular than its neighbors.",
+    "Small lookout area with some information on the use of land by the inhabitants of the valley",
+    "The highest town in the Aragonese Pyrenees, with the Aramón Cerler alpine ski resort as the main sports engine for decades, it is also a good starting point for numerous trail running training routes."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Tres Cascadas Trail?",
+      "answer": "This trail is rated as <strong>moderate</strong>. While the distance is manageable, the terrain can be steep, muddy, and slippery, especially after rain. Good physical fitness and sturdy hiking boots with excellent traction are highly recommended to navigate the uneven paths, roots, and rocks."
+    },
+    {
+      "question": "How long does it take to hike the Tres Cascadas Trail?",
+      "answer": "The route is approximately 6.5 km long and typically takes around 2 hours to complete. This duration can vary based on your pace, how often you stop to enjoy the scenery, and the trail conditions."
+    },
+    {
+      "question": "Where does the Tres Cascadas Trail start, and is there parking available?",
+      "answer": "The trail is a circular route starting and ending near Cerler. You can find parking in or around <a href=\"https://www.komoot.com/highlight/3424577\" target=\"_blank\" rel=\"noopener\">Cerler Village</a>. The exact trailhead can be found by following the route details on komoot."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for the Tres Cascadas Trail or Posets-Maladeta Natural Park?",
+      "answer": "The Tres Cascadas Trail is located within the Posets-Maladeta Natural Park. Generally, there is no specific entrance fee for hiking within the natural park itself, nor for this particular trail. However, always check local regulations before your visit, especially for any potential seasonal restrictions or specific access rules that might apply to certain areas within the park."
+    },
+    {
+      "question": "What can I see along the Tres Cascadas Trail?",
+      "answer": "The trail is renowned for its three beautiful waterfalls: <a href=\"https://www.komoot.com/highlight/871651\" target=\"_blank\" rel=\"noopener\">Ardonés Waterfall</a>, <a href=\"https://www.komoot.com/highlight/4977100\" target=\"_blank\" rel=\"noopener\">Clotet Waterfall</a>, and <a href=\"https://www.komoot.com/highlight/4976813\" target=\"_blank\" rel=\"noopener\">Cascada de la Mascarada</a>. You'll also pass by the historic <a href=\"https://www.komoot.com/highlight/4975347\" target=\"_blank\" rel=\"noopener\">Ermita de San Pedro Mártir</a>, the <a href=\"https://www.komoot.com/highlight/4975371\" target=\"_blank\" rel=\"noopener\">Puente de Vadiello</a>, and enjoy views from <a href=\"https://www.komoot.com/highlight/3423551\" target=\"_blank\" rel=\"noopener\">Paliuenga Terraces</a>, all set within a lush, green landscape."
+    },
+    {
+      "question": "Is the Tres Cascadas Trail dog-friendly?",
+      "answer": "Dogs are generally allowed on trails within Posets-Maladeta Natural Park, but they must be kept on a leash at all times to protect wildlife and ensure the safety of other hikers. Always practice Leave No Trace principles and clean up after your pet."
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "The best time to hike is typically during the spring, summer, and early autumn months when the weather is milder and the waterfalls are flowing well. During winter, snow and ice can make the trail significantly more challenging and potentially dangerous. Always check local weather conditions before heading out."
+    },
+    {
+      "question": "Are there any specific recommendations for tackling the waterfalls on this route?",
+      "answer": "Some hikers suggest visiting the second and third waterfalls first, then the first on your return journey. This approach can optimize your experience and offer a different perspective on the cascades."
+    },
+    {
+      "question": "What kind of terrain should I expect on the route?",
+      "answer": "Expect a varied and sometimes challenging terrain. The path includes steep sections, uneven ground with tree roots and rocks, and can be very muddy and slippery, especially after rainfall. Some particularly steep parts may have ropes installed to assist with ascent and descent, and you'll encounter both natural and constructed steps."
+    },
+    {
+      "question": "Does the Tres Cascadas Trail intersect with other well-known paths?",
+      "answer": "Yes, the route shares sections with several other trails. Notably, it overlaps significantly with the 'Tres Cascadas' official trail and briefly with the 'Tour de l'Aneto', 'Puen de Badiello', and 'Sendero Ruta 13 Puro Pirineo'."
+    },
+    {
+      "question": "Can I swim in the waterfall pools?",
+      "answer": "While the natural pools at the base of the waterfalls can be inviting, the water is often quite cold. If you choose to swim, exercise caution as the rocks can be slippery, and water depths may vary."
+    }
+  ],
+  "surfaces": {
+    "unpaved": 0.026498007,
+    "paved": 0.07091772,
+    "alpin": 0.90258425
+  },
+  "way_types": {
+    "hiking_path": 0.0030189261,
+    "street": 0.0077197575,
+    "minor_road": 0.05342868,
+    "way": 0.104660176,
+    "mountain_hiking_path": 0.83117247
+  },
+  "waypoints": [
+    {
+      "name": "Ermita de San Pedro Mártir",
+      "lat": 42.589033,
+      "lng": 0.547665,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 4975347
+    },
+    {
+      "name": "Puente de Vadiello",
+      "lat": 42.586637,
+      "lng": 0.556095,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "trail",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 4975371
+    },
+    {
+      "name": "Ardonés Waterfall",
+      "lat": 42.588604,
+      "lng": 0.570288,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "climb",
+        "trail",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 871651
+    },
+    {
+      "name": "Clotet Waterfall",
+      "lat": 42.589358,
+      "lng": 0.569287,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 4977100
+    },
+    {
+      "name": "Cascada de la Mascarada",
+      "lat": 42.590293,
+      "lng": 0.566243,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate"
+      ],
+      "highlight_id": 4976813
+    },
+    {
+      "name": "Paliuenga Terraces",
+      "lat": 42.590278,
+      "lng": 0.554292,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "historical_site"
+      ],
+      "highlight_id": 3423551
+    },
+    {
+      "name": "Cerler Village",
+      "lat": 42.594517,
+      "lng": 0.538625,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 3424577
+    }
+  ],
+  "categories": [
+    "bridge",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.839161,
+  "rating_count": 143,
+  "visitors": 1137,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-20T17:02:16.659Z",
+  "changed_at": "2026-02-26T18:59:11.701Z",
+  "scraped_at": "2026-04-27T11:45:22.999449+00:00"
+}

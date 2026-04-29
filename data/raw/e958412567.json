@@ -1,0 +1,174 @@
+{
+  "tour_id": "e958412567",
+  "url": "https://www.komoot.com/smarttour/e958412567",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e958412567/pic-carlit-hike-starting-from-the-parking-lot-of-lac-des-bouillouses-parc-naturel-regional-des-pyrenees-catalanes",
+  "name": "Pic Carlit – hike starting from the parking lot of lac des Bouillouses – Parc naturel régional des Pyrénées Catalanes",
+  "name_original": "Pic Carlit – randonnée au départ du parking du lac des Bouillouses – Parc naturel régional des Pyrénées Catalanes",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14284.94163536995,
+  "duration_s": 23482,
+  "elevation_up_m": 867.607010561019,
+  "elevation_down_m": 867.6080032132725,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.559836,
+  "start_lng": 2.001142,
+  "start_alt_m": 2006.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The bullosa lake, in French lac des Bouillouses, is a 149-hectare lake located in the highest part of the Capcir, at 2,016 m altitude. It is located at the foot of the Carlit and the Peric, and is surrounded by a set of ponds, among them, the Carlit ponds. It represents a natural site of great interest. It is also part of the Natural Park of the Catalan Pyrenees, which encompasses the northern Catalan Pyrenees.\r\n\r\nIn the summer, due to the large influx of tourists, access is restricted in July to a bus that connects the car park below with the dam above.\r\n\r\nThe name derives from the Latin BULLIRE 'to boil, to be in a boil, to spring'; applied mainly to waters that emerge strongly.",
+    "L’Estany Sec, l’Estany Negre, l’Estany de la Comassa et l’Estany del Viver are the 4 first étangs surplombant lac des Bouillouses within thirty minutes of walking.",
+    "Carlit Peak is part of the Capcir granite massif, which is dotted with 27 lakes and small lakes in the Occitania region, northwest of Font-Romeu. Its summit is located at 2921 meters, allowing you to observe an immense panorama (from Canigó to the Central Pyrenees).",
+    "The Estany de Sobirans at 2,330 meters above sea level at the foot of the Carlit peak is an ideal stopover before climbing its summit located 591 meters higher.",
+    "Culminating at 2,921 meters, the peak of Carlit reigns within an exceptional natural environment. It offers wide panoramas over the valley and its countless lakes.",
+    "With 11 lakes located between Carlit and Bouillouses, the hike from one to the other is necessarily superb.",
+    "Wonderful lake, like all the ones in the area",
+    "Along with the Black Lake, it is the pond of Carlit nearest the Bouillouses Lake."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.0012122729,
+    "paved": 0.012395388,
+    "gravel": 0.030130388,
+    "nature": 0.95626193
+  },
+  "way_types": {
+    "hiking_path": 0.0006529615,
+    "way": 0.0029224167,
+    "street": 0.022093873,
+    "alpine_hiking_path": 0.055564288,
+    "mountain_hiking_path": 0.91876644
+  },
+  "waypoints": [
+    {
+      "name": "Lake Bouillouses",
+      "lat": 42.559736,
+      "lng": 1.999403,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 4537562
+    },
+    {
+      "name": "Estany Negre hut",
+      "lat": 42.564574,
+      "lng": 1.977739,
+      "type": "hut",
+      "categories": [
+        "hut"
+      ],
+      "highlight_id": 929322
+    },
+    {
+      "name": "View of the lakes",
+      "lat": 42.570004,
+      "lng": 1.971001,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 929323
+    },
+    {
+      "name": "Estany de Sobirans",
+      "lat": 42.571604,
+      "lng": 1.952577,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1018003
+    },
+    {
+      "name": "Summit of Pic Carlit",
+      "lat": 42.569841,
+      "lng": 1.932104,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 2610613
+    },
+    {
+      "name": "Lake Vallell",
+      "lat": 42.572876,
+      "lng": 1.969907,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 239251
+    },
+    {
+      "name": "Estany de les Dugues",
+      "lat": 42.573745,
+      "lng": 1.973989,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_natural",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3528194
+    },
+    {
+      "name": "Viver Lake",
+      "lat": 42.5657,
+      "lng": 1.982932,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "natural_monument",
+        "family_friendly",
+        "forest",
+        "unknown"
+      ],
+      "highlight_id": 239250
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "forest",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.8152866,
+  "rating_count": 157,
+  "visitors": 2080,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-21T02:13:32.793Z",
+  "changed_at": "2024-06-06T00:17:30.983Z",
+  "scraped_at": "2026-04-27T12:22:10.591174+00:00"
+}

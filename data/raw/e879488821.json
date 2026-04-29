@@ -1,0 +1,79 @@
+{
+  "tour_id": "e879488821",
+  "url": "https://www.komoot.com/smarttour/e879488821",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e879488821/loop-of-biarritz",
+  "name": "Loop of Biarritz",
+  "name_original": "Boucle de Biarritz",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10253.20811052182,
+  "duration_s": 3887,
+  "elevation_up_m": 110.55444104048503,
+  "elevation_down_m": 110.55444104048499,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.466252,
+  "start_lng": -1.538224,
+  "start_alt_m": 64.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Incredible steps brining you down to the roofed terrace along the shore. Views are incredible!",
+    "A must when you arrive in Biarritz and enjoy the city and beach panorama."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.0072488245,
+    "unpaved": 0.00949866,
+    "unknown": 0.18878789,
+    "paved": 0.27034426,
+    "asphalt": 0.52412033
+  },
+  "way_types": {
+    "hiking_path": 0.0072488245,
+    "primary": 0.02267324,
+    "street": 0.033066146,
+    "way": 0.35350898,
+    "minor_road": 0.5835028
+  },
+  "waypoints": [
+    {
+      "name": "Descent vers Miramar",
+      "lat": 43.489025,
+      "lng": -1.553536,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3873634
+    },
+    {
+      "name": "Biarritz Viewpoint",
+      "lat": 43.483479,
+      "lng": -1.568699,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 108371
+    }
+  ],
+  "categories": [],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 13,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-09T15:56:27.606Z",
+  "changed_at": "2024-06-05T19:57:38.771Z",
+  "scraped_at": "2026-04-27T15:33:05.979024+00:00"
+}

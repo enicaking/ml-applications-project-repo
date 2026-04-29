@@ -1,0 +1,136 @@
+{
+  "tour_id": "e1069814369",
+  "url": "https://www.komoot.com/smarttour/e1069814369",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069814369/sanctus-running-in-the-ossau-valley",
+  "name": "Sanctus – running in the Ossau Valley",
+  "name_original": "Le Sanctus — Courir dans la vallée d’Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 12445.310639335436,
+  "duration_s": 9021,
+  "elevation_up_m": 1135.0353933410122,
+  "elevation_down_m": 1135.035393341012,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.956638,
+  "start_lng": -0.328808,
+  "start_alt_m": 1386.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The start of this course is in the ski resort of Gourette. Attached to the village of Eaux-Bonnes, this station is crossed by the GR 10. It also offers several accessible trails.\n\nThe route starts directly on the route of the GR 10 going up to the foot of the Pène de Sarrière. A little before the second kilometer, the track leaves the GR to embark on a steep climb that leads to the Louesque lakes. Located in the circus of the same name, these three small lakes suggest a nice break.\n\nA final, gentler uphill section takes you to the highest point of the outing, Sanctus Peak. Perched at an altitude of 2,482 meters, it forms a magnificent belvedere over the Pic du Ger and the many lakes below.\n\nFinally, a beautiful descent takes you back to your starting point. It wanders along the shores of Lake Uzious before returning to the GR 10 a little before that of Anglas. Follow its markings until you reach Gourette.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Louesque lakes, three in number, are located between 2,275 and 2,338 meters above sea level within a cirque dominated by the Sanctus peak.",
+    "The Sanctus peak rises to 2,482 meters above sea level from the heights of Gourette. Easy to access, it offers superb views of the various lakes below.",
+    "A small mountain lake located at an altitude of 2,117 meters in the town of Eaux-Bonnes, upstream from the Cirque de Gourette.",
+    "Anglas is a small natural lake perched 2,068 meters above sea level.\r\nIt is nestled at the bottom of a small circus and surrounded by the Pène-Médaa (2,521 meters above sea level) and the Arre Sourins (2,614 meters above sea level).",
+    "Gourette is part of the thermal village of Eaux-Bonnes. This ski resort is around 1,400 meters above sea level and offers plenty of accommodation and dining options."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.0005101718,
+    "asphalt": 0.0016338683,
+    "unknown": 0.014549055,
+    "nature": 0.094079465,
+    "alpin": 0.20855413,
+    "unpaved": 0.6806733
+  },
+  "way_types": {
+    "minor_road": 0.0006934422,
+    "street": 0.00094042614,
+    "way": 0.104820944,
+    "mountain_hiking_path": 0.20855413,
+    "hiking_path": 0.68499106
+  },
+  "waypoints": [
+    {
+      "name": "Louesque Lakes",
+      "lat": 42.9344,
+      "lng": -0.3028,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 5598970
+    },
+    {
+      "name": "Sanctus Peak",
+      "lat": 42.9266,
+      "lng": -0.30793,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 5598997
+    },
+    {
+      "name": "Lac d'Uzious",
+      "lat": 42.927254,
+      "lng": -0.315914,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 4785396
+    },
+    {
+      "name": "Lake Anglas",
+      "lat": 42.9325,
+      "lng": -0.3243,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "lake"
+      ],
+      "highlight_id": 4230689
+    },
+    {
+      "name": "Gourette",
+      "lat": 42.95659,
+      "lng": -0.32878,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "facilities",
+        "viewpoint"
+      ],
+      "highlight_id": 5598937
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 63,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T17:04:30.514Z",
+  "changed_at": "2024-06-07T19:31:38.721Z",
+  "scraped_at": "2026-04-27T15:29:09.609472+00:00"
+}

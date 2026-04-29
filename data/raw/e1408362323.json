@@ -1,0 +1,142 @@
+{
+  "tour_id": "e1408362323",
+  "url": "https://www.komoot.com/smarttour/e1408362323",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1408362323/cortals-d-encamp-ascent",
+  "name": "Cortals d'Encamp Ascent",
+  "name_original": "Subida a Cortals d'Encamp — ida y vuelta desde Encamp",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 20333.606571727727,
+  "duration_s": 6940,
+  "elevation_up_m": 849.3580182401352,
+  "elevation_down_m": 849.3580182401356,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.537178,
+  "start_lng": 1.583863,
+  "start_alt_m": 1284.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle the difficult Ascent to Cortals d'Encamp, a 12.6-mile (20.3 km) route with 2787 feet (849 metres) of elevation gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Impressive viewpoint that if you're running through the area it's worth getting there and taking a look at the views it offers together with the hermitage of Sant Felip and Sant Jaume dels Cortals.",
+    "The route has an incline of 10.2%, which then smooths out to 5.4%, coinciding with the Bordas de Rígoder area. The average slope of the ascent is 8.5% with a difference of 754 meters and 8.9 kilometers of distance."
+  ],
+  "faqs": [
+    {
+      "question": "Is the Ascent to Cortals d'Encamp suitable for all fitness levels?",
+      "answer": "No, this route is considered <strong>difficult</strong> and requires very good fitness. It features demanding gradients, with an average around 8.5% and sustained sections over 10.7%, making it challenging for most cyclists."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling route?",
+      "answer": "The route is primarily paved with excellent road surfaces. However, be aware that some variations, like those used in professional races, have included a 4-kilometer stretch of gravel road. The main ascent is mostly paved."
+    },
+    {
+      "question": "When is the best time of year to cycle this route?",
+      "answer": "The best time to cycle this route is generally during the warmer months when the mountain passes are clear of snow. Cycling in winter is not recommended due to snow and ice, especially at higher elevations."
+    },
+    {
+      "question": "Where can I park when starting this cycling tour in Encamp?",
+      "answer": "While specific parking details aren't provided, Encamp, as a town, offers various parking options. It's advisable to look for public parking areas within Encamp itself, especially near the starting point of the ascent."
+    },
+    {
+      "question": "Is this cycling route dog-friendly?",
+      "answer": "This route is designed for touring bicycles on paved roads. While dogs are generally allowed in public spaces in Andorra, bringing a dog on a challenging road cycling ascent like this might not be practical or safe for the animal. Consider local regulations and your dog's fitness for such an activity."
+    },
+    {
+      "question": "Do I need any special permits or pay fees to cycle this route?",
+      "answer": "No, you do not need any special permits or pay fees to cycle the Ascent to Cortals d'Encamp. Cycling on public roads in Andorra is generally free and accessible."
+    },
+    {
+      "question": "What are the main points of interest or viewpoints along the way?",
+      "answer": "Along the route, you'll encounter beautiful views, especially as you climb higher. Notable highlights include the <a href=\"https://www.komoot.com/highlight/6373026\" target=\"_blank\" rel=\"noopener\">Sant Felip i Sant Jaume dels Cortals Viewpoint</a> and the scenic area around <a href=\"https://www.komoot.com/highlight/759404\" target=\"_blank\" rel=\"noopener\">Els Cortals d'Encamp</a>, offering stunning panoramic vistas."
+    },
+    {
+      "question": "Are there any sections of the route with heavy traffic?",
+      "answer": "Yes, the initial 3 kilometers from the main road can experience significant traffic. However, this usually lessens considerably once you turn off into Encamp itself and begin the dedicated ascent."
+    },
+    {
+      "question": "What makes this route particularly notable for cyclists?",
+      "answer": "This route is renowned for its challenging nature and its history as a summit finish in major professional cycling races, including the 2015 and 2019 Vuelta a España. It's considered one of Andorra's most demanding and scenic climbs."
+    },
+    {
+      "question": "Are there places to eat or drink along the route or in Encamp?",
+      "answer": "While there might be limited options directly on the ascent, Encamp itself offers various cafes, pubs, and restaurants where you can refuel before or after your ride. It's always a good idea to carry your own water and snacks for the climb."
+    },
+    {
+      "question": "How can I reach the starting point using public transport?",
+      "answer": "Encamp is well-connected by public transport within Andorra. You can typically find bus services that will take you to Encamp, from where you can begin your cycling ascent. Check local bus schedules for the most up-to-date information."
+    }
+  ],
+  "surfaces": {
+    "sb#unpaved": 0.086824164,
+    "sb#asphalt": 0.9131758
+  },
+  "way_types": {
+    "primary": 0.03503494,
+    "way": 0.086824164,
+    "street": 0.8781409
+  },
+  "waypoints": [
+    {
+      "name": "Sant Felip i Sant Jaume dels Cortals Viewpoint",
+      "lat": 42.534326,
+      "lng": 1.603968,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "man_made_monument",
+        "intermediate",
+        "religious_building"
+      ],
+      "highlight_id": 6373026
+    },
+    {
+      "name": "Els Cortals d'Encamp",
+      "lat": 42.539616,
+      "lng": 1.630929,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "climb",
+        "viewpoint",
+        "trail",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 759404
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "family_friendly",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "religious_building",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 39,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-05T14:25:18.515Z",
+  "changed_at": "2026-02-26T20:13:54.335Z",
+  "scraped_at": "2026-04-29T00:28:46.889623+00:00"
+}

@@ -1,0 +1,123 @@
+{
+  "tour_id": "e1008065782",
+  "url": "https://www.komoot.com/smarttour/e1008065782",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1008065782/loop-via-ziburu-mendi-running-to-the-rhune-from-olhette",
+  "name": "Loop via Ziburu Mendi – running to the Rhune from Olhette",
+  "name_original": "Boucle par Ziburu Mendi – Courir à la Rhune depuis Olhette",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 11799.791784389248,
+  "duration_s": 8048,
+  "elevation_up_m": 858.8002120727557,
+  "elevation_down_m": 852.6042687419213,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.331367,
+  "start_lng": -1.659507,
+  "start_alt_m": 104.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful route makes you discover the surroundings of the Rhune before offering you the almost infinite panoramas that this summit offers.\n\nThe loop begins in the car park at the end of Chemin Xurien Borda, in the Olhette district towards Ascain, opposite the Trabenia hotel. From the path, you cross the small stream using a lying pylon, then you engage on the GR 10 which goes into the forest. About 300 meters after crossing the barrier, you leave the GR by taking a path that climbs to the right. This ascending path guides you to a sheepfold. A few meters further, you take a new path which goes up on your left. It will take you to the top of Ziburu mendi, the mountain of Ciboure. Enjoy the beautiful view of the Rhune, your next objective.\n\nA short descent takes you to the Col de Descarga de Haundi before going back up via one of the variants of the HRP (Haute Route Pyrénéenne) which leads to the Venta Yasola. At this point, you leave the HRP path to embark on a single track that runs along the Larrun Txiki for a little less than two kilometers until you reach a wide track whose end is none other than the summit of the Rhune. .\n\nAfter enjoying the 360 degree view, a technical descent awaits you. Several bends lead you to the little wood which in turn leads to the col des Trois Fontaines and its beautiful views of the coast.\n\nFrom there, all you have to do is follow the GR 10 path which takes you back to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The mountain of Ciboure is full of legends and traditions. One of them explains in an obscure way that the little blue chapel, which we see on the way down, would have been built in one night by strange characters.\r\nThe Basque name for this mountain is Ziburu Mendi.",
+    "La Venta Yasola is an ideal place to take a break while enjoying the view. Open on sunny days, it offers a simple, local menu. Remember to call to make sure it's open!",
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "The Col des Trois Fontaines offers a superb view of the Rhune but also of its surroundings. Several paths converge at this location and allow you to vary the approaches to reach the summit."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.04886031,
+    "nature": 0.06969504,
+    "gravel": 0.094041556,
+    "unpaved": 0.19698986,
+    "alpin": 0.5904132
+  },
+  "way_types": {
+    "minor_road": 0.003692312,
+    "footway": 0.003989798,
+    "way": 0.22495332,
+    "hiking_path": 0.2808657,
+    "mountain_hiking_path": 0.48649886
+  },
+  "waypoints": [
+    {
+      "name": "Ciboure mountain",
+      "lat": 43.32192,
+      "lng": -1.66329,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 3542385
+    },
+    {
+      "name": "Venta Yasola",
+      "lat": 43.3133,
+      "lng": -1.6592,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "viewpoint",
+        "intermediate",
+        "cafe"
+      ],
+      "highlight_id": 3553218
+    },
+    {
+      "name": "La Rhune summit",
+      "lat": 43.309069,
+      "lng": -1.635631,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Col des Trois Fontaines",
+      "lat": 43.31687,
+      "lng": -1.63314,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 3241506
+    }
+  ],
+  "categories": [
+    "cafe",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.2272725105285645,
+  "rating_count": 22,
+  "visitors": 967,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-01-08T13:42:46.963Z",
+  "changed_at": "2024-06-06T17:51:23.324Z",
+  "scraped_at": "2026-04-27T15:08:37.440734+00:00"
+}

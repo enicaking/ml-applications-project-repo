@@ -1,0 +1,75 @@
+{
+  "tour_id": "e971599213",
+  "url": "https://www.komoot.com/smarttour/e971599213",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971599213/txamantxoia-from-camping-asolaze",
+  "name": "Txamantxoia from Camping Asolaze",
+  "name_original": "Txamantxoia desde Camping Asolaze",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 12687.010933149775,
+  "duration_s": 8008,
+  "elevation_up_m": 964.2561962703915,
+  "elevation_down_m": 964.2561962703912,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.901148,
+  "start_lng": -0.882502,
+  "start_alt_m": 932.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This 1,945 m high peak is known in Aragonese as \"Punta Maz\". Its vertex separates the Belagua valley, in Navarra, from the Ansó valley, in Aragón."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.16615751,
+    "unpaved": 0.83384246
+  },
+  "way_types": {
+    "minor_road": 0.0109722065,
+    "way": 0.15518531,
+    "hiking_path": 0.83384246
+  },
+  "waypoints": [
+    {
+      "name": "Pico Txamantxoia",
+      "lat": 42.90234,
+      "lng": -0.81697,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 5070395
+    }
+  ],
+  "categories": [
+    "challenging",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 22,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T17:44:42.677Z",
+  "changed_at": "2024-07-24T10:05:37.474Z",
+  "scraped_at": "2026-04-27T15:14:14.306385+00:00"
+}

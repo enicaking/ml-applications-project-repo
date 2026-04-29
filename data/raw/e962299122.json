@@ -1,0 +1,145 @@
+{
+  "tour_id": "e962299122",
+  "url": "https://www.komoot.com/smarttour/e962299122",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962299122/lizarieta-ridge-loop",
+  "name": "Lizarieta Ridge Loop",
+  "name_original": "Sur les crêtes de Lizarieta",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 25488.182388244582,
+  "duration_s": 11104,
+  "elevation_up_m": 1062.4351105996063,
+  "elevation_down_m": 1065.1657510755995,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.279369,
+  "start_lng": -1.600522,
+  "start_alt_m": 123.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 15.8-mile mountain biking route on the Sur les crêtes de Lizarieta offers panoramic views and cultural insights in the Basque",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Be careful, continuing on the ridge part of the path is blocked by hunters who have installed barriers (October 2022)",
+    "Summit at the border with Spain, one can arrive as much by road as by paths. The view is beautiful.\r\n\r\nA faucet and a small hut for shelter at the top"
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park to access the Sur les crêtes de Lizarieta mountain bike trail?",
+      "answer": "While the trail description doesn't specify a single parking area, routes in the Lizarrieta area often start from nearby villages like Sare. You'll find parking options in these villages, which provide convenient access to the various sections of the trail."
+    },
+    {
+      "question": "Is the Sur les crêtes de Lizarieta trail suitable for beginner mountain bikers?",
+      "answer": "This trail is rated as 'difficult' overall. While some sections leading to the Col de Lizarrieta are described as 'sans difficulté' (without difficulty) with gentle inclines, other parts feature steep gradients, very rough terrain, and stony sections that may be unrideable for a short distance. It requires good physical condition and mountain biking experience."
+    },
+    {
+      "question": "What is the best time of year to mountain bike Sur les crêtes de Lizarieta?",
+      "answer": "The trail passes through woods that offer shade, making it pleasant during warmer months. However, for the best experience with panoramic views and comfortable temperatures, spring and autumn are generally ideal. Always check local weather conditions before you go, as some sections can be very rough."
+    },
+    {
+      "question": "Are dogs allowed on the Sur les crêtes de Lizarieta mountain bike route?",
+      "answer": "The trail passes through natural areas where you might encounter local wildlife like pottoks (small horses) and vultures. While there are no explicit restrictions mentioned, it's always best to keep dogs on a leash to protect wildlife and ensure a safe experience for everyone on the trail."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this mountain bike trail?",
+      "answer": "No, there are no specific permits or entrance fees required to access the 'Sur les crêtes de Lizarieta' mountain bike trail. It is generally open to the public."
+    },
+    {
+      "question": "What kind of terrain can I expect on the Sur les crêtes de Lizarieta trail?",
+      "answer": "You'll encounter a varied terrain, from well-paved surfaces to challenging unpaved sections. Expect forest roads, singletracks, and some very stony parts with large blocks. There are also beautiful descents with hairpin turns, and some areas can be quite rough ('très cassante')."
+    },
+    {
+      "question": "What are the main points of interest along the Sur les crêtes de Lizarieta route?",
+      "answer": "The trail offers diverse scenery and cultural landmarks. You'll experience magnificent panoramic views from the <a href=\"https://www.komoot.com/highlight/3370174\" target=\"_blank\" rel=\"noopener\">Lizarieta Ridge</a>, including the Pyrenees and La Rhune. The route also passes by the <a href=\"https://www.komoot.com/highlight/3485039\" target=\"_blank\" rel=\"noopener\">Lizarrietako lepoa</a> (Col de Lizarrieta), which is on the French-Spanish border and features a refreshment point and bird observation station. You might also see the traditional 'palombières' (pigeon hunting nets) of Sare."
+    },
+    {
+      "question": "Does the Sur les crêtes de Lizarieta trail intersect with other well-known paths?",
+      "answer": "Yes, the route covers sections of several official trails, including the Ruta Transpirenaica en BTT (Roncesvalles - Hondarribia), Atxuria, Lakaingo lepoa - Bustitza, Étape 02, and Senda Pirenaica - E36. This offers opportunities to extend your ride or explore connecting routes."
+    },
+    {
+      "question": "Are there any facilities like cafes or restaurants near the trail?",
+      "answer": "Yes, at the summit of the <a href=\"https://www.komoot.com/highlight/3485039\" target=\"_blank\" rel=\"noopener\">Lizarrietako lepoa</a> (Col de Lizarrieta), there is a refreshment point. Additionally, the trail often passes through charming Basque villages like Sare, where you can find various amenities, including cafes and restaurants."
+    },
+    {
+      "question": "What should I pack for mountain biking Sur les crêtes de Lizarieta?",
+      "answer": "Given the 'difficult' rating and varied terrain, you should pack essentials for a challenging mountain bike ride. This includes plenty of water, snacks, a repair kit for your bike, appropriate protective gear, and layers of clothing suitable for changing weather conditions. A GPS device or map is also recommended, as some sections are less defined."
+    },
+    {
+      "question": "Is the Sur les crêtes de Lizarieta route a loop trail?",
+      "answer": "The 'Sur les crêtes de Lizarieta' trail, as described, is a loop route. It covers a distance of approximately 25.5 km, starting and ending in the same general area, allowing for a circular mountain biking experience."
+    }
+  ],
+  "surfaces": {
+    "sm#alpin": 0.012752788,
+    "sm#asphalt": 0.056207504,
+    "sm#paved": 0.09437092,
+    "sm#gravel": 0.21741447,
+    "sm#nature": 0.22460718,
+    "sm#unpaved": 0.39464712
+  },
+  "way_types": {
+    "minor_road": 0.0017952496,
+    "street": 0.1440703,
+    "trail": 0.16999474,
+    "way": 0.6841397
+  },
+  "waypoints": [
+    {
+      "name": "Lizarieta Ridge",
+      "lat": 43.254435,
+      "lng": -1.60312,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "natural_monument",
+        "forest"
+      ],
+      "highlight_id": 3370174
+    },
+    {
+      "name": "Lizarrietako lepoa",
+      "lat": 43.260823,
+      "lng": -1.618736,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "facilities",
+        "intermediate",
+        "viewpoint",
+        "summit"
+      ],
+      "highlight_id": 3485039
+    }
+  ],
+  "categories": [
+    "facilities",
+    "forest",
+    "hut",
+    "intermediate",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 4,
+  "visitors": 9,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-25T11:49:59.484Z",
+  "changed_at": "2026-02-26T18:38:52.903Z",
+  "scraped_at": "2026-04-28T14:53:39.463570+00:00"
+}

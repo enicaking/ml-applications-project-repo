@@ -1,0 +1,161 @@
+{
+  "tour_id": "e931131750",
+  "url": "https://www.komoot.com/smarttour/e931131750",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e931131750/prat-de-cadi-collet-de-l-orri-trail",
+  "name": "Prat de Cadí - Collet de l'Orri Trail",
+  "name_original": "Running - Circular Prat de Cadí por el collado de Pallers — Parque Natural del Cadí-Moixeró",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 10282.315190718882,
+  "duration_s": 5367,
+  "elevation_up_m": 408.8823070089177,
+  "elevation_down_m": 408.8823070089179,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.322277,
+  "start_lng": 1.662887,
+  "start_alt_m": 1488.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jogging the difficult Prat de Cadí - Collet de l'Orri Trail offers stunning views of the Cadí mountain range and diverse terrain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small town of about 25 houses and located at the foot of the Sierra del Cadi.",
+    "Starting point/information of the route to Prado del Cadí.",
+    "Magnificent meadow in the middle of the forest, at the foot of the walls of the Sierra del Cadí\n"
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park to access the Prat de Cadí - Collet de l'Orri Trail?",
+      "answer": "The trail often starts from areas like <strong>Estana village</strong>. You'll typically find parking available in or near such villages, which serve as common access points for routes into the Cadí-Moixeró Natural Park. It's always a good idea to check local signage upon arrival for specific parking regulations."
+    },
+    {
+      "question": "Is this trail suitable for beginner joggers?",
+      "answer": "This route is rated as <strong>difficult</strong> for jogging. While sections leading to <a href=\"https://www.komoot.com/highlight/3266149\" target=\"_blank\" rel=\"noopener\">Prat de Cadí</a> from Estana can be moderate, the full trail towards Collet de l'Orri involves significant elevation changes and varied terrain, including steep ascents and rocky areas. It's best suited for experienced trail runners."
+    },
+    {
+      "question": "What is the terrain like on the route?",
+      "answer": "The terrain is quite varied. You'll encounter tracks and paths through meadows and diverse forests, including red pines, firs, and boxwoods. As you gain elevation, especially towards Collet de l'Orri, the terrain becomes more mountainous with steep, rocky sections and alpine meadows. In winter, some parts may be inaccessible due to snow or ice."
+    },
+    {
+      "question": "What natural features and viewpoints can I expect to see along the way?",
+      "answer": "You'll be treated to magnificent scenery within the Cadí-Moixeró Natural Park. Key highlights include expansive views of the limestone north face of the Cadí mountain range, picturesque countryside, and vibrant wildflowers. The route passes through diverse forests. The <a href=\"https://www.komoot.com/highlight/3266149\" target=\"_blank\" rel=\"noopener\">Prat de Cadí</a> itself is a peaceful meadow offering splendid views. From higher points, panoramic vistas stretch across the Pyrenees, including the Cadí mountain range and Montsecs."
+    },
+    {
+      "question": "How long does it typically take to jog this route?",
+      "answer": "The full 10.3 km circular route is estimated to take around 1 hour and 29 minutes of active jogging time. However, this is for experienced runners given the difficult rating and varied terrain. Your actual time may vary based on your fitness level and how often you stop to enjoy the views."
+    },
+    {
+      "question": "Is this a loop trail or out-and-back?",
+      "answer": "This specific route, the Prat de Cadí - Collet de l'Orri Trail, is a <strong>circular</strong> jogging route, meaning it forms a loop."
+    },
+    {
+      "question": "Is the Prat de Cadí - Collet de l'Orri Trail dog-friendly?",
+      "answer": "As this trail is located within the <strong>Cadí-Moixeró Natural Park</strong>, dogs are generally allowed but must be kept on a leash to protect wildlife and ensure the safety of other visitors. Always practice Leave No Trace principles, including picking up after your pet."
+    },
+    {
+      "question": "What is the best time of year to jog this trail?",
+      "answer": "The best time to jog this trail is typically from late spring through early autumn (May to October). During these months, the weather is generally more stable, and the trails are free of snow and ice. Winter can make higher sections inaccessible or require specialized gear like snowshoes or crampons."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this trail?",
+      "answer": "No specific permits or entrance fees are generally required to access the trails within the <strong>Cadí-Moixeró Natural Park</strong>. However, always respect park regulations, which are in place to protect this beautiful natural environment."
+    },
+    {
+      "question": "Does this route connect with other trails?",
+      "answer": "Yes, this route shares sections with several other trails. Notably, it covers 92% of the \"TC182 Prat de Cadí Collet de l'Orri\" route. You'll also find it intersects with parts of the \"Estana al Coll de la Canal del Cristall\" and the long-distance \"GR 150\" trail."
+    },
+    {
+      "question": "What essential gear should I bring for jogging this trail?",
+      "answer": "Given the trail's difficulty and varied terrain, it's recommended to bring appropriate trail running shoes with good grip, layers of clothing suitable for changing mountain weather, sufficient water and snacks, a map or GPS device (like komoot on your phone), and sun protection. For higher altitudes, be prepared for unstable weather conditions."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.015211738,
+    "paved": 0.062398218,
+    "alpin": 0.18893436,
+    "unpaved": 0.7334557
+  },
+  "way_types": {
+    "street": 0.021831678,
+    "minor_road": 0.040566538,
+    "mountain_hiking_path": 0.18893436,
+    "way": 0.2469128,
+    "hiking_path": 0.50175464
+  },
+  "waypoints": [
+    {
+      "name": "Estana Village and Church",
+      "lat": 42.320565,
+      "lng": 1.662476,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "religious_building",
+        "intermediate",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 5143323
+    },
+    {
+      "name": "Pallers Pass",
+      "lat": 42.314996,
+      "lng": 1.658581,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "summit",
+        "forest"
+      ],
+      "highlight_id": 2771707
+    },
+    {
+      "name": "Prat de Cadí",
+      "lat": 42.295644,
+      "lng": 1.664199,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "forest",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 3266149
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 44,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-20T08:28:40.629Z",
+  "changed_at": "2026-02-26T18:53:26.931Z",
+  "scraped_at": "2026-04-27T16:02:36.507966+00:00"
+}

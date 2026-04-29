@@ -1,0 +1,128 @@
+{
+  "tour_id": "e984046286",
+  "url": "https://www.komoot.com/smarttour/e984046286",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e984046286/sierra-nevada-national-park-mulhacen-peak-from-posiciones-del-veleta",
+  "name": "Sierra Nevada National Park – Mulhacén Peak from Posiciones del Veleta",
+  "name_original": "Parque Nacional de Sierra Nevada – Pico Mulhacén desde Posiciones del Veleta",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 19279.105235891348,
+  "duration_s": 30296,
+  "elevation_up_m": 1159.0859628469166,
+  "elevation_down_m": 1159.0859628469166,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.065805,
+  "start_lng": -3.370448,
+  "start_alt_m": 3104.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Shortcut on the southern slope of Veleta - only with climbing experience 🙈",
+    "After a long walk, we reached the destination point: the summit of Mulhacén (3479 meters), the highest peak of the Iberian Peninsula. They say that if the day is very clear, you can see even the mountains of Africa. We were not lucky that day, but what we did see were the impressive peaks that are hidden in the Sierra Nevada.",
+    "The last kilometer is really tough with an altitude difference of 400 meters, but you get an amazing view that unfortunately remains hidden on the easier route. It is definitely worth the effort.",
+    "A wonderful setting to spend a night! Staying here overnight allows summiting Mulhacen in the morning before the crowds."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.0044663604,
+    "asphalt": 0.011667003,
+    "gravel": 0.4139196,
+    "alpin": 0.569947
+  },
+  "way_types": {
+    "street": 0.011667003,
+    "alpine_hiking_path": 0.20584233,
+    "mountain_hiking_path": 0.3641047,
+    "way": 0.41838598
+  },
+  "waypoints": [
+    {
+      "name": "Short Cut: Paso de los Guias",
+      "lat": 37.053495,
+      "lng": -3.365626,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "viewpoint",
+        "challenging",
+        "trail",
+        "natural_monument"
+      ],
+      "highlight_id": 4087135
+    },
+    {
+      "name": "Mulhacén Summit",
+      "lat": 37.053371,
+      "lng": -3.311562,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 111802
+    },
+    {
+      "name": "Technical Trail Below Vasar del Mulhacén",
+      "lat": 37.052364,
+      "lng": -3.317361,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 3874199
+    },
+    {
+      "name": "Laguna de la Caldera",
+      "lat": 37.053594,
+      "lng": -3.327593,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "volcano",
+        "unknown",
+        "viewpoint"
+      ],
+      "highlight_id": 181064
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "summit",
+    "trail",
+    "unknown",
+    "viewpoint",
+    "volcano"
+  ],
+  "tags": [],
+  "rating_score": 4.454545497894287,
+  "rating_count": 11,
+  "visitors": 200,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-23T09:43:15.506Z",
+  "changed_at": "2024-07-24T10:37:12.199Z",
+  "scraped_at": "2026-04-27T10:12:03.713999+00:00"
+}

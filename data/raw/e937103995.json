@@ -1,0 +1,148 @@
+{
+  "tour_id": "e937103995",
+  "url": "https://www.komoot.com/smarttour/e937103995",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e937103995/penyes-altes-del-moixero-from-sant-grau-de-urus-circular-through-the-cadi-moixero-natural-park",
+  "name": "Penyes Altes del Moixeró from Sant Grau de Urús - Circular through the Cadí-Moixeró Natural Park",
+  "name_original": "Penyes Altes del Moixeró desde Sant Grau de Urús - Circular por el Parque Natural del Cadí-Moixeró",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16688.7794002669,
+  "duration_s": 25057,
+  "elevation_up_m": 998.9216877769247,
+  "elevation_down_m": 998.9216877769247,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.341744,
+  "start_lng": 1.840883,
+  "start_alt_m": 1304.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Ermita de estilo románico en el municipio de Urús dedicada a San Grau. The building is of modern age, although it is already cited in the 12th century. It is also known as Sant Pau del puig d'Urús.\r\n\r\nhttps://ca.m.wikipedia.org/wiki/Sant_Grau_del_Puig_d%27Urús",
+    "It can be reached from Urús by the PR that goes up to Coll de Jou or, on the promenade, from the refuge of the Pleta dels Urdiassos, first following the track (closed to vehicular traffic) that goes up to the refuge of the cortal d 'en Vidal and then continuing along the first track that comes out on the left (also closed with a chain). The place is very nice and lately they have arranged the fountain and built a bridge to cross the torrent.",
+    "Collado through where Cavalls del Vent passes between the Cortals de l'Ingla and Prat d'Agulut refuges.",
+    "Peak of 2,276m altitude, without any technical difficulty, on horseback in the counties of Cerdanya and Berguedà that offers fantastic views.",
+    "Unsaved refuge located at 1,650m altitude. Access is free and free. This refuge does not have any kind of service. It is in good condition."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.0016837645,
+    "unknown": 0.0040003997,
+    "alpin": 0.048355184,
+    "gravel": 0.20874363,
+    "nature": 0.737217
+  },
+  "way_types": {
+    "street": 0.0016837645,
+    "minor_road": 0.0040003997,
+    "hiking_path": 0.117293105,
+    "way": 0.2663362,
+    "mountain_hiking_path": 0.61068654
+  },
+  "waypoints": [
+    {
+      "name": "Hermitage of Sant Grau del Puig d'Urús",
+      "lat": 42.34173,
+      "lng": 1.84156,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 5057736
+    },
+    {
+      "name": "Font Llebrera",
+      "lat": 42.329885,
+      "lng": 1.865147,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "forest",
+        "bridge",
+        "family_friendly",
+        "trail",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1791630
+    },
+    {
+      "name": "Coll de Jou (2010m)",
+      "lat": 42.3126,
+      "lng": 1.868896,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "natural_monument",
+        "forest",
+        "viewpoint",
+        "trail"
+      ],
+      "highlight_id": 104932
+    },
+    {
+      "name": "Penyes Altes del Moixeró",
+      "lat": 42.30631,
+      "lng": 1.842474,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 104930
+    },
+    {
+      "name": "Cortal d'en Vidal Shelter (1,650 m)",
+      "lat": 42.325734,
+      "lng": 1.841398,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 534690
+    }
+  ],
+  "categories": [
+    "bridge",
+    "challenging",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.666666507720947,
+  "rating_count": 9,
+  "visitors": 47,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T13:56:05.939Z",
+  "changed_at": "2024-06-05T20:44:46.000Z",
+  "scraped_at": "2026-04-27T12:13:08.878672+00:00"
+}

@@ -1,0 +1,178 @@
+{
+  "tour_id": "e1408240549",
+  "url": "https://www.komoot.com/smarttour/e1408240549",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1408240549/estany-del-siscaro-from-soledeu-circular-through-the-vall-d-incles",
+  "name": "Estany del Siscaró from Soledeu — circular through the Vall d'Incles",
+  "name_original": "Estany del Siscaró desde Soledeu — circular por el Vall d'Incles",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14602.517402453894,
+  "duration_s": 8675,
+  "elevation_up_m": 783.2609364195321,
+  "elevation_down_m": 779.5258596513195,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.5763,
+  "start_lng": 1.667281,
+  "start_alt_m": 1810.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "At the foot of several first-class ski resorts, the small town of Soldeu is a gateway to all kinds of adventures. Postcard views, views of lush mountains and valleys, surrounded by melting rivers, this place has many natural beauties to offer.",
+    "The splendor of the Pyrenean peaks surrounds a vibrant landscape of the Vall d'Incles. With many starting points to explore the surrounding peaks of Siscaró, Pic d'Anrodat and Pic de la Coma de Varilles.",
+    "Higher up in the Vall d'Incles, the Puente de la Baladosa is another trailhead to explore the surrounding peaks and the snowmelt rivers that flow through this lush valley. There is a restaurant, toilets and free access to parking at this riverside location.",
+    "Very nice picnic area, but overcrowded on weekends because it's not far from the road.\r\nTour to the highlight: https://www.komoot.de/tour/340805299?ref=itd",
+    "In a natural depression at the foot of Tossa d'Incles you reach two small mountain ponds that collect meltwater.",
+    "Above the valley floor, the path runs along the pine forest of the Incles Valley and is a great route to explore the forest landscape."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.017633274,
+    "paved": 0.026760207,
+    "alpin": 0.06123823,
+    "asphalt": 0.08255339,
+    "nature": 0.3104275,
+    "unpaved": 0.5013874
+  },
+  "way_types": {
+    "primary": 0.003249383,
+    "minor_road": 0.02434209,
+    "street": 0.079304,
+    "way": 0.12757954,
+    "alpine_hiking_path": 0.12958808,
+    "mountain_hiking_path": 0.1796262,
+    "hiking_path": 0.4563107
+  },
+  "waypoints": [
+    {
+      "name": "Soldeu",
+      "lat": 42.576994,
+      "lng": 1.666365,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river"
+      ],
+      "highlight_id": 6356162
+    },
+    {
+      "name": "Vall d'Incles",
+      "lat": 42.599017,
+      "lng": 1.680754,
+      "type": "other_natural",
+      "categories": [
+        "other_natural",
+        "gorge",
+        "trail",
+        "family_friendly",
+        "viewpoint",
+        "settlement",
+        "river"
+      ],
+      "highlight_id": 7102191
+    },
+    {
+      "name": "Puente de la Baladosa",
+      "lat": 42.601953,
+      "lng": 1.687573,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "trail",
+        "river",
+        "family_friendly",
+        "facilities"
+      ],
+      "highlight_id": 6355383
+    },
+    {
+      "name": "Font del Travenc Bridge",
+      "lat": 42.601595,
+      "lng": 1.697827,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "other_natural",
+        "natural_monument",
+        "viewpoint",
+        "family_friendly",
+        "summit",
+        "trail",
+        "river",
+        "intermediate",
+        "challenging",
+        "other_man_made"
+      ],
+      "highlight_id": 961923
+    },
+    {
+      "name": "Lake Siscaró",
+      "lat": 42.58828,
+      "lng": 1.704148,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "other_natural",
+        "challenging"
+      ],
+      "highlight_id": 5872288
+    },
+    {
+      "name": "Incles Valley Forest",
+      "lat": 42.596181,
+      "lng": 1.692647,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "intermediate",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 6356121
+    }
+  ],
+  "categories": [
+    "bridge",
+    "challenging",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "river",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 31,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-05T12:02:57.996Z",
+  "changed_at": "2024-08-13T15:01:47.583Z",
+  "scraped_at": "2026-04-27T16:13:23.340166+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "tour_id": "e1518091616",
+  "url": "https://www.komoot.com/smarttour/e1518091616",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1518091616/la-velodyssee-cycle-route-from-bidart-to-saint-jean-de-luz",
+  "name": "La Vélodyssée cycle route from Bidart to Saint-Jean-de-Luz",
+  "name_original": "La Vélodyssée de Bidart à Saint-Jean-de-Luz",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 11050.149227470925,
+  "duration_s": 2433,
+  "elevation_up_m": 102.53744220347033,
+  "elevation_down_m": 151.6541541804235,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 43.439329,
+  "start_lng": -1.590142,
+  "start_alt_m": 53.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This route between Bidart and Saint-Jean-de-Luz offers an immersive experience in the heart of the natural and cultural beauty of the Basque coast. Authentic and atypical villages mingle with famous seaside resorts such as Saint-Jean-de-Luz, the final destination of the itinerary.\n\nThe route, which follows the route of the Vélodyssée, begins in the center of the charming village of Bidart. Start with a slight detour to discover the Madeleine chapel in Bidart. Perched on the cliff, it offers a sumptuous view of the Basque coast. Your gaze wanders over the ocean horizon before settling on the peaks of Rhune and Trois Couronnes.\n\nYou continue to cycle along superb unspoiled beaches and coves where the most experienced surfers face the waves of the Atlantic. These are all possibilities for taking beautiful and refreshing breaks.\n\nThen the bay of Saint-Jean-de-Luz reveals itself. You reach it via its emblematic Sainte-Barbe point. This remarkable site offers a 360-degree panorama of the bay of Saint-Jean-de-Luz and the Rhune, the Three Crowns and the Jaizkibel, three emblematic peaks of the Basque Country.\n\nOnce you arrive in Saint-Jean-de-Luz, make a gourmet stop in front of the fishing port while tasting the famous macaroons from Adam's.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Madeleine Chapel is one of the most emblematic sites in the town of Bidart. Destroyed by a hurricane in 1817, it was rebuilt in 1820. Its esplanade offers an exceptional panorama of the Basque coast.",
+    "Beautiful view of this crescent of unspoilt sandy beach, protected by hills on both sides.",
+    "The Pointe de la Saint-Barbe is an emblematic place in Saint-Jean-de-Luz. The panorama of the bay is magnificent while in the background the first Basque mountains stand proudly. The site also offers a breathtaking view of the coastline and its beautiful beaches.",
+    "Located at the mouth of the Nivelle, the port of Saint-Jean-de-Luz is the leading tuna port in France. It is located in the hollow of the beautiful bay of Saint-Jean-de-Luz. Anchovy and hake fishing are other specialties of this pretty port."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#compacted": 0.0071191294,
+    "unknown": 0.0071724853,
+    "sb#unpaved": 0.04429376,
+    "sb#paved": 0.16110891,
+    "sb#asphalt": 0.78030574
+  },
+  "way_types": {
+    "way": 0.0009044169,
+    "service": 0.019808576,
+    "primary": 0.052925304,
+    "street": 0.067015424,
+    "minor_road": 0.31053472,
+    "cycleway": 0.54881155
+  },
+  "waypoints": [
+    {
+      "name": "View from Chapelle de la Madeleine",
+      "lat": 43.43964,
+      "lng": -1.59207,
+      "type": "religious_building",
+      "categories": [
+        "religious",
+        "religious_building",
+        "viewpoint",
+        "beach",
+        "family_friendly"
+      ],
+      "highlight_id": 3529457
+    },
+    {
+      "name": "Lafitenia Beach",
+      "lat": 43.411595,
+      "lng": -1.631202,
+      "type": "beach",
+      "categories": [
+        "beach",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 4252066
+    },
+    {
+      "name": "Saint-Barbe Point",
+      "lat": 43.3992,
+      "lng": -1.6621,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 6535361
+    },
+    {
+      "name": "Port of Saint-Jean-de-Luz",
+      "lat": 43.38674,
+      "lng": -1.66333,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "other_man_made",
+        "family_friendly",
+        "cycle_way",
+        "port_harbour"
+      ],
+      "highlight_id": 440412
+    }
+  ],
+  "categories": [
+    "beach",
+    "cycle_way",
+    "family_friendly",
+    "lake",
+    "other_man_made",
+    "port_harbour",
+    "religious",
+    "religious_building",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.461538314819336,
+  "rating_count": 26,
+  "visitors": 214,
+  "author_name": "Explore France",
+  "author_id": "france",
+  "created_at": "2024-04-16T15:20:14.949Z",
+  "changed_at": "2024-06-03T13:50:36.837Z",
+  "scraped_at": "2026-04-28T23:41:45.674047+00:00"
+}

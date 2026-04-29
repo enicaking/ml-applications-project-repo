@@ -1,0 +1,131 @@
+{
+  "tour_id": "e971491719",
+  "url": "https://www.komoot.com/smarttour/e971491719",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971491719/the-paradises-erlan-trail-sl-na-54c",
+  "name": "The Paradises - Erlan Trail (SL-NA 54C)",
+  "name_original": "Presa de Irabia – running circular por ZEPA-ZEC Roncesvalles-Sierra de Irati (SL-NA 54C)",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4841.857594903485,
+  "duration_s": 2038,
+  "elevation_up_m": 90.35190718695321,
+  "elevation_down_m": 99.55387202573968,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.986099,
+  "start_lng": -1.157853,
+  "start_alt_m": 824.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog the easy 3.0-mile Paradises - Erlan Trail (SL-NA 54C) through Irati Forest, offering scenic views of Irabia reservoir.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Irabia Dam, also known as the Irati Dam, was built on the bed of the Irati River. It is located within the Protected Area of Roncesvalles and Sierra de Irati, a dense forest that offers a wide variety of alternative trails to enjoy a beautiful landscape."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to jog the Erlan Trail?",
+      "answer": "The Paradises - Erlan Trail (SL-NA 54C) is approximately 5.4 kilometers (3.4 miles) long. For jogging, it typically takes around 35-40 minutes to complete, depending on your pace and how often you stop to enjoy the scenery."
+    },
+    {
+      "question": "Is the Erlan Trail suitable for beginner joggers?",
+      "answer": "Yes, the Erlan Trail is considered to have a low difficulty level, making it suitable for most visitors with a basic level of physical fitness, including beginner joggers and families. The varied terrain, from wide gravel paths to narrower natural trails and paved sections, offers a dynamic experience without significant technical challenges."
+    },
+    {
+      "question": "Where can I park to access The Paradises - Erlan Trail (SL-NA 54C)?",
+      "answer": "The trail is located near the Irabia reservoir within the Irati Forest. Parking is generally available at designated areas close to the reservoir, which serves as the starting point for this circular route. Specific parking information might be available on local signage or the Irati Forest visitor center websites."
+    },
+    {
+      "question": "Is The Paradises - Erlan Trail (SL-NA 54C) a loop?",
+      "answer": "Yes, the Erlan Trail is a circular route, meaning it starts and ends at the same point, offering a convenient and enjoyable jogging experience without the need for an out-and-back return."
+    },
+    {
+      "question": "What is the terrain like on the Erlan Trail?",
+      "answer": "The terrain is varied, starting with a wide gravel path along the <a href=\"https://www.komoot.com/highlight/517917\" target=\"_blank\" rel=\"noopener\">Irabia Dam</a> and reservoir. It then transitions to a narrower natural path (senda) with a moderate ascent and soft descent, before finishing on a paved track. While mostly smooth, some sections can be muddy, especially after rain, so appropriate footwear is recommended."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "Joggers are treated to spectacular natural beauty, including panoramic views of the <a href=\"https://www.komoot.com/highlight/517917\" target=\"_blank\" rel=\"noopener\">Irabia Dam</a> and reservoir. The trail winds through a magnificent beech forest, with a section aptly named \"Paraísos\" (Paradises) known for its slender beech trees. You'll also find an interpretive panel about beech trees, a footbridge, and a viewpoint featuring a model of a traditional raft."
+    },
+    {
+      "question": "Does the Erlan Trail intersect other well-known paths?",
+      "answer": "Yes, the route also passes through sections of other official trails. These include C Paradisuak - Erlan, Abodi, Burdinzokoa, Chalet Pedro, Ruta Transpirenaica en BTT (Aisa - Roncesvalles), Irabiako uharkari itzulia, Beuntza Plazako bidea, and various segments of Iratiko bidea."
+    },
+    {
+      "question": "Is The Paradises - Erlan Trail (SL-NA 54C) dog-friendly?",
+      "answer": "Generally, dogs are permitted on trails within the Irati Forest, but they must be kept on a leash at all times to protect wildlife and ensure the safety and enjoyment of all visitors. Please check local regulations upon arrival, as rules can sometimes vary."
+    },
+    {
+      "question": "What is the best time of year to jog the Erlan Trail?",
+      "answer": "The Irati Forest is stunning year-round, but autumn (fall) is particularly spectacular when the beech leaves turn vibrant colors. Spring offers lush greenery and blooming flora. Summer is also pleasant, though it can be busier. Be prepared for potentially muddy sections in wetter seasons."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for the Irati Forest?",
+      "answer": "While the trail itself is generally free to access, the Irati Forest, being a protected natural area, may have specific regulations or small fees for vehicle access during peak seasons or for parking in certain areas. It's advisable to check the official Irati Forest visitor information website before your visit for the most current details on access and any potential charges."
+    },
+    {
+      "question": "What should I bring for jogging on this trail?",
+      "answer": "Given the varied terrain and potential for muddy sections, especially depending on the season, appropriate footwear (trail running shoes are ideal) is highly recommended. Bring water, especially on warmer days, and consider a light jacket as forest temperatures can be cooler. A camera is also a great idea to capture the stunning scenery."
+    }
+  ],
+  "surfaces": {
+    "nature": 0.0073029394,
+    "paved": 0.14003013,
+    "unpaved": 0.35692513,
+    "gravel": 0.4957418
+  },
+  "way_types": {
+    "track": 0.0073029394,
+    "street": 0.14003013,
+    "hiking_path": 0.35692513,
+    "way": 0.4957418
+  },
+  "waypoints": [
+    {
+      "name": "Irabia Dam",
+      "lat": 42.98538,
+      "lng": -1.15815,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "lake",
+        "other_man_made",
+        "river",
+        "intermediate",
+        "other_natural",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 517917
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "river",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 6,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T15:17:29.382Z",
+  "changed_at": "2026-02-26T18:52:20.092Z",
+  "scraped_at": "2026-04-27T15:05:23.062138+00:00"
+}

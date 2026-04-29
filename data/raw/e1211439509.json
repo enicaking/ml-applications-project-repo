@@ -1,0 +1,141 @@
+{
+  "tour_id": "e1211439509",
+  "url": "https://www.komoot.com/smarttour/e1211439509",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1211439509/la-ribagorza-mtb-route-24-benasque-conques-linsoles-reservoir",
+  "name": "La Ribagorza MTB Route 24: Benasque - Conques - Linsoles Reservoir",
+  "name_original": "Anciles a Casas de Conques a Embalse de Linsoles — circular desde Benasque",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 11682.22532350138,
+  "duration_s": 3321,
+  "elevation_up_m": 196.03825750646843,
+  "elevation_down_m": 194.61719401817368,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606797,
+  "start_lng": 0.524521,
+  "start_alt_m": 1166.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 7.3-mile mountain biking route near Benasque takes you through the Selva de Conques forest and past Linsoles Reservoir.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Benasque occupies the central valley of the three that make up the Posets-Maladeta Natural Park. From this town with a lot of soul you can enjoy the Pyrenean landscape. Not only that, but it is home to the largest number of 3,000-meter-high peaks in the mountain range.\r\n\r\nThe Benasque Valley forms the center and heart of the Pyrenees.",
+    "You skirt the swamp on an accessible track for all levels with very cool views. There is also the possibility of kayaking in the swamp"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to mountain bike this route?",
+      "answer": "The La Ribagorza MTB Route 24 is approximately 11.7 kilometers (7.3 miles) long. Most riders can expect to complete it in about 55 minutes to 1 hour, depending on their pace and stops."
+    },
+    {
+      "question": "Is this mountain bike route suitable for beginners or families?",
+      "answer": "Yes, this route is classified as an <strong>easy</strong> mountain biking trail, both physically and technically. It features a relatively low elevation gain and primarily uses roads and 4WD tracks, making it well-suited for beginners and families."
+    },
+    {
+      "question": "What is the terrain like on this mountain bike route?",
+      "answer": "The route offers varied scenery, starting along the Ésera River on the 'Camino de la Ribera'. It then enters the lush 'Selva de Conques' forest, providing a shaded ride on tracks. You'll also encounter open views around the <a href=\"https://www.komoot.com/highlight/2215603\" target=\"_blank\" rel=\"noopener\">Linsoles Reservoir</a> and pass through traditional villages like Anciles. The terrain is mostly composed of roads and 4WD tracks."
+    },
+    {
+      "question": "Where does the trail start, and is there parking available?",
+      "answer": "The route typically starts at the Benasque access bridge. Parking is generally available in and around the <a href=\"https://www.komoot.com/highlight/2730451\" target=\"_blank\" rel=\"noopener\">Benasque Village Center</a>, which serves as a convenient starting point for many trails in the area."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "You'll experience the natural beauty of the Ésera River, the tranquil 'Selva de Conques' forest, and scenic views of the <a href=\"https://www.komoot.com/highlight/2215603\" target=\"_blank\" rel=\"noopener\">Linsoles Reservoir</a>. The route also passes through charming traditional villages like Anciles and Casas de Conques, offering a blend of natural and cultural sights."
+    },
+    {
+      "question": "Is this mountain bike route dog-friendly?",
+      "answer": "While dogs are generally welcome on trails in the region, it's always best to keep them on a leash, especially when passing through villages, near livestock, or in areas with other hikers and cyclists. Please ensure you clean up after your pet."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this route?",
+      "answer": "The route is enjoyable for mountain biking during most of the year. Spring and autumn offer pleasant temperatures and vibrant scenery. Summer provides a refreshing, shaded ride through the 'Selva de Conques' forest, though it can be busier. Winter may present snow or ice, making it less suitable for biking."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this route, especially since it's in Posets-Maladeta Natural Park?",
+      "answer": "No, there are no specific permits or entrance fees required to mountain bike this route within the Posets-Maladeta Natural Park. However, always respect park regulations, such as staying on marked trails and protecting the natural environment."
+    },
+    {
+      "question": "Does this route connect with other mountain biking trails in the area?",
+      "answer": "Yes, this route is part of a larger network. It can be linked with other nearby MTB routes, such as 'La Ribagorza. BTT. Ruta 22. Eriste - Sesué - San Sadurní' and 'La Ribagorza. BTT. Ruta 25. Benasque - Llanos del Hospital', allowing for longer, linear journeys through the Ésera valley."
+    },
+    {
+      "question": "Is this a loop trail or an out-and-back route?",
+      "answer": "This is a circular route, meaning it's a loop trail. You will start and finish in <a href=\"https://www.komoot.com/highlight/2730451\" target=\"_blank\" rel=\"noopener\">Benasque Village Center</a>, making it convenient for planning your ride."
+    },
+    {
+      "question": "What's an insider tip for making the most of this route?",
+      "answer": "Consider combining this route with parts of Route 22 or Route 25 if you're looking for a longer ride. The connectivity allows you to extend your exploration of the Ésera valley and experience more of the diverse landscapes without having to retrace your steps entirely."
+    }
+  ],
+  "surfaces": {
+    "sm#nature": 0.0015639563,
+    "unknown": 0.0038928757,
+    "sm#paved": 0.10082227,
+    "sm#asphalt": 0.23906927,
+    "sm#gravel": 0.26039034,
+    "sm#unpaved": 0.3942613
+  },
+  "way_types": {
+    "primary": 0.053666033,
+    "trail": 0.061202984,
+    "minor_road": 0.110873915,
+    "street": 0.16940872,
+    "way": 0.6048483
+  },
+  "waypoints": [
+    {
+      "name": "Benasque Village Center",
+      "lat": 42.60714,
+      "lng": 0.523784,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 2730451
+    },
+    {
+      "name": "Linsoles Reservoir",
+      "lat": 42.581694,
+      "lng": 0.490617,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "viewpoint",
+        "facilities"
+      ],
+      "highlight_id": 2215603
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "lake",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.333333492279053,
+  "rating_count": 3,
+  "visitors": 20,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-14T08:39:13.093Z",
+  "changed_at": "2026-02-26T19:39:51.330Z",
+  "scraped_at": "2026-04-28T15:30:58.947417+00:00"
+}

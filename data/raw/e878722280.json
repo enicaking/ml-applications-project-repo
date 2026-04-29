@@ -1,0 +1,91 @@
+{
+  "tour_id": "e878722280",
+  "url": "https://www.komoot.com/smarttour/e878722280",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e878722280/trail-de-kalbarioa",
+  "name": "Trail de kalbarioa",
+  "name_original": null,
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 9039.262803917009,
+  "duration_s": 4830,
+  "elevation_up_m": 412.78759705099395,
+  "elevation_down_m": 412.7875970509939,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.332671,
+  "start_lng": -1.736639,
+  "start_alt_m": 107.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Kalbarioa means \"Mount of Calvary\", in reality the view is breathtaking and the path to get there is far from being a Calvary :)",
+    "Incredible 360º views, one of those peaks in the region that go unnoticed due to its shape and modest altitude."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.016918333,
+    "nature": 0.09923333,
+    "unknown": 0.1837385,
+    "unpaved": 0.70010984
+  },
+  "way_types": {
+    "hiking_path": 0.35799128,
+    "way": 0.6420087
+  },
+  "waypoints": [
+    {
+      "name": "Kalbarioa Hill and Chapel",
+      "lat": 43.336964,
+      "lng": -1.719852,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "summit",
+        "religious_building",
+        "intermediate"
+      ],
+      "highlight_id": 1099401
+    },
+    {
+      "name": "Xoldokogaina Summit",
+      "lat": 43.325788,
+      "lng": -1.722004,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2562802
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "religious_building",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 90,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-09T07:13:52.918Z",
+  "changed_at": "2024-07-24T07:22:35.333Z",
+  "scraped_at": "2026-04-27T15:09:03.755632+00:00"
+}

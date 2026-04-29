@@ -1,0 +1,107 @@
+{
+  "tour_id": "e950378865",
+  "url": "https://www.komoot.com/smarttour/e950378865",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e950378865/vielha-pista-salient-bords-mont-vilac-vielha-centro-btt-del-valle-de-aran",
+  "name": "Vielha - Pista Salient - Bords - Mont - Vilac - Vielha — Centro BTT del Valle de Arán",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 38112.39263139912,
+  "duration_s": 17332,
+  "elevation_up_m": 1599.7774418428457,
+  "elevation_down_m": 1599.3291942441715,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.703628,
+  "start_lng": 0.797161,
+  "start_alt_m": 976.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Incredible views of Vielha with Montcorbison and Puerto de Vielha in the background.",
+    "Another beautiful picture that the Arán Valley gives us. This time from the Vielha pond, with views of Aneto and the surrounding mountains of the Pyrenees.\r\nWe will arrive by a dirt road.\r\nLocated at 1638 meters of altitude.",
+    "In Arané, Mair de Diu des desemparats, is a beautiful white-painted chapel located in the Valle de Aran, above the village of Montcorbau."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0038854748,
+    "sm#asphalt": 0.029628022,
+    "sm#paved": 0.03805057,
+    "sm#nature": 0.22995867,
+    "sm#unpaved": 0.69847727
+  },
+  "way_types": {
+    "service": 0.0038854748,
+    "street": 0.004722051,
+    "minor_road": 0.04423254,
+    "trail": 0.18998463,
+    "way": 0.7571753
+  },
+  "waypoints": [
+    {
+      "name": "View of Vielha, Montcorbison, and Puerto de Vielha",
+      "lat": 42.70729,
+      "lng": 0.808804,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 5125328
+    },
+    {
+      "name": "Vielha Pond",
+      "lat": 42.7096,
+      "lng": 0.813611,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5125311
+    },
+    {
+      "name": "Mair de Diu des Desemparats Chapel",
+      "lat": 42.733203,
+      "lng": 0.789787,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate"
+      ],
+      "highlight_id": 5125349
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "religious_building",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.875,
+  "rating_count": 8,
+  "visitors": 144,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-11T11:55:19.443Z",
+  "changed_at": "2024-05-31T09:21:27.366Z",
+  "scraped_at": "2026-04-28T15:36:52.210118+00:00"
+}

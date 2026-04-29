@@ -1,0 +1,114 @@
+{
+  "tour_id": "e936914823",
+  "url": "https://www.komoot.com/smarttour/e936914823",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e936914823/enter-embalses-susqueda-pasteral-circular-by-the-ter-river",
+  "name": "Enter Embalses, Susqueda & Pasteral - Circular by the Ter river",
+  "name_original": "Entra Embalses, Susqueda & Pasteral - Circular por el rio Ter",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 35416.19951212143,
+  "duration_s": 8347,
+  "elevation_up_m": 418.9415411049235,
+  "elevation_down_m": 418.0031961096082,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.968719,
+  "start_lng": 2.622829,
+  "start_alt_m": 157.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "An incredible and very well preserved monument. It must be visited if you are in the area.",
+    "Road that runs between the Guilleries and follows the river Ter as it passes through the Pasteral. This road, in the past, led to the town of Susqueda where it was flooded in order to create the Susqueda Swamp.",
+    "You can not cross the swamp by the dam, as there is a barrier and it is prohibited. You have to lose a little more unevenness to go back up the other side of the river."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.003752366,
+    "sb#unpaved": 0.020747894,
+    "sb#compacted": 0.08872231,
+    "sb#paved": 0.34506458,
+    "sb#asphalt": 0.5417128
+  },
+  "way_types": {
+    "primary": 0.009104059,
+    "minor_road": 0.036369488,
+    "way": 0.061805222,
+    "cycleway": 0.19236043,
+    "street": 0.7003608
+  },
+  "waypoints": [
+    {
+      "name": "Sant Julià del Llor Romanesque Bridge",
+      "lat": 41.974506,
+      "lng": 2.628393,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "family_friendly",
+        "man_made_monument",
+        "historical_site"
+      ],
+      "highlight_id": 1560179
+    },
+    {
+      "name": "Ter River at Susqueda",
+      "lat": 41.983785,
+      "lng": 2.541644,
+      "type": "river",
+      "categories": [
+        "river",
+        "bridge",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4386446
+    },
+    {
+      "name": "Susqueda Reservoir",
+      "lat": 41.981708,
+      "lng": 2.524008,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "other_man_made",
+        "unknown"
+      ],
+      "highlight_id": 3125130
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "other_man_made",
+    "river",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 11,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T08:55:17.093Z",
+  "changed_at": "2024-06-05T08:26:47.083Z",
+  "scraped_at": "2026-04-29T00:33:39.970450+00:00"
+}

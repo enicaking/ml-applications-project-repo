@@ -1,0 +1,117 @@
+{
+  "tour_id": "e949730131",
+  "url": "https://www.komoot.com/smarttour/e949730131",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e949730131/valle-de-estos-trail-running-from-its-head-to-the-refugio-de-estos",
+  "name": "Valle de Estos - trail running from its head to the Refugio de Estos",
+  "name_original": "Valle de Estós – trail running desde su cabecera hasta el Refugio de Estós",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 17044.891098451062,
+  "duration_s": 8886,
+  "elevation_up_m": 694.3616030221117,
+  "elevation_down_m": 694.3616030221115,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.628909,
+  "start_lng": 0.540678,
+  "start_alt_m": 1324.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The valley is about 12 km long. The river Estós flows through the valley, surrounded by the peaks, which are also over 3,000 m high and border on France. The altitude of the valley is between 1,400 m and 3,375 m.\r\nSince 1994 the valley has been part of the Posets-Maladeta Natural Park. Several plant and animal species occur here.\r\nRunning along the valley floor is the Estós River, which is the source of numerous gorges and streams from the numerous ibones (glacial lakes), perennial snow and some of Europe's southernmost glaciers.",
+    "The Estós refuge is located at an altitude of 1,859 metres. It has 120 sleeping places in bunk beds and offers bed linen, heating and a fireplace. It also has a bar service and a self-service kitchen.",
+    "Celtas Cortos' mythical \"April 20\" cabin is now usually closed."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.002263571,
+    "paved": 0.030911265,
+    "alpin": 0.47659305,
+    "unpaved": 0.4902321
+  },
+  "way_types": {
+    "minor_road": 0.005850822,
+    "mountain_hiking_path": 0.19579351,
+    "hiking_path": 0.35710642,
+    "way": 0.44124925
+  },
+  "waypoints": [
+    {
+      "name": "Estós Valley",
+      "lat": 42.6612,
+      "lng": 0.5152,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "forest",
+        "viewpoint",
+        "natural_monument",
+        "trail",
+        "river",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 3521429
+    },
+    {
+      "name": "Estós Refuge",
+      "lat": 42.67543,
+      "lng": 0.48529,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "pub",
+        "restaurant",
+        "accomodation"
+      ],
+      "highlight_id": 555882
+    },
+    {
+      "name": "Cabaña del Turmo",
+      "lat": 42.6683,
+      "lng": 0.50844,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 5039187
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "forest",
+    "gorge",
+    "hut",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 46,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-10T14:37:42.109Z",
+  "changed_at": "2024-06-05T22:16:07.291Z",
+  "scraped_at": "2026-04-27T15:40:02.798457+00:00"
+}

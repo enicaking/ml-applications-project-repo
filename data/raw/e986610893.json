@@ -1,0 +1,140 @@
+{
+  "tour_id": "e986610893",
+  "url": "https://www.komoot.com/smarttour/e986610893",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e986610893/fountains-and-conchar-watchtower-trail",
+  "name": "Fountains and Cónchar Watchtower Trail",
+  "name_original": "Atalaya de Cónchar – trail running circular",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 5498.563785113715,
+  "duration_s": 2499,
+  "elevation_up_m": 137.04626704110956,
+  "elevation_down_m": 130.94675917304642,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 36.970217,
+  "start_lng": -3.587854,
+  "start_alt_m": 704.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 3.4-mile (5.5 km) trail running circular in Lecrín Valley offers panoramic views from the Atalaya de Cónchar watchtower.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Cónchar is a small town in the Lecrín Valley, it has about 360 inhabitants and is surrounded by orange, lemon, vineyards, almond, olive and other fruit trees. From here you can take many walks, to its numerous viewpoints, to the Atalaya or to the Baths from where you can take beautiful walks.",
+    "Watchtower from the Nasrid period, truncated cone-shaped and circular in plan. From here you have visual contact with the Dúrcal Castle, the Marchena Tower and the Saleres Watchtower. Currently what remains of the tower measures about 6 and a half meters."
+  ],
+  "faqs": [
+    {
+      "question": "Where is the best place to park for the Atalaya de Cónchar trail running circular?",
+      "answer": "The trail conveniently starts and finishes in the charming village of <a href=\"https://www.komoot.com/highlight/5285468\" target=\"_blank\" rel=\"noopener\">Cónchar</a>. You can find parking within the village itself, making for easy access to the trailhead."
+    },
+    {
+      "question": "Is the Atalaya de Cónchar trail running circular suitable for beginners?",
+      "answer": "While the route is generally considered straightforward with good paths, it does include a 'quite steep climb' to reach the <a href=\"https://www.komoot.com/highlight/4258447\" target=\"_blank\" rel=\"noopener\">Cónchar Watchtower</a>. Komoot rates it as 'moderate' for jogging. Beginners should be prepared for this challenging section, but the overall distance of approximately 5.5 km makes it manageable for those with some trail running experience."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The trail is best enjoyed in autumn, winter, or spring. During these seasons, the temperatures are more pleasant. Summer can be less ideal due to the lack of shade along much of the route, making the heat quite intense."
+    },
+    {
+      "question": "Are dogs allowed on the Atalaya de Cónchar trail?",
+      "answer": "Yes, this trail is generally dog-friendly. However, as it passes through agricultural areas and potentially near livestock, it's always recommended to keep your dog on a leash to ensure their safety and respect local farming activities."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for this trail?",
+      "answer": "No, there are no permits required or entrance fees to access the Atalaya de Cónchar trail running circular. It's freely accessible for public use."
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "You'll encounter a mix of terrain, primarily good paths and roads. The route traverses almost untouched countryside as well as working agricultural landscapes with vineyards, almond, and olive groves. Be prepared for a 'quite steep climb' on the ascent to the watchtower."
+    },
+    {
+      "question": "What are the main points of interest or viewpoints along the trail?",
+      "answer": "The absolute highlight is the <a href=\"https://www.komoot.com/highlight/4258447\" target=\"_blank\" rel=\"noopener\">Cónchar Watchtower</a> (Atalaya del Marchal), which offers fantastic 360-degree panoramic views of the beautiful Lecrín Valley and the majestic Sierra Nevada mountains. You'll also pass through the charming village of <a href=\"https://www.komoot.com/highlight/5285468\" target=\"_blank\" rel=\"noopener\">Cónchar</a> itself."
+    },
+    {
+      "question": "Does this trail intersect with other well-known paths?",
+      "answer": "Yes, the route incorporates sections of other local trails. Approximately 81% of this circular trail overlaps with the 'Ruta de las Fuentes y la Atalaya de Cónchar', and about 11% coincides with the 'Ruta Camino de Los Pinos y Atalaya del Marchal'."
+    },
+    {
+      "question": "What flora and agricultural landscapes can I see along the way?",
+      "answer": "The trail offers a diverse natural experience. You'll pass through areas with traditional cultivation, including vineyards, almond, and olive groves. In spring, the route is particularly vibrant with various wildflowers, notably numerous poppies, and the beautiful almond blossoms."
+    },
+    {
+      "question": "Are there any cafes or amenities near the trailhead in Cónchar?",
+      "answer": "As the trail starts and finishes in the village of <a href=\"https://www.komoot.com/highlight/5285468\" target=\"_blank\" rel=\"noopener\">Cónchar</a>, you can expect to find some basic amenities, such as local cafes or bars, to refresh yourself before or after your run."
+    },
+    {
+      "question": "How long does it typically take to complete the Atalaya de Cónchar trail running circular?",
+      "answer": "For an average jogger, this 5.5 km circular route typically takes around 40-45 minutes to complete. This duration accounts for the moderate difficulty and the steep section leading to the watchtower."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.047058884,
+    "paved": 0.20030622,
+    "unpaved": 0.29799956,
+    "unknown": 0.45463532
+  },
+  "way_types": {
+    "footway": 0.0034675412,
+    "street": 0.10595841,
+    "minor_road": 0.15788914,
+    "hiking_path": 0.29799956,
+    "way": 0.43468535
+  },
+  "waypoints": [
+    {
+      "name": "Cónchar",
+      "lat": 36.96643,
+      "lng": -3.58834,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "viewpoint",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5285468
+    },
+    {
+      "name": "Cónchar Watchtower",
+      "lat": 36.97778,
+      "lng": -3.60015,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "viewpoint",
+        "man_made_monument"
+      ],
+      "highlight_id": 4258447
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-27T19:19:36.191Z",
+  "changed_at": "2026-02-26T18:53:06.420Z",
+  "scraped_at": "2026-04-27T14:20:11.950926+00:00"
+}

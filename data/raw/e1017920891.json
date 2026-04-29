@@ -1,0 +1,139 @@
+{
+  "tour_id": "e1017920891",
+  "url": "https://www.komoot.com/smarttour/e1017920891",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1017920891/transnevada-loop-from-dilar",
+  "name": "Transnevada Loop from Dílar",
+  "name_original": "Mirador del Canal de la Espartera — circular desde Dílar",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 24870.668900884793,
+  "duration_s": 8879,
+  "elevation_up_m": 660.3908944552529,
+  "elevation_down_m": 657.2334785330639,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.07459,
+  "start_lng": -3.597724,
+  "start_alt_m": 860.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Mirador del Canal de la Espartera — circular desde Dílar is a moderate 15.5-mile mountain bike route with stunning Sierra Nevada views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The views will show you the highest slopes of the Sierra Nevada. They will be welcoming you to this area as you climb the first big slopes.\r\n\r\nIt depends on the time of the year, you may have snow not only on the peaks but also on the track.",
+    "The Espartera channel can also be a beautiful viewpoint from which we can make out the Alayos, the Trevenque or the Boca de la Pescá. All of them are peaks of medium-mountain dolomitic formations."
+  ],
+  "faqs": [
+    {
+      "question": "Where is the best place to park and start this mountain bike route?",
+      "answer": "<p>A common starting point for this circular route is near the Fuente del Hervidero restaurant in Dílar. You can usually find parking in this area, which also offers the convenience of a nearby spring to refill water bottles before or after your ride.</p>"
+    },
+    {
+      "question": "Is the Mirador del Canal de la Espartera route suitable for beginners?",
+      "answer": "<p>Komoot classifies this mountain bike route as <strong>moderate</strong>, requiring good fitness. While it's generally manageable, some sections, particularly along paths like the \"Vereda del Buho,\" can be narrow with significant drops, demanding technical skill and comfort with heights. Riders should be prepared for some intense climbs.</p>"
+    },
+    {
+      "question": "What kind of terrain can I expect on this mountain bike trail?",
+      "answer": "<p>The trail features diverse terrain, including wide gravel tracks and 'arenals' (sandy/gravelly areas) through dolomitic formations. You'll also ride alongside the historic Canal de la Espartera, sometimes on open sections and other times over covered parts. Be aware that some paths can be narrow with significant drops.</p>"
+    },
+    {
+      "question": "What are the main points of interest and viewpoints along the route?",
+      "answer": "<p>The route offers magnificent panoramic views of the Sierra Nevada mountains. Key highlights include the <a href=\"https://www.komoot.com/highlight/3266347\" target=\"_blank\" rel=\"noopener\">Espartera Canal Viewpoint</a>, which provides stunning vistas of the highest peaks. You'll also see the striking peaks of the Alayos, the Trevenque, and the Boca de la Pescá. The historic Canal de la Espartera itself is an impressive feature, and the route also passes through the beautiful <a href=\"https://www.komoot.com/highlight/5191931\" target=\"_blank\" rel=\"noopener\">Vereda del Collado del Fraile</a>.</p>"
+    },
+    {
+      "question": "What is the best time of year to mountain bike the Mirador del Canal de la Espartera circular route?",
+      "answer": "<p>This route is accessible year-round. Autumn offers magnificent colors as you descend through rich vegetation along the Dílar river. In winter, fresh snowfall can transform the trail into an exceptionally picturesque route, though higher sections may have snow. Spring and summer provide pleasant conditions, but always check local weather forecasts.</p>"
+    },
+    {
+      "question": "Is this mountain bike route dog-friendly?",
+      "answer": "<p>Generally, dogs are allowed on trails within Sierra Nevada National Park, but they must be kept on a leash to protect wildlife and ensure the safety of other trail users. Always practice Leave No Trace principles and clean up after your pet.</p>"
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to ride this trail in Sierra Nevada National Park?",
+      "answer": "<p>No, there are typically no specific permits or entrance fees required for mountain biking this particular trail within Sierra Nevada National Park. However, always respect park regulations, especially concerning wildlife and environmental protection.</p>"
+    },
+    {
+      "question": "Are there opportunities to refill water bottles along the trail?",
+      "answer": "<p>Yes, you can refill water bottles at a spring located near the Fuente del Hervidero restaurant, which is a common starting point for this route. It's always advisable to carry sufficient water for your ride, especially during warmer months.</p>"
+    },
+    {
+      "question": "What kind of wildlife might I see on this route?",
+      "answer": "<p>The area is a prime location for spotting ibex (Capra pyrenaica hispanica) among the cliffs. Keep an eye out for these majestic animals, especially in the more rugged sections of the trail.</p>"
+    },
+    {
+      "question": "Does this route intersect with any other well-known trails?",
+      "answer": "<p>Yes, this route shares sections with several other trails. Notably, it covers significant portions of the Transnevada (Stage 8 / 8) and Transnevada (Stage 7 / 8). You'll also find it intersecting with parts of the Canal de la Espartera - Arenales del Trevenque, Pinares de la Zubia, and Acequia Alta de Dílar trails.</p>"
+    },
+    {
+      "question": "What makes the Canal de la Espartera a unique feature of this trail?",
+      "answer": "<p>The Canal de la Espartera is an impressive example of historic hydraulic engineering, acting as a natural path through the dolomitic landscapes of the Trevenque. It offers a unique perspective on the alpine ridge of Sierra Nevada and serves as a starting point for various other routes into the National Park.</p>"
+    }
+  ],
+  "surfaces": {
+    "sm#asphalt": 0.023690557,
+    "sm#nature": 0.044767793,
+    "sm#gravel": 0.059333295,
+    "sm#paved": 0.26620558,
+    "sm#unpaved": 0.60600275
+  },
+  "way_types": {
+    "minor_road": 0.04017987,
+    "street": 0.18704817,
+    "trail": 0.35492873,
+    "way": 0.41784322
+  },
+  "waypoints": [
+    {
+      "name": "Vereda del Collado del Fraile",
+      "lat": 37.0919,
+      "lng": -3.553235,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5191931
+    },
+    {
+      "name": "Espartera Canal Viewpoint",
+      "lat": 37.083012,
+      "lng": -3.524144,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "trail",
+        "intermediate",
+        "family_friendly",
+        "other_man_made"
+      ],
+      "highlight_id": 3266347
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "other_man_made",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-01-25T16:16:34.281Z",
+  "changed_at": "2026-02-26T19:27:46.574Z",
+  "scraped_at": "2026-04-28T14:00:53.438442+00:00"
+}

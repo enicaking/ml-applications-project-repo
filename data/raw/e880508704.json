@@ -1,0 +1,97 @@
+{
+  "tour_id": "e880508704",
+  "url": "https://www.komoot.com/smarttour/e880508704",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e880508704/trail-of-lake-marbore",
+  "name": "Trail of lake Marboré",
+  "name_original": "Trail du lac de Marboré",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 18896.974666715014,
+  "duration_s": 15142,
+  "elevation_up_m": 1102.8696124572318,
+  "elevation_down_m": 1131.2957773672117,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.751354,
+  "start_lng": 0.051969,
+  "start_alt_m": 1716.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Lake Marboré is located at 2,592 meters above sea level. Of glacial origin, it was dug by the melting of a glacier which extended over the slope of the lake, up to the Astazou pass.",
+    "Impressive dam on this artificial lake of an azure blue! The turbines make noise, it's detonating in the calm of the mountains"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.0022806039,
+    "unknown": 0.014168084,
+    "unpaved": 0.06471387,
+    "alpin": 0.9188374
+  },
+  "way_types": {
+    "way": 0.0052050957,
+    "minor_road": 0.014168084,
+    "hiking_path": 0.06178938,
+    "alpine_hiking_path": 0.29735667,
+    "mountain_hiking_path": 0.62148076
+  },
+  "waypoints": [
+    {
+      "name": "Lake Marboré",
+      "lat": 42.693477,
+      "lng": 0.039516,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "challenging",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 3988466
+    },
+    {
+      "name": "Gloriettes Dam",
+      "lat": 42.752687,
+      "lng": 0.050549,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "lake",
+        "viewpoint",
+        "other_man_made",
+        "dog_friendly"
+      ],
+      "highlight_id": 3513228
+    }
+  ],
+  "categories": [
+    "challenging",
+    "dog_friendly",
+    "lake",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 13,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-10T10:01:58.638Z",
+  "changed_at": "2024-07-24T07:25:47.607Z",
+  "scraped_at": "2026-04-27T15:38:45.127234+00:00"
+}

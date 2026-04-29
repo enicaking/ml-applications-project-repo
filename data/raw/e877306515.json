@@ -1,0 +1,108 @@
+{
+  "tour_id": "e877306515",
+  "url": "https://www.komoot.com/smarttour/e877306515",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e877306515/hiking-at-lake-uzious",
+  "name": "Hiking at lake Uzious",
+  "name_original": "Randonnée au lac Uzious",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9415.995716525284,
+  "duration_s": 15541,
+  "elevation_up_m": 847.835053495699,
+  "elevation_down_m": 847.835053495699,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.956688,
+  "start_lng": -0.328872,
+  "start_alt_m": 1387.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Going down the GR 10 you can enjoy a beautiful view of the peaks that surround you, including the Pène Sarrière and the spectacular Pène Sarrière ridge.",
+    "Anglas is a small natural lake perched 2,068 meters above sea level.\r\nIt is nestled at the bottom of a small circus and surrounded by the Pène-Médaa (2,521 meters above sea level) and the Arre Sourins (2,614 meters above sea level).",
+    "The old mines of Anglas, located at 2,100 meters above sea level, are in the valley of the Gave du Soussouéou.\n\nTheir exploration revealed numerous mineralizations including zinc, iron, tungsten and even arsenic. However, the mines will only be used for the exploitation of zinc. They are no longer used today but some vestiges remain present in the landscape.",
+    "Pretty natural lake located between the Col d'Uzious to the south and the Pic d'Anglas to the west!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.00066869246,
+    "asphalt": 0.0037747393,
+    "unknown": 0.007335322,
+    "nature": 0.12397661,
+    "alpin": 0.27814978,
+    "unpaved": 0.58609486
+  },
+  "way_types": {
+    "street": 0.001243211,
+    "minor_road": 0.0025315282,
+    "way": 0.2718527,
+    "mountain_hiking_path": 0.27814978,
+    "hiking_path": 0.44622275
+  },
+  "waypoints": [
+    {
+      "name": "Valley view",
+      "lat": 42.946798,
+      "lng": -0.322155,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4231594
+    },
+    {
+      "name": "Lake Anglas",
+      "lat": 42.932665,
+      "lng": -0.324579,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "lake"
+      ],
+      "highlight_id": 4230689
+    },
+    {
+      "name": "Former Anglas Mines",
+      "lat": 42.929591,
+      "lng": -0.322186,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4227579
+    },
+    {
+      "name": "View of Lac d'Uzious",
+      "lat": 42.92618,
+      "lng": -0.320344,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4526867
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.633333206176758,
+  "rating_count": 30,
+  "visitors": 227,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-08T07:35:02.526Z",
+  "changed_at": "2024-06-05T00:09:40.227Z",
+  "scraped_at": "2026-04-27T11:32:10.422428+00:00"
+}

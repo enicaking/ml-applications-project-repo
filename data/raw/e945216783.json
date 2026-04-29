@@ -1,0 +1,160 @@
+{
+  "tour_id": "e945216783",
+  "url": "https://www.komoot.com/smarttour/e945216783",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e945216783/col-de-marmare-col-du-chioula-loop-from-ax-les-thermes",
+  "name": "Col de Marmare – Col du Chioula Loop from Ax-les-Thermes",
+  "name_original": "D'Ax-les-thermes au col de Marmare",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 36402.22246223961,
+  "duration_s": 8129,
+  "elevation_up_m": 963.7470626130922,
+  "elevation_down_m": 963.6605388359642,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.721473,
+  "start_lng": 1.840885,
+  "start_alt_m": 731.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle 22.6 miles (36.4 km) from Ax-les-Thermes to Col de Marmare, gaining 3162 feet (964 metres) on this difficult road cycling route.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A beautiful Romanesque church located in the tiny and charming village of Unac in Ariège",
+    "Sporty, but very pleasant ascent, even for non-semi-professionals like me! Departure via COL de Chioula awesome.",
+    "Col du Chioula 1431m.\r\nLink between the upper Ariege valley and the Sault plateau. The cross-country ski resort is also located on this peak."
+  ],
+  "faqs": [
+    {
+      "question": "What is the overall difficulty of this cycling route?",
+      "answer": "This route from Ax-les-Thermes to Col de Marmare is considered a <strong>difficult</strong> road ride, demanding good to very good fitness. It features a significant elevation gain over its 36.4 km length, with consistent gradients that rarely exceed 6% but seldom drop below 4% for extended sections."
+    },
+    {
+      "question": "How long does it typically take to cycle this route?",
+      "answer": "The estimated duration for this racebike tour is around 2 hours and 15 minutes (8129 seconds), but this can vary based on your fitness level and how often you stop to enjoy the scenery."
+    },
+    {
+      "question": "Where can I park when starting this cycling route in Ax-les-Thermes?",
+      "answer": "While specific parking lots aren't detailed, Ax-les-Thermes is a well-known starting point for cycling routes. You should be able to find public parking within the town to begin your ride. Consider checking local maps or signage upon arrival for the most convenient options."
+    },
+    {
+      "question": "What are the road conditions like on the way to Col de Marmare?",
+      "answer": "The road surface is generally in good condition. However, cyclists might encounter some bumpy sections. During summer, be aware that fallen branches and leaves can occasionally make the road slippery, especially when wet."
+    },
+    {
+      "question": "What kind of scenery and viewpoints can I expect along the route?",
+      "answer": "The climb is predominantly enveloped by forest, so continuous panoramic views are not a constant feature directly on the immediate ascent to Col de Marmare. However, some sections do open up to offer very fine views of the Ax valley. The roads in this region are known for being tiny, scenic, and quiet, with minimal traffic."
+    },
+    {
+      "question": "Are there any notable landmarks or highlights along the way?",
+      "answer": "Yes, along the route, you can pass by the <a href=\"https://www.komoot.com/highlight/3682565\" target=\"_blank\" rel=\"noopener\">Romanesque Church of Unac</a>. The route also includes the challenging <a href=\"https://www.komoot.com/highlight/4861479\" target=\"_blank\" rel=\"noopener\">Ascent to Col de Marmare</a> itself, and the nearby <a href=\"https://www.komoot.com/highlight/2637204\" target=\"_blank\" rel=\"noopener\">Col du Chioula</a> is often combined with this pass for longer rides."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The Col de Marmare is generally accessible year-round. However, for optimal cycling conditions, late spring through early autumn is usually best, avoiding potential severe winter weather that could lead to infrequent short-term closures."
+    },
+    {
+      "question": "Are there any seasonal road closures for the Col de Marmare?",
+      "answer": "The pass is typically accessible throughout the year. Only during severe winter weather might you encounter infrequent short-term closures. It's always a good idea to check local conditions before heading out during colder months."
+    },
+    {
+      "question": "Is this cycling route dog-friendly?",
+      "answer": "As a racebike route, it is not suitable for dogs to accompany you on the ride itself. While the general area around Ax-les-Thermes may offer dog-friendly activities, this specific cycling route is designed for human cyclists."
+    },
+    {
+      "question": "Do I need a permit or pay any entrance fees for this route?",
+      "answer": "No, there are no specific permits or entrance fees required to cycle the public roads from Ax-les-Thermes to Col de Marmare."
+    },
+    {
+      "question": "Are there any water sources or cafes along the route?",
+      "answer": "At the summit of Col de Marmare, you'll find a natural spring (Source de Marmare) which provides a refreshing stop. For cafes or other amenities, it's best to plan for these in Ax-les-Thermes before you start or after you return, as options directly on the climb are limited."
+    },
+    {
+      "question": "Does this route intersect with other well-known cycling paths?",
+      "answer": "Yes, the route intersects with several other paths. Notably, it covers sections of the Camí dels bons homes en BTT (11%), Tour du Roc de l'Orri d'Ignaux (9%), and Tour des Montagnes d'Ax (9%), among others."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0068511833,
+    "sb#paved": 0.034962587,
+    "sb#asphalt": 0.9581862
+  },
+  "way_types": {
+    "trail": 0.0002911876,
+    "way": 0.00044293297,
+    "minor_road": 0.025484873,
+    "primary": 0.04765093,
+    "street": 0.92613006
+  },
+  "waypoints": [
+    {
+      "name": "Romanesque Church of Unac",
+      "lat": 42.761199,
+      "lng": 1.775771,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "unknown"
+      ],
+      "highlight_id": 3682565
+    },
+    {
+      "name": "Ascent to Col de Marmare",
+      "lat": 42.759322,
+      "lng": 1.844321,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4861479
+    },
+    {
+      "name": "Col du Chioula",
+      "lat": 42.75636,
+      "lng": 1.84109,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 2637204
+    }
+  ],
+  "categories": [
+    "climb",
+    "cycle_way",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "religious_building",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 3,
+  "visitors": 126,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-06T08:52:12.969Z",
+  "changed_at": "2026-02-26T18:37:53.553Z",
+  "scraped_at": "2026-04-28T20:20:57.992382+00:00"
+}

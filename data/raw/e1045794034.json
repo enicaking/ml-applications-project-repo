@@ -1,0 +1,110 @@
+{
+  "tour_id": "e1045794034",
+  "url": "https://www.komoot.com/smarttour/e1045794034",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1045794034/ttutturu-trail-running-in-the-basque-country",
+  "name": "Ttutturu trail – running in the Basque Country",
+  "name_original": "Ttutturu trail en off — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 24419.21434916309,
+  "duration_s": 13255,
+  "elevation_up_m": 1326.3120493633721,
+  "elevation_down_m": 1327.4687046704103,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.134421,
+  "start_lng": -1.143046,
+  "start_alt_m": 269.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Ttutturru trail is held in an exceptional environment, among the most remarkable sites in the Basque Country. The competitions they offer are accessible to all, combining discovery, local produce and a good atmosphere.\n\nThis pretty loop of 24 kilometers and 1,300 meters of elevation gain starts from the small village of Lecumberry. The route crosses many pastoral areas. In fact, some paths are not permanent or frankly discernible.\n\nThe beginning of your outing is mainly uphill to reach the superb peak of Béhorléguy. The last part of its ascent ends on a rocky portion that requires vigilance, without involving any real difficulty. At the top, the view of the Basque Country is breathtaking, you can also see your next objective there: the Hauzkoa.\n\nAt a similar altitude to Béhorléguy, this new summit also has its share of striking panoramas. Gradually, you begin your descent which oscillates between the peaks of Mendibil and Harribiribila. Then, all that remains is to find your starting point by rolling down a final portion of pleasant descent.\n\nThe event also offers a vertical kilometer in May as well as other formats including a marathon. You can find more information here: http://ttutturutrails.com/accueil/",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Haritzarte pass is just below the ridge of the same name. Located between the Col d'Ergutze and the Pic de Béhorléguy, it offers a magnificent panorama of the Basque Country, including the crests of Iparla that can be seen in the distance.",
+    "The peak of Béhorléguy culminates at 1,265 meters above sea level on a beautiful rocky ridge.\r\n\r\nSuperb panorama of the Basque Country, its peaks and the Atlantic coast on a sunny day.",
+    "The small village of Lecumberry is on the road towards Iraty.\r\n\r\nThe Ibarnia farm serves as an ideal break for refueling."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.021636711,
+    "unknown": 0.043101247,
+    "alpin": 0.07297153,
+    "paved": 0.16057564,
+    "asphalt": 0.22435771,
+    "unpaved": 0.47735718
+  },
+  "way_types": {
+    "minor_road": 0.002364408,
+    "mountain_hiking_path": 0.07297153,
+    "way": 0.110817015,
+    "street": 0.33385894,
+    "hiking_path": 0.4799881
+  },
+  "waypoints": [
+    {
+      "name": "Col d'Haritzarte",
+      "lat": 43.1087,
+      "lng": -1.0819,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 5540425
+    },
+    {
+      "name": "Béhorléguy",
+      "lat": 43.1058,
+      "lng": -1.0731,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 5539929
+    },
+    {
+      "name": "Lecumberry",
+      "lat": 43.135,
+      "lng": -1.1431,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 5539951
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 11,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-06T18:44:57.850Z",
+  "changed_at": "2024-06-07T08:08:54.449Z",
+  "scraped_at": "2026-04-27T15:15:27.441313+00:00"
+}

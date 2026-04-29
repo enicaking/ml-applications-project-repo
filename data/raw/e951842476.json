@@ -1,0 +1,162 @@
+{
+  "tour_id": "e951842476",
+  "url": "https://www.komoot.com/smarttour/e951842476",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e951842476/pomarola-trail",
+  "name": "Pomaròla Trail",
+  "name_original": "Vielha - Casau - Pomèrola - Sarrahèra - Vielha — Circular por el Valle de Arán",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 32580.267313001437,
+  "duration_s": 14023,
+  "elevation_up_m": 1420.1087584993159,
+  "elevation_down_m": 1418.3528493539484,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.70094,
+  "start_lng": 0.798501,
+  "start_alt_m": 987.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Pomaròla Trail is a difficult 20.2-mile mountain biking route in the Val d'Aran Biosphere Reserve with technical descents and stunning v",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Very close to Vielha, we visited the Church of Sant Martí de Gausach, located in the municipality of Vielha and Medio Arán.\r\nIt is the parish church of the town, in the Gothic style and with some Romanesque elements.",
+    "At the foot of Moncorbison, we find this small town with spectacular views over Vielha. From Casau you get on the Balsa de Oles, from where several itineraries depart. In Casau we can visit the church of Sant Andrèu de Casau, from the 12th, 15th and 17th centuries, in the Romanesque-Gothic style.",
+    "Eth Bòsc Nere, in Aranese, offers us these magnificent views of the Aran Valley."
+  ],
+  "faqs": [
+    {
+      "question": "How challenging is the Pomaròla Trail for mountain bikers?",
+      "answer": "This trail is rated as <strong>difficult</strong> and is known for its technical descents. It features a 'red singletrack' with demanding elements like tight switchbacks and steep steps. While some sections are faster, expect alpine singletrack and a significant climb. It's best suited for experienced mountain bikers."
+    },
+    {
+      "question": "What kind of terrain can I expect on this mountain bike trail?",
+      "answer": "The terrain is primarily alpine singletrack, featuring both challenging technical descents and some faster, simpler sections. You'll encounter tight switchbacks, steep steps, and rocky areas, especially on the 'red singletrack' portions. The route involves a substantial climb and descent."
+    },
+    {
+      "question": "What are the main points of interest and viewpoints along the route?",
+      "answer": "The trail offers stunning views of the Aran Valley, particularly from its highest point, the Serrat de Pomaròla. Along the way, you can also see the <a href=\"https://www.komoot.com/highlight/6391268\" target=\"_blank\" rel=\"noopener\">Church of San Martí de Gausach</a> and pass through <a href=\"https://www.komoot.com/highlight/5130938\" target=\"_blank\" rel=\"noopener\">Casau Village</a>. Don't miss the <a href=\"https://www.komoot.com/highlight/5130923\" target=\"_blank\" rel=\"noopener\">View of the Aran Valley from Bòsc Nere</a>."
+    },
+    {
+      "question": "Is the Pomaròla Trail a loop, and where does it typically start?",
+      "answer": "Yes, the Pomaròla Trail is a circular route. It's commonly accessed from Vielha, which serves as a good starting and ending point for this loop. The komoot route specifically starts and ends in Vielha."
+    },
+    {
+      "question": "When is the best time of year to ride the Pomaròla Trail?",
+      "answer": "Given its alpine nature and technical sections, the best time to ride is typically during the warmer, drier months, from late spring through early autumn. Always check local weather and trail conditions before heading out, as snow can persist at higher elevations."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for the Val d'Aran Biosphere Reserve?",
+      "answer": "Generally, there are no specific entrance fees or permits required for mountain biking on trails like the Pomaròla Trail within the Val d'Aran Biosphere Reserve. However, always adhere to local regulations, respect private property, and practice Leave No Trace principles."
+    },
+    {
+      "question": "Can I bring my dog mountain biking on the Pomaròla Trail?",
+      "answer": "While many trails in the region are dog-friendly, it's crucial to keep your dog on a leash at all times, especially given the technical nature of this trail and the presence of wildlife. Ensure your dog is fit enough for a challenging ride and that you carry enough water for both of you."
+    },
+    {
+      "question": "Where can I park when accessing the Pomaròla Trail?",
+      "answer": "As the trail is a circular route starting and ending in Vielha, you can typically find parking within or on the outskirts of Vielha. Look for designated public parking areas in the town before beginning your ride."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, the route incorporates significant portions of the official <strong>Pomaròla</strong> trail (64% of the route) and also passes through sections of the <strong>Tuca</strong> (27%) and <strong>Pedals d'Occitània</strong> (18%) trails. Smaller segments of other routes like <strong>Pedals de Foc</strong> and <strong>Tour de l'Aneto</strong> are also part of the journey."
+    },
+    {
+      "question": "What should I bring for a mountain bike ride on this trail?",
+      "answer": "Given the trail's difficulty and length (over 32 km), you should bring plenty of water, energy snacks, a repair kit for your bike, a first-aid kit, and appropriate protective gear including a helmet. A GPS device or a downloaded map is highly recommended for navigation."
+    },
+    {
+      "question": "Is the Pomaròla Trail suitable for families or beginners?",
+      "answer": "No, the Pomaròla Trail is explicitly rated as <strong>difficult</strong> and is not recommended for beginners or families with young children. Its technical descents, tight switchbacks, and significant elevation changes require advanced mountain biking skills and a high level of physical fitness."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.008984486,
+    "sm#paved": 0.03001471,
+    "sm#gravel": 0.04403471,
+    "sm#asphalt": 0.20508637,
+    "sm#nature": 0.2177212,
+    "sm#unpaved": 0.49415854
+  },
+  "way_types": {
+    "service": 0.007905495,
+    "minor_road": 0.027922966,
+    "primary": 0.04199332,
+    "trail": 0.06671276,
+    "street": 0.16270466,
+    "way": 0.6927608
+  },
+  "waypoints": [
+    {
+      "name": "Church of San Martí de Gausach",
+      "lat": 42.707546,
+      "lng": 0.79196,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "viewpoint",
+        "settlement",
+        "historical_site",
+        "intermediate",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 6391268
+    },
+    {
+      "name": "Casau Village",
+      "lat": 42.705934,
+      "lng": 0.785286,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "religious_building",
+        "historical_site",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 5130938
+    },
+    {
+      "name": "View of the Aran Valley from Bòsc Nere",
+      "lat": 42.68432,
+      "lng": 0.774107,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 5130923
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 44,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-13T08:44:46.523Z",
+  "changed_at": "2026-02-26T18:36:59.904Z",
+  "scraped_at": "2026-04-28T15:37:07.454794+00:00"
+}

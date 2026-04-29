@@ -1,0 +1,163 @@
+{
+  "tour_id": "e961789816",
+  "url": "https://www.komoot.com/smarttour/e961789816",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e961789816/tour-de-la-rhune-from-sare",
+  "name": "Tour de la Rhune from Sare",
+  "name_original": "Boucle de Sare vers la Rhune et Ascain",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 30431.876935854867,
+  "duration_s": 12736,
+  "elevation_up_m": 1081.6426450815059,
+  "elevation_down_m": 1084.1021525725375,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.313759,
+  "start_lng": -1.57958,
+  "start_alt_m": 75.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 18.9-mile mountain biking route offers panoramic views from La Rhune and varied terrain in the Basque Country.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The medieval road offers the opportunity for a beautiful walk in the middle of the Basque countryside. You will be happy to be on a mountain bike because of the cobblestones!",
+    "Tremendous view of the valley. Fills with fog in the morning.",
+    "Closest to the pottocks with a superb view and in a quiet location!",
+    "Small open flat area which offers a superb panorama of the first peaks of the Pyrenees."
+  ],
+  "faqs": [
+    {
+      "question": "How difficult is the Boucle de Sare vers la Rhune et Ascain mountain biking trail?",
+      "answer": "This trail is rated as <strong>difficult</strong> and is best suited for experienced mountain bikers with excellent physical condition and advanced technical skills. You should be prepared for significant elevation changes, including extremely steep sections where you might need to dismount and push your bike. The descent is technical and can involve navigating dense bushes."
+    },
+    {
+      "question": "What kind of terrain can I expect on this route?",
+      "answer": "The terrain is highly varied, featuring steep hills, lush valleys, and expansive forests. You'll encounter singletracks, trails, and even a historical cobblestone 'medieval road' segment. Be prepared for rocky sections and potentially slippery poudingue blocks. Some parts, especially above Ascain, might involve dense vegetation and less clear paths."
+    },
+    {
+      "question": "What are the main points of interest along the Boucle de Sare vers la Rhune et Ascain trail?",
+      "answer": "The route offers breathtaking panoramic views, including tremendous vistas of the valleys and expansive views of the Pyrenees. Key highlights include the <a href=\"https://www.komoot.com/highlight/3861038\" target=\"_blank\" rel=\"noopener\">Old medieval road south of Sare</a>, a <a href=\"https://www.komoot.com/highlight/975396\" target=\"_blank\" rel=\"noopener\">View of the valley</a>, <a href=\"https://www.komoot.com/highlight/4474034\" target=\"_blank\" rel=\"noopener\">Collado de Kondendia</a> where you might spot Pottoks (semi-wild horses), and a stunning <a href=\"https://www.komoot.com/highlight/5387577\" target=\"_blank\" rel=\"noopener\">Panorama of the Pyrenees</a>. The summit of La Rhune provides exceptional views stretching from the Atlantic Ocean to the 3000-meter peaks of the Pyrenees."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this trail?",
+      "answer": "While the trail can be ridden in various seasons, consider the weather conditions carefully. Morning fog can occasionally shroud the valleys, and wet or foggy ground can make technical sections even more challenging. Spring and autumn generally offer more moderate temperatures and clearer skies, but always check the local forecast before you go."
+    },
+    {
+      "question": "Is the Boucle de Sare vers la Rhune et Ascain trail dog-friendly?",
+      "answer": "The trail passes through natural areas where local wildlife, such as Pottoks, may be present. While dogs are generally allowed on trails in the region, it's always best to keep them on a leash to ensure their safety, respect wildlife, and comply with local regulations, especially in areas with livestock or protected species."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "Specific parking information for this exact trailhead is not detailed, but Sare and Ascain are common starting points for routes in the area. Look for public parking areas within these villages, which often serve as access points for local trails. Always check local signage for parking restrictions or fees."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this mountain biking route?",
+      "answer": "Generally, no specific permits or entrance fees are required to access this mountain biking trail itself, as it traverses public lands and established paths. However, if you plan to visit specific attractions or use facilities at the summit of La Rhune (like the tourist train), separate fees may apply."
+    },
+    {
+      "question": "Does this trail connect with other routes?",
+      "answer": "Yes, the route intersects with several other trails. You'll find sections that are part of the Grande Traverséee VTT du Pays Basque, Variante 2.2, Bizkarzun, and the Ruta Transpirenaica en BTT (Roncesvalles - Hondarribia), among others. This offers opportunities to extend or modify your ride if desired."
+    },
+    {
+      "question": "What should I bring for a mountain bike ride on this trail?",
+      "answer": "Given the trail's difficulty and length (over 30 km and 1000m elevation gain), you should bring plenty of water, energy snacks, a repair kit for your bike, and appropriate safety gear including a helmet. Navigation tools are also highly recommended, as some sections might be less clearly marked or involve dense vegetation."
+    },
+    {
+      "question": "Are there any less frequented alternatives for mountain biking in the Sare area?",
+      "answer": "While the Boucle de Sare vers la Rhune et Ascain is a popular and iconic route, some sections, particularly those leading directly to La Rhune, can be busy. For a sense of solitude, explore other trails around Sare that might not involve the direct ascent to La Rhune's summit, or ride during off-peak times. The varied terrain of the Basque Country offers many options for different skill levels."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.026850767,
+    "sm#gravel": 0.037526995,
+    "sm#alpin": 0.041529663,
+    "sm#asphalt": 0.08210558,
+    "sm#paved": 0.13104033,
+    "sm#nature": 0.18637484,
+    "sm#unpaved": 0.49457183
+  },
+  "way_types": {
+    "service": 0.0030724867,
+    "minor_road": 0.093579076,
+    "street": 0.13010772,
+    "way": 0.3855382,
+    "trail": 0.38770252
+  },
+  "waypoints": [
+    {
+      "name": "Old medieval road south of Sare.",
+      "lat": 43.310902,
+      "lng": -1.580291,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "trail",
+        "intermediate",
+        "cycle_way"
+      ],
+      "highlight_id": 3861038
+    },
+    {
+      "name": "View of the valley",
+      "lat": 43.290934,
+      "lng": -1.619311,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 975396
+    },
+    {
+      "name": "Collado de Kondendia",
+      "lat": 43.293918,
+      "lng": -1.627724,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4474034
+    },
+    {
+      "name": "Panorama of the Pyrenees",
+      "lat": 43.29864,
+      "lng": -1.630384,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5387577
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.5,
+  "rating_count": 4,
+  "visitors": 23,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-24T16:04:21.315Z",
+  "changed_at": "2026-02-26T18:58:59.792Z",
+  "scraped_at": "2026-04-28T14:53:27.040825+00:00"
+}

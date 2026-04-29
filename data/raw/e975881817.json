@@ -1,0 +1,124 @@
+{
+  "tour_id": "e975881817",
+  "url": "https://www.komoot.com/smarttour/e975881817",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e975881817/pista-partacua-y-monte-pacino-circular-desde-sallent-de-gallego",
+  "name": "Pista Partacua y Monte Pacino – circular desde Sallent de Gállego",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 25522.397503247626,
+  "duration_s": 10272,
+  "elevation_up_m": 774.3951174422359,
+  "elevation_down_m": 774.2338768099955,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.769158,
+  "start_lng": -0.334664,
+  "start_alt_m": 1300,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "In summer a festival is held in this reservoir, next to the town of Lanuza that gives it its name, on a stage that seems to float over the reservoir.",
+    "La Partacua was one of the three quiñones into which the Tena Valley was administratively divided. The quiñones were a common division in the mountain areas especially designed for pastures.",
+    "All the Aragonese lakes are protected as they are included in the Inventory of Singular Wetlands, so any activity that could modify the quality of their waters is prohibited. While bathing is not specifically mentioned, it is understood that bathing with chemicals on the skin such as sunscreens, deodorants, perfumes or creams is negatively affecting the quality of the water, so it cannot be done. You can read the protection decree and the list of wetlands included here: boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=558856590404",
+    "Long but not too technical descent. Very nice to ride. Notice that the path is shared with hikers and there can be a lot of them !"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0007694502,
+    "sm#paved": 0.008915573,
+    "sm#alpin": 0.03771145,
+    "sm#asphalt": 0.14279328,
+    "sm#unpaved": 0.3897228,
+    "sm#nature": 0.42008746
+  },
+  "way_types": {
+    "minor_road": 0.005184687,
+    "primary": 0.061503742,
+    "street": 0.08998261,
+    "trail": 0.2857747,
+    "way": 0.55755424
+  },
+  "waypoints": [
+    {
+      "name": "Lanuza Reservoir",
+      "lat": 42.75304,
+      "lng": -0.317822,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "viewpoint",
+        "other_man_made"
+      ],
+      "highlight_id": 4702151
+    },
+    {
+      "name": "La Partacua Trail",
+      "lat": 42.717016,
+      "lng": -0.346741,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 3600590
+    },
+    {
+      "name": "Tramacastilla Lake",
+      "lat": 42.721576,
+      "lng": -0.371593,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 1765445
+    },
+    {
+      "name": "Descent from Monte Pacino",
+      "lat": 42.75849,
+      "lng": -0.346706,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2792053
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 3,
+  "visitors": 57,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-09T20:16:02.454Z",
+  "changed_at": "2024-05-31T09:24:44.450Z",
+  "scraped_at": "2026-04-28T15:04:13.860607+00:00"
+}

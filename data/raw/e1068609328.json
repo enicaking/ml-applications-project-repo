@@ -1,0 +1,146 @@
+{
+  "tour_id": "e1068609328",
+  "url": "https://www.komoot.com/smarttour/e1068609328",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1068609328/portillon-pass-emblematic-passes-of-the-pyrenees",
+  "name": "Portillon Pass – emblematic passes of the Pyrenees",
+  "name_original": "Circuit 7 : Col du Portillon— Les cols emblématiques des Pyrénées",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 59951.38442791147,
+  "duration_s": 12205,
+  "elevation_up_m": 1207.2430410805046,
+  "elevation_down_m": 1209.3878435696288,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.797415,
+  "start_lng": 0.597041,
+  "start_alt_m": 623.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Portillon is a classic of the Pyrenees and an emblematic pass of the Tour de France. Culminating at 1,293 meters above sea level, it marks the border between France and Spain. Since 1957, it has been used about twenty times by the runners of the big loop.\n\nThe route starts at Bagnères-de-Luchon train station. This historic spa town enjoys a unique reputation in the valley. It is located at the foot of the pass, at the gates of Spain. A small flat portion allows you to warm up before entering the valley of Pique. This is where the main kilometers of ascent to the pass begin.\n\nAlong the way, the Sidonie waterfall offers a burst of freshness in the hollow of a bend formed by the road. The climb continues in the heart of a beautiful forest which ends up leading to the pass. By tilting downhill you now enter Spain in the beautiful Aran Valley. It ends with four wide bends before entering the village of Bossost.\n\nNow the rest of the loop is much flatter until the finish. You benefit from a long downward false flat which leads back to the border which is not far from the village of Fos. You continue along the Garonne on a cycle path to Saint-Béat. You conclude by finding the valley of Luchon to Bagnères.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nicknamed “the queen of the Pyrenees”, Bagnères-de-Luchon, also called Luchon, is a famous spa resort in Occitania. There is a wide range of accommodation and catering options.",
+    "During the climb of the Portillon you can hear the water falling from afar from this beautiful waterfall.",
+    "The Col du Portillon is an emblematic pass of the Pyrenees and the Tour de France. Perched on the border between France and Spain, it peaks at 1,293 meters above sea level. The climb from Bagnères-de-Luchon is 10.2 kilometers long with an average of 6.5%, some of which are over 14%. On the descent, on the Spanish side, there is a stele in tribute to all the Spanish winners of the Tour de France.",
+    "Each bend preceding the stele from Bossost honors one of the Spanish winners of the great loop up to the stele which recapitulates these victories. The point of view is worth making a small contemplative stop.",
+    "Saint Béat is a very typical French village. The village maintains its architectural style throughout, and it is deeply rooted in the landscape. You can find bars and a few other shops."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.00285667,
+    "sb#unpaved": 0.0066303727,
+    "sb#compacted": 0.06491167,
+    "sb#asphalt": 0.9256013
+  },
+  "way_types": {
+    "trail": 0.001987112,
+    "minor_road": 0.041817937,
+    "way": 0.06491167,
+    "cycleway": 0.17635123,
+    "primary": 0.23369,
+    "street": 0.48124206
+  },
+  "waypoints": [
+    {
+      "name": "Bagnères-de-Luchon",
+      "lat": 42.79195,
+      "lng": 0.59135,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5558028
+    },
+    {
+      "name": "Sidonie Waterfall",
+      "lat": 42.77018,
+      "lng": 0.620675,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1074032
+    },
+    {
+      "name": "Ascent to Col du Portillon from Bossòst",
+      "lat": 42.769415,
+      "lng": 0.660167,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "challenging",
+        "trail",
+        "climb",
+        "verified_segment",
+        "mountain_pass",
+        "cycle_way"
+      ],
+      "highlight_id": 211839
+    },
+    {
+      "name": "Monument to Spanish Tour de France Winners and View of the Val d'Aran",
+      "lat": 42.777973,
+      "lng": 0.680374,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 1074041
+    },
+    {
+      "name": "View of the Château de Saint-Béat",
+      "lat": 42.915653,
+      "lng": 0.691655,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "viewpoint",
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 1798442
+    }
+  ],
+  "categories": [
+    "castle",
+    "challenging",
+    "climb",
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "trail",
+    "verified_segment",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.615384578704834,
+  "rating_count": 13,
+  "visitors": 611,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-04T14:44:29.865Z",
+  "changed_at": "2024-06-07T19:18:13.780Z",
+  "scraped_at": "2026-04-28T19:54:49.200329+00:00"
+}

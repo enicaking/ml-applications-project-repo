@@ -1,0 +1,180 @@
+{
+  "tour_id": "e958890186",
+  "url": "https://www.komoot.com/smarttour/e958890186",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e958890186/passet-and-font-vives-lakes-loop",
+  "name": "Passet and Font-Vives Lakes Loop",
+  "name_original": "Lac de Font Vive – Boucle – Parc naturel régional des Pyrénées Catalanes",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9470.607037837439,
+  "duration_s": 10718,
+  "elevation_up_m": 283.33943664063236,
+  "elevation_down_m": 282.9116927057032,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.551796,
+  "start_lng": 1.879855,
+  "start_alt_m": 1738.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike a moderate 5.9-mile loop to Lac de Font Vive in the Pyrénées Catalanes, featuring waterfalls, clear lakes, and mountain views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nice walk from the village to this reservoir",
+    "Idyllic setting of alpine meadows surrounded by mountains.",
+    "Nice little waterfalls on the Lanos rec.",
+    "Magnificent lake easily accessible from the lake road car park.",
+    "Pretty little waterfalls on the Estany de Font-Vive rec."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to hike the Lac de Font Vive Loop?",
+      "answer": "<p>This moderate loop, covering approximately 9.5 km with around 280 meters of elevation gain, generally takes about 3 hours to complete. However, the initial ascent from the parking area is quite steep and arduous, so allow extra time, especially if you plan to pause and enjoy the scenery or the lake.</p>"
+    },
+    {
+      "question": "What is the terrain like on this trail?",
+      "answer": "<p>The trail features varied terrain, starting with steep, forested paths. You'll encounter meadows, some rocky sections, and parts that follow a stream, including a wooden bridge crossing. Proper hiking shoes are highly recommended due to potentially steep, rocky, and sometimes slippery passages.</p>"
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "<p>The loop offers amazing scenery. You'll pass by the crystal-clear <a href=\"https://www.komoot.com/highlight/3080435\" target=\"_blank\" rel=\"noopener\">Font Vive Lake</a>, enjoy views of <a href=\"https://www.komoot.com/highlight/612646\" target=\"_blank\" rel=\"noopener\">Lac du Passet</a>, and discover beautiful waterfalls like the <a href=\"https://www.komoot.com/highlight/4533915\" target=\"_blank\" rel=\"noopener\">Rec de Lanos Waterfalls</a> and the <a href=\"https://www.komoot.com/highlight/1018093\" target=\"_blank\" rel=\"noopener\">Waterfalls of the Rec de l’Estany de Font-Vive</a>. You'll also traverse <a href=\"https://www.komoot.com/highlight/3080432\" target=\"_blank\" rel=\"noopener\">Alpine Meadows in Parc Naturel Régional des Pyrénées Catalanes</a> and get panoramic views of high peaks like Pic du Carlit.</p>"
+    },
+    {
+      "question": "Is the Lac de Font Vive Loop suitable for dogs?",
+      "answer": "<p>Yes, the trail is generally dog-friendly. However, as it's located within the Pyrénées Catalanes Regional Natural Park, it's always best to keep your dog on a leash to protect local wildlife and respect other hikers, especially in areas where you might encounter livestock like cows.</p>"
+    },
+    {
+      "question": "What is the best time of year to hike this loop?",
+      "answer": "<p>The trail is particularly stunning in autumn when the changing leaves create a vibrant, breathtaking landscape reflected in the lake. Summer offers pleasant conditions, though it can be hot, making trekking poles beneficial. Spring brings fresh greenery and flowing waterfalls. Winter conditions can be challenging with snow and ice, requiring specialized gear.</p>"
+    },
+    {
+      "question": "Where is the trailhead and is there parking available?",
+      "answer": "<p>The trail typically starts from a parking area, though the initial climb from there is noted as steep and arduous. Specific parking details are best checked on local maps or komoot's tour planner for the most accurate starting point.</p>"
+    },
+    {
+      "question": "Are there any permits or entrance fees required to hike in the Pyrénées Catalanes Regional Natural Park?",
+      "answer": "<p>Generally, there are no specific permits or entrance fees required for day hiking on trails within the Pyrénées Catalanes Regional Natural Park. However, always respect local regulations, especially regarding wildlife, litter, and fire safety, as it is a protected natural area.</p>"
+    },
+    {
+      "question": "Does the trail intersect with other well-known paths?",
+      "answer": "<p>Yes, the route also passes through sections of the Chemin des Ingénieurs, which makes up a significant portion of the trail.</p>"
+    },
+    {
+      "question": "What should I pack for this hike?",
+      "answer": "<p>Given the varied terrain and moderate difficulty, we recommend sturdy hiking shoes, sufficient water, snacks, and appropriate layers for changing weather. Trekking poles can be beneficial, especially for the steep sections and rocky passages. Don't forget a camera for the amazing views!</p>"
+    },
+    {
+      "question": "Can I swim in Lac de Font Vive?",
+      "answer": "<p>The water of <a href=\"https://www.komoot.com/highlight/3080435\" target=\"_blank\" rel=\"noopener\">Font Vive Lake</a> is crystal-clear and pristine, but also very cold. While you can refresh your feet, full swimming might be too chilly for most. It's a tranquil spot perfect for enjoying the peaceful mountain environment.</p>"
+    },
+    {
+      "question": "Is this trail suitable for beginners or families with young children?",
+      "answer": "<p>This specific loop is rated as <strong>moderate</strong> and includes steep, arduous sections, making it more suitable for hikers with good fitness and sure-footedness. While a shorter, easier version of the Lac de Font Vive trail exists (around 5.24 km), this 9.5 km loop might be challenging for beginners or very young children.</p>"
+    }
+  ],
+  "surfaces": {
+    "paved": 0.0055208653,
+    "nature": 0.23989573,
+    "unknown": 0.27686435,
+    "unpaved": 0.47771907
+  },
+  "way_types": {
+    "street": 0.0055208653,
+    "minor_road": 0.022698581,
+    "mountain_hiking_path": 0.23989573,
+    "hiking_path": 0.3343094,
+    "way": 0.39757544
+  },
+  "waypoints": [
+    {
+      "name": "Lac du Passet",
+      "lat": 42.551983,
+      "lng": 1.86981,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate"
+      ],
+      "highlight_id": 612646
+    },
+    {
+      "name": "Alpine Meadows in Parc Naturel Régional des Pyrénées Catalanes",
+      "lat": 42.54992,
+      "lng": 1.887985,
+      "type": "other_natural",
+      "categories": [
+        "other_natural",
+        "viewpoint",
+        "forest",
+        "family_friendly",
+        "natural_monument"
+      ],
+      "highlight_id": 3080432
+    },
+    {
+      "name": "Rec de Lanos Waterfalls",
+      "lat": 42.557618,
+      "lng": 1.894873,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "river",
+        "forest",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4533915
+    },
+    {
+      "name": "Font Vive Lake",
+      "lat": 42.557981,
+      "lng": 1.884769,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3080435
+    },
+    {
+      "name": "Waterfalls of the Rec de l’Estany de Font-Vive",
+      "lat": 42.552677,
+      "lng": 1.881776,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "river"
+      ],
+      "highlight_id": 1018093
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "river",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.666666507720947,
+  "rating_count": 15,
+  "visitors": 52,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-21T16:58:19.237Z",
+  "changed_at": "2026-02-26T18:49:55.968Z",
+  "scraped_at": "2026-04-27T12:22:18.883177+00:00"
+}

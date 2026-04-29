@@ -1,0 +1,140 @@
+{
+  "tour_id": "e1086930608",
+  "url": "https://www.komoot.com/smarttour/e1086930608",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1086930608/on-the-heights-of-ax-les-thermes",
+  "name": "On the heights of Ax-les-Thermes",
+  "name_original": "Sur les hauteurs d’Ax-les-Thermes",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10269.895278180236,
+  "duration_s": 11711,
+  "elevation_up_m": 393.5983341790752,
+  "elevation_down_m": 393.59833417907555,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.724743,
+  "start_lng": 1.8332,
+  "start_alt_m": 701.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This loop of around ten kilometers leads to the summit of Sarrat de l'Étang at an altitude of 1,127 metres. Along the way, you will discover the rock of the Virgin, Lake Campauleil and the village of Orgeix before returning to your starting point in Ax-les-Thermes.\n\nLocated in Ariège, Ax-les-Thermes is a mountain village with character. Its tourist offer includes a spa, a summer resort, an excursion center and a winter sports resort. Something to satisfy sports and nature lovers all year round.\n\nThe route starts from the Ax-les Thermes train station which is on the Pyrenees line of the Occitanie Rail Tour. Take advantage of the center of the village to find the lunch that you will savor higher up in the mountain.\n\nYou start by climbing on the rock of the Virgin which constitutes a beautiful belvedere on the village. You embark for a pretty plateau where the lake of Campauleil is located. This beautiful body of water is nestled in the hollow of the mountains. You go up along its peaceful banks until you reach Orgeix.\n\nFrom the village begins a sharp ascent towards the Sarrat de l'Étang. Along the way, remember to turn around to appreciate the beautiful view of Orgeix. At the top, the vegetation opens up to offer a vast panorama over the Oriège valley.\n\nYou close this loop with a pleasant path that wanders through the forest before leading to Ax-les-Thermes. Relieve your feet in the Roman baths before taking the train again!",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Ax-les-Thermes is a magnificent mountain town located in Ariège. This spa resort has the advantage of being attractive all year round for all sports and nature lovers.\r\n\r\nThere you will find all the necessary amenities to have a good time. The offer of accommodation, restaurants and shops is relatively wide.",
+    "Lake Campauleil has existed since 1941, following the construction of a dam by EDF. It culminates at 814 meters above sea level and becomes, thanks to the dam, a small paradise for fisherman.\r\n\r\nEasily accessible, the lake becomes an ideal place to relax or enjoy a good picnic with family or friends.",
+    "Orgeix is a small, bucolic village nestled on the right bank of the Oriège River. This rural commune of barely 100 inhabitants is like a haven of serenity overlooking the sometimes turbulent Oriège River. On mild summer days, its bucolic streets invite contemplation. If you're not pressed for time, cross the stone bridge, sit at the foot of the church, and strike up a conversation with the locals, who are always willing to share their stories of village life.",
+    "As much uphill as downhill, the viewpoint is, especially at the end of the day, a real photo spot with a view of the village of Orgeix and the surrounding mountains. Gorgeous !",
+    "The Sarrat de l'Étang is a summit located on the heights of Ax-les-Thermes. Culminating at 1,127 meters above sea level, it offers a beautiful panorama over the Oriège valley."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.040268466,
+    "unknown": 0.07134327,
+    "paved": 0.17571375,
+    "asphalt": 0.2022931,
+    "unpaved": 0.5103814
+  },
+  "way_types": {
+    "minor_road": 0.13545844,
+    "street": 0.14455567,
+    "way": 0.15107505,
+    "footway": 0.16313396,
+    "hiking_path": 0.40577686
+  },
+  "waypoints": [
+    {
+      "name": "Ax-les-Thermes",
+      "lat": 42.71883,
+      "lng": 1.83803,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "river",
+        "facilities",
+        "family_friendly"
+      ],
+      "highlight_id": 3691156
+    },
+    {
+      "name": "Lake Campauleil",
+      "lat": 42.710326,
+      "lng": 1.85248,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 3822968
+    },
+    {
+      "name": "Orgeix Church and Bridge over the Oriège",
+      "lat": 42.707352,
+      "lng": 1.867879,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "bridge",
+        "river",
+        "religious_building"
+      ],
+      "highlight_id": 3822979
+    },
+    {
+      "name": "View of Orgeix and the Valley",
+      "lat": 42.71142,
+      "lng": 1.864913,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "valley",
+        "settlement"
+      ],
+      "highlight_id": 2984245
+    },
+    {
+      "name": "Sarrat of the Pond",
+      "lat": 42.71429,
+      "lng": 1.85904,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5632595
+    }
+  ],
+  "categories": [
+    "bridge",
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "religious_building",
+    "river",
+    "settlement",
+    "summit",
+    "valley",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5514020919799805,
+  "rating_count": 107,
+  "visitors": 546,
+  "author_name": "Voyage Occitanie",
+  "author_id": "occitanie",
+  "created_at": "2023-04-20T10:46:26.523Z",
+  "changed_at": "2024-06-03T13:50:00.040Z",
+  "scraped_at": "2026-04-27T12:19:42.246710+00:00"
+}

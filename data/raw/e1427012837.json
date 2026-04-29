@@ -1,0 +1,111 @@
+{
+  "tour_id": "e1427012837",
+  "url": "https://www.komoot.com/smarttour/e1427012837",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1427012837/ibardin-to-lac-de-xoldokogaina",
+  "name": "Ibardin to Lac de Xoldokogaina",
+  "name_original": "Le lac de Xoldokogaina depuis Ibardin",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8360.603374936696,
+  "duration_s": 10299,
+  "elevation_up_m": 366.81281386207127,
+  "elevation_down_m": 366.8128138620713,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.309421,
+  "start_lng": -1.685374,
+  "start_alt_m": 313.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The route that leads to Lake Xoldokogaina from Ibardin is accessible to hikers of all levels. It offers a bucolic immersion in Basque nature, between France and Spain. The departure is at the Col d’Ibardin, known for its numerous ventas and restoration sites.\n\nFrom the car park, you leave the surrounding hustle and bustle behind by taking a fairly wide track. The route follows the red and white markings of the GR 10, a major hiking trail which crosses the Pyrenees from west to east. You leave it for a moment to climb onto the Manttale. This pretty summit, the highest point of the route, offers breathtaking views of the Atlantic coast and the surrounding reliefs.\n\nBack on the GR 10, you follow it for a moment before turning off towards the second essential part of the hike: Lake Xoldokogaina. It’s a superb shaded path that takes you there. The single leads to the lake dam. This allows you to cross it while providing a beautiful view of the body of water.\n\nThe last portion of the route consists of walking along the banks of the lake for a moment before slowly going up to the Col d’Ibardin. This section offers an alternation of shaded parts and open clearings. On the way, you pass not far from a sheepfold made of old stones, which still shelters a few animals.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "On this border pass between France and Spain there are a number of shops and restaurants (including a large supermarket) due to tax advantages. A good opportunity for long-distance hikers to buy the groceries they still need or just to enjoy a snack and a cool drink.\r\n\r\nApart from its practical use, however, not very attractive ;)",
+    "Culminating at an altitude of 574 meters, this border summit offers large open panoramas of the Atlantic coast and the first Basque mountains.",
+    "This pretty lake is nestled at an altitude of 330 meters in the hollow of a wooded valley. Designed in 1928, its dam allows the distribution of water for the towns of Urrugne, Hendaye and Saint-Jean-de-Luz. Swimming and fishing are prohibited but the lake offers superb picnic spots."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.027699357,
+    "unknown": 0.068749726,
+    "gravel": 0.09089599,
+    "paved": 0.20410109,
+    "unpaved": 0.29596967,
+    "nature": 0.31258416
+  },
+  "way_types": {
+    "minor_road": 0.013287025,
+    "alpine_hiking_path": 0.06512373,
+    "street": 0.16394721,
+    "mountain_hiking_path": 0.16980354,
+    "way": 0.22119094,
+    "hiking_path": 0.36664754
+  },
+  "waypoints": [
+    {
+      "name": "Col d'Ibardin",
+      "lat": 43.31072,
+      "lng": -1.68901,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "facilities",
+        "settlement",
+        "mountain_pass"
+      ],
+      "highlight_id": 3092801
+    },
+    {
+      "name": "Manttale Summit",
+      "lat": 43.309132,
+      "lng": -1.703286,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5884035
+    },
+    {
+      "name": "Lake Xoldokogaina",
+      "lat": 43.323223,
+      "lng": -1.707781,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 5157946
+    }
+  ],
+  "categories": [
+    "facilities",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.458333492279053,
+  "rating_count": 24,
+  "visitors": 122,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-30T09:20:05.819Z",
+  "changed_at": "2024-06-13T14:48:24.934Z",
+  "scraped_at": "2026-04-27T11:08:34.287601+00:00"
+}

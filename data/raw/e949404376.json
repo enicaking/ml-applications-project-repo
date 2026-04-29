@@ -1,0 +1,124 @@
+{
+  "tour_id": "e949404376",
+  "url": "https://www.komoot.com/smarttour/e949404376",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e949404376/col-de-la-llose-from-la-llagonne",
+  "name": "Col de la Llose from La Llagonne",
+  "name_original": "Vers le pic de la Tosse",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 14931.596369934261,
+  "duration_s": 3607,
+  "elevation_up_m": 402.5786314341508,
+  "elevation_down_m": 402.5786314341508,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.524989,
+  "start_lng": 2.123069,
+  "start_alt_m": 1648.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle Towards the peak of la Tosse, a moderate 9.3-mile (14.9 km) road cycling route in the Parc Naturel Régional des Pyrénées Catalanes.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A fairly regular pass on paved road all along (except the last few meters but can be done well on a road bike). 5% average and 8% maximum!"
+  ],
+  "faqs": [
+    {
+      "question": "What are the main starting points for cycling Towards the peak of la Tosse?",
+      "answer": "The Collada de Toses, which is the pass this route ascends, can be approached from several directions. Two prominent starting points are from Ribes de Freser (via Fornells de la Muntanya) and from Queixans. Each offers a different climbing profile and difficulty."
+    },
+    {
+      "question": "How challenging is the Collada de Toses climb?",
+      "answer": "The climb is generally considered moderate, long but affordable for cyclists with good fitness. The approach from Ribes de Freser is 21.2 km with 957 meters of ascent and steeper sections (up to 10%), making it more challenging. The route from Queixans is 21.3 km with 688 meters of ascent and a gentler average gradient, making it one of the easier Pyrenean passes."
+    },
+    {
+      "question": "What kind of scenery can I expect while cycling this route?",
+      "answer": "You can expect pleasant, high mountain scenery characteristic of the Catalan Pyrenees. While much of the route passes through forests, limiting expansive vistas, there are scenic sections, especially through the valley leading to Toses. The immediate summit area might be less picturesque due to structures like a large concrete hotel."
+    },
+    {
+      "question": "When is the best time of year to cycle Towards the peak of la Tosse?",
+      "answer": "The Collada de Toses is typically kept clear of snow from April to November, making this the best period for cycling. During these months, you can expect favorable conditions for your ride."
+    },
+    {
+      "question": "Are there any specific road conditions or traffic concerns on the route?",
+      "answer": "The road surface is generally in very good condition. If starting from Ribes de Freser, the initial part on the N260 can be busier, but traffic is usually not overly bothersome for cyclists. Once you turn onto the GIV-4016 towards Toses, the road becomes quieter."
+    },
+    {
+      "question": "What notable features or highlights will I encounter on the way to the peak of La Tosse?",
+      "answer": "The primary highlight of this route is reaching the <a href=\"https://www.komoot.com/highlight/2158563\" target=\"_blank\" rel=\"noopener\">Col de la Tossa (Parc Naturel Régional des Pyrénées Catalanes)</a>, a significant mountain pass in the region. The journey itself offers a classic Pyrenean cycling experience with varied terrain and mountain views."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, sections of this route overlap with other paths. You will find it intersects with parts of El Camí IT1TR4 El Camí Capçaler: de Salzes a Balaguer, Chemin Vauban, and Chemin de l'Egleisy."
+    },
+    {
+      "question": "Is Towards the peak of la Tosse dog-friendly?",
+      "answer": "This route is primarily a road cycling tour. While dogs are generally allowed in the Parc Naturel Régional des Pyrénées Catalanes, bringing a dog on a racebike tour of this nature is not typical or recommended due to the speed and terrain. If you plan to bring a dog, consider alternative, more suitable hiking or walking trails in the region."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for cycling in the Parc Naturel Régional des Pyrénées Catalanes?",
+      "answer": "No, you do not need a specific permit or pay an entrance fee to cycle this route within the Parc Naturel Régional des Pyrénées Catalanes. However, always respect local regulations, especially regarding nature conservation and traffic laws."
+    },
+    {
+      "question": "Are there any cafes or places to stop for refreshments along the route?",
+      "answer": "While the route passes through some villages like Toses, specific cafes directly on the climb might be limited. It's always a good idea to carry sufficient water and snacks, especially for a climb of this duration. You may find options in the larger towns at the base of the climb, such as Ribes de Freser or Queixans."
+    },
+    {
+      "question": "What is the strategic advantage of starting from Queixans instead of Ribes de Freser?",
+      "answer": "Starting from Queixans offers a significantly gentler ascent profile. At 21.3 km with 688 meters of vertical gain and an average gradient of 3.2%, it's considered an easier Pyrenean pass to cross. This allows riders to maintain a more consistent gear and makes it a more approachable option for those looking for a less strenuous climb compared to the Ribes de Freser approach."
+    }
+  ],
+  "surfaces": {
+    "sb#asphalt": 0.43272686,
+    "sb#paved": 0.56727314
+  },
+  "way_types": {
+    "minor_road": 0.0033719651,
+    "primary": 0.15447856,
+    "street": 0.8421495
+  },
+  "waypoints": [
+    {
+      "name": "Col de la Tossa (Parc Naturel Régional des Pyrénées Catalanes)",
+      "lat": 42.530702,
+      "lng": 2.151293,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "trail",
+        "other_natural",
+        "summit"
+      ],
+      "highlight_id": 2158563
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "mountain_pass",
+    "other_natural",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-10T07:07:45.322Z",
+  "changed_at": "2026-02-26T18:52:08.414Z",
+  "scraped_at": "2026-04-28T20:23:18.049327+00:00"
+}

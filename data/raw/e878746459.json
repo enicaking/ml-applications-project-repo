@@ -1,0 +1,142 @@
+{
+  "tour_id": "e878746459",
+  "url": "https://www.komoot.com/smarttour/e878746459",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e878746459/la-rhune-loop-trail-from-sare",
+  "name": "La Rhune Loop Trail from Sare",
+  "name_original": "Trail de la Rhune",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 11174.900961119261,
+  "duration_s": 7421,
+  "elevation_up_m": 825.8671549888547,
+  "elevation_down_m": 825.867154988855,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.324441,
+  "start_lng": -1.599362,
+  "start_alt_m": 168.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Challenge yourself on the difficult 6.9-mile (11.2 km) Trail de la Rhune jogging route, gaining 2710 feet (826 metres) with panoramic views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "The Col des Trois Fontaines offers a superb view of the Rhune but also of its surroundings. Several paths converge at this location and allow you to vary the approaches to reach the summit."
+  ],
+  "faqs": [
+    {
+      "question": "What is the terrain like on the Trail de la Rhune?",
+      "answer": "The terrain is diverse and challenging, featuring significant unpaved, alpine, and natural paths. Expect rocky sections, steep ascents, and potentially slippery descents, especially in wet conditions. While there are some short paved parts, most of the route consists of dirt roads, hiking paths, mountain trails, and single-tracks."
+    },
+    {
+      "question": "Is this trail suitable for beginners?",
+      "answer": "No, the Trail de la Rhune is generally considered a difficult route, requiring very good fitness and sturdy shoes. It involves significant elevation gain and technical sections, making it more suitable for experienced trail runners or hikers with alpine experience."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "The trail offers spectacular scenery. You might spot wild animals like pottoks (Basque ponies) in the natural environment. The summit, <a href=\"https://www.komoot.com/highlight/1016283\" target=\"_blank\" rel=\"noopener\">La Rhune summit</a>, provides an exceptional 360-degree panoramic view of the Spanish Basque Country, the Atlantic Ocean, the Basque coast, the beaches of Landes, and the Pyrénées. You'll also pass by <a href=\"https://www.komoot.com/highlight/3241506\" target=\"_blank\" rel=\"noopener\">Col des Trois Fontaines</a>."
+    },
+    {
+      "question": "What is the best time of year to jog this trail?",
+      "answer": "While the research doesn't specify an exact best time, given the challenging terrain and potential for slippery conditions, it's advisable to undertake this trail in dry weather. Spring and autumn often offer pleasant temperatures, but always check local weather forecasts before you go."
+    },
+    {
+      "question": "Is the Trail de la Rhune dog-friendly?",
+      "answer": "The provided research does not explicitly state whether dogs are allowed or if there are specific leash rules. It's best to check with local authorities or park regulations before bringing your dog on the trail."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for this trail?",
+      "answer": "The available information does not mention any specific permits or entrance fees required to access the Trail de la Rhune for jogging. However, it's always a good practice to verify local regulations before your visit."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "Specific parking locations are not detailed in the provided research. However, for popular trails like this, parking is typically available near common starting points. It's recommended to research local parking options in the villages surrounding La Rhune before your trip."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, the route also passes through sections of the La traversée des Pyrénées - sec.9 (28%), Variante 2.1 (25%), Autour de Sare / Sarako itzulia (14%), La route des cols Hendaye - Larrau (5%), La route des contrebandiers (5%), and Étape 01 (4%)."
+    },
+    {
+      "question": "What should I bring for a run on this trail?",
+      "answer": "Given the trail's difficulty and terrain, you should bring sturdy trail running shoes with good grip, sufficient water, appropriate layers of clothing for changing mountain weather, and navigation tools. Trekking poles can also be beneficial for the steep ascents and descents."
+    },
+    {
+      "question": "Are there any unique aspects to this trail?",
+      "answer": "Yes, the Trail de la Rhune is considered a 'mythical mountain' in the Basque Country and is a popular location for trail running races. A unique feature is the presence of a cogwheel train that ascends to the summit, offering an alternative for descent or for those who wish to experience the views without the full physical exertion. Its location on the French-Spanish border also adds a distinct geographical element."
+    },
+    {
+      "question": "Is this a loop trail or an out-and-back route?",
+      "answer": "The provided tour data indicates a start and end point that are the same, suggesting it is a loop trail. The total distance and elevation gain/loss also support a circular route."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.010754676,
+    "paved": 0.074830025,
+    "nature": 0.109043054,
+    "alpin": 0.35111335,
+    "unpaved": 0.4542589
+  },
+  "way_types": {
+    "footway": 0.0042238315,
+    "minor_road": 0.02464262,
+    "street": 0.02653015,
+    "way": 0.10107342,
+    "mountain_hiking_path": 0.35111335,
+    "hiking_path": 0.49241662
+  },
+  "waypoints": [
+    {
+      "name": "La Rhune summit",
+      "lat": 43.309069,
+      "lng": -1.635631,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Col des Trois Fontaines",
+      "lat": 43.315828,
+      "lng": -1.625714,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 3241506
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 50,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-09T07:29:57.538Z",
+  "changed_at": "2026-02-26T18:50:48.164Z",
+  "scraped_at": "2026-04-27T15:09:14.514375+00:00"
+}

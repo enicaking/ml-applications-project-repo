@@ -1,0 +1,157 @@
+{
+  "tour_id": "e985150895",
+  "url": "https://www.komoot.com/smarttour/e985150895",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e985150895/hoya-de-la-mora-lagunillos-de-la-virgen-trail",
+  "name": "Hoya de la Mora - Lagunillos de la Virgen Trail",
+  "name_original": "Parque Nacional de Sierra Nevada – trail running circular al Pico Veleta desde Hoya de la Mora",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 12687.503032590486,
+  "duration_s": 7915,
+  "elevation_up_m": 838.1439470166588,
+  "elevation_down_m": 838.1439470166588,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.09517,
+  "start_lng": -3.386713,
+  "start_alt_m": 2505.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog the difficult 7.9-mile Hoya de la Mora - Lagunillos de la Virgen Trail in Sierra Nevada, offering panoramic views and high-altitude chal",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "View to the Tajos de Veleta and the Corrral del Veleta.",
+    "The name \"El Veleta\" actually comes from the Arabic \"al Balata\" which meant cut or precipice, alluding to the walls that this peak has. This characteristic shape generates an almost permanent shadow on its north face that allows the existence of permafrost, fossilized ice that is estimated to date from the last ice age 13,000 years ago.",
+    "To visit in summer when the snow decreases, it belongs to the municipal district of Dílar."
+  ],
+  "faqs": [
+    {
+      "question": "Where does the Hoya de la Mora - Lagunillos de la Virgen Trail start, and is there parking?",
+      "answer": "The trail begins at Hoya de la Mora, which is the highest point accessible by car in the Sierra Nevada. You'll find parking available there, making it a convenient starting point for your journey."
+    },
+    {
+      "question": "Is the Hoya de la Mora - Lagunillos de la Virgen Trail dog-friendly?",
+      "answer": "While dogs are generally allowed in Sierra Nevada National Park, it's always best to keep them on a leash to protect the local wildlife and flora, especially in high-mountain pastures known as 'borreguiles'. Be mindful of the challenging terrain and high altitude for your pet."
+    },
+    {
+      "question": "What is the best time of year to jog the Hoya de la Mora - Lagunillos de la Virgen Trail?",
+      "answer": "The ideal time to jog this trail is during the warmer months, typically from late spring to early autumn, when it's free of snow and ice. During winter, the trail is covered in snow and ice, requiring specialized equipment like snowshoes or crampons, and becomes significantly more demanding and potentially dangerous."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this trail in Sierra Nevada National Park?",
+      "answer": "Generally, there are no entrance fees or specific permits required for hiking or jogging on established trails within Sierra Nevada National Park, including the Hoya de la Mora - Lagunillos de la Virgen Trail. However, always respect park regulations regarding environmental protection and access."
+    },
+    {
+      "question": "What is the terrain like on this jogging trail?",
+      "answer": "The terrain is varied and challenging. You'll follow tracks, experiencing initial descents followed by significant ascents. The route crosses parts of the Sierra Nevada ski resort, ski slopes, and areas with small streams and sheets of water, particularly near the Lagunillos. The path is generally well-marked, but involves progressively ascending along a defined track."
+    },
+    {
+      "question": "What can I see along the Hoya de la Mora - Lagunillos de la Virgen Trail?",
+      "answer": "The trail offers breathtaking panoramic views of the Sierra Nevada's high peaks and the plain of Granada. Key sights include the <a href=\"https://www.komoot.com/highlight/2304556\" target=\"_blank\" rel=\"noopener\">Shelter at Corral del Veleta Viewpoint</a>, the prominent <a href=\"https://www.komoot.com/highlight/4052740\" target=\"_blank\" rel=\"noopener\">Pico del Veleta</a>, and the expansive <a href=\"https://www.komoot.com/highlight/1512546\" target=\"_blank\" rel=\"noopener\">Mares' Lagoon</a>. You'll also pass waterfalls, the Laguna de las Yeguas, and reach the idyllic Lagunillos de la Virgen at the foot of the dramatic Tajos de la Virgen."
+    },
+    {
+      "question": "Is this trail suitable for beginners?",
+      "answer": "No, this trail is categorized as 'difficult' for jogging. It involves significant elevation changes, strong ascents and descents, and high altitudes ranging from approximately 2,500 to over 2,900 meters. It is not recommended for beginners due to its physical demands and the need to acclimatize to high altitudes."
+    },
+    {
+      "question": "Is the Hoya de la Mora - Lagunillos de la Virgen Trail a loop or out-and-back route?",
+      "answer": "This is primarily a linear route, most commonly undertaken as an out-and-back journey. You will return along the same path you took to reach the Lagunillos de la Virgen."
+    },
+    {
+      "question": "What should I know about the high altitude on this trail?",
+      "answer": "The trail reaches altitudes over 2,900 meters. It is crucial to be aware of how your body reacts to high altitudes. Strong winds can also increase the perceived difficulty. Be prepared for thinner air and potential altitude sickness symptoms, and consider acclimatization if you are not used to such elevations."
+    },
+    {
+      "question": "Does this trail intersect other well-known paths?",
+      "answer": "Yes, the route intersects with several other paths. You'll find sections that overlap with the [CIMA GR18] Sierra Nevada - Pico Veleta, Hoya de la Mora - Posiciones del Veleta, and the Integral de Sierra Nevada, among others."
+    },
+    {
+      "question": "Are there any facilities or amenities near the Hoya de la Mora trailhead?",
+      "answer": "Hoya de la Mora serves as a significant starting point. You'll find parking there, and notable landmarks include the Refugio Militar Capitán Cobo and a National Park Information Booth. These can provide some basic amenities or information before you start your journey."
+    }
+  ],
+  "surfaces": {
+    "nature": 0.0033933956,
+    "unknown": 0.024167439,
+    "paved": 0.034779154,
+    "asphalt": 0.038681127,
+    "alpin": 0.17011705,
+    "unpaved": 0.7288618
+  },
+  "way_types": {
+    "way": 0.010294904,
+    "track": 0.011468411,
+    "minor_road": 0.024167439,
+    "street": 0.07346028,
+    "mountain_hiking_path": 0.15864864,
+    "hiking_path": 0.7219603
+  },
+  "waypoints": [
+    {
+      "name": "Shelter at Corral del Veleta Viewpoint",
+      "lat": 37.066162,
+      "lng": -3.369659,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 2304556
+    },
+    {
+      "name": "Pico del Veleta",
+      "lat": 37.056,
+      "lng": -3.36572,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 4052740
+    },
+    {
+      "name": "Mares' Lagoon",
+      "lat": 37.0564,
+      "lng": -3.37933,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1512546
+    }
+  ],
+  "categories": [
+    "challenging",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 59,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-25T16:20:26.953Z",
+  "changed_at": "2026-02-26T19:15:45.981Z",
+  "scraped_at": "2026-04-27T14:08:27.355511+00:00"
+}

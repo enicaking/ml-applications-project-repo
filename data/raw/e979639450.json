@@ -1,0 +1,111 @@
+{
+  "tour_id": "e979639450",
+  "url": "https://www.komoot.com/smarttour/e979639450",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e979639450/benasque-circular-by-the-rio-esera",
+  "name": "Benasque — circular by the Río Ésera",
+  "name_original": "Benasque — circular por el Río Ésera",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 12004.340869959704,
+  "duration_s": 2812,
+  "elevation_up_m": 132.9089813708481,
+  "elevation_down_m": 133.22074011692234,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.604404,
+  "start_lng": 0.527378,
+  "start_alt_m": 1162.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The town of Benasque is located at the foot of the Posets and Maladeta massifs, in an immense valley and where the town reaches more than a thousand meters in height. The Bensaque valley is one of the best-known pubs in this part of the Pyrenees.",
+    "The Linsoles (or Eriste) Reservoir was built in the 1960s to collect the water channeled through the mountain to power the Eriste hydroelectric power station. It is one of the 3 reservoirs of the Ésera river in the Benasque valley.",
+    "Anciles is a small town that is all paved, its streets and houses, even the church ... Your visit is highly recommended."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.013137395,
+    "sb#unpaved": 0.037779514,
+    "sb#paved": 0.1737484,
+    "sb#compacted": 0.24725637,
+    "sb#asphalt": 0.5280783
+  },
+  "way_types": {
+    "trail": 0.009150658,
+    "service": 0.013137395,
+    "minor_road": 0.13008554,
+    "way": 0.32984012,
+    "street": 0.5177863
+  },
+  "waypoints": [
+    {
+      "name": "Benasque/Benás",
+      "lat": 42.605194,
+      "lng": 0.521291,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "river",
+        "viewpoint"
+      ],
+      "highlight_id": 5285108
+    },
+    {
+      "name": "Linsoles Reservoir",
+      "lat": 42.580444,
+      "lng": 0.485191,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "family_friendly",
+        "other_man_made",
+        "river"
+      ],
+      "highlight_id": 3559806
+    },
+    {
+      "name": "Anciles Village",
+      "lat": 42.590849,
+      "lng": 0.50965,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 2730258
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "lake",
+    "other_man_made",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 14,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-14T14:58:53.683Z",
+  "changed_at": "2024-06-06T05:08:21.710Z",
+  "scraped_at": "2026-04-28T23:59:23.027402+00:00"
+}

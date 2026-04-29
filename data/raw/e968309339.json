@@ -1,0 +1,75 @@
+{
+  "tour_id": "e968309339",
+  "url": "https://www.komoot.com/smarttour/e968309339",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e968309339/cima-del-adi-from-collado-de-urkiaga-gr-11-gr-12",
+  "name": "Cima del Adi from Collado de Urkiaga (GR 11 & GR 12)",
+  "name_original": "Cima del Adi desde Collado de Urkiaga (GR 11 & GR 12)",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7849.645507962638,
+  "duration_s": 12159,
+  "elevation_up_m": 508.76001502707356,
+  "elevation_down_m": 508.76001502707356,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.03592,
+  "start_lng": -1.470253,
+  "start_alt_m": 927.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "From its top at 1457 meters above sea level. the views are just amazing. You will have spectacular views of the entire chain of the Pyrenees, and the beech forests of the Quinto Real Forest."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.032429885,
+    "alpin": 0.22672899,
+    "gravel": 0.2824456,
+    "nature": 0.4583955
+  },
+  "way_types": {
+    "hiking_path": 0.14499247,
+    "way": 0.28926462,
+    "mountain_hiking_path": 0.5657429
+  },
+  "waypoints": [
+    {
+      "name": "Adi Summit",
+      "lat": 43.019523,
+      "lng": -1.445228,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4020752
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.857142925262451,
+  "rating_count": 7,
+  "visitors": 44,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-30T22:58:28.631Z",
+  "changed_at": "2024-06-06T01:48:57.522Z",
+  "scraped_at": "2026-04-27T10:54:07.555752+00:00"
+}

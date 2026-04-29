@@ -1,0 +1,126 @@
+{
+  "tour_id": "e1153597186",
+  "url": "https://www.komoot.com/smarttour/e1153597186",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1153597186/loop-10-errozate-pass-basque-country-passes",
+  "name": "Loop 10: Errozate Pass – Basque Country passes",
+  "name_original": "Circuit 10 : Col d’Errozate — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 64003.41061082278,
+  "duration_s": 14706,
+  "elevation_up_m": 1737.6705588717862,
+  "elevation_down_m": 1732.707128673089,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.163078,
+  "start_lng": -1.237782,
+  "start_alt_m": 170.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "From the historic heart of Saint-Jean-Pied-de-Port to the heights of the Errozate pass, the landscapes do not fail to surprise. With, in addition, a passage through the Iraty forest, this loop offers a nice summary of the Basque Country.\n\nThe route starts at the gates of the medieval city located at the crossroads of the roads that enliven the region. The course escapes on a small road towards Estérençuby. This is where the climb towards the Errozate pass officially begins. About 10 kilometers long, it includes an average close to 10% with passages at 19%.\n\nSeveral switchbacks inaugurate the ascent before reaching open terrain which gradually reveals beautiful panoramas. The road continues to meander as large percentages step up the effort. Finally, at the foot of the summit of the same name, the Col d'Errozate is revealed. Take the time to appreciate the view and guess the path taken so far.\n\nA downhill section then flirts with the Spanish border before continuing on a false flat rising towards the Irau pass. This very pleasant portion continues until you reach a small body of water located in the heart of the Iraty forest.\n\nYou are now evolving within the largest beech forest in Europe. A small uphill section leads to the Burdincurutcheta pass. From there you begin a beautiful descent towards Lecumberry. Along the way, a few hairpins slow down the pace while offering beautiful panoramas.\nFrom the village, a long false flat descending accompanies the end of this beautiful loop.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Jean-Pied-de-Port is an essential village in the Basque Country. Nestled at the confluence of the Nives, the medieval city is at the crossroads of the roads serving the Basque Country. The city has a relatively rich historical and architectural heritage. There is notably a medieval enclosure made up of an imposing wall pierced by four large gates. At its heart you will find several artisans who offer many local products. The medieval city also owes its fame to the Camino de Santiago which crosses it. An emblematic stop on this trail, the village welcomes many of its pilgrims throughout the year. At the foot of the Basque mountains, in Saint-Jean-Pied-de-Port, life is good. Take the time to stroll through its streets, eat on its various terraces or relax in the many lodges there.",
+    "The small village of Estérençuby is nestled in the hollow of beautiful mountains. Ideally located for a short break and to recharge in water before attacking the ascent of the passes which are not far away.",
+    "The Errozate pass is a superb Basque pass near the Spanish border. From the village of Estérençuby the climb is 9.8 kilometers long for an average of 9.5% with passages at 19%.",
+    "The largest beech forest in Europe, the Iraty forest is one of the jewels of the Basque Country. Its 20,000 hectares are divided between France and Spain and bring together many remarkable plant and animal species: beeches, firs, deer, roe deer, etc.",
+    "The small village of Lecumberry is on the road towards Iraty.\r\n\r\nThe Ibarnia farm serves as an ideal break for refueling."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.22791447,
+    "sb#asphalt": 0.77208555
+  },
+  "way_types": {
+    "minor_road": 0.00359564,
+    "primary": 0.0070999637,
+    "street": 0.9893044
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Jean-Pied-de-Port",
+      "lat": 43.1628,
+      "lng": -1.2398,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 4917203
+    },
+    {
+      "name": "Estérençuby",
+      "lat": 43.1039,
+      "lng": -1.1959,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 5783943
+    },
+    {
+      "name": "Col d'Errozate",
+      "lat": 43.04401,
+      "lng": -1.16718,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging",
+        "climb",
+        "viewpoint"
+      ],
+      "highlight_id": 5783890
+    },
+    {
+      "name": "Heart of the Iraty forest",
+      "lat": 43.0437,
+      "lng": -1.0732,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4917288
+    },
+    {
+      "name": "Lecumberry",
+      "lat": 43.135,
+      "lng": -1.144,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 5539951
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "mountain_pass",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5454545,
+  "rating_count": 11,
+  "visitors": 270,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-05T14:12:03.055Z",
+  "changed_at": "2024-06-08T06:04:32.848Z",
+  "scraped_at": "2026-04-28T19:26:06.627106+00:00"
+}

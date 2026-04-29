@@ -1,0 +1,138 @@
+{
+  "tour_id": "e872484547",
+  "url": "https://www.komoot.com/smarttour/e872484547",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e872484547/grotte-des-eaux-chaudes-loop",
+  "name": "Grotte des Eaux-Chaudes Loop",
+  "name_original": "Randonnée des Eaux-Chaudes",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7267.565603215998,
+  "duration_s": 9372,
+  "elevation_up_m": 432.2558967311056,
+  "elevation_down_m": 419.3083177256193,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.936381,
+  "start_lng": -0.443862,
+  "start_alt_m": 726.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Explore the moderate 4.5-mile Hike of the Hot Waters in Pyrénées National Park, featuring the Eaux-Chaudes Bridge and Cave.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Eaux-Chaudes bridge spans the crystal clear waters of the Gave d'Ossau and marks the start of the GRP Tour of the Ossau Valley.",
+    "By entering the caves of Eaux-Chaudes you can reach the underground banks of the bed of the river which passes in front of the entrance to the cave."
+  ],
+  "faqs": [
+    {
+      "question": "Where does the Hike of the Hot Waters trail begin?",
+      "answer": "The Hike of the Hot Waters typically starts near the hamlet of Eaux-Chaudes, which is known for its thermal springs. Specific trailhead access points and parking information would be available locally or through the Pyrénées National Park visitor centers."
+    },
+    {
+      "question": "Is the Hike of the Hot Waters suitable for families or beginners?",
+      "answer": "Rated as 'moderate', this trail involves some elevation gain (around 432 meters up). While generally manageable, it's best suited for hikers with some experience or families with older children who are accustomed to hiking. The terrain can be varied, so proper footwear is recommended."
+    },
+    {
+      "question": "What can I expect to see along the route?",
+      "answer": "Along the Hike of the Hot Waters, you'll encounter beautiful natural scenery typical of the Pyrénées. Notable landmarks include the <a href=\"https://www.komoot.com/highlight/4197938\" target=\"_blank\" rel=\"noopener\">Eaux-Chaudes Bridge</a> and the intriguing <a href=\"https://www.komoot.com/highlight/1017577\" target=\"_blank\" rel=\"noopener\">Eaux-Chaudes Cave</a>. The trail offers picturesque mountain views and the unique geological features associated with thermal waters."
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "The trail is accessible year-round, but the best time to visit depends on your preference. Spring and autumn offer pleasant temperatures and vibrant foliage. Summer is popular but can be crowded. In winter, snow and ice can make the trail significantly more challenging, requiring appropriate gear like spikes."
+    },
+    {
+      "question": "Are dogs allowed on the Hike of the Hot Waters?",
+      "answer": "As this trail is located within the Pyrénées National Park, specific regulations apply to dogs. Generally, dogs are not permitted on trails within the integral zone of the National Park, even on a leash, to protect wildlife. Always check the latest park regulations before bringing your dog."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for the Pyrénées National Park?",
+      "answer": "There is no general entrance fee to access the Pyrénées National Park. However, certain activities or specific areas might require permits or have regulations, especially concerning camping, bivouacking, or access to sensitive zones. It's always advisable to check the official Pyrénées National Park website for the most current information on regulations and any necessary permits."
+    },
+    {
+      "question": "Does the Hike of the Hot Waters intersect with other trails?",
+      "answer": "Yes, the route shares sections with several other official trails. You'll find it intersects with parts of the Voie d'Ossau, Cambeilh, and stages of the Tour de la Vallée d'Ossau (specifically Étape 7 Eaux-Bonnes / Eaux-Chaudes and Étape 1 Eaux-Chaudes / Laruns). It also crosses the Sentier forestier de la grotte and the Sentier forestier d'Haouquère."
+    },
+    {
+      "question": "What is the terrain like on the Hike of the Hot Waters?",
+      "answer": "The terrain is varied, featuring a mix of uphill and downhill sections that are generally not overly steep. You can expect well-defined paths, but some areas might be muddy depending on the season. Caution is advised in spots with steep drop-offs. In winter, snow and ice can significantly alter the trail conditions."
+    },
+    {
+      "question": "Are there any public transport options to reach the trailhead?",
+      "answer": "Public transport options to reach Eaux-Chaudes can be limited, especially outside of peak tourist season. It's recommended to check local bus schedules or consider carpooling. Parking is generally available near the hamlet, but it can fill up quickly during busy periods."
+    },
+    {
+      "question": "What should I bring for the Hike of the Hot Waters?",
+      "answer": "For this moderate hike, bring sturdy hiking boots, sufficient water, snacks, and appropriate clothing layers for changing mountain weather. A first-aid kit, sun protection, and a map or GPS device are also recommended. If hiking in winter, microspikes or snowshoes may be essential."
+    },
+    {
+      "question": "Are there any facilities or amenities near the trailhead?",
+      "answer": "The hamlet of Eaux-Chaudes is small but may offer basic amenities such as a gîte or a small restaurant, especially during tourist season. For more extensive services, including shops and cafes, you would typically need to visit larger nearby towns like Laruns or Eaux-Bonnes."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.02646296,
+    "asphalt": 0.05037204,
+    "nature": 0.12973523,
+    "paved": 0.26847297,
+    "unpaved": 0.52495676
+  },
+  "way_types": {
+    "minor_road": 0.01781135,
+    "footway": 0.046511155,
+    "way": 0.1459768,
+    "street": 0.15136077,
+    "hiking_path": 0.63833994
+  },
+  "waypoints": [
+    {
+      "name": "Eaux-Chaudes Bridge",
+      "lat": 42.953823,
+      "lng": -0.44008,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4197938
+    },
+    {
+      "name": "Eaux-Chaudes Cave",
+      "lat": 42.93693,
+      "lng": -0.439223,
+      "type": "cave",
+      "categories": [
+        "cave",
+        "river",
+        "forest",
+        "intermediate",
+        "natural_monument",
+        "gorge"
+      ],
+      "highlight_id": 1017577
+    }
+  ],
+  "categories": [
+    "cave",
+    "forest",
+    "gorge",
+    "intermediate",
+    "natural_monument",
+    "river"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 14,
+  "visitors": 49,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-05T07:10:42.414Z",
+  "changed_at": "2026-02-26T18:44:59.653Z",
+  "scraped_at": "2026-04-27T11:44:30.090038+00:00"
+}

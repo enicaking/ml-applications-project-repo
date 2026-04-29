@@ -1,0 +1,114 @@
+{
+  "tour_id": "e926297092",
+  "url": "https://www.komoot.com/smarttour/e926297092",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926297092/land-of-biescas-lacuniacha-and-sobremonte-from-biescas",
+  "name": "Land of Biescas – Lacuniacha and Sobremonte from Biescas",
+  "name_original": "Tierra de Biescas – Lacuniacha y Sobremonte desde Biescas",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 37757.29281150223,
+  "duration_s": 8128,
+  "elevation_up_m": 961.1368328731396,
+  "elevation_down_m": 960.7334616586375,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.6286,
+  "start_lng": -0.32142,
+  "start_alt_m": 857.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Wonderful zoo in the forest. The main attraction is the lynx. But also wolves and bears as well as other animal species native to the Pyrenees.\r\nAbsolutely unsuitable for people with walking difficulties or families with strollers.",
+    "Tiny mountain town with good views of the Sierra de Tendeñera",
+    "This pretty Pyrenean town is located in an old glacial valley and stretches out on both sides of the Gállego River, thus giving rise to two distinct neighbourhoods: El Salvador and San Pedro, presided over by two churches of the same name."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.00017604516,
+    "sb#cobbles": 0.00089884637,
+    "sb#paved": 0.011159298,
+    "sb#asphalt": 0.9877658
+  },
+  "way_types": {
+    "minor_road": 0.04254026,
+    "primary": 0.41303545,
+    "street": 0.5444243
+  },
+  "waypoints": [
+    {
+      "name": "Lacuniacha Wildlife Park",
+      "lat": 42.69636,
+      "lng": -0.33291,
+      "type": "other_man_made",
+      "categories": [
+        "other_man_made",
+        "other_natural",
+        "forest",
+        "challenging",
+        "family_friendly",
+        "facilities"
+      ],
+      "highlight_id": 3019380
+    },
+    {
+      "name": "Yosa de Sobremonte – View of the Sierra de Tendeñera",
+      "lat": 42.62194,
+      "lng": -0.34963,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "settlement",
+        "intermediate"
+      ],
+      "highlight_id": 4999981
+    },
+    {
+      "name": "Church of San Salvador of Biescas",
+      "lat": 42.628567,
+      "lng": -0.321758,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "settlement",
+        "historical_site",
+        "unknown"
+      ],
+      "highlight_id": 5030510
+    }
+  ],
+  "categories": [
+    "challenging",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "other_man_made",
+    "other_natural",
+    "religious_building",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 13,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-14T17:52:51.739Z",
+  "changed_at": "2024-07-24T09:11:38.890Z",
+  "scraped_at": "2026-04-28T19:20:16.881050+00:00"
+}

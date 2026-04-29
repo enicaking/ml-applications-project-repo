@@ -1,0 +1,124 @@
+{
+  "tour_id": "e962292432",
+  "url": "https://www.komoot.com/smarttour/e962292432",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962292432/boucle-d-urrugne-a-ibardin",
+  "name": "Boucle d'Urrugne à Ibardin",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 28753.21133090397,
+  "duration_s": 11079,
+  "elevation_up_m": 914.2867139122555,
+  "elevation_down_m": 913.7165298164064,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.363626,
+  "start_lng": -1.696821,
+  "start_alt_m": 16.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col d'Ibardin is located on the Franco-Spanish border, in the Pyrenees. It separates the department of Pyrénées-Atlantiques, in France, from the foral community of Navarre, in Spain.",
+    "Small land \"beach\" on the lake, perfect for taking a break in the shade of the trees and at the water's edge",
+    "Incredible 360º views, one of those peaks in the region that go unnoticed due to its shape and modest altitude.",
+    "The first section from Biriatou is steep and I had to push the gravel bike a few meters. When the track widens you can ride without any problem."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.018303152,
+    "sm#alpin": 0.030993331,
+    "sm#nature": 0.066074215,
+    "sm#asphalt": 0.106180035,
+    "sm#gravel": 0.14183868,
+    "sm#paved": 0.2304653,
+    "sm#unpaved": 0.40614527
+  },
+  "way_types": {
+    "service": 0.0024895316,
+    "minor_road": 0.06894048,
+    "trail": 0.18301868,
+    "street": 0.27202952,
+    "way": 0.47352177
+  },
+  "waypoints": [
+    {
+      "name": "Col d'Ibardin Viewpoint",
+      "lat": 43.311515,
+      "lng": -1.690896,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "mountain_pass",
+        "family_friendly"
+      ],
+      "highlight_id": 3378012
+    },
+    {
+      "name": "Shaded shore of Lac de Xoldokogaina",
+      "lat": 43.319186,
+      "lng": -1.702492,
+      "type": "beach",
+      "categories": [
+        "beach",
+        "family_friendly",
+        "forest",
+        "lake",
+        "viewpoint"
+      ],
+      "highlight_id": 6398964
+    },
+    {
+      "name": "Xoldokogaina Summit",
+      "lat": 43.325689,
+      "lng": -1.721616,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2562802
+    },
+    {
+      "name": "Partridge Rock",
+      "lat": 43.331151,
+      "lng": -1.734055,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3924139
+    }
+  ],
+  "categories": [
+    "beach",
+    "challenging",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 10,
+  "visitors": 39,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-25T11:42:08.954Z",
+  "changed_at": "2024-05-31T09:22:51.354Z",
+  "scraped_at": "2026-04-28T14:53:24.063135+00:00"
+}

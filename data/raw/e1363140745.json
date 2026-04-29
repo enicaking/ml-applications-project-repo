@@ -1,0 +1,155 @@
+{
+  "tour_id": "e1363140745",
+  "url": "https://www.komoot.com/smarttour/e1363140745",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1363140745/gorgas-de-alba-botanical-trail",
+  "name": "Gorgas de Alba Botanical Trail",
+  "name_original": "Sendero Botánico y Gorgas del Alba — Parque Natural Posets-Maladeta",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 2727.255235478959,
+  "duration_s": 4089,
+  "elevation_up_m": 133.34579894120589,
+  "elevation_down_m": 135.14810924465974,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.667445,
+  "start_lng": 0.582321,
+  "start_alt_m": 1541.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 1.7-mile Gorgas de Alba Botanical Trail in Posets-Maladeta Natural Park, featuring waterfalls, a beech forest, and botanic",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "One of the most popular routes in the Posets-Maladeta Natural Park, perfect for families or filling a day with a shorter activity. The trail begins at a wooden arch behind the Turpí Hotel and has several interpretive panels along the route explaining the different species of trees and bushes that you find.",
+    "A short detour from the trail that is worth it for the views. There is also a wooden bench if you want to rest a little longer. There is little left to climb (if you are doing the route in the recommended anti-clockwise direction)",
+    "It is worth crossing the wooden bridge and entering the beech forest in a second, shorter loop that many people skip but which is truly beautiful at all times of the year."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to hike the Gorgas de Alba Botanical Trail?",
+      "answer": "The trail is approximately 2.7 kilometers long and generally takes between 1 to 2.5 hours to complete, depending on your pace and how often you stop to enjoy the scenery and read the interpretive panels."
+    },
+    {
+      "question": "Is the Gorgas de Alba Botanical Trail suitable for families or beginners?",
+      "answer": "Yes, this trail is widely considered easy and accessible, making it ideal for families with children and beginners. It's a well-signposted circular path with a modest elevation gain. However, it is not suitable for strollers."
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "The trail features varied terrain, including rocky sections and wooded areas. You'll walk through beautiful beech forests, which can be slippery with fallen leaves, so appropriate footwear is recommended. There are also metal walkways for close-up views of the cascades."
+    },
+    {
+      "question": "What are the main points of interest along the trail?",
+      "answer": "The route offers several notable features. You'll experience the interpretive <a href=\"https://www.komoot.com/highlight/5851165\" target=\"_blank\" rel=\"noopener\">S-1 Botanical Trail – Gorgas de Alba</a>, providing insights into local flora. Highlights include the stunning <a href=\"https://www.komoot.com/highlight/2638194\" target=\"_blank\" rel=\"noopener\">Gorgas del Alba Waterfalls</a>, a <a href=\"https://www.komoot.com/highlight/6260109\" target=\"_blank\" rel=\"noopener\">Wooden Bridge in the Beech Forest</a>, and a <a href=\"https://www.komoot.com/highlight/6260090\" target=\"_blank\" rel=\"noopener\">Viewpoint of the Waterfall</a> offering impressive panoramic vistas."
+    },
+    {
+      "question": "What is the best time of year to visit the Gorgas de Alba Botanical Trail?",
+      "answer": "The trail is beautiful year-round, but it's particularly enchanting during autumn when the beech forest displays vibrant colors. Spring and summer also offer pleasant hiking conditions with lush greenery and flowing waterfalls. Always check local weather conditions before your visit."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "Specific parking information is not detailed in our sources, but the trail is located in the Benasque Valley within the Posets-Maladeta Natural Park. It's advisable to check local signage or park information for designated parking areas near the trailhead."
+    },
+    {
+      "question": "Are dogs allowed on the trail?",
+      "answer": "While specific regulations for dogs on this exact trail are not provided, as it is located within the Posets-Maladeta Natural Park, it's generally recommended to keep dogs on a leash to protect wildlife and ensure a pleasant experience for all visitors. Please check park-specific rules for any restrictions."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for the trail or Posets-Maladeta Natural Park?",
+      "answer": "Our information does not indicate that a specific permit or entrance fee is required for the Gorgas de Alba Botanical Trail itself. However, as it is part of the Posets-Maladeta Natural Park, it's always a good idea to check the official park website for any updated regulations or fees that might apply to the wider natural park area."
+    },
+    {
+      "question": "What kind of plants and trees can I expect to see along the route?",
+      "answer": "As a botanical trail, it's designed to showcase local flora. You'll pass through groves of various trees, predominantly beeches, black pines, yews, and firs. Informative panels along the route help you identify different species native to the area."
+    },
+    {
+      "question": "Does the trail connect with other hiking routes?",
+      "answer": "Yes, the route is primarily the \"Sendero Botánico - Gorgas de Alba\" (100% covered). It also intersects with sections of other trails such as \"La Ribagorza. BTT. Ruta 25. Benasque - Llanos del Hospital\" and \"Variante 20.1\" for a portion of its length."
+    },
+    {
+      "question": "What should I wear or bring for the hike?",
+      "answer": "Given the varied terrain and potentially slippery sections in the beech forest, appropriate footwear with good grip is highly recommended. Layers of clothing are advisable for changing mountain weather, and bringing water and snacks is always a good idea for any hike."
+    }
+  ],
+  "surfaces": {
+    "unpaved": 0.013382164,
+    "gravel": 0.015462662,
+    "alpin": 0.020485433,
+    "paved": 0.07227484,
+    "nature": 0.8783949
+  },
+  "way_types": {
+    "hiking_path": 0.013382164,
+    "way": 0.015462662,
+    "street": 0.07227484,
+    "mountain_hiking_path": 0.8988803
+  },
+  "waypoints": [
+    {
+      "name": "S-1 Botanical Trail – Gorgas de Alba",
+      "lat": 42.668665,
+      "lng": 0.585961,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 5851165
+    },
+    {
+      "name": "Viewpoint of the Waterfall",
+      "lat": 42.66989,
+      "lng": 0.58911,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "waterfall",
+        "forest"
+      ],
+      "highlight_id": 6260090
+    },
+    {
+      "name": "Wooden Bridge in the Beech Forest",
+      "lat": 42.67115,
+      "lng": 0.59134,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "intermediate",
+        "trail",
+        "forest"
+      ],
+      "highlight_id": 6260109
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.92307710647583,
+  "rating_count": 39,
+  "visitors": 423,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-10-30T13:16:36.280Z",
+  "changed_at": "2026-02-26T20:42:16.163Z",
+  "scraped_at": "2026-04-27T11:54:52.897838+00:00"
+}

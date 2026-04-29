@@ -1,0 +1,91 @@
+{
+  "tour_id": "e1189313841",
+  "url": "https://www.komoot.com/smarttour/e1189313841",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1189313841/btt-joc-de-la-pilota-aigueestortes-i-estany-de-sant-maurici-national-park",
+  "name": "Btt Joc de la Pilota — Aigüestortes i Estany de Sant Maurici National Park",
+  "name_original": "Btt Joc de la Pilota — Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 19170.775821827287,
+  "duration_s": 8425,
+  "elevation_up_m": 809.8756818271249,
+  "elevation_down_m": 800.9732092650195,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.498927,
+  "start_lng": 0.819825,
+  "start_alt_m": 1389.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "We are in Durro, a charming town in the Vall de Boi with a lot of history and beautiful landscapes. The Church of the Nativity, within the Romanesque route, is located in the center of the town (it is not common in the other churches on the route) and we can climb the bell tower, which is the highest of those that can be visited.\r\nConsult schedules to be able to enter.",
+    "There's a little shelter here. It is not marked on maps and may be in disrepair when you visit. But, if you get caught in the rain, this could be a solution."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.003369296,
+    "sm#paved": 0.02047963,
+    "sm#asphalt": 0.1130824,
+    "sm#unpaved": 0.86306864
+  },
+  "way_types": {
+    "service": 0.003369296,
+    "minor_road": 0.016442964,
+    "street": 0.11711907,
+    "way": 0.86306864
+  },
+  "waypoints": [
+    {
+      "name": "Church of the Nativity in Durro",
+      "lat": 42.49827,
+      "lng": 0.82052,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "man_made_monument",
+        "historical_site"
+      ],
+      "highlight_id": 3081463
+    },
+    {
+      "name": "Small Les Artigues Shelter",
+      "lat": 42.493927,
+      "lng": 0.842965,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 5862547
+    }
+  ],
+  "categories": [
+    "historical_site",
+    "hut",
+    "intermediate",
+    "man_made_monument",
+    "religious_building"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 12,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-06-29T08:50:43.882Z",
+  "changed_at": "2024-05-31T09:56:39.770Z",
+  "scraped_at": "2026-04-28T15:33:58.751643+00:00"
+}

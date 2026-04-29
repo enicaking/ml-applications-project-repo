@@ -1,0 +1,127 @@
+{
+  "tour_id": "e958360794",
+  "url": "https://www.komoot.com/smarttour/e958360794",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e958360794/port-of-venasque-and-the-crabides-ridge-loop-from-the-hospice-of-france",
+  "name": "Port of Venasque and the Crabides ridge - loop from the Hospice of France",
+  "name_original": "Port de Venasque et la crête de Crabides – boucle au départ de l'Hospice de France",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 15885.724093126639,
+  "duration_s": 28042,
+  "elevation_up_m": 1241.472542448264,
+  "elevation_down_m": 1241.0201950847616,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.721588,
+  "start_lng": 0.653565,
+  "start_alt_m": 1383.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Accessible from the Hospice de France, these Boums are on the path of the Port of Vénasque which has been widely used at different times to trade between Spain and France, to flee the post-revolution French terror or more recently the Spanish civil war.\r\nYou can then continue towards the Port of Vénasque and possibly the Pic de Safeguard or towards the Col, Lac and Pic de la Montagnette.\r\nBy taking a little height, we realize the beauty of these ponds.\r\n\r\nThe only points that could hinder a bit are a ford in the spring and early summer (you risk getting your feet wet if you are not agile enough) and a snowfield to bypass in the spring.",
+    "The port of Vénasque, or “puerto de Benasque” in Spanish, is a pass in the Pyrenees located on the Franco-Spanish border. Culminating at 2,444 meters above sea level, it separates the Pique valley to the north and the Esera valley to the south.\r\n\r\nIts small rocky passage nestles between the Mine and the Pic de Sauvegarde. The panorama is absolutely magnificent, both on the French and Spanish sides.",
+    "From the Benasque Hospital to Puerto de la Picada, it is a simple and\r\nvery beautiful, with unbeatable views of the north face of Maladeta.\r\nThe path is well defined and marked by milestones until reaching Port de la Picada itself. It goes up gently in a zigzag pattern until it reaches the Basetas del Portillón, small lakes that can sometimes be found dry. From here, we turn right, looking for an easterly orientation to overcome the last slope that leaves us at Port de la Picada. On the other side, you can see small lakes called Bom des Clòts de Lunfèrn and the Valley that descends towards Artiga de Lin (Vall d'Aran)."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.01740293,
+    "nature": 0.029191213,
+    "unpaved": 0.06613551,
+    "alpin": 0.88727033
+  },
+  "way_types": {
+    "minor_road": 0.01740293,
+    "way": 0.029191213,
+    "hiking_path": 0.06613551,
+    "mountain_hiking_path": 0.88727033
+  },
+  "waypoints": [
+    {
+      "name": "Refuge de Vénasque",
+      "lat": 42.698927,
+      "lng": 0.642573,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "lake",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5556923
+    },
+    {
+      "name": "Port de Vénasque / Puerto de Benasque",
+      "lat": 42.692246,
+      "lng": 0.640994,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 3511207
+    },
+    {
+      "name": "Picada Pass",
+      "lat": 42.689245,
+      "lng": 0.660324,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "trail",
+        "viewpoint",
+        "summit"
+      ],
+      "highlight_id": 2579806
+    },
+    {
+      "name": "Border Marker 5355 (Spain–France Border)",
+      "lat": 42.703175,
+      "lng": 0.676148,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "viewpoint",
+        "other_man_made",
+        "intermediate"
+      ],
+      "highlight_id": 4793712
+    }
+  ],
+  "categories": [
+    "challenging",
+    "hut",
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "mountain_pass",
+    "other_man_made",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.85,
+  "rating_count": 40,
+  "visitors": 449,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-20T20:41:32.732Z",
+  "changed_at": "2024-06-06T00:14:00.141Z",
+  "scraped_at": "2026-04-27T11:51:54.915669+00:00"
+}

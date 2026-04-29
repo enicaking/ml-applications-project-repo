@@ -1,0 +1,116 @@
+{
+  "tour_id": "e967362332",
+  "url": "https://www.komoot.com/smarttour/e967362332",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e967362332/betren-vielha-es-bordes-gausac-escunhau-circular-through-medio-aran",
+  "name": "Betren - Vielha - Es Bòrdes - Gausac - Escunhau — circular through Medio Arán",
+  "name_original": "Betren - Vielha - Es Bòrdes - Gausac - Escunhau — circular por el Medio Arán",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 4,
+  "distance_m": 31156.73469575309,
+  "duration_s": 7609,
+  "elevation_up_m": 792.8393095703049,
+  "elevation_down_m": 791.9049442793578,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.697619,
+  "start_lng": 0.805506,
+  "start_alt_m": 1020.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Very close to Vielha, we visited the Church of Sant Martí de Gausach, located in the municipality of Vielha and Medio Arán.\r\nIt is the parish church of the town, in the Gothic style and with some Romanesque elements.",
+    "The Nere River is also known as arriu Nere and is a tributary of the Garona River that runs through the Aran Valley.\r\n\r\nThe source of these waters is found in the glacial lakes identified as lac deth Hòro and estanh Nere, located in the upper part of the Nere valley.\r\n\r\nThis river receives water from the Hereishedo, deth Pòrt or sant Estèue ravines during its journey until it finally flows into the Garona river at Viella level.",
+    "Easy section of wide track that with a slight rise allows us to avoid the road to go from Vielha to Escunhau.\nGood track to roll with a gravel bike"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.010420948,
+    "sb#compacted": 0.045832023,
+    "sb#paved": 0.16979298,
+    "sb#unpaved": 0.23919562,
+    "sb#asphalt": 0.53475845
+  },
+  "way_types": {
+    "trail": 0.0060061566,
+    "minor_road": 0.08414115,
+    "primary": 0.09511506,
+    "street": 0.19630577,
+    "way": 0.61843187
+  },
+  "waypoints": [
+    {
+      "name": "Church of San Martí de Gausach",
+      "lat": 42.707464,
+      "lng": 0.791954,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "viewpoint",
+        "settlement",
+        "historical_site",
+        "intermediate",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 6391268
+    },
+    {
+      "name": "Nere River in Vielha",
+      "lat": 42.70008,
+      "lng": 0.794138,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly",
+        "viewpoint",
+        "settlement"
+      ],
+      "highlight_id": 5182825
+    },
+    {
+      "name": "Vielha to Escunhau track",
+      "lat": 42.692874,
+      "lng": 0.819268,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "family_friendly",
+        "cycle_way"
+      ],
+      "highlight_id": 4845049
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.8,
+  "rating_count": 5,
+  "visitors": 400,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-30T12:07:22.940Z",
+  "changed_at": "2024-06-06T01:44:07.383Z",
+  "scraped_at": "2026-04-29T00:09:10.719862+00:00"
+}

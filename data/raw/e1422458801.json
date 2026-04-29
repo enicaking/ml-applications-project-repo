@@ -1,0 +1,134 @@
+{
+  "tour_id": "e1422458801",
+  "url": "https://www.komoot.com/smarttour/e1422458801",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422458801/tosa-de-losada-from-el-tarter-circular",
+  "name": "Tosa de Losada from El Tarter — circular",
+  "name_original": "Tosa de Losada desde El Tarter — circular",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16285.213362655333,
+  "duration_s": 7928,
+  "elevation_up_m": 888.0443143754512,
+  "elevation_down_m": 888.0443143754505,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.579061,
+  "start_lng": 1.64924,
+  "start_alt_m": 1692.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "A difficult 10.1-mile (16.3 km) touring cycling route from El Tarter, gaining 2914 feet (888 metres) to Tosa de Losada summit.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A large gravel access road that winds around many curves to the ski resort.",
+    "The Grandvalira El Tarter Ski Resort is surrounded by several mountain peaks. La Tosa at 2560 masl is the highest on the border between Encamp and Canillo."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Tosa de Losada from El Tarter — circular route?",
+      "answer": "<p>This route is classified as <strong>difficult</strong> for touring cyclists. It involves significant elevation gain, with sections that can be technically demanding. You'll encounter a mix of paved and unpaved surfaces, including forest tracks and singletrack. Some segments may even require you to push your bike, so a very good fitness level and advanced riding skills are recommended.</p>"
+    },
+    {
+      "question": "How long does it typically take to complete this touring bicycle route?",
+      "answer": "<p>The route is approximately 16.3 km (10.1 miles) long and typically takes around 2 hours and 12 minutes to complete on a touring bicycle, not including stops. However, given the challenging terrain and significant elevation, your actual time may vary based on your fitness and pace.</p>"
+    },
+    {
+      "question": "What kind of terrain can I expect on this route?",
+      "answer": "<p>You'll experience diverse terrain, characteristic of a high-mountain cycling route. While some parts may be paved, a significant portion (around 14.3 km) is unpaved. Expect a mix of forest tracks and singletrack, with technical sections ranging from easy (STS S0-S1) to very difficult (STS S3-S6). Be prepared for substantial ascents and descents.</p>"
+    },
+    {
+      "question": "What is the best time of year to ride this route?",
+      "answer": "<p>The best season to undertake this ride is typically from <strong>June to October</strong>. During these months, the trails are generally dry, and the weather conditions are more favorable for high-mountain cycling.</p>"
+    },
+    {
+      "question": "Where can I park when starting this route in El Tarter?",
+      "answer": "<p>El Tarter is a well-known starting point for many routes in the Grandvalira area. While specific parking details for this exact trailhead aren't provided, you can generally find parking options within the village. It's advisable to arrive early, especially during peak season, to secure a spot.</p>"
+    },
+    {
+      "question": "What are the main sights and viewpoints along the way?",
+      "answer": "<p>The route offers stunning mountain scenery. You'll pass by the <a href=\"https://www.komoot.com/highlight/5736962\" target=\"_blank\" rel=\"noopener\">Soldeu climb</a> and reach the <a href=\"https://www.komoot.com/highlight/5736964\" target=\"_blank\" rel=\"noopener\">Tosa de Losada</a> summit. Expect panoramic views of El Tarter village, the Grandvalira area, and the Canillo valley. Other notable natural features in the vicinity include Refugio de Ensagents, Refugi de Cabana Sorda, Estanys de la Solana, and Pessons Waterfalls.</p>"
+    },
+    {
+      "question": "Is the Tosa de Losada from El Tarter — circular route dog-friendly?",
+      "answer": "<p>While many outdoor trails in Andorra are dog-friendly, specific regulations for this particular cycling route are not detailed. It's generally recommended to keep dogs on a leash, especially in areas with wildlife or other trail users. Always ensure your dog is capable of handling the challenging terrain and elevation changes.</p>"
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this route?",
+      "answer": "<p>No specific permits or entrance fees are mentioned for accessing this particular touring bicycle route. Andorra generally offers open access to its extensive network of cycling trails. However, always check local regulations before your trip, especially if you plan to use any lift services in the Grandvalira area.</p>"
+    },
+    {
+      "question": "What should I wear or bring for this touring bicycle route?",
+      "answer": "<p>Given the high-mountain environment and challenging nature of the route, it's crucial to be well-prepared. Bring appropriate cycling gear, including a helmet, gloves, and padded shorts. Carry layers of clothing suitable for varying mountain weather, plenty of water, snacks, a repair kit, and a first-aid kit. A mountain bike or e-bike is highly recommended due to the terrain.</p>"
+    },
+    {
+      "question": "Does this route connect with other cycling paths?",
+      "answer": "<p>Yes, the route intersects with several other official trails. You'll find sections that overlap with El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer, [CIMA AN09] Port d'Envalira, HRP Variante 31.1, Camí del Gall, and Pont de Collart. This offers opportunities to explore further or combine sections with other routes.</p>"
+    },
+    {
+      "question": "Is this route suitable for e-bikes?",
+      "answer": "<p>Yes, this route is particularly well-suited for <strong>e-bikes</strong>, as well as mountain bikes. The significant elevation gain and challenging terrain make e-bikes a popular choice for navigating the ascents and enjoying the high-mountain experience without excessive physical strain. Andorra has also invested in infrastructure for e-bikes, making it a great destination for them.</p>"
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.031394027,
+    "sb#asphalt": 0.089135595,
+    "sb#unpaved": 0.8794704
+  },
+  "way_types": {
+    "minor_road": 0.031394027,
+    "trail": 0.033356536,
+    "street": 0.089135595,
+    "way": 0.84611386
+  },
+  "waypoints": [
+    {
+      "name": "The Soldeu climb",
+      "lat": 42.569626,
+      "lng": 1.655285,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5736962
+    },
+    {
+      "name": "Tosa de Losada",
+      "lat": 42.550397,
+      "lng": 1.645692,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5736964
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 4,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-25T16:00:04.644Z",
+  "changed_at": "2026-02-26T20:31:45.229Z",
+  "scraped_at": "2026-04-29T00:31:51.029079+00:00"
+}

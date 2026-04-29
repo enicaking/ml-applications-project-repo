@@ -1,0 +1,98 @@
+{
+  "tour_id": "e1221143194",
+  "url": "https://www.komoot.com/smarttour/e1221143194",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1221143194/dolmen-y-sendero-de-santa-elena-circular",
+  "name": "Dolmen y Sendero de Santa Elena — circular",
+  "name_original": null,
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4490.027307947243,
+  "duration_s": 1856,
+  "elevation_up_m": 97.08933198079342,
+  "elevation_down_m": 97.08933198079365,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.660206,
+  "start_lng": -0.323499,
+  "start_alt_m": 968.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "I wouldn't have expected it here.\n\nIn addition to the Santa Elena dolmen, there are several testimonies of this type, e.g. in Guarrinza, on the ascent to Puerto del Palo, Canal Roya and Puerto de Escalé.\n\nhttps://es.wikipedia.org/wiki/Dólmenes_de_Santa_Elena_(Biescas)",
+    "Path that runs right next to the Río Gállego and is called Sendero de Santa Elena, a path that is adapted in a beautiful environment to run with peace of mind."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.016457068,
+    "unpaved": 0.024892734,
+    "paved": 0.077907965,
+    "gravel": 0.16831441,
+    "nature": 0.3216489,
+    "unknown": 0.3907789
+  },
+  "way_types": {
+    "minor_road": 0.010186688,
+    "street": 0.055181928,
+    "hiking_path": 0.22061801,
+    "way": 0.7140134
+  },
+  "waypoints": [
+    {
+      "name": "Dolmen of Santa Elena",
+      "lat": 42.65963,
+      "lng": -0.31854,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "natural_monument",
+        "man_made_monument"
+      ],
+      "highlight_id": 4761604
+    },
+    {
+      "name": "Santa Elena Trail",
+      "lat": 42.658995,
+      "lng": -0.317199,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "wheelchair_accessible",
+        "river"
+      ],
+      "highlight_id": 5928214
+    }
+  ],
+  "categories": [
+    "forest",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "river",
+    "trail",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-20T07:25:17.612Z",
+  "changed_at": "2024-07-26T13:20:14.100Z",
+  "scraped_at": "2026-04-27T15:13:20.363647+00:00"
+}

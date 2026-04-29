@@ -1,0 +1,129 @@
+{
+  "tour_id": "e872898266",
+  "url": "https://www.komoot.com/smarttour/e872898266",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e872898266/hike-at-the-top-of-the-ilehou-pass",
+  "name": "Hike at the top of the Iléhou pass",
+  "name_original": "Randonnée en haut du col d'Iléhou",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 20636.501740994252,
+  "duration_s": 27952,
+  "elevation_up_m": 1385.3274433985864,
+  "elevation_down_m": 1385.3274433985866,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.891333,
+  "start_lng": -0.115114,
+  "start_alt_m": 937.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The waters of the Ilhéou waterfall come from underground emanations and flow into the void through a hole naturally dug in the cliff. The surroundings of the waterfall are overhanging its point of fall. From a distance, it gives the impression that the waters return directly underground, to the heart of the mountain.\r\nBe careful when approaching, the access is a little steep on both sides of the gave.",
+    "beautiful lake in an elongated heart shape.\r\nTour to the highlight: https://www.komoot.de/tour/340536786?ref=itd",
+    "The refuge is located at an altitude of 1,988 meters on the banks of the lake of the same name. Located on the GR 10, it is the last refuge before reaching the spa town of Cauterets. Nestled in a remarkable natural setting, it has 22 places. More information here: https://www.refuge-ilheou.csvss.fr/fr/le-refuge.",
+    "This pass located at 2,256 meters above sea level is a pedestrian pass that connects the valleys of Ilhéou and Estaing.\r\n\r\nIt is a very vast, green passage offering spectacular views of the two valleys. In high season, herds (and patous, keep your distance) add a touch of authenticity to the picture."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.017403169,
+    "unknown": 0.023794824,
+    "asphalt": 0.04091586,
+    "alpin": 0.042615384,
+    "nature": 0.09714319,
+    "unpaved": 0.77812755
+  },
+  "way_types": {
+    "minor_road": 0.027009076,
+    "street": 0.03748127,
+    "mountain_hiking_path": 0.042615384,
+    "way": 0.13517584,
+    "hiking_path": 0.75771844
+  },
+  "waypoints": [
+    {
+      "name": "View of Ilhéou Waterfalls",
+      "lat": 42.871401,
+      "lng": -0.166038,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 3366390
+    },
+    {
+      "name": "Black Lake",
+      "lat": 42.867367,
+      "lng": -0.169634,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "challenging"
+      ],
+      "highlight_id": 3366377
+    },
+    {
+      "name": "Ilhéou Refuge",
+      "lat": 42.86625,
+      "lng": -0.173671,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "viewpoint",
+        "intermediate",
+        "lake",
+        "restaurant",
+        "accomodation"
+      ],
+      "highlight_id": 2831022
+    },
+    {
+      "name": "Ilhéou Pass",
+      "lat": 42.877598,
+      "lng": -0.185644,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass"
+      ],
+      "highlight_id": 3101218
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "hut",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 32,
+  "visitors": 403,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-05T13:16:27.203Z",
+  "changed_at": "2024-06-04T23:56:55.048Z",
+  "scraped_at": "2026-04-27T11:42:29.943485+00:00"
+}

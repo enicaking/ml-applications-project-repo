@@ -1,0 +1,99 @@
+{
+  "tour_id": "e936924416",
+  "url": "https://www.komoot.com/smarttour/e936924416",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e936924416/ruta-del-ter-ripolles-from-sant-joan-les-abadesses",
+  "name": "Ruta del Ter (Ripolles) - from Sant Joan les Abadesses",
+  "name_original": "Ruta del Ter (Ripollés) - desde Sant Joan les Abadesses",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 14146.568630886513,
+  "duration_s": 3306,
+  "elevation_up_m": 145.82009350753287,
+  "elevation_down_m": 143.71072412505362,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.253734,
+  "start_lng": 2.342009,
+  "start_alt_m": 840.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Pont Vell, also known as Pont de Sant Joan, was originally built in 1138, but during the earthquake of 1428 it suffered considerable damage and was rebuilt and modified in Gothic style, with a spectacular arch, which has one of the largest spans in the world. the city, the Iberian Peninsula.\r\n\r\nDuring the Spanish Civil War it was dynamited to prevent the advance of rebel troops, so it was rebuilt in 1976, respecting the previous reconstruction.",
+    "Magnificent medieval Gothic-style bridge that crosses the River Ter as it passes through Sant Joan de les Abadesses. Since its construction, the bridge has undergone various transformations and, in the 1970s, after being destroyed during the Civil War, the new bridge was inaugurated."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.008567185,
+    "sb#cobbles": 0.017208142,
+    "sb#unpaved": 0.051342085,
+    "sb#paved": 0.4531265,
+    "sb#asphalt": 0.4697561
+  },
+  "way_types": {
+    "street": 0.02774112,
+    "minor_road": 0.044443358,
+    "way": 0.16463049,
+    "primary": 0.23063026,
+    "cycleway": 0.5325548
+  },
+  "waypoints": [
+    {
+      "name": "Pont Vell",
+      "lat": 42.234857,
+      "lng": 2.285024,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "intermediate",
+        "viewpoint",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 4754991
+    },
+    {
+      "name": "Pont Vell of Sant Joan de les Abadesses",
+      "lat": 42.234904,
+      "lng": 2.283919,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "historical_site",
+        "man_made_monument",
+        "family_friendly",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 471788
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 11,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T09:12:40.432Z",
+  "changed_at": "2024-06-05T08:27:38.024Z",
+  "scraped_at": "2026-04-29T00:31:31.569172+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "tour_id": "e1209971570",
+  "url": "https://www.komoot.com/smarttour/e1209971570",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1209971570/pico-de-estibafreda-desde-benasque-circular-parque-natural-posets-maladet",
+  "name": "Pico de Estibafreda desde Benasque — circular Parque Natural Posets-Maladet",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 33100.21831205663,
+  "duration_s": 18347,
+  "elevation_up_m": 1701.170513975978,
+  "elevation_down_m": 1701.2033066264084,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606797,
+  "start_lng": 0.524521,
+  "start_alt_m": 1166.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Benasque occupies the central valley of the three that make up the Posets-Maladeta Natural Park. From this town with a lot of soul you can enjoy the Pyrenean landscape. Not only that, but it is home to the largest number of 3,000-meter-high peaks in the mountain range.\r\n\r\nThe Benasque Valley forms the center and heart of the Pyrenees.",
+    "Estibafreda Peak at 2694m in the Benasque Valley.",
+    "Here you will find a small high mountain lake with spectacular views around it.",
+    "The most spectacular part of the descent from Sierra Negra.",
+    "This is a nice trail that is mostly single track. The perfect way to start or end a longer mountain bike ride or just as part of a small loop."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#paved": 0.0013258981,
+    "unknown": 0.006381668,
+    "sm#asphalt": 0.027225463,
+    "sm#alpin": 0.18459317,
+    "sm#unpaved": 0.78047377
+  },
+  "way_types": {
+    "street": 0.0074019954,
+    "minor_road": 0.007707566,
+    "primary": 0.018985495,
+    "way": 0.43617356,
+    "trail": 0.5297314
+  },
+  "waypoints": [
+    {
+      "name": "Benasque Village Center",
+      "lat": 42.60714,
+      "lng": 0.523784,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 2730451
+    },
+    {
+      "name": "Pico de Estibafreda",
+      "lat": 42.59387,
+      "lng": 0.604335,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging"
+      ],
+      "highlight_id": 938833
+    },
+    {
+      "name": "Basetes de Ardonés",
+      "lat": 42.600669,
+      "lng": 0.593187,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5858454
+    },
+    {
+      "name": "Sierra Negra Descent",
+      "lat": 42.613198,
+      "lng": 0.55883,
+      "type": "mtb_park",
+      "categories": [
+        "mtb_park",
+        "trail",
+        "challenging",
+        "viewpoint",
+        "mountain_pass"
+      ],
+      "highlight_id": 1581611
+    },
+    {
+      "name": "Camino del Rigau",
+      "lat": 42.614911,
+      "lng": 0.528035,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "other_natural",
+        "intermediate",
+        "cycle_way"
+      ],
+      "highlight_id": 6088812
+    }
+  ],
+  "categories": [
+    "challenging",
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "mtb_park",
+    "other_natural",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 27,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-13T08:28:53.458Z",
+  "changed_at": "2024-05-31T09:59:11.224Z",
+  "scraped_at": "2026-04-28T15:30:48.535422+00:00"
+}

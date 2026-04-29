@@ -1,0 +1,107 @@
+{
+  "tour_id": "e939052040",
+  "url": "https://www.komoot.com/smarttour/e939052040",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e939052040/ordesa-y-monteperdido-national-park-mondoto-peak-from-nerin",
+  "name": "Ordesa y Monteperdido National Park – Mondoto Peak from Nerín",
+  "name_original": "Parque Nacional de Ordesa y Monteperdido – Pico Mondoto desde Nerín",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8747.959934784221,
+  "duration_s": 12991,
+  "elevation_up_m": 734.0925449579829,
+  "elevation_down_m": 734.5210774213688,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.574143,
+  "start_lng": 0.017411,
+  "start_alt_m": 1249.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "North summit of Mondoto peak, with good views of the Ordesa and Monteperdido National Park (Tres Serols).",
+    "The summit of Mondoto Sur rises to 1,944 meters in the Parque National de Ordesa y Monte Perdido. The view into the depths is spectacular: directly below you is the Cañón de Añisclo. In the distance there are some well-known peaks of the Pyrenees chain, including Monte Perdido. A perfect place for a long break.",
+    "This small and beautiful high mountain town has views of the Añisclo, Mondoto, Sestrales and Peña Montañesa canyons. In its traditional architecture, the truncated cone-shaped chimneys known as \"chamineras\" or \"chimeneras\" stand out, on which an object is placed to scare away witches, who were feared that they could enter the houses through the only orifice that was always open."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.044890657,
+    "unpaved": 0.95510936
+  },
+  "way_types": {
+    "way": 0.014734855,
+    "minor_road": 0.044890657,
+    "hiking_path": 0.9403745
+  },
+  "waypoints": [
+    {
+      "name": "North Summit of Pico Mondoto",
+      "lat": 42.58318,
+      "lng": 0.04547,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5072701
+    },
+    {
+      "name": "Mondoto Sur Summit",
+      "lat": 42.580776,
+      "lng": 0.045952,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "challenging",
+        "canyon",
+        "viewpoint"
+      ],
+      "highlight_id": 322887
+    },
+    {
+      "name": "Nerín Village",
+      "lat": 42.574595,
+      "lng": 0.017429,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "intermediate",
+        "historical_site",
+        "viewpoint"
+      ],
+      "highlight_id": 5072692
+    }
+  ],
+  "categories": [
+    "canyon",
+    "challenging",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.900000095367432,
+  "rating_count": 40,
+  "visitors": 281,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-29T12:57:17.846Z",
+  "changed_at": "2024-07-24T09:30:02.610Z",
+  "scraped_at": "2026-04-27T11:24:36.551177+00:00"
+}

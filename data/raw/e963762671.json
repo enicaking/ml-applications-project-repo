@@ -1,0 +1,116 @@
+{
+  "tour_id": "e963762671",
+  "url": "https://www.komoot.com/smarttour/e963762671",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963762671/san-antoni-handia-vtt-loop",
+  "name": "San Antoni Handia VTT Loop",
+  "name_original": "Boucle jusqu'à la chapelle Saint Antoine en haut de Muskildi",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 27142.279783034868,
+  "duration_s": 9724,
+  "elevation_up_m": 830.2635893617219,
+  "elevation_down_m": 830.2369098532182,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.225545,
+  "start_lng": -0.989777,
+  "start_alt_m": 148.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "A difficult 16.9-mile mountain biking loop to Chapelle Saint-Antoine in Muskildi, offering panoramic views and 2724 feet of climbing.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A magnificent climb in good weather to the Saint Antoine chapel. In addition to offering a magnificent panorama, you will find, to the left of the church, a pump to fill your water bottles!"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level for mountain biking this route?",
+      "answer": "This trail is rated as <strong>difficult</strong> for mountain biking. While some hiking descriptions might call it moderate, the mountain biking experience involves technical sections, including stony tracks, grassy slopes, and significant elevation gain, making it challenging for riders."
+    },
+    {
+      "question": "How long does it typically take to complete this mountain bike loop?",
+      "answer": "The estimated duration for mountain biking this loop is approximately 2 hours and 42 minutes, covering a distance of about 27 kilometers."
+    },
+    {
+      "question": "What is the terrain like on this mountain bike trail?",
+      "answer": "The terrain is varied and challenging. You'll encounter paved roads, stony tracks, and potentially grassy paths. The route climbs through an oak wood and emerges into wide pass with pastures. Technical sections, especially on descents or in wet conditions, should be expected."
+    },
+    {
+      "question": "What are the main points of interest or views along the route?",
+      "answer": "The primary highlight is the <a href=\"https://www.komoot.com/highlight/4454451\" target=\"_blank\" rel=\"noopener\">Climb to Saint Antoine</a>, leading to the Chapelle Saint-Antoine itself. From the summit, you'll be rewarded with spectacular 360-degree panoramic views of the Soule Valley, the Arbailles karst massif, and even distant peaks like the Pic du Midi d'Ossau. The trail also offers insights into the local agro-pastoral culture as it passes through farms and pastures."
+    },
+    {
+      "question": "Where can I park to access the trail?",
+      "answer": "Specific parking details are not provided, but the trail is located near Muskildi. It's advisable to look for designated parking areas within or on the outskirts of Muskildi, as the route often starts with a paved road before transitioning to tracks behind farm buildings."
+    },
+    {
+      "question": "Are there any permits or fees required to mountain bike this trail?",
+      "answer": "No, there are no specific permits or entrance fees required to mountain bike this trail in the Soule region."
+    },
+    {
+      "question": "Is this trail suitable for beginners or family mountain biking?",
+      "answer": "Given its 'difficult' rating and technical terrain, this trail is <strong>not recommended for beginners or family mountain biking</strong>. It's best suited for experienced mountain bikers looking for a challenging ride."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this route?",
+      "answer": "The best time to mountain bike this route is typically during the drier months, from late spring to early autumn (May to October). This avoids potential issues with muddy, slippery conditions on the stony and grassy sections, which can increase the technical difficulty."
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "While specific regulations for dogs on this particular trail are not detailed, the route traverses active agricultural landscapes with pastures and cattle grids. If bringing a dog, it is crucial to keep them on a leash at all times to ensure their safety and respect local livestock."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, the route also passes through sections of the Chemin du Piémont Pyrénéen, La traversée VTT de Ordiarp au Col de Gamia, and Le Col d'Osquich, among others."
+    },
+    {
+      "question": "What should I bring for a mountain bike ride on this trail?",
+      "answer": "Given the trail's difficulty and length, you should bring appropriate mountain biking gear, including a helmet, gloves, repair kit, sufficient water, snacks, and navigation tools. Due to the varied terrain and potential for technical sections, protective gear is also highly recommended."
+    }
+  ],
+  "surfaces": {
+    "sm#alpin": 0.0016418146,
+    "unknown": 0.012956261,
+    "sm#gravel": 0.092170395,
+    "sm#paved": 0.21551304,
+    "sm#asphalt": 0.21635619,
+    "sm#unpaved": 0.4613623
+  },
+  "way_types": {
+    "service": 0.0050402605,
+    "minor_road": 0.010681119,
+    "trail": 0.03920786,
+    "street": 0.39758927,
+    "way": 0.5474815
+  },
+  "waypoints": [
+    {
+      "name": "Climb to Saint Antoine",
+      "lat": 43.191934,
+      "lng": -1.002263,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4454451
+    }
+  ],
+  "categories": [],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 7,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-27T08:03:55.552Z",
+  "changed_at": "2026-02-26T18:44:58.352Z",
+  "scraped_at": "2026-04-28T15:09:29.724153+00:00"
+}

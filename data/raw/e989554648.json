@@ -1,0 +1,99 @@
+{
+  "tour_id": "e989554648",
+  "url": "https://www.komoot.com/smarttour/e989554648",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e989554648/roncesvalles-sierra-de-irati-circular-a-la-cascada-del-cubo-por-santzenbizkarra",
+  "name": "Roncesvalles-Sierra de Irati – circular a la Cascada del Cubo por Santzenbizkarra",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 40351.29243080233,
+  "duration_s": 16770,
+  "elevation_up_m": 1113.5862502014202,
+  "elevation_down_m": 1114.7354108951033,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.989236,
+  "start_lng": -1.106566,
+  "start_alt_m": 866,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The summit of Santzenbizkarra is located in the heart of the Navarrese Pyrenees at 1,356 meters above sea level. It offers beautiful panoramic views of the entire park and is reached by the picturesque Abodi road, a gravel track in very good condition that runs through the wonderful landscape of the Irati Forest.",
+    "On the bed of the Urbeltza River and within the Roncesvalles-Sierra Irati Protected Area is this beautiful waterfall surrounded by a picturesque setting of beech forests that make it the ideal place to relax and cool off, especially on summer days."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#paved": 0.00044079614,
+    "sm#asphalt": 0.08733439,
+    "sm#alpin": 0.12269058,
+    "sm#gravel": 0.1273723,
+    "sm#unpaved": 0.66216195
+  },
+  "way_types": {
+    "trail": 0.075594336,
+    "street": 0.08733439,
+    "way": 0.8370713
+  },
+  "waypoints": [
+    {
+      "name": "Santzenbizkarra",
+      "lat": 42.972568,
+      "lng": -1.024302,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "forest",
+        "trail",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5319565
+    },
+    {
+      "name": "El Cubo Waterfall",
+      "lat": 42.999144,
+      "lng": -1.102126,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "river",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 4900460
+    }
+  ],
+  "categories": [
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "summit",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 32,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-12-04T12:33:53.944Z",
+  "changed_at": "2024-05-31T09:28:00.518Z",
+  "scraped_at": "2026-04-28T14:49:35.334723+00:00"
+}

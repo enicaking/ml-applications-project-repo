@@ -1,0 +1,141 @@
+{
+  "tour_id": "e877293425",
+  "url": "https://www.komoot.com/smarttour/e877293425",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e877293425/small-loop-of-saint-etienne-de-bai",
+  "name": "Small loop of Saint-Étienne-de-Baï",
+  "name_original": "Petite boucle de Saint-Etienne-de-Baigorry",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4548.117798636843,
+  "duration_s": 5192,
+  "elevation_up_m": 189.49875997115666,
+  "elevation_down_m": 189.4987599711567,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.178253,
+  "start_lng": -1.340458,
+  "start_alt_m": 154.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Enjoy an easy 2.8-mile (4.5 km) hike on the Small loop of Saint-Etienne-de-Baigorry, exploring picturesque Basque landscapes in 1 hour and 2",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "There is also Piment d'Espelette here, but for hikers there are also very tasty cans of pate au Piment d'Espelette. Good for the backpack. I now have various good products sent to Allemagne twice a year and have basically become a regular customer."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the loop?",
+      "answer": "You can expect to complete this hike in about 1 hour and 27 minutes. It's a relatively short outing, making it ideal for a quick exploration of the area."
+    },
+    {
+      "question": "Is the Small loop of Saint-Etienne-de-Baigorry suitable for beginners?",
+      "answer": "Yes, this trail is considered an easy hike, suitable for all fitness and skill levels. It's a great option for beginners looking to experience the Basque Country's scenery."
+    },
+    {
+      "question": "What is the terrain like on this trail?",
+      "answer": "The terrain is varied but generally manageable. You'll encounter a mix of paved sections (about 2.70 km), unpaved paths (around 703 meters), asphalt (approximately 520 meters), and dedicated hiking paths (366 meters). Comfortable footwear is recommended."
+    },
+    {
+      "question": "Where can I park to access the trail?",
+      "answer": "While specific parking details aren't provided, as the trail starts and ends in the village of Saint-Étienne-de-Baïgorry, you can typically find parking within the village itself. Look for public parking areas in or around the settlement."
+    },
+    {
+      "question": "Is the Small loop of Saint-Etienne-de-Baigorry dog-friendly?",
+      "answer": "The trail is generally dog-friendly, but it's always best to keep your dog on a leash, especially when passing through village sections or near livestock, to ensure safety and respect for local regulations."
+    },
+    {
+      "question": "What is the best time of year to hike this loop?",
+      "answer": "The trail is accessible year-round. However, spring and autumn offer pleasant temperatures and beautiful scenery. Summer can be warm, while winter might bring cooler weather, but the easily-accessible paths make it enjoyable in most conditions."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this hike?",
+      "answer": "No, there are no permits or entrance fees required to hike this loop. It's freely accessible to the public."
+    },
+    {
+      "question": "Are there any notable viewpoints or scenic spots along the route?",
+      "answer": "While specific viewpoints directly on the loop aren't detailed, the broader area of Saint-Etienne-de-Baïgorry is known for its picturesque Basque landscapes. The village itself offers historical charm, and the region provides views of surrounding mountains like Munhoa and Iparla."
+    },
+    {
+      "question": "What interesting places can I see along the Small loop of Saint-Etienne-de-Baigorry?",
+      "answer": "The loop starts and ends in the charming village of <a href=\"https://www.komoot.com/highlight/4394103\" target=\"_blank\" rel=\"noopener\">Saint-Étienne-de-Baïgorry</a>, which features an 11th-century chateau and a Roman arch bridge. You might also pass by local establishments like the <a href=\"https://www.komoot.com/highlight/3523188\" target=\"_blank\" rel=\"noopener\">Petricorena Sakari House — Gourmet Shop</a>, offering a taste of local gastronomy."
+    },
+    {
+      "question": "Does this loop connect with any other hiking trails?",
+      "answer": "Yes, the route intersects with several other official trails. You'll find sections that are part of La traversée des Pyrénées - sec.9, La porte de Navarre, Grande Traversée du Pays Basque Étape 4, La route des cols Hendaye - Larrau, Izpegi - Buztanzelaiko lepoa - Baigorri, Grande Traversée Pays Basque Étape 5, and Sentier Principal."
+    },
+    {
+      "question": "Is this trail suitable for families with children?",
+      "answer": "Absolutely. Given its easy difficulty, manageable length, and varied but accessible terrain, this loop is well-suited for families with children. It's a great way to introduce younger hikers to the outdoors."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.10547915,
+    "asphalt": 0.14442328,
+    "unpaved": 0.15478574,
+    "paved": 0.5953118
+  },
+  "way_types": {
+    "hiking_path": 0.08106395,
+    "minor_road": 0.10368914,
+    "way": 0.21354674,
+    "street": 0.6017002
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.17704,
+      "lng": -1.34243,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "Petricorena Sakari House — Gourmet Shop",
+      "lat": 43.176955,
+      "lng": -1.341866,
+      "type": "other_man_made",
+      "categories": [
+        "other_man_made",
+        "unknown"
+      ],
+      "highlight_id": 3523188
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "other_man_made",
+    "river",
+    "settlement",
+    "unknown"
+  ],
+  "tags": [],
+  "rating_score": 4.875,
+  "rating_count": 8,
+  "visitors": 47,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-08T07:24:21.794Z",
+  "changed_at": "2026-02-26T18:47:42.371Z",
+  "scraped_at": "2026-04-27T11:27:13.914392+00:00"
+}

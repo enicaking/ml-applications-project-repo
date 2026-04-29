@@ -1,0 +1,137 @@
+{
+  "tour_id": "e972932140",
+  "url": "https://www.komoot.com/smarttour/e972932140",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e972932140/arizkun-erratzu-circular-route",
+  "name": "Arizkun, Erratzu – Circular Route",
+  "name_original": "Arizkun, Erratzu – Ruta Circular",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 31487.510569842616,
+  "duration_s": 8417,
+  "elevation_up_m": 742.9529936758831,
+  "elevation_down_m": 745.7621157222169,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.235054,
+  "start_lng": -1.465647,
+  "start_alt_m": 659.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Port for road bike, towards Gorramendi asphalt not in very good condition but cyclable, better for gravel",
+    "A small town where you can admire the Palace of the armory of the Ursúa, the Church of San Juan Bautista and the Baroque Convent of Our Lady of the Angels. Every year they have an ancestral carnival in which the main character is the \"hartza\" (bear in Basque).",
+    "A beautiful river but in 1913 and 2014 after heavy rains, there was an overflow of the river that caused significant damage.",
+    "Less than 10 kilometers from the border with France, you can find the small town of Erratzu, where it seems that time has not passed. Enjoy the typical houses made of stone, lime and wood and the beautiful and fertile valleys that surround the town.",
+    "Aritzakun and Urritzate, two isolated valleys nestled under the Gorramendi massif, brim with peace and quiet. The thickness and omnipresent moss of its forests take us to one of the best preserved natural enclaves in Navarra."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#unpaved": 0.023734959,
+    "sb#paved": 0.20853148,
+    "sb#asphalt": 0.7677336
+  },
+  "way_types": {
+    "way": 0.0016923388,
+    "minor_road": 0.058589883,
+    "primary": 0.25122538,
+    "street": 0.6884924
+  },
+  "waypoints": [
+    {
+      "name": "Otxondo Pass Summit",
+      "lat": 43.236318,
+      "lng": -1.494087,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "summit",
+        "viewpoint"
+      ],
+      "highlight_id": 4342979
+    },
+    {
+      "name": "Arizkun Village Center",
+      "lat": 43.174339,
+      "lng": -1.482888,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "religious_building",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 2459089
+    },
+    {
+      "name": "Baztán River",
+      "lat": 43.180019,
+      "lng": -1.456508,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly"
+      ],
+      "highlight_id": 5238466
+    },
+    {
+      "name": "Erratzu Village",
+      "lat": 43.182147,
+      "lng": -1.45793,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 5238490
+    },
+    {
+      "name": "Aritzakun",
+      "lat": 43.216942,
+      "lng": -1.453633,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "forest",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 5152204
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "religious_building",
+    "river",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-05T15:53:18.107Z",
+  "changed_at": "2024-07-24T10:07:58.685Z",
+  "scraped_at": "2026-04-28T23:31:52.278570+00:00"
+}

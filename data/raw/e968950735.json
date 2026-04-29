@@ -1,0 +1,160 @@
+{
+  "tour_id": "e968950735",
+  "url": "https://www.komoot.com/smarttour/e968950735",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e968950735/orreaga-roncesvalles-to-fuente-de-roldan-along-the-camino-de-santiago-frances",
+  "name": "Orreaga/Roncesvalles to Fuente de Roldan along the Camino de Santiago Francés",
+  "name_original": "Orreaga/Roncesvalles a Fuente de Roldan por el Camino de Santiago Francés",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16833.000813397062,
+  "duration_s": 19549,
+  "elevation_up_m": 683.1923603687704,
+  "elevation_down_m": 682.6005316399417,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.008137,
+  "start_lng": -1.31956,
+  "start_alt_m": 940.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "It is a low-prominence summit, but due to its privileged location, spectacular views can be enjoyed from there. You can see remains of some kind of defensive construction, since it is located on the border between Spain and France.",
+    "modern emergency shelter (as of 2016). Probably only for real emergencies and not intended as a general bivouac place.",
+    "Delimiting the Spain-France border, this pass is an ideal place to take a break and enjoy the wonderful landscape of the Selva de Irati. A few meters from here there is a water source and some small buildings that can serve as shelter if you need it.",
+    "Including emergency column with WiFi",
+    "Located in the port of Ibañeta, it is a construction from 1964, built in the same place where an 11th century hermitage was located. It is one of the landmarks of the Camino Frances.",
+    "The Augustinian monastery is an important pilgrimage station on the Way of St. James. It was renovated a few years ago and now offers many pilgrims good overnight accommodation."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0030975903,
+    "paved": 0.01343464,
+    "alpin": 0.029028548,
+    "asphalt": 0.05838393,
+    "nature": 0.06034991,
+    "gravel": 0.10399095,
+    "unpaved": 0.7317144
+  },
+  "way_types": {
+    "primary": 0.0013509915,
+    "minor_road": 0.02959452,
+    "mountain_hiking_path": 0.040273182,
+    "street": 0.05703294,
+    "hiking_path": 0.12680589,
+    "way": 0.7449425
+  },
+  "waypoints": [
+    {
+      "name": "Burregieta summit",
+      "lat": 43.02862,
+      "lng": -1.296025,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 233484
+    },
+    {
+      "name": "Izandorre Emergency Shelter",
+      "lat": 43.037299,
+      "lng": -1.287523,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 3093230
+    },
+    {
+      "name": "Collado de Bentartea",
+      "lat": 43.044073,
+      "lng": -1.263635,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "trail",
+        "historical_site",
+        "viewpoint",
+        "mountain_pass",
+        "natural_monument"
+      ],
+      "highlight_id": 3093237
+    },
+    {
+      "name": "Roland Fountain",
+      "lat": 43.046235,
+      "lng": -1.264815,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "family_friendly",
+        "historical_site",
+        "summit"
+      ],
+      "highlight_id": 1014822
+    },
+    {
+      "name": "Ibañeta Chapel",
+      "lat": 43.020026,
+      "lng": -1.323927,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "mountain_pass",
+        "historical_site",
+        "mountain_pass"
+      ],
+      "highlight_id": 931746
+    },
+    {
+      "name": "Roncesvalles Collegiate Church",
+      "lat": 43.010807,
+      "lng": -1.319018,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 594755
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.777777671813965,
+  "rating_count": 9,
+  "visitors": 60,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-31T14:59:14.312Z",
+  "changed_at": "2024-06-06T01:56:39.160Z",
+  "scraped_at": "2026-04-27T11:04:24.569822+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "tour_id": "e970527324",
+  "url": "https://www.komoot.com/smarttour/e970527324",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e970527324/embalse-de-cavallers-caldes-de-boi-lago-de-llebreta-desde-barruera",
+  "name": "Embalse de Cavallers - Caldes de Boí - Lago de Llebreta — desde Barruera",
+  "name_original": null,
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 35369.701771612126,
+  "duration_s": 10854,
+  "elevation_up_m": 1218.516020815487,
+  "elevation_down_m": 1218.516020815487,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.504318,
+  "start_lng": 0.801005,
+  "start_alt_m": 1108.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "We are in the Cavallers reservoir, located at an altitude of 1,600 meters in the Aigüestortes National Park and San Mauricio Lake with a beautiful view of the Boí Valley.\r\nWe will arrive by a narrow road in good condition to this point, where we will have to get off the bike and walk 100 meters to get to see the reservoir.\r\nThere are several car parks nearby. From this beautiful reservoir there is the possibility of doing a thousand and one routes through the mountains or climbing.",
+    "Idyllic place in the Boí Valley where nature breathes. We are in the Caldes de Boí Spa, popular for having a large circuit of natural springs and springs. It also has a hotel and a thermal circuit.",
+    "The lake or pond of La Llebreta is located in the municipality of Vall de Boí, in the region of Alta Ribagorça, within the National Park of Aigüestortes y Lago de Sant Maurici\r\nCuriously, this lake is not of glacial origin like many others in the area, but was formed from a landslide of one of the mountains that caused a natural barrier in this valley."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.4491566,
+    "sb#asphalt": 0.5508434
+  },
+  "way_types": {
+    "minor_road": 0.035331957,
+    "way": 0.20697807,
+    "street": 0.75768995
+  },
+  "waypoints": [
+    {
+      "name": "Cavallers Reservoir",
+      "lat": 42.583612,
+      "lng": 0.855796,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "man_made_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5225869
+    },
+    {
+      "name": "Caldes de Boí Hot Springs and Natural Fountains",
+      "lat": 42.561532,
+      "lng": 0.840926,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "family_friendly",
+        "other_natural",
+        "lake",
+        "waterfall"
+      ],
+      "highlight_id": 5225857
+    },
+    {
+      "name": "La Llebreta Lake",
+      "lat": 42.548054,
+      "lng": 0.885451,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 4530577
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "natural_monument",
+    "other_natural",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 4,
+  "visitors": 25,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-02T07:34:14.994Z",
+  "changed_at": "2024-07-24T10:03:16.831Z",
+  "scraped_at": "2026-04-29T00:06:03.447950+00:00"
+}

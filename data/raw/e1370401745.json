@@ -1,0 +1,139 @@
+{
+  "tour_id": "e1370401745",
+  "url": "https://www.komoot.com/smarttour/e1370401745",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1370401745/baigorri-loop",
+  "name": "Baigorri loop",
+  "name_original": "Boucle de Baigorri",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 34715.17989231148,
+  "duration_s": 21235,
+  "elevation_up_m": 2182.2210501997415,
+  "elevation_down_m": 2185.4907878677022,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.177327,
+  "start_lng": -1.341937,
+  "start_alt_m": 160.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This magnificent route sets out to discover the Baigorri valley and the Aldudes. On the program, some of its emblematic peaks, its mysterious beech groves and its villages of character. The start of this large loop is in Saint-Étienne-de-Baïgorry, located at the entrance to the valley. You start by climbing to Oilarandoi peak. This accessible summit offers the first panoramas of the Aldudes and the mountains that surround it.\n\nYou continue on a portion which mainly includes descent, until you reach the village of Banca. Renowned for its trout farms, this small town is nestled in the heart of the valley. A small fountain allows you to refill your water before starting a long section of climb.\n\nFrom Banca, you climb continuously to the border ridge which separates France from Spain. You walk along this invisible demarcation for a moment towards Hautza. Located at an altitude of 1,306 meters on the Spanish slope, it is the highest point of the route. This rocky summit offers a 360-degree panorama that stretches from the Baigorri valley to the Pyrenees peaks.\n\nA pleasant and fun descent leads to the Ispeguy pass. It is perfectly located to take a final break before starting the long descent back to the starting point. This border crossing includes a hostel which has a superb view of the Baigorri valley. A short detour via the Aintziaga offers a nice view of the impressive ridges of Iparla, before diving towards Saint-Étienne-de-Baïgorry. It is the red and white markings of the GR 10 which are responsible for bringing you back to your destination to complete this superb route.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Superb view of the Nive des Aldudes valley. This valley is traversed by a stream of the same name which flows into the Nive de Baigorry.",
+    "The Oilarandoi is a peak in the Basque Country which culminates at 933 meters above sea level. It is reached at the cost of a steep ascent from the Aharza pass.",
+    "Banca is a small village close to the Spanish border. It is particularly known for its Banca trout.\r\n\r\nYou will find a small tap at the level of the public toilets.",
+    "Hautza or Autza peaks at 1,306 meters above sea level. It offers a beautiful panorama of the Basque Country and the other surrounding mountains. Hundreds of megalithic blocks give it a mystical side.",
+    "This small summit culminating at 905 meters has the advantage of offering a striking double perspective. On one side, it offers a beautiful view of the dizzying cliffs of Iparla while on the other, you can see the high peaks of Béarn."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.007971905,
+    "asphalt": 0.12542652,
+    "unknown": 0.13351867,
+    "paved": 0.1359357,
+    "unpaved": 0.19750857,
+    "alpin": 0.39963865
+  },
+  "way_types": {
+    "hiking_path": 0.10928701,
+    "street": 0.13272484,
+    "minor_road": 0.15062138,
+    "way": 0.2151423,
+    "mountain_hiking_path": 0.39222446
+  },
+  "waypoints": [
+    {
+      "name": "View over the Aldudes Valley",
+      "lat": 43.16295,
+      "lng": -1.33697,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "valley"
+      ],
+      "highlight_id": 3761082
+    },
+    {
+      "name": "Oilarandoi Peak",
+      "lat": 43.15309,
+      "lng": -1.33434,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "religious_building"
+      ],
+      "highlight_id": 3408391
+    },
+    {
+      "name": "Banca",
+      "lat": 43.12765,
+      "lng": -1.37315,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 5539754
+    },
+    {
+      "name": "Hautza Summit",
+      "lat": 43.15136,
+      "lng": -1.42021,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "challenging",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1035416
+    },
+    {
+      "name": "Aintziaga",
+      "lat": 43.1897,
+      "lng": -1.3814,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 6275689
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "intermediate",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "summit",
+    "valley",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 9,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-08T17:37:00.715Z",
+  "changed_at": "2024-06-11T23:50:51.984Z",
+  "scraped_at": "2026-04-27T15:25:08.874183+00:00"
+}

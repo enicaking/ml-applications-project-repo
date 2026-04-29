@@ -1,0 +1,118 @@
+{
+  "tour_id": "e1383151171",
+  "url": "https://www.komoot.com/smarttour/e1383151171",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1383151171/the-neouvielle-lakes-via-col-d-estoudou",
+  "name": "The Néouvielle lakes via Col d'Estoudou",
+  "name_original": "Les lacs de Néouvielle par le col d'Estoudou",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9590.661534788984,
+  "duration_s": 13347,
+  "elevation_up_m": 463.5066168278113,
+  "elevation_down_m": 465.5184287224522,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.82811,
+  "start_lng": 0.169425,
+  "start_alt_m": 1864,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This pretty loop offers a variation on the traditional hike that leads to the Aubert and Aumar lakes. Its first portion, less frequented, offers a slightly steeper climb than that of the classic route. The start is at the Lake Orédon car park.\n\nFrom the start, the trail climbs into a dense and lush forest. Paved with stones and roots, it quickly gains height above the lake. When the ground finally clears, you approach the Estoudou pass.\n\nThis crossing point leads to Lake Oule, it also offers a bird's eye view of the road which serves Lake Orédon. However, you take a different direction by following the sign indicating Lake Aumar. This new section begins with a slight descent on a path that runs along the side of the mountain. Then you gradually go up until you reach the lake which you follow for a beautiful part.\n\nYou then head towards its neighbor, Lac d’Aubert. It is at the dam that you approach the final part of the route which consists of returning to the starting point. Along the way, you pass along the magical banks of Les Laquettes, before concluding with a more technical portion in the forest.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Access to the Estoudou pass is a steep climb but it's worth it. 360-degree panorama, dizzying view of the bends of the road which goes up to Lac d'Aubert, natural belvedere over Lac de l'Oule. The show is there.\r\n\r\nFrom the pass you can also follow the Escoudou crest to take advantage of this ideal position. Take the opportunity to watch for the birds of prey circling in the sky.",
+    "Lake Aumar, which adjoins Lake Aubert, offers a superb picture from its barges, since it highlights the peaks of Néouvielle and Ramougn. A Pyrenean show par excellence.",
+    "Lake Aubert, located at an altitude of 2,148 meters, serves as a mirror for Hourquette d'Aubert. This artificial body of water (dam lake) is fed by the small glaciers of Ramougn and the Chaussenque breccia, as well as by the overflow of Lake Aumar located overlooking the Aubert.\r\n\r\nAn orientation table allows you to put small names on the peaks that surround the lake. So you will be able to locate the Néouvielle peak.",
+    "Lake Orédon is the most accessible of all since a car park has been installed on its banks. If this causes large crowds in high season, the lake of Orédon remains one of the most impressive of the Néouvielle massif.\r\n\r\nWith the mountains that throw themselves steeply into its waters, Lake Orédon looks like a fjord that makes it very different from all the other bodies of water in the reserve. To have !"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.0013113227,
+    "nature": 0.0076107467,
+    "unknown": 0.040458776,
+    "unpaved": 0.46257687,
+    "alpin": 0.4880423
+  },
+  "way_types": {
+    "street": 0.0013113227,
+    "way": 0.003237738,
+    "minor_road": 0.047519285,
+    "hiking_path": 0.46257687,
+    "mountain_hiking_path": 0.48535478
+  },
+  "waypoints": [
+    {
+      "name": "Col d'Estoudou",
+      "lat": 42.826804,
+      "lng": 0.183214,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "mountain_pass"
+      ],
+      "highlight_id": 3101360
+    },
+    {
+      "name": "Lake Aumar",
+      "lat": 42.8426,
+      "lng": 0.1456,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 609892
+    },
+    {
+      "name": "Lac d'Aubert",
+      "lat": 42.8395,
+      "lng": 0.1433,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1627219
+    },
+    {
+      "name": "Lake Orédon",
+      "lat": 42.82823,
+      "lng": 0.16946,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 3755161
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.713513374328613,
+  "rating_count": 185,
+  "visitors": 1609,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-27T15:45:51.094Z",
+  "changed_at": "2024-06-12T10:14:54.608Z",
+  "scraped_at": "2026-04-27T11:44:14.100285+00:00"
+}

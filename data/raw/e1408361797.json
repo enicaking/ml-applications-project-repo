@@ -1,0 +1,94 @@
+{
+  "tour_id": "e1408361797",
+  "url": "https://www.komoot.com/smarttour/e1408361797",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1408361797/ascent-to-lago-de-engolasters-by-the-path-of-les-perdines-round-trip-from-encamp",
+  "name": "Ascent to Lago de Engolasters by the path of les Perdines — round trip from Encamp",
+  "name_original": "Subida al Lago de Engolasters por el camino de les Perdines — ida y vuelta desde Encamp",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14857.431377982804,
+  "duration_s": 5311,
+  "elevation_up_m": 480.54971948974594,
+  "elevation_down_m": 480.54971948974594,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.537178,
+  "start_lng": 1.583863,
+  "start_alt_m": 1284.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful path that takes you to Engolasters lake and along this, there are some sections where you can find views of the valley. The path breaks through the mountain at some point.",
+    "Lake Engolasters is an artificial lake located in this area at the top of the town of Escaldes-Engordany and Encamp. It is usually full of water and the track gives you the opportunity to see both sides of the lake."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.01663899,
+    "sb#unpaved": 0.46569037,
+    "sb#asphalt": 0.51767063
+  },
+  "way_types": {
+    "minor_road": 0.026706764,
+    "primary": 0.04794817,
+    "way": 0.45562258,
+    "street": 0.46972248
+  },
+  "waypoints": [
+    {
+      "name": "Camí de les Perdines",
+      "lat": 42.528842,
+      "lng": 1.592296,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 6356413
+    },
+    {
+      "name": "Engolasters Lake",
+      "lat": 42.51957,
+      "lng": 1.570096,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "family_friendly",
+        "forest",
+        "trail"
+      ],
+      "highlight_id": 6356411
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 20,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-05T14:24:28.785Z",
+  "changed_at": "2024-08-13T15:03:47.793Z",
+  "scraped_at": "2026-04-29T00:28:53.835401+00:00"
+}

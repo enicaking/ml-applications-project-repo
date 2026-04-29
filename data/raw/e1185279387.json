@@ -1,0 +1,160 @@
+{
+  "tour_id": "e1185279387",
+  "url": "https://www.komoot.com/smarttour/e1185279387",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1185279387/alguacil-and-calar-trail-loop-from-gueejar-sierra",
+  "name": "Alguacil and Calar Trail Loop from Güéjar Sierra",
+  "name_original": "Güéjar Sierra,  Collado del Alguacil y Alto del Calar — circular por el Parque Nacional de Sierra Nevada",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 30636.785748571656,
+  "duration_s": 15497,
+  "elevation_up_m": 1481.9608169908527,
+  "elevation_down_m": 1480.7694150114078,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.160435,
+  "start_lng": -3.440731,
+  "start_alt_m": 1095.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 19.0-mile mountain biking loop from Güéjar Sierra offers challenging climbs, technical descents, and panoramic views of Sierr",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The views towards Güejar Sierra and the Canales reservoir from this point of the path are impressive.\r\n\r\nI hope the sun shines when you're here because the views are so worth it.",
+    "the image shows a spectacular asphalt climb with a steep drop in a few meters of ascent ... very important, great caution on the way back on this descent through this stretch of asphalt due to its dangerous curves ... I say this by experience hehe",
+    "The Collado del Alguacil is a beautiful and steep pass as soon as you leave the town of Güéjar Sierra.\r\n\r\nPrepare your legs for ramps of up to 20% as well as incredible views of the giants of the Sierra Nevada."
+  ],
+  "faqs": [
+    {
+      "question": "What is the typical duration for mountain biking the Alguacil and Calar Trail Loop?",
+      "answer": "This challenging mountain bike loop typically takes around 4 hours and 18 minutes to complete. However, your actual time may vary depending on your fitness level, riding speed, and how often you stop to enjoy the views."
+    },
+    {
+      "question": "Is this trail suitable for beginner mountain bikers?",
+      "answer": "No, this trail is classified as <strong>difficult</strong> and is not suitable for beginners. It demands very good fitness and advanced riding skills due to significant elevation gains, steep climbs (up to 20% gradient), rocky and loose terrain, and technical descents. Some sections may even require you to push your bike."
+    },
+    {
+      "question": "Where can I park to access the Alguacil and Calar Trail Loop?",
+      "answer": "The loop starts and ends in Güéjar Sierra. You can typically find parking within the town, which serves as the main access point for this route."
+    },
+    {
+      "question": "What kind of terrain should I expect on this mountain bike route?",
+      "answer": "Expect a demanding mix of terrain. The route features steep paved climbs, particularly when leaving Güéjar Sierra towards Collado del Alguacil, followed by rocky and loose surfaces. Descending sections can also be technically challenging due to their steepness and loose ground."
+    },
+    {
+      "question": "What are the main scenic highlights along the trail?",
+      "answer": "The loop offers breathtaking panoramic views. You'll be treated to incredible vistas of the high peaks of the Sierra Nevada, such as Veleta and Mulhacén, and the picturesque <a href=\"https://www.komoot.com/highlight/3513207\" target=\"_blank\" rel=\"noopener\">Canales Reservoir</a>. Other notable points include the <a href=\"https://www.komoot.com/highlight/2577711\" target=\"_blank\" rel=\"noopener\">Collado del Alguacil</a> and a <a href=\"https://www.komoot.com/highlight/1535944\" target=\"_blank\" rel=\"noopener\">Spectacular Paved Climb</a>. The route also passes through lush meadows and interesting rock formations."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this loop?",
+      "answer": "Spring is particularly striking, offering a contrast of green valleys and almond blossoms against snow-capped peaks. Generally, late spring, summer, and early autumn are good, but be mindful of extreme heat in summer and potential snow or ice at higher elevations during winter."
+    },
+    {
+      "question": "Are dogs allowed on the Alguacil and Calar Trail Loop?",
+      "answer": "As this trail is located within the Sierra Nevada National Park, dogs are generally allowed but must be kept on a leash at all times to protect wildlife and ensure the safety of other trail users. Always follow local signage and regulations."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for this trail?",
+      "answer": "No specific permit or entrance fee is required to mountain bike this particular trail. However, as it's within the Sierra Nevada National Park, general park regulations apply. There are no entrance fees for the park itself."
+    },
+    {
+      "question": "Does this route intersect with other known trails?",
+      "answer": "Yes, this loop shares sections with several other routes. You'll find yourself on parts of the Ruta 3: Centro BTT Güéjar Sierra - Cuevas de Robles - Sendero del Alguacil, Ruta 8: Centro BTT Güéjar Sierra - El Calar, and the Transnevada (Stage 1 / 8). It also crosses the Sendero del Cerro del Calar and the [CIMA GR21] Collado Alguacil."
+    },
+    {
+      "question": "What is a key strategy or insider tip for tackling this challenging loop?",
+      "answer": "Be prepared for the very steep ramps, especially when leaving Güéjar Sierra towards Collado del Alguacil. These can reach up to a 20% gradient. Pacing yourself early on and being ready for sections where you might need to push your bike will make the experience more manageable and enjoyable."
+    },
+    {
+      "question": "What regulations should I be aware of when mountain biking in Sierra Nevada National Park?",
+      "answer": "When mountain biking in Sierra Nevada National Park, always stay on marked trails to protect the fragile ecosystem. Respect wildlife, pack out all your trash, and keep dogs on a leash. Be aware of other trail users, including hikers and equestrians, and yield appropriately. Camping and fires are generally restricted to designated areas."
+    }
+  ],
+  "surfaces": {
+    "sm#nature": 0.001103473,
+    "unknown": 0.005627228,
+    "sm#asphalt": 0.025181651,
+    "sm#alpin": 0.22225149,
+    "sm#paved": 0.34920472,
+    "sm#unpaved": 0.39663142
+  },
+  "way_types": {
+    "service": 0.0010776414,
+    "minor_road": 0.06731904,
+    "way": 0.10570739,
+    "street": 0.3127204,
+    "trail": 0.51317555
+  },
+  "waypoints": [
+    {
+      "name": "View of Güéjar Sierra and Canales Reservoir",
+      "lat": 37.154773,
+      "lng": -3.429227,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "intermediate",
+        "settlement"
+      ],
+      "highlight_id": 3513207
+    },
+    {
+      "name": "Spectacular Paved Climb",
+      "lat": 37.156495,
+      "lng": -3.408028,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "viewpoint",
+        "challenging",
+        "trail"
+      ],
+      "highlight_id": 1535944
+    },
+    {
+      "name": "Collado del Alguacil",
+      "lat": 37.174638,
+      "lng": -3.367948,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging",
+        "trail",
+        "viewpoint",
+        "summit"
+      ],
+      "highlight_id": 2577711
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 7,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-06-26T09:38:56.274Z",
+  "changed_at": "2026-02-26T19:50:13.090Z",
+  "scraped_at": "2026-04-28T13:45:41.544039+00:00"
+}

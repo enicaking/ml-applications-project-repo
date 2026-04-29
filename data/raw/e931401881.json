@@ -1,0 +1,184 @@
+{
+  "tour_id": "e931401881",
+  "url": "https://www.komoot.com/smarttour/e931401881",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e931401881/route-to-sorrosal-waterfall",
+  "name": "Route to Sorrosal Waterfall",
+  "name_original": "Cascada del Sorrosal desde Broto",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4505.639793884158,
+  "duration_s": 4791,
+  "elevation_up_m": 121.14148215957425,
+  "elevation_down_m": 130.46862650814842,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.598531,
+  "start_lng": -0.12006,
+  "start_alt_m": 929.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike to the majestic Cascada del Sorrosal from Broto, an easy 2.8-mile route with 397 feet of gain, perfect for families.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This beautiful Pyrenean town is divided into two neighborhoods by the Ara River. It is located at the gates of the Ordesa y Monte Perdido National Park.",
+    "The Sorrosal is a tributary of the Ara and its famous waterfall is located west of Broto. From the base there is a spectacular view. It is an area where canyoning is practiced, and it also has a via ferrata that leads to the top of the waterfall.",
+    "The parish church of San Pedro from 1578 with the small clocks on the church tower can be seen from almost anywhere in town. From the town center there is a small road to walk up the hill.",
+    "A lovely place to cool off. Mother nature has made a bench by the water. NB; water is cold!"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to hike to Cascada del Sorrosal from Broto?",
+      "answer": "The main path from Broto to the base of the <a href=\"https://www.komoot.com/highlight/565020\" target=\"_blank\" rel=\"noopener\">Sorrosal Waterfall</a> is very short, taking only about 5 minutes (350 meters). The broader trail, which is approximately 4.51 km, typically takes about 1 hour and 20 minutes to complete."
+    },
+    {
+      "question": "Is this trail suitable for beginners or families with children?",
+      "answer": "Yes, the main path from Broto to the base of the waterfall is very easy, flat, and paved, making it suitable for beginners, families with young children, and even those with baby prams or wheelchairs for the first 45 meters. The slightly longer 4.51 km trail is also considered easy with accessible paths."
+    },
+    {
+      "question": "Where can I park for the trailhead in Broto?",
+      "answer": "Parking is available in the village of <a href=\"https://www.komoot.com/highlight/4988512\" target=\"_blank\" rel=\"noopener\">Broto</a>. From there, the path to the waterfall is well-marked and easily accessible."
+    },
+    {
+      "question": "Is the trail dog-friendly?",
+      "answer": "Yes, the easy trail leading to the base of the <a href=\"https://www.komoot.com/highlight/565020\" target=\"_blank\" rel=\"noopener\">Sorrosal Waterfall</a> is suitable for dogs, provided they are kept on a leash."
+    },
+    {
+      "question": "When is the best time of year to visit the waterfall?",
+      "answer": "The waterfall is spectacular all year round. However, spring and early summer are ideal for experiencing its full force due to melted snow. In summer, the water flow might be less, but it's still a beautiful sight."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this area?",
+      "answer": "No specific permits or entrance fees are required to access the <a href=\"https://www.komoot.com/highlight/565020\" target=\"_blank\" rel=\"noopener\">Sorrosal Waterfall</a> trail from Broto. While the area is a gateway to Ordesa y Monte Perdido National Park, this particular trail does not fall under specific park entry regulations."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "The primary highlight is the majestic 120-meter tall <a href=\"https://www.komoot.com/highlight/565020\" target=\"_blank\" rel=\"noopener\">Sorrosal Waterfall</a> itself, set in a natural amphitheater with impressive rock formations. You'll also pass through the charming village of <a href=\"https://www.komoot.com/highlight/4988512\" target=\"_blank\" rel=\"noopener\">Broto</a>, situated on the banks of the <a href=\"https://www.komoot.com/highlight/2007134\" target=\"_blank\" rel=\"noopener\">Ara River</a>, and can see the <a href=\"https://www.komoot.com/highlight/4544717\" target=\"_blank\" rel=\"noopener\">Parish Church of San Pedro</a>."
+    },
+    {
+      "question": "Is there a Via Ferrata at Cascada del Sorrosal?",
+      "answer": "Yes, for those seeking more adventure, there is a K3 (intermediate difficulty) Via Ferrata of Sorrosal. This is a circular route starting and ending in Broto, taking about 1.5 to 2 hours. It involves climbing alongside the waterfall with ladders, chains, and a tunnel, offering spectacular views. Specialized equipment is necessary and can often be rented locally."
+    },
+    {
+      "question": "What is the terrain like on the trail?",
+      "answer": "The initial path to the waterfall's base is short, flat, and paved. The broader 4.51 km trail features easily accessible paths with an elevation gain of around 120 meters, making it generally easy. The surrounding area showcases unique geological features, including folded rock formations."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, sections of this route overlap with other trails. You may encounter parts of the Sendero Prepirenaico, Ruta Transpirenaica en BTT (Broto - Aisa), and Camino de la cascada."
+    },
+    {
+      "question": "Are there amenities like cafes or restaurants in Broto?",
+      "answer": "Yes, <a href=\"https://www.komoot.com/highlight/4988512\" target=\"_blank\" rel=\"noopener\">Broto</a> is a well-equipped village and a popular base for exploring the region. You'll find various amenities, including cafes, restaurants, and accommodation options, perfect for relaxing after your hike."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.06901959,
+    "unknown": 0.10952979,
+    "unpaved": 0.3959174,
+    "paved": 0.4255332
+  },
+  "way_types": {
+    "footway": 0.012302192,
+    "street": 0.073634505,
+    "minor_road": 0.18404192,
+    "hiking_path": 0.2292254,
+    "way": 0.50079596
+  },
+  "waypoints": [
+    {
+      "name": "Broto village on the Ara River",
+      "lat": 42.60441,
+      "lng": -0.12278,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river",
+        "bridge",
+        "historical_site"
+      ],
+      "highlight_id": 4988512
+    },
+    {
+      "name": "Sorrosal Waterfall",
+      "lat": 42.605513,
+      "lng": -0.127813,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "climb",
+        "challenging",
+        "canyon",
+        "other_man_made"
+      ],
+      "highlight_id": 565020
+    },
+    {
+      "name": "Parish Church of San Pedro (Broto)",
+      "lat": 42.604412,
+      "lng": -0.121692,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 4544717
+    },
+    {
+      "name": "Río Ara Swimming Spot",
+      "lat": 42.592865,
+      "lng": -0.120234,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly",
+        "beach",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 2007134
+    }
+  ],
+  "categories": [
+    "beach",
+    "bridge",
+    "canyon",
+    "challenging",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "religious_building",
+    "river",
+    "settlement",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 3,
+  "visitors": 13,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-20T14:06:35.703Z",
+  "changed_at": "2026-02-26T18:56:21.248Z",
+  "scraped_at": "2026-04-27T11:24:45.315092+00:00"
+}

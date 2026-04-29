@@ -1,0 +1,98 @@
+{
+  "tour_id": "e935562562",
+  "url": "https://www.komoot.com/smarttour/e935562562",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e935562562/puigdefrou-circular-desde-angles-por-la-cellera-de-ter-y-osor",
+  "name": "Puigdefrou – circular desde Anglès por La Cellera de Ter y Osor",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 27659.37176862186,
+  "duration_s": 9287,
+  "elevation_up_m": 865.7320065318735,
+  "elevation_down_m": 864.7556542318544,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.958338,
+  "start_lng": 2.63379,
+  "start_alt_m": 155.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The most representative summit of Cellera del Ter that rises to 839 meters from where you can see the Pica de Canigó and the Medes Islands.",
+    "Large stone bridge with a large central arch. The Pont Vell is located in the middle of the urban area, on the Osor stream."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0024367867,
+    "sm#paved": 0.12561241,
+    "sm#gravel": 0.23408225,
+    "sm#unpaved": 0.31326774,
+    "sm#asphalt": 0.32460082
+  },
+  "way_types": {
+    "service": 0.0024367867,
+    "minor_road": 0.06513091,
+    "cycleway": 0.06715891,
+    "trail": 0.11365318,
+    "street": 0.3204046,
+    "way": 0.43121564
+  },
+  "waypoints": [
+    {
+      "name": "Puigdefrou",
+      "lat": 41.963192,
+      "lng": 2.593962,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4432740
+    },
+    {
+      "name": "Pont Vell d'Osor",
+      "lat": 41.946345,
+      "lng": 2.555335,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "man_made_monument",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 5060515
+    }
+  ],
+  "categories": [
+    "bridge",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 3,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-24T20:57:44.309Z",
+  "changed_at": "2024-05-31T09:19:35.391Z",
+  "scraped_at": "2026-04-28T16:04:22.826939+00:00"
+}

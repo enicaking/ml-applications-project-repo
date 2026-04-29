@@ -1,0 +1,80 @@
+{
+  "tour_id": "e863014627",
+  "url": "https://www.komoot.com/smarttour/e863014627",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e863014627/discover-the-beautiful-lake-of-estaing",
+  "name": "Discover the beautiful lake of Estaing",
+  "name_original": "A la découverte du magnifique lac d'Estaing",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 27317.7058733394,
+  "duration_s": 7521,
+  "elevation_up_m": 656.0154041423594,
+  "elevation_down_m": 656.5923327078416,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.973435,
+  "start_lng": -0.192567,
+  "start_alt_m": 857.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A lake in the middle of the mountains! Perfect for cooling your legs. The place is idyllic with horses and cows",
+    "Magnificent little rolling pass, you arrive at an altitude of more than 1100m"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.00074919127,
+    "unknown": 0.0024554338,
+    "sb#unpaved": 0.05153945,
+    "sb#paved": 0.07124653,
+    "sb#asphalt": 0.87400943
+  },
+  "way_types": {
+    "way": 0.0008846954,
+    "service": 0.0009785906,
+    "cycleway": 0.002121738,
+    "minor_road": 0.025581853,
+    "trail": 0.050166905,
+    "street": 0.9202662
+  },
+  "waypoints": [
+    {
+      "name": "Lake d'Estaing",
+      "lat": 42.904348,
+      "lng": -0.212132,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4473336
+    },
+    {
+      "name": "Tuc de Picou",
+      "lat": 42.95274,
+      "lng": -0.199715,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4733005
+    }
+  ],
+  "categories": [],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 7,
+  "visitors": 96,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-29T13:36:56.718Z",
+  "changed_at": "2024-06-04T22:51:47.373Z",
+  "scraped_at": "2026-04-28T23:48:52.830919+00:00"
+}

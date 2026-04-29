@@ -1,0 +1,108 @@
+{
+  "tour_id": "e971378992",
+  "url": "https://www.komoot.com/smarttour/e971378992",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971378992/entre-biarritz-et-le-lac-mouriscot",
+  "name": "Entre Biarritz et le lac Mouriscot",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 27249.42882488401,
+  "duration_s": 6210,
+  "elevation_up_m": 230.44793716061236,
+  "elevation_down_m": 230.145412488477,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.481169,
+  "start_lng": -1.559531,
+  "start_alt_m": 35.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Biarritz lighthouse was built in 1834 and overlooks the sea from 73 meters.\r\n\r\nPossibility to visit to enjoy the impressive panorama seen from the top.",
+    "possibility to go around the lake which is a nature reserve."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#gravel": 0.0048807315,
+    "sm#nature": 0.029117474,
+    "unknown": 0.043834686,
+    "sm#unpaved": 0.17417492,
+    "sm#paved": 0.25107226,
+    "sm#asphalt": 0.49691993
+  },
+  "way_types": {
+    "service": 0.015271172,
+    "trail": 0.050191533,
+    "street": 0.15163995,
+    "way": 0.16199438,
+    "minor_road": 0.20772941,
+    "cycleway": 0.41317356
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Martin Point Lighthouse",
+      "lat": 43.493437,
+      "lng": -1.553564,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "other_man_made",
+        "viewpoint",
+        "family_friendly",
+        "coast",
+        "lighthouse",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 552977
+    },
+    {
+      "name": "Lake Mouriscot",
+      "lat": 43.457613,
+      "lng": -1.558221,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "family_friendly",
+        "other_natural",
+        "natural_monument"
+      ],
+      "highlight_id": 4512481
+    }
+  ],
+  "categories": [
+    "coast",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "lighthouse",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.200000047683716,
+  "rating_count": 5,
+  "visitors": 11,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T12:24:37.855Z",
+  "changed_at": "2024-05-31T09:23:53.498Z",
+  "scraped_at": "2026-04-28T15:05:26.350735+00:00"
+}

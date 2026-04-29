@@ -1,0 +1,155 @@
+{
+  "tour_id": "e1410614190",
+  "url": "https://www.komoot.com/smarttour/e1410614190",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1410614190/puymorens-pass-from-pas-de-la-casa",
+  "name": "Puymorens Pass from Pas de la Casa",
+  "name_original": "De Pas de la Casa al puerto de Puymorens — ida y vuelta con vistas de los Pirineos",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 17712.214100414632,
+  "duration_s": 4736,
+  "elevation_up_m": 434.6244795393793,
+  "elevation_down_m": 435.3569375949912,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.544444,
+  "start_lng": 1.733681,
+  "start_alt_m": 2091.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 11.0-mile (17.7 km) touring cycling route from Pas de la Casa offers spectacular Pyrenean views and a 1426-foot (435 metres) c",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Enjoy the view before cycling the hard part.",
+    "Relatively easy to drive, well-developed passport, decent surface and only moderate incline of no more than 10%. The tunnel absorbs most of the traffic, which is why it is quite pleasant to cycle over the pass. A few switchbacks and many curves make the route very attractive and there is also a lot of views.",
+    "Lovely little town on the border between the French Pyrenees and Andorra. Plenty of places to get a meal or restock on supplies here."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this cycling route?",
+      "answer": "The route is approximately 17.7 km long with an elevation gain of about 435 meters. Komoot estimates the moving time to be around 1 hour and 19 minutes, but actual duration will depend on your fitness level and how often you stop to enjoy the <a href=\"https://www.komoot.com/highlight/3952350\" target=\"_blank\" rel=\"noopener\">View of the Pyrenees</a>."
+    },
+    {
+      "question": "What is the difficulty level of this cycling route?",
+      "answer": "This route is classified as <strong>moderate</strong>. It requires good fitness levels, especially for the ascent to the <a href=\"https://www.komoot.com/highlight/5843087\" target=\"_blank\" rel=\"noopener\">Puymorens Pass</a> from <a href=\"https://www.komoot.com/highlight/849140\" target=\"_blank\" rel=\"noopener\">Pas de la Casa</a>, which has an average gradient of 6.4% over 4.9 kilometers. While mostly paved, some segments might be unpaved and challenging, potentially requiring you to push your bike."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling route?",
+      "answer": "The route primarily features paved surfaces, making it suitable for touring bicycles. However, be aware that some sections might be unpaved and could be difficult to ride. You'll cycle through high alpine valleys with spectacular views of the Pyrenees."
+    },
+    {
+      "question": "Where does this cycling route start and where can I park?",
+      "answer": "The route starts and ends in <a href=\"https://www.komoot.com/highlight/849140\" target=\"_blank\" rel=\"noopener\">Pas de la Casa</a>, a town located on the border between the French Pyrenees and Andorra. As it's a town, you should find various parking options available within the settlement."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The <a href=\"https://www.komoot.com/highlight/5843087\" target=\"_blank\" rel=\"noopener\">Puymorens Pass</a> is generally open from April to November. However, it's advisable to avoid cycling between July and September due to heavy automobile and lorry traffic, especially on the main N20 road, which can make the experience unpleasant and potentially dangerous."
+    },
+    {
+      "question": "Are there any specific landmarks or points of interest along the way?",
+      "answer": "Yes, the route offers spectacular views of the Pyrenees. You'll cycle towards the historic <a href=\"https://www.komoot.com/highlight/5843087\" target=\"_blank\" rel=\"noopener\">Puymorens Pass</a>. The road above the village of Porte-Puymorens also provides unique perspectives of medieval houses. The starting point, <a href=\"https://www.komoot.com/highlight/849140\" target=\"_blank\" rel=\"noopener\">Pas de la Casa</a>, is a notable settlement itself."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this route?",
+      "answer": "There is no information indicating that special permits or entrance fees are required to cycle this route. However, it's always a good idea to check local regulations if you plan to venture off the main path into specific nature reserves."
+    },
+    {
+      "question": "Is this cycling route dog-friendly?",
+      "answer": "There is no specific information provided regarding dog restrictions on this particular cycling route. Generally, dogs are allowed on leashes on public roads and paths, but always be mindful of local signage and other cyclists."
+    },
+    {
+      "question": "Are there places to eat or resupply along the route?",
+      "answer": "Yes, <a href=\"https://www.komoot.com/highlight/849140\" target=\"_blank\" rel=\"noopener\">Pas de la Casa</a>, your starting and ending point, offers various places to eat and restock supplies before or after your ride."
+    },
+    {
+      "question": "Are there any considerations regarding traffic on this route?",
+      "answer": "Yes, a significant drawback of this route is the heavy traffic, including lorries, particularly on the main N20 road. This can make cycling unpleasant and potentially dangerous, especially during peak seasons (July to September). Cyclists are often advised to avoid this route during these times or consider riding downhill from Andorra towards Ax-les-Thermes for a potentially better experience. A tunnel diverts much of the automobile traffic, which helps, but the pass itself can still be busy."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, the route also passes through sections of the El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer, HRP Étape 32, Camí dels bons homes - França, Camí dels bons homes en BTT, and HRP Étape 33."
+    }
+  ],
+  "surfaces": {
+    "sb#paved": 0.007860715,
+    "sb#asphalt": 0.9921393
+  },
+  "way_types": {
+    "street": 0.0007073124,
+    "minor_road": 0.007153402,
+    "service": 0.00914204,
+    "primary": 0.98299724
+  },
+  "waypoints": [
+    {
+      "name": "View of the Pyrenees",
+      "lat": 42.559801,
+      "lng": 1.766112,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 3952350
+    },
+    {
+      "name": "Puymorens Pass",
+      "lat": 42.559575,
+      "lng": 1.810965,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "intermediate",
+        "viewpoint",
+        "mountain_pass"
+      ],
+      "highlight_id": 5843087
+    },
+    {
+      "name": "Pas de la Casa",
+      "lat": 42.548455,
+      "lng": 1.73776,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "wheelchair_accessible",
+        "mountain_pass",
+        "facilities",
+        "family_friendly"
+      ],
+      "highlight_id": 849140
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "viewpoint",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 4,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-08T06:35:09.915Z",
+  "changed_at": "2026-02-26T20:17:58.693Z",
+  "scraped_at": "2026-04-29T00:31:55.376076+00:00"
+}

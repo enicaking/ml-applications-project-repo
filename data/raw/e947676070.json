@@ -1,0 +1,97 @@
+{
+  "tour_id": "e947676070",
+  "url": "https://www.komoot.com/smarttour/e947676070",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e947676070/ibon-y-arco-de-piedrafita-circular-trail-running-route",
+  "name": "Ibon y Arco de Piedrafita – circular trail running route",
+  "name_original": "Ibón y Arco de Piedrafita – ruta circular de trail running",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 8979.902796301358,
+  "duration_s": 6033,
+  "elevation_up_m": 482.93744150615134,
+  "elevation_down_m": 494.36036494521136,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.696058,
+  "start_lng": -0.332359,
+  "start_alt_m": 1359.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Piedrafita lake is located at the foot of the imposing and steep Peña Telera, which with its 2,762 meters of altitude is, after the Peña Retona, the highest peak in the Sierra de la Partacua. Access to the lake is mostly by forest track currently closed to traffic. In winter it can be accessed with snowshoes, and even if there is not much snow and we find a previous track, it can be climbed without special equipment, as is the case described below.",
+    "The stone window is a fantastic whim of nature. The path goes around the arch to the right until it becomes a stone eye where the bluish Búbal reservoir appears inside at the foot of the Pyrenees. On the right there are some ledges that allow you to climb to the upper edge and get views, photos and sensations from all possible angles, although the best photos are from below. The return goes down the same slippery path until the marked intersection towards Piedrafita de Jaca. The entertaining hiking route is also shared with a mountain biking itinerary."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.008812007,
+    "asphalt": 0.010028114,
+    "nature": 0.17366652,
+    "unpaved": 0.377656,
+    "alpin": 0.42983735
+  },
+  "way_types": {
+    "street": 0.01884012,
+    "alpine_hiking_path": 0.17789328,
+    "hiking_path": 0.23586094,
+    "mountain_hiking_path": 0.25194407,
+    "way": 0.31546158
+  },
+  "waypoints": [
+    {
+      "name": "Piedrafita Lake",
+      "lat": 42.695875,
+      "lng": -0.354224,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 1600419
+    },
+    {
+      "name": "Piedrafita Arch",
+      "lat": 42.683815,
+      "lng": -0.35121,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "viewpoint",
+        "challenging",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 3076568
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 19,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-08T17:19:40.527Z",
+  "changed_at": "2024-06-05T22:02:03.372Z",
+  "scraped_at": "2026-04-27T15:28:54.839288+00:00"
+}

@@ -1,0 +1,190 @@
+{
+  "tour_id": "e969283963",
+  "url": "https://www.komoot.com/smarttour/e969283963",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e969283963/aurizberri-bizkarreta-erro-zilbeti-circular-route",
+  "name": "Aurizberri, Bizkarreta, Erro, Zilbeti – Circular Route",
+  "name_original": "Aurizberri, Bizkarreta, Erro, Zilbeti – Ruta Circular",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 39981.351825197395,
+  "duration_s": 11432,
+  "elevation_up_m": 911.6127645287153,
+  "elevation_down_m": 911.6127645287152,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.97497,
+  "start_lng": -1.351221,
+  "start_alt_m": 868.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 24.8-mile (40.0 km) touring cycling route near Aurizberri features challenging climbs, charming villages, and lush beech fore",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A small town founded in 1269 by Teobaldo II. There are many dolmens to see in the area (about 10), of which four are in good condition (Dondoro, Artzilo, Mendiaundi and Baratzeko Erreka).",
+    "In the Dena Ono bar, you can refresh yourself with a cold drink in an informal, cozy atmosphere for a small price and strengthen yourself for the onward journey.",
+    "Alto Erro from Erro is a climb in the Navarra region. It is 2.9 kilometers long and bridges 142 meters of altitude with an average gradient of 4.9%. This gives this climb 95 climbing points. The top of the climb is at 801 meters. \nhttps://climbfinder.com/nl/beklimmingen/alto-erro-erro",
+    "A small town with just 50 inhabitants. From here there are endless routes through the Erro Valley and you can enjoy the beech forest made up of more than 85,000 trees. Nearby you can see the remains of the Romanesque monastery of San Zacarías, much visited by pilgrims on their way to Santiago de Compostela.",
+    "THE alternative to the bridge with a corresponding adventure factor! This can vary slightly depending on the weather."
+  ],
+  "faqs": [
+    {
+      "question": "What level of fitness is required for this cycling route?",
+      "answer": "This route is classified as a \"difficult\" touring bicycle ride and demands \"very good fitness\" from cyclists due to its significant elevation gain of over 900 meters and nearly 40-kilometer distance."
+    },
+    {
+      "question": "What is the terrain like on this cycling route?",
+      "answer": "The route is primarily on paved surfaces, making it suitable for touring bicycles. However, be prepared for considerable elevation changes, including a notable climb over the <a href=\"https://www.komoot.com/highlight/4817151\" target=\"_blank\" rel=\"noopener\">Erro Pass</a>."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "You'll pass through charming villages like <a href=\"https://www.komoot.com/highlight/5229976\" target=\"_blank\" rel=\"noopener\">Aurizberri/Espinal</a>, Bizkarreta, Erro, and <a href=\"https://www.komoot.com/highlight/5229936\" target=\"_blank\" rel=\"noopener\">Zilbeti Village</a>. Highlights include the <a href=\"https://www.komoot.com/highlight/4817151\" target=\"_blank\" rel=\"noopener\">Erro Pass</a>, a <a href=\"https://www.komoot.com/highlight/2918740\" target=\"_blank\" rel=\"noopener\">river crossing</a>, and the extensive beech forest near Zilbeti. Aurizberri/Espinal also has a cheese factory worth visiting."
+    },
+    {
+      "question": "Are there any historical or cultural sites to see along the way?",
+      "answer": "Yes, near <a href=\"https://www.komoot.com/highlight/5229936\" target=\"_blank\" rel=\"noopener\">Zilbeti Village</a>, you can find the remnants of the Romanesque monastery of San Zacarías, which is frequently visited by pilgrims on the Way of St. James. <a href=\"https://www.komoot.com/highlight/5229976\" target=\"_blank\" rel=\"noopener\">Aurizberri/Espinal</a> is also known for several dolmens in its surrounding area."
+    },
+    {
+      "question": "Where can I park to access the route?",
+      "answer": "While the route is circular and can be started from various points, <a href=\"https://www.komoot.com/highlight/5229976\" target=\"_blank\" rel=\"noopener\">Aurizberri/Espinal</a> is a common starting point and likely offers parking facilities. It's a good idea to check local parking options upon arrival."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The Navarra region, with its forests and valleys, is beautiful throughout the warmer months. Spring and autumn generally offer pleasant temperatures and vibrant scenery, making them ideal for cycling. Summer can also be good, but be prepared for potentially warmer weather on climbs."
+    },
+    {
+      "question": "Are there any permits or fees required to cycle this route?",
+      "answer": "No, there are no specific permits or entrance fees required to cycle this route. It traverses public roads and trails."
+    },
+    {
+      "question": "Is this cycling route dog-friendly?",
+      "answer": "While the route is primarily on paved surfaces and passes through villages, it's generally not recommended for dogs due to the challenging nature of the ride and potential traffic. If you do bring a dog, ensure it is well-trained, on a leash, and capable of keeping up with a difficult cycling pace, or consider alternative arrangements."
+    },
+    {
+      "question": "Does the route intersect other well-known paths?",
+      "answer": "Yes, the route intersects with sections of several other paths, including the Camino Francés - 01, European long distance path E3 - part Spain, and various segments of the Donejakue bidea (Way of St. James)."
+    },
+    {
+      "question": "Are there places to eat or get refreshments along the way?",
+      "answer": "Yes, you'll find options in the villages along the route. For example, <a href=\"https://www.komoot.com/highlight/5229976\" target=\"_blank\" rel=\"noopener\">Aurizberri/Espinal</a> has a cheese factory where you can purchase local products, and <a href=\"https://www.komoot.com/highlight/2918742\" target=\"_blank\" rel=\"noopener\">Bar Dena Ona</a> is a highlight listed on the route, offering a place to stop for refreshments."
+    },
+    {
+      "question": "What is the most challenging section of the route?",
+      "answer": "The climb over the <a href=\"https://www.komoot.com/highlight/4817151\" target=\"_blank\" rel=\"noopener\">Erro Pass</a> is a significant challenge. It is 2.9 kilometers long with an average gradient of 4.9% and reaches an altitude of 801 meters, requiring sustained effort."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0010943622,
+    "sb#paved": 0.0818677,
+    "sb#unpaved": 0.19384313,
+    "sb#asphalt": 0.72319484
+  },
+  "way_types": {
+    "minor_road": 0.03334592,
+    "street": 0.19178505,
+    "way": 0.19384313,
+    "primary": 0.5810259
+  },
+  "waypoints": [
+    {
+      "name": "Aurizberri/Espinal",
+      "lat": 42.979331,
+      "lng": -1.370502,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "trail",
+        "historical_site"
+      ],
+      "highlight_id": 5229976
+    },
+    {
+      "name": "Bar Dena Ona",
+      "lat": 42.96973,
+      "lng": -1.414511,
+      "type": "cafe",
+      "categories": [
+        "cafe",
+        "restaurant",
+        "family_friendly",
+        "pub"
+      ],
+      "highlight_id": 2918742
+    },
+    {
+      "name": "Erro Pass",
+      "lat": 42.941704,
+      "lng": -1.470073,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "climb",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 4817151
+    },
+    {
+      "name": "Zilbeti Village",
+      "lat": 42.985424,
+      "lng": -1.464991,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5229936
+    },
+    {
+      "name": "River crossing",
+      "lat": 42.970873,
+      "lng": -1.406325,
+      "type": "river",
+      "categories": [
+        "river",
+        "bridge",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 2918740
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cafe",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "pub",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-31T20:28:33.097Z",
+  "changed_at": "2026-02-26T19:02:18.033Z",
+  "scraped_at": "2026-04-28T23:28:32.550093+00:00"
+}

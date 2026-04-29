@@ -1,0 +1,117 @@
+{
+  "tour_id": "e934339819",
+  "url": "https://www.komoot.com/smarttour/e934339819",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e934339819/valle-de-campordon-circular-desde-camprodon-por-el-coll-d-arrencafels-y-salarca",
+  "name": "Valle de Campordon – circular desde Camprodon por el Coll d'Arrencafels y Salarça",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 34002.71927383755,
+  "duration_s": 11272,
+  "elevation_up_m": 924.1358123841095,
+  "elevation_down_m": 926.1955037909,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.313801,
+  "start_lng": 2.361418,
+  "start_alt_m": 957.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Spectacular Neo-Gothic style church located in the neighborhood of Creixenturri, 948 meters high.",
+    "Not only a very nice fountain but also a great way to drink a clear and cool drink of water or to replenish the supplies.",
+    "The New Camprodón Bridge is an old medieval bridge over the Ter River that is located in the municipality of Camprodón. It was declared a Cultural Asset of National Interest and is included in the Inventory of Architectural Heritage of Catalonia."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#nature": 0.017266534,
+    "sm#gravel": 0.16255213,
+    "sm#asphalt": 0.17944694,
+    "sm#unpaved": 0.28580657,
+    "sm#paved": 0.3549278
+  },
+  "way_types": {
+    "service": 0.0031805797,
+    "primary": 0.013731764,
+    "minor_road": 0.105622776,
+    "street": 0.31388456,
+    "way": 0.56358033
+  },
+  "waypoints": [
+    {
+      "name": "El Remei Church, Creixenturri",
+      "lat": 42.290337,
+      "lng": 2.374963,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 5034496
+    },
+    {
+      "name": "Fountain of the Boots",
+      "lat": 42.313823,
+      "lng": 2.381181,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "facilities",
+        "family_friendly",
+        "other_natural",
+        "other_man_made"
+      ],
+      "highlight_id": 471348
+    },
+    {
+      "name": "View of Pont Nou in Camprodon",
+      "lat": 42.312021,
+      "lng": 2.364485,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "viewpoint",
+        "man_made_monument",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 1028413
+    }
+  ],
+  "categories": [
+    "bridge",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "religious_building",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 3,
+  "visitors": 54,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-23T15:23:22.666Z",
+  "changed_at": "2024-05-31T09:19:30.726Z",
+  "scraped_at": "2026-04-28T16:01:15.121897+00:00"
+}

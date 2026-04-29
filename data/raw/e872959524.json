@@ -1,0 +1,86 @@
+{
+  "tour_id": "e872959524",
+  "url": "https://www.komoot.com/smarttour/e872959524",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e872959524/little-loop-of-saint-engrace",
+  "name": "Little loop of Saint-Engrace",
+  "name_original": "Petite boucle de Saint-Engrace",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 5195.6952769504505,
+  "duration_s": 5360,
+  "elevation_up_m": 126.90796687812576,
+  "elevation_down_m": 127.9730575771573,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.996064,
+  "start_lng": -0.82051,
+  "start_alt_m": 609.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This Romanesque church is lost in the middle of the mountains, more than 600 meters above sea level. Push the door, the interior is surprising!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.06032637,
+    "asphalt": 0.35485148,
+    "unknown": 0.5848221
+  },
+  "way_types": {
+    "way": 0.18280844,
+    "street": 0.35485148,
+    "minor_road": 0.4623401
+  },
+  "waypoints": [
+    {
+      "name": "Sainte-Engrâce",
+      "lat": 42.99582,
+      "lng": -0.809237,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "gorge",
+        "viewpoint",
+        "cave",
+        "historical_site",
+        "forest",
+        "religious_building",
+        "intermediate"
+      ],
+      "highlight_id": 2966354
+    }
+  ],
+  "categories": [
+    "cave",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.75,
+  "rating_count": 4,
+  "visitors": 12,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-05T14:04:23.245Z",
+  "changed_at": "2024-06-04T23:57:42.202Z",
+  "scraped_at": "2026-04-27T11:34:49.184558+00:00"
+}

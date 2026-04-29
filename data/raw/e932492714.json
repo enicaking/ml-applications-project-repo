@@ -1,0 +1,164 @@
+{
+  "tour_id": "e932492714",
+  "url": "https://www.komoot.com/smarttour/e932492714",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e932492714/valle-de-estos-refugio-de-estos-via-la-cabana-del-turmo",
+  "name": "Valle de Estos - Refugio de Estos via la Cabana del Turmo",
+  "name_original": "Valle de Estós – Refugio de Estós por la Cabaña del Turmo",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16911.790690879283,
+  "duration_s": 21584,
+  "elevation_up_m": 688.5929311527996,
+  "elevation_down_m": 688.5929311527993,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.628909,
+  "start_lng": 0.540678,
+  "start_alt_m": 1324.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The valley is about 12 km long. The river Estós flows through the valley, surrounded by the peaks, which are also over 3,000 m high and border on France. The altitude of the valley is between 1,400 m and 3,375 m.\r\nSince 1994 the valley has been part of the Posets-Maladeta Natural Park. Several plant and animal species occur here.\r\nRunning along the valley floor is the Estós River, which is the source of numerous gorges and streams from the numerous ibones (glacial lakes), perennial snow and some of Europe's southernmost glaciers.",
+    "The Galantes Gorge is a narrowing of the river that is trapped between rocks, creating a large thundering waterfall",
+    "Celtas Cortos' mythical \"April 20\" cabin is now usually closed.",
+    "The Estós refuge is located at an altitude of 1,859 metres. It has 120 sleeping places in bunk beds and offers bed linen, heating and a fireplace. It also has a bar service and a self-service kitchen.",
+    "Valle de Estos gives access to many well-known peaks, which are climbed from Refugio de Estos. A high alpine landscape forms a wonderful backdrop for an easy hike.",
+    "A shelter in bad weather"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0022813857,
+    "paved": 0.031154545,
+    "alpin": 0.47637412,
+    "unpaved": 0.49018997
+  },
+  "way_types": {
+    "minor_road": 0.0058968696,
+    "hiking_path": 0.23923063,
+    "mountain_hiking_path": 0.3125885,
+    "way": 0.442284
+  },
+  "waypoints": [
+    {
+      "name": "Estós Valley",
+      "lat": 42.661346,
+      "lng": 0.514988,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "forest",
+        "viewpoint",
+        "natural_monument",
+        "trail",
+        "river",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 3521429
+    },
+    {
+      "name": "Gorgas de Calantes Waterfall",
+      "lat": 42.664905,
+      "lng": 0.510697,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "gorge",
+        "river",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4809461
+    },
+    {
+      "name": "Cabaña del Turmo",
+      "lat": 42.6683,
+      "lng": 0.5084,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 5039187
+    },
+    {
+      "name": "Estós Refuge",
+      "lat": 42.675426,
+      "lng": 0.485197,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "pub",
+        "restaurant",
+        "accomodation"
+      ],
+      "highlight_id": 555882
+    },
+    {
+      "name": "Valle de Estós",
+      "lat": 42.674881,
+      "lng": 0.489385,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "other_natural",
+        "viewpoint",
+        "forest",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 1470388
+    },
+    {
+      "name": "Santa Ana Cabin",
+      "lat": 42.64483,
+      "lng": 0.535337,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 1469532
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "forest",
+    "gorge",
+    "hut",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "river",
+    "summit",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.679999828338623,
+  "rating_count": 25,
+  "visitors": 257,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-21T16:31:29.791Z",
+  "changed_at": "2024-06-05T07:30:11.461Z",
+  "scraped_at": "2026-04-27T11:45:30.729048+00:00"
+}

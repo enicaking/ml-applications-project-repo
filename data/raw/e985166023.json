@@ -1,0 +1,141 @@
+{
+  "tour_id": "e985166023",
+  "url": "https://www.komoot.com/smarttour/e985166023",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e985166023/otxondo-orabidea-circular-from-elizondo",
+  "name": "Otxondo - Orabidea – circular from Elizondo",
+  "name_original": "Otxondo - Orabidea – circular desde Elizondo",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 48579.7237360972,
+  "duration_s": 10927,
+  "elevation_up_m": 1169.3535095059135,
+  "elevation_down_m": 1169.2813758558934,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.14808,
+  "start_lng": -1.518877,
+  "start_alt_m": 197.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The views on this section of the road are simply wonderful. The best in the upward direction Elizondo-Otxondo.",
+    "Small col on the border between the Basque Country and France. It has a restaurant with a bar and a small shop that sells snacks and souvenirs",
+    "Nice climb, as happens on all the secondary roads in the area. Asphalt sections in good condition combined with quite rough cement sections. Beware of a longitudinal crack, it can be very dangerous if you put the wheel. Highly recommended both uphill and downhill.",
+    "Very nice curve going down but not so much going up.",
+    "Elizondo is a picturesque Navarra town located in the Baztan valley. Its traditional houses on the edge of the river are especially beautiful. The town has all kinds of tourist services such as accommodation, restaurants and shops, so it is perfect as the end of the stage if you are hiking in the area."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0012245425,
+    "sb#paved": 0.27714166,
+    "sb#asphalt": 0.7216338
+  },
+  "way_types": {
+    "minor_road": 0.040389024,
+    "primary": 0.289094,
+    "street": 0.67051697
+  },
+  "waypoints": [
+    {
+      "name": "Panoramic views from the road",
+      "lat": 43.208,
+      "lng": -1.4883,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "cycle_way",
+        "intermediate"
+      ],
+      "highlight_id": 5304361
+    },
+    {
+      "name": "Otxondo Pass",
+      "lat": 43.237056,
+      "lng": -1.494103,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "facilities",
+        "intermediate",
+        "cycle_way",
+        "restaurant"
+      ],
+      "highlight_id": 211367
+    },
+    {
+      "name": "Orabidea Road",
+      "lat": 43.179307,
+      "lng": -1.577793,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "cycle_way",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3531838
+    },
+    {
+      "name": "Orabidea Fork",
+      "lat": 43.147484,
+      "lng": -1.591758,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "intermediate",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 5141303
+    },
+    {
+      "name": "Elizondo Town Center",
+      "lat": 43.145398,
+      "lng": -1.518862,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "river",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 3093165
+    }
+  ],
+  "categories": [
+    "climb",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "restaurant",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 4,
+  "visitors": 43,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-25T16:45:49.325Z",
+  "changed_at": "2024-06-06T08:05:28.902Z",
+  "scraped_at": "2026-04-28T19:17:34.158827+00:00"
+}

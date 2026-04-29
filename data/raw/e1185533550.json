@@ -1,0 +1,166 @@
+{
+  "tour_id": "e1185533550",
+  "url": "https://www.komoot.com/smarttour/e1185533550",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1185533550/transnevada-route-i-nigueelas-la-rinconada",
+  "name": "Transnevada Route I: Nigüelas - La Rinconada",
+  "name_original": "Desde Nigüelas a la Loma de las Tres Encinas — paseo en BTT por el Parque Nacional de Sierra Nevada",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 30071.60051511454,
+  "duration_s": 13844,
+  "elevation_up_m": 1332.72884626016,
+  "elevation_down_m": 1332.7288462601605,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 36.982724,
+  "start_lng": -3.537812,
+  "start_alt_m": 964.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 18.7-mile mountain biking route in Sierra Nevada National Park offers challenging climbs and diverse scenery.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Rinconada de Nigüelas path offers privileged views of the Loma de las Tres Encinas mountain.",
+    "Good physical condition is required, but it's worth the climb to enjoy the views.",
+    "From the vantage point it's 14 km down....great for Mtb, even 2 steep curves on the way...many hairpin bends....ideal for a sporty descent until the brake discs glow...",
+    "The Torrente river is a small or large river depending on the season that rises on the slopes of Pico del Caballo and passes through the Niguelas ravine."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this mountain bike route?",
+      "answer": "This mountain bike route, covering approximately 30 km, is rated as difficult. It typically takes around 3 hours and 50 minutes to complete, but this can vary significantly based on your fitness level and riding speed."
+    },
+    {
+      "question": "What is the terrain like on the Transnevada Route I: Nigüelas - La Rinconada?",
+      "answer": "Expect a diverse and often rugged terrain. The route primarily consists of dirt roads and tracks, with some sections on paved roads. You'll encounter chunky rock descents and steep climbs. Be prepared for sections that may require you to dismount and push your bike due to impassable terrain or protected zones."
+    },
+    {
+      "question": "Is this mountain bike route suitable for beginners?",
+      "answer": "No, this route is considered difficult and is not suitable for beginners. It requires very good fitness and advanced mountain biking skills due to its challenging terrain, steep climbs, and technical descents. The broader Transnevada route is known for its strenuous nature."
+    },
+    {
+      "question": "What are the main viewpoints or natural features along the trail?",
+      "answer": "You'll encounter several notable spots. Keep an eye out for the <a href=\"https://www.komoot.com/highlight/4108847\" target=\"_blank\" rel=\"noopener\">View of Loma de las Tres Encinas</a> and the <a href=\"https://www.komoot.com/highlight/2788995\" target=\"_blank\" rel=\"noopener\">La Rinconada de Nigüelas Viewpoint</a>, both offering spectacular vistas. You'll also pass a <a href=\"https://www.komoot.com/highlight/4108851\" target=\"_blank\" rel=\"noopener\">Downhill Trail</a> section and ride alongside the <a href=\"https://www.komoot.com/highlight/5532734\" target=\"_blank\" rel=\"noopener\">Torrente River</a>."
+    },
+    {
+      "question": "What is the best time of year to ride the Transnevada Route I: Nigüelas - La Rinconada?",
+      "answer": "The optimal time to ride this route is during spring or autumn. The weather conditions are generally more favorable, avoiding the extreme heat of summer and the potential for snow or very cold temperatures in winter. Mountain weather can change suddenly, so always be prepared for varying conditions."
+    },
+    {
+      "question": "Where can I park to access the trail in Nigüelas?",
+      "answer": "While specific parking details for this exact segment are not provided, Nigüelas is a traditional mountain village. You should be able to find public parking within the village, likely near the main access points or town center, from where you can start your ride."
+    },
+    {
+      "question": "Is the Transnevada Route I: Nigüelas - La Rinconada dog-friendly?",
+      "answer": "As this route is within the Sierra Nevada National Park, dogs are generally allowed but must be kept on a leash at all times to protect wildlife and ensure the safety of other trail users. Always follow park regulations regarding pets."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this route?",
+      "answer": "There are no specific entrance fees for accessing the Sierra Nevada National Park for general recreational use like mountain biking. However, certain activities or protected zones might require permits. For this specific route, no special permits are typically needed, but it's always wise to check the official park website for any updates before your trip."
+    },
+    {
+      "question": "What regulations should I be aware of when riding in Sierra Nevada National Park?",
+      "answer": "When riding in Sierra Nevada National Park, it's crucial to stay on marked trails to protect the fragile ecosystem. Do not disturb wildlife or plants, and pack out all your trash. Camping is restricted, and open fires are strictly prohibited. Always respect local customs and private property when passing through villages."
+    },
+    {
+      "question": "Does this route connect with other trails?",
+      "answer": "Yes, this route is primarily part of the 'Transnevada Ruta I' (99% of the route). It also intersects with sections of the broader 'Transnevada' (Stage 7 / 8) and the 'Transandalus' trails. You'll also find smaller local paths like 'Pista de la Rinconada de Nigüelas' and 'Camino Molino Alto' along the way."
+    },
+    {
+      "question": "Are there places to eat or stay near the trail?",
+      "answer": "Yes, the route starts in Nigüelas, a charming traditional mountain village. You'll find local amenities such as cafes, restaurants, and inns there. The broader Transnevada route is known for connecting numerous villages, offering opportunities for local food and accommodation."
+    }
+  ],
+  "surfaces": {
+    "sm#asphalt": 0.012741752,
+    "sm#paved": 0.04167481,
+    "sm#unpaved": 0.94558346
+  },
+  "way_types": {
+    "service": 0.0010130884,
+    "minor_road": 0.010036839,
+    "trail": 0.012270033,
+    "street": 0.029438347,
+    "way": 0.94724166
+  },
+  "waypoints": [
+    {
+      "name": "View of Loma de las Tres Encinas",
+      "lat": 37.001372,
+      "lng": -3.472779,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "trail",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4108847
+    },
+    {
+      "name": "La Rinconada de Nigüelas Viewpoint",
+      "lat": 37.010469,
+      "lng": -3.486941,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 2788995
+    },
+    {
+      "name": "Downhill Trail",
+      "lat": 36.992208,
+      "lng": -3.512555,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "mtb_park",
+        "viewpoint"
+      ],
+      "highlight_id": 4108851
+    },
+    {
+      "name": "Torrente River",
+      "lat": 36.980772,
+      "lng": -3.531987,
+      "type": "river",
+      "categories": [
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 5532734
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mtb_park",
+    "natural_monument",
+    "river",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.4285712242126465,
+  "rating_count": 7,
+  "visitors": 26,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-06-26T13:22:35.147Z",
+  "changed_at": "2026-02-26T19:50:23.480Z",
+  "scraped_at": "2026-04-28T14:00:47.139307+00:00"
+}

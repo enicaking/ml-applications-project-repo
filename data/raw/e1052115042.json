@@ -1,0 +1,109 @@
+{
+  "tour_id": "e1052115042",
+  "url": "https://www.komoot.com/smarttour/e1052115042",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1052115042/route-6-taillon-15-peaks-over-3-000-metres-in-the-pyrenees",
+  "name": "Route 6: Taillon – 15 peaks over 3,000 metres in the Pyrenees",
+  "name_original": "Circuit 6 : Le Taillon — 15 sommets de plus de 3 000 mètres dans les Pyrénées",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14691.673845610836,
+  "duration_s": 26301,
+  "elevation_up_m": 992.5000738753906,
+  "elevation_down_m": 992.5000738753906,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.713595,
+  "start_lng": -0.050791,
+  "start_alt_m": 2181.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Pic du Taillon is one of the easiest peaks to access at over 3,000 meters in the Pyrenees. It culminates at 3,144 meters above sea level on the Franco-Spanish border in the Mont-Perdu massif.\nLe Taillon offers a breathtaking view of several remarkable sites in the Pyrenees.\n\nThe start of the route is at the Col des Tentes car park located upstream of the Gavarnie ski resort. The first section remains relatively flat until you reach the waterfall of the Taillon glacier. Be careful if some snow remains when you cross the waterfall. The climb becomes steeper on rocky terrain which leads you to the Sarradets refuge. Recently renovated, it suggests a very nice break with a direct view of the famous Roland Breach and further on the Cirque de Gavarnie and its huge waterfall. Take the opportunity to fill up with water before climbing into the breach.\n\nThis imposing wall marks the border with Spain. When you cross it, a completely different landscape is offered to you and you can discern the Ordesa canyon in the distance. You walk along the cliffs of the breach on the Spanish side towards Le Taillon. You pass a large rocky mound nicknamed the Taillon finger, then the final ascent begins.\n\nAt the top, the spectacle is simply grandiose. The diversity of natural elements seems unlimited: the Cirque de Gavarnie, the Breche de Roland, Mont Perdu, the Ordesa Canyon and the Vignemale.\n\nThis hike can be done in one day, but you can absolutely sleep at the Sarradets refuge or bivouac at the top of Taillon. I strongly recommend it to offer you an unforgettable sunrise and sunset. You can also find a few pitches at the foot of the Breche de Roland, on the Spanish side.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Brèche de Roland refuge is located at an altitude of 2,565 meters, behind the spectacular rock wall which covers the Gavarnie cirque. It is an ideal stopover for those who want to climb the Casque, the Tour or the Marboré. It is also perfectly placed for hikers of the Haute Route Pyrénéenne (HRP).\r\n\r\nThe refuge offers 38 beds in high season, and maintains a capacity of 30 beds excluding guarding.\r\n\r\nFind all the details on the site:\r\nhttps://refugebrechederoland.ffcam.fr/",
+    "La Brèche de Roland is a natural gateway between France and Spain. It marks a passage 40 meters wide in the middle of the cliff.\r\n\r\nIf we easily understand the name of breach, we can wonder why Roland's breach. According to legend, it was Roland, the son of Charlemagne, who caused this hole when he tried to destroy his sword by hitting it against the wall. So myth or no myth?",
+    "An easy and short 3,000 meter summit starting from the Col des Tentes. The view is magnificent, you can clearly see the border range towards the west which delimits France and Spain. The view extends very far to the Spanish side in good conditions."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.0078857,
+    "unpaved": 0.2330703,
+    "alpin": 0.759044
+  },
+  "way_types": {
+    "street": 0.0078857,
+    "hiking_path": 0.023659999,
+    "way": 0.20941031,
+    "mountain_hiking_path": 0.31805634,
+    "alpine_hiking_path": 0.44098768
+  },
+  "waypoints": [
+    {
+      "name": "Brèche de Roland Refuge – Les Sarradets",
+      "lat": 42.695894,
+      "lng": -0.033498,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 2831228
+    },
+    {
+      "name": "Roland's Breach",
+      "lat": 42.691051,
+      "lng": -0.034005,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "natural_monument",
+        "viewpoint",
+        "challenging",
+        "mountain_pass"
+      ],
+      "highlight_id": 347445
+    },
+    {
+      "name": "Le Taillon (3,144m)",
+      "lat": 42.69365,
+      "lng": -0.05126,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "challenging"
+      ],
+      "highlight_id": 347705
+    }
+  ],
+  "categories": [
+    "challenging",
+    "hut",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.7731957,
+  "rating_count": 97,
+  "visitors": 1345,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-16T12:08:49.397Z",
+  "changed_at": "2024-06-07T11:06:30.322Z",
+  "scraped_at": "2026-04-27T11:31:33.061937+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "tour_id": "e1030894740",
+  "url": "https://www.komoot.com/smarttour/e1030894740",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1030894740/lighthouse-of-higuer-and-mount-jaizkibel-circular-from-hondarribia",
+  "name": "Lighthouse of Higuer and Mount Jaizkibel — circular from Hondarribia",
+  "name_original": "Faro de Higuer y Monte Jaizkibel — circular desde Hondarribia",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 40867.807830769176,
+  "duration_s": 8082,
+  "elevation_up_m": 821.2037178397611,
+  "elevation_down_m": 822.3741488670747,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.362567,
+  "start_lng": -1.787819,
+  "start_alt_m": 3.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "End (or start) for most TransPyrenees adventures. There are a few restaurants around and the Camping is nearby also.",
+    "This is a legendary climb in the area.\nIt's nine kilometers long, accumulating 525 meters of elevation gain at an average gradient of 5.8%.\nThe views are magnificent, and there's usually not much traffic. The road surface isn't perfect, so be careful with some of the potholes.",
+    "Short climb, mostly in shade. When you get to the San Narciso palace, the road narrows and you have to be careful."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.08432609,
+    "sb#asphalt": 0.9156739
+  },
+  "way_types": {
+    "cycleway": 0.0040197913,
+    "minor_road": 0.05276352,
+    "primary": 0.111609496,
+    "street": 0.83160716
+  },
+  "waypoints": [
+    {
+      "name": "Cabo Higuer Lighthouse",
+      "lat": 43.391414,
+      "lng": -1.792038,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "viewpoint",
+        "other_man_made",
+        "intermediate",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 2918813
+    },
+    {
+      "name": "Jaizkibel Climb from Pasaia",
+      "lat": 43.335909,
+      "lng": -1.889214,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "viewpoint",
+        "challenging",
+        "mountain_pass",
+        "verified_segment"
+      ],
+      "highlight_id": 3598147
+    },
+    {
+      "name": "Ascent to Laza and Rifugio (Bentas)",
+      "lat": 43.317241,
+      "lng": -1.832607,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "mountain_pass",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 3597534
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "other_man_made",
+    "verified_segment",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.214285850524902,
+  "rating_count": 14,
+  "visitors": 475,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-02-14T11:58:46.218Z",
+  "changed_at": "2024-07-24T12:44:29.190Z",
+  "scraped_at": "2026-04-28T19:24:39.952051+00:00"
+}

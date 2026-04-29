@@ -1,0 +1,115 @@
+{
+  "tour_id": "e962294006",
+  "url": "https://www.komoot.com/smarttour/e962294006",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962294006/sant-marti-d-ogassa-from-sant-joan-de-les-abadesses-circular-trail-run-via-the-old-iron-and-coal-road",
+  "name": "Sant Martí d'Ogassa from Sant Joan de les Abadesses - circular trail run via the old iron and coal road",
+  "name_original": "Sant Martí d'Ogassa desde Sant Joan de les Abadesses - trail run circular por el antiguo camino del hierro y el carbón",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16411.207256038113,
+  "duration_s": 7144,
+  "elevation_up_m": 465.51784335531113,
+  "elevation_down_m": 465.51784335531124,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.23346,
+  "start_lng": 2.287204,
+  "start_alt_m": 784.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Magnificent medieval Gothic-style bridge that crosses the River Ter as it passes through Sant Joan de les Abadesses. Since its construction, the bridge has undergone various transformations and, in the 1970s, after being destroyed during the Civil War, the new bridge was inaugurated.",
+    "Legend has it that in the past, this pool was a meeting point for witches. One day they had to call a midwife because one of the witches had to give birth, and as a reward, the witch gave her some raw lentils. The midwife, angry at such bad retribution, threw them into the Ter river. The next day, when the midwife put on her apron, she saw that a lentil had stuck to her and… it had turned into gold! For this reason this waterfall is also called \"Witches waterfall\".",
+    "Located in the Ripollès region, in the town of Sant Martí d'Ogassa, known throughout Catalonia for its coal mining operations, which have left a great legacy in the municipality.\r\nThe mines were in operation from 1838 to 1967, with the last remaining mines closing.\r\n\r\nThe residents of the municipality have been contributing objects and materials related to the mining world and thus, restore the old Coal Bread Factory as the current Ogassa Mining Museum."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.029818939,
+    "asphalt": 0.053216342,
+    "unpaved": 0.1946375,
+    "unknown": 0.21468432,
+    "paved": 0.50764287
+  },
+  "way_types": {
+    "primary": 0.0018241121,
+    "street": 0.075554855,
+    "minor_road": 0.07668171,
+    "footway": 0.090812206,
+    "hiking_path": 0.1479379,
+    "way": 0.60718924
+  },
+  "waypoints": [
+    {
+      "name": "Pont Vell of Sant Joan de les Abadesses",
+      "lat": 42.23496,
+      "lng": 2.28483,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "historical_site",
+        "man_made_monument",
+        "family_friendly",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 471788
+    },
+    {
+      "name": "Gorg de Malatosca Waterfall",
+      "lat": 42.24082,
+      "lng": 2.28904,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 435265
+    },
+    {
+      "name": "Ogassa Mining Museum",
+      "lat": 42.26677,
+      "lng": 2.27473,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "man_made_monument",
+        "family_friendly",
+        "other_man_made"
+      ],
+      "highlight_id": 5034773
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 2,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-25T11:44:53.082Z",
+  "changed_at": "2024-06-06T00:57:36.288Z",
+  "scraped_at": "2026-04-27T16:13:10.617296+00:00"
+}

@@ -1,0 +1,149 @@
+{
+  "tour_id": "e1030629451",
+  "url": "https://www.komoot.com/smarttour/e1030629451",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1030629451/stage-3-soulom-to-luz-saint-sauveur-grand-raid-des-pyrenees",
+  "name": "Stage 3: Soulom to Luz-Saint-Sauveur — Grand Raid des Pyrénées ",
+  "name_original": "Étape 3 : De Soulom à Luz-Saint-Sauveur — Grand Raid des Pyrénées en off",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 48213.96188717783,
+  "duration_s": 26981,
+  "elevation_up_m": 2833.1881065700777,
+  "elevation_down_m": 2615.2391016562774,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 42.956735,
+  "start_lng": -0.074605,
+  "start_alt_m": 489.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This third stage of your adventure is the longest since it includes 48.9 kilometers including 2,840 meters of elevation gain up to Luz-Saint-Sauveur.\n\nFrom the first meters you begin an ascent that stretches over more than 13 kilometers with an elevation gain of about 1,700 meters. So take the time in this long climb which does not involve any particular difficulty. It leads you to the foot of the Pic de Cabaliros which you go around before descending towards Cauterets at the level of the Col de Contente.\n\nThe beginning of the descent is quite steep and winds through several switchbacks before softening to take you more gently to the beautiful spa town of Cauterets. Here, the possibilities to eat are absolutely not lacking. You're about halfway through the ride, so take the time to recharge the batteries while enjoying yourself.\n\nThe rest is expressed in a climb that takes you to the heights of Cauterets before joining the route of the GR 10. Take advantage of the red and white marks of the path to guide you to the Col de Riou. The last part of the climb gets tougher as the switchbacks intensify. Arrived at the top, savor the new view before you descend slightly to the Col de Luz-Ardiden.\n\nFrom the pass, a new long descent awaits you. Indeed you will lose 1,200 meters of elevation over almost 16 kilometers. This last section takes you to Luz-Saint-Sauveur, which welcomes you in a warm atmosphere to close this stage. Dynamic, the city is full of restaurants and accommodation.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col de Contente dominates the town of Cauterets and offers a breathtaking view of its valley. Culminating at 2,080 meters above sea level, it is located between the Tuc de Labasse and the Cabaliros peak.",
+    "Cauterets is an emblematic town in the French Pyrenees. Located in the Pyrenees National Park, its natural heritage is remarkable. Particularly welcoming, it also includes a spa and a ski resort.",
+    "The Col de Riou is the direct connection from Cauterets to Luz-St-Sauveur with the GR10.\r\nTour to the highlight: https://www.komoot.de/tour/340539708?ref=itd",
+    "Luz-Ardiden is one of the most beautiful climbs in the Pyrenees. The Luz-Ardiden station is located on the heights of Luz-Saint-Sauveur from where the climb begins. In total, it's 14.7 kilometers at 6.87% average that lead to 1,720 meters above sea level.\r\n\r\nThe last kilometers and its many switchbacks make it all its charm. Enjoy the view which becomes more and more vertiginous.",
+    "Luz-Saint-Sauveur is a lively and welcoming town in the French Pyrenees. Its strategic location makes it a key crossing point to reach several valleys. Particularly welcoming, the town has no shortage of accommodation and dining options."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.016703648,
+    "unknown": 0.023375921,
+    "asphalt": 0.055757593,
+    "nature": 0.07887236,
+    "paved": 0.10495821,
+    "unpaved": 0.72033226
+  },
+  "way_types": {
+    "primary": 0.0045671016,
+    "footway": 0.0057156193,
+    "minor_road": 0.032666538,
+    "street": 0.1383392,
+    "way": 0.22503233,
+    "hiking_path": 0.5936792
+  },
+  "waypoints": [
+    {
+      "name": "Contente Pass",
+      "lat": 42.9219,
+      "lng": -0.1405,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5448406
+    },
+    {
+      "name": "Cauterets",
+      "lat": 42.88827,
+      "lng": -0.11602,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "facilities"
+      ],
+      "highlight_id": 5448377
+    },
+    {
+      "name": "Riou Pass",
+      "lat": 42.89632,
+      "lng": -0.07071,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 5448246
+    },
+    {
+      "name": "Luz-Ardiden",
+      "lat": 42.88459,
+      "lng": -0.06137,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "challenging",
+        "mountain_pass",
+        "climb",
+        "intermediate"
+      ],
+      "highlight_id": 1155634
+    },
+    {
+      "name": "Kilometer Zero of the Tourmalet – Luz-Saint-Sauveur",
+      "lat": 42.8738,
+      "lng": -0.0032,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "facilities",
+        "cycle_way",
+        "trail_head"
+      ],
+      "highlight_id": 916566
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "trail",
+    "trail_head",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 8,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-02-13T20:47:57.319Z",
+  "changed_at": "2024-06-07T03:00:36.789Z",
+  "scraped_at": "2026-04-27T15:44:28.412655+00:00"
+}

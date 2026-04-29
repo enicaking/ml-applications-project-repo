@@ -1,0 +1,117 @@
+{
+  "tour_id": "e1254354278",
+  "url": "https://www.komoot.com/smarttour/e1254354278",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1254354278/estany-de-sant-maurici-y-estany-de-ratera-circular-en-el-parque-nacional-de-aigueestortes-i-estany-de-sant-maurici",
+  "name": "Estany de Sant Maurici y Estany de Ratera — circular en el Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "name_original": null,
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 15721.10008610141,
+  "duration_s": 17310,
+  "elevation_up_m": 517.6286413867854,
+  "elevation_down_m": 517.6286413867856,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.584509,
+  "start_lng": 1.048182,
+  "start_alt_m": 1658.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "We are in one, or the most popular lake in the Aigüestortes national park. Located at 1910 m above sea level, we will have privileged views of the lake and the surrounding mountains. Without a doubt, we will take out the camera to take the occasional photo.\r\nAccess is not difficult, since we can leave the car or take a taxi to the Prat Pierró parking lot and follow a small wooden path.",
+    "As we get closer to the Ratera Waterfall, we will hear the louder and louder noise of the water, which indicates that we are on the right track towards one of the most beautiful waterfalls in the Aigüestortes Natural Park. It will be great for us to cool off on the hottest days.",
+    "Viewpoint that allows us to appreciate the San Mauricio pond and the wonderful views that surround it."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.005909801,
+    "gravel": 0.052287836,
+    "alpin": 0.06376162,
+    "asphalt": 0.17705274,
+    "nature": 0.17880788,
+    "unpaved": 0.52218014
+  },
+  "way_types": {
+    "footway": 0.0008554268,
+    "mountain_hiking_path": 0.06376162,
+    "street": 0.17705274,
+    "hiking_path": 0.32260785,
+    "way": 0.43572235
+  },
+  "waypoints": [
+    {
+      "name": "Lake Sant Maurici",
+      "lat": 42.581859,
+      "lng": 1.009966,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "family_friendly",
+        "natural_monument",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 154020
+    },
+    {
+      "name": "Ratera Waterfall",
+      "lat": 42.585865,
+      "lng": 0.999194,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1033042
+    },
+    {
+      "name": "View of Estany de Sant Maurici",
+      "lat": 42.58653,
+      "lng": 0.987636,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "natural_monument",
+        "challenging",
+        "summit"
+      ],
+      "highlight_id": 154043
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.878048896789551,
+  "rating_count": 41,
+  "visitors": 397,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-08-11T14:05:29.972Z",
+  "changed_at": "2024-08-12T08:37:36.490Z",
+  "scraped_at": "2026-04-27T12:02:42.271429+00:00"
+}

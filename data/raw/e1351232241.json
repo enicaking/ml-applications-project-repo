@@ -1,0 +1,90 @@
+{
+  "tour_id": "e1351232241",
+  "url": "https://www.komoot.com/smarttour/e1351232241",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1351232241/vielha-to-pla-de-beret",
+  "name": "Vielha to Pla de Beret",
+  "name_original": "De Vielha al Pla de Beret",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 22349.5106235829,
+  "duration_s": 6694,
+  "elevation_up_m": 956.6591218617259,
+  "elevation_down_m": 110.03907921977839,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 42.702598,
+  "start_lng": 0.792627,
+  "start_alt_m": 993.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This route could perfectly be called “Vielha to Plan de Beret Time Trial” and included as a stage in the Tour of Catalonia. Despite being just over 22 kilometres long, the route exceeds 900 metres of positive gradient.\n\nWe suggest two ways to tackle this route. The first, as a sporting challenge where you pedal at full speed to make a good time on this climb and smile after watching the time trial at the end. The second, climbing at a good pace, but enjoying the incredible Pyrenean landscape, stopping to take some photos of the mountains, ridges, peaks and slopes.\n\nIn any case, you can enjoy the climb and the descent and include some of the ports and roads surrounding Plan de Beret itself.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Vielha e Mijaran is the capital of the Vall d'Aran region, located in the old middle of the valley and which forms the nerve center of this region surrounded by large mountains.",
+    "Descent to Baqueira along a road from where you can see the entire massif of Maladeta and Aneto"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0022438806,
+    "sb#asphalt": 0.9977561
+  },
+  "way_types": {
+    "minor_road": 0.0006789825,
+    "service": 0.0015648981,
+    "street": 0.38105005,
+    "primary": 0.6167061
+  },
+  "waypoints": [
+    {
+      "name": "Vielha",
+      "lat": 42.703075,
+      "lng": 0.79337,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 2971259
+    },
+    {
+      "name": "Port de Beret",
+      "lat": 42.707657,
+      "lng": 0.931809,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "cycle_way"
+      ],
+      "highlight_id": 1858811
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 24,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2023-10-17T07:34:50.028Z",
+  "changed_at": "2026-01-20T11:24:53.047Z",
+  "scraped_at": "2026-04-28T20:01:15.824225+00:00"
+}

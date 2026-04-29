@@ -1,0 +1,194 @@
+{
+  "tour_id": "e918413010",
+  "url": "https://www.komoot.com/smarttour/e918413010",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e918413010/lagos-del-circo-de-colomers-circular-by-the-aigueestortes-national-park-and-lake-of-san-mauricio",
+  "name": "Lagos del Circo de Colomèrs — circular by the Aigüestortes National Park and Lake of San Mauricio",
+  "name_original": "Lagos del Circo de Colomèrs — circular por el Parque Nacional de Aigüestortes y Lago de San Mauricio",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6492.783737946872,
+  "duration_s": 9133,
+  "elevation_up_m": 280.3480672308565,
+  "elevation_down_m": 280.34806723085603,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.632683,
+  "start_lng": 0.92136,
+  "start_alt_m": 2013.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Here you will find a wooden walkway over a flooded area where the Estanh dera Lòssa is located. It leads to the small bridge that crosses the Aiguamòg river. The views are incredible.",
+    "Just ahead, to the right of the dam, you can see the Refugi de Colomers. If we continue along the bridge, we will find another stone building - surely dedicated to the maintenance of the dam -, and we will return to the path.",
+    "The trail that leads to this amazing lake is on a slope, so you don't really see it until you get there and it takes you completely by surprise. Before crossing the dam walkway, you can go a little to the left to climb up some rocks from which you can get a closer look at the amazing Colomèrs cirque. Probably a panoramic view that you will not forget.",
+    "The Colomèrs refuge is located at an altitude of 2,135 metres in the Upper Aran, next to the Colomèrs Lake, at the northern end of the Carros de Foc route. This route runs through the beautiful Aigues Tortes National Park and the Saint-Maurice Lake. \n\nIt has 60 places to stay overnight, distributed in five rooms with 12 beds each with bunk beds. The showers are cold water. It also has a meal service.",
+    "After an intense climb along a narrow path in which we leave the Colomèrs Refuge behind, we find the first lake of the circular. It is very impressive due to its beauty, but we will soon see that its brothers are not far behind.",
+    "This lake differs from the others because it has several waterfalls. To pass it, we will cross a wooden walkway that goes from shore to shore and on which we will be able to appreciate one of these waterfalls and the force that the water carries, especially in spring, during the thaw.",
+    "Lake Cabirdonats is a glacial lake located in the cirque of Colomèrs at an altitude of 2,313 meters.",
+    "As its name indicates, this glacial lake is the longest in the Colomers cirque. It is located at 2,168 meters above sea level."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.011710078,
+    "paved": 0.019189134,
+    "unpaved": 0.1790423,
+    "alpin": 0.7900585
+  },
+  "way_types": {
+    "minor_road": 0.00030226546,
+    "way": 0.030596947,
+    "hiking_path": 0.13987319,
+    "mountain_hiking_path": 0.8292276
+  },
+  "waypoints": [
+    {
+      "name": "Estanh dera Lòssa",
+      "lat": 42.630156,
+      "lng": 0.924073,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "bridge",
+        "intermediate",
+        "viewpoint",
+        "forest",
+        "trail"
+      ],
+      "highlight_id": 4548914
+    },
+    {
+      "name": "Colomèrs Dam",
+      "lat": 42.626568,
+      "lng": 0.921711,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "intermediate",
+        "lake",
+        "bridge"
+      ],
+      "highlight_id": 3080224
+    },
+    {
+      "name": "Lake Major of Colomers",
+      "lat": 42.625897,
+      "lng": 0.919907,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 3302745
+    },
+    {
+      "name": "Colomèrs Refuge",
+      "lat": 42.62411,
+      "lng": 0.92049,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "lake",
+        "facilities",
+        "accomodation",
+        "pub",
+        "restaurant",
+        "viewpoint"
+      ],
+      "highlight_id": 549567
+    },
+    {
+      "name": "Estany Mort",
+      "lat": 42.620788,
+      "lng": 0.918408,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 3301207
+    },
+    {
+      "name": "Estany de Gargolhes",
+      "lat": 42.618587,
+      "lng": 0.920387,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "waterfall",
+        "viewpoint",
+        "intermediate",
+        "bridge"
+      ],
+      "highlight_id": 3301209
+    },
+    {
+      "name": "Cabidornats Lake",
+      "lat": 42.622111,
+      "lng": 0.930246,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 3301353
+    },
+    {
+      "name": "Long Lake of Colomèrs",
+      "lat": 42.623539,
+      "lng": 0.93092,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 2673171
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "bridge",
+    "facilities",
+    "forest",
+    "hut",
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.73913049697876,
+  "rating_count": 46,
+  "visitors": 396,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-07T10:11:23.545Z",
+  "changed_at": "2024-06-05T20:28:23.914Z",
+  "scraped_at": "2026-04-27T12:00:10.717578+00:00"
+}

@@ -1,0 +1,138 @@
+{
+  "tour_id": "e1201418966",
+  "url": "https://www.komoot.com/smarttour/e1201418966",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1201418966/tour-of-tossal-d-isovol-hiking-in-catalonia",
+  "name": "Tour of Tossal d'Isòvol – hiking in Catalonia",
+  "name_original": "Vuelta al Tossal d’Isòvol",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7515.111599123243,
+  "duration_s": 9320,
+  "elevation_up_m": 213.42506563431948,
+  "elevation_down_m": 213.38439202131372,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.393869,
+  "start_lng": 1.813709,
+  "start_alt_m": 1168.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "A “tossal” is the Catalan name by which the small elevations or hills of calcareous origin typical of the Pyrenean sub-Mediterranean mountains are known. The tossal d'Isòvol is included in the Tossals d'Isòvol and Olopte Protected Natural Area, in Baixa Cerdanya, and contains a very unique fauna, made up of Mediterranean species. It also has a rich and varied flora of continental and steppe species, many of which are unique to the area.\n\nThe Route begins in the town of Olopte, which you leave behind to continue south following the course of the Durán River. To the left you can see the tossal d'Isòvol whose ascent you start shortly before reaching Isòlvol. Until you reach the foot of this imposing hill, you walk through a pretty grove of trees along the river, ideal for keeping cool on warm days.\n\nAt the top of the tossal d'Isòvol you can access the viewpoint. Since it is located in the geographical center of the Cerdanya plain, you enjoy a privileged panoramic view of the region and also of the Segre river. From the viewpoint you can also observe some of the birds of prey typical of the area, such as the golden eagle or the boreal owl. From the top of the tossal, the Route continues descending again to Olopte, where you can visit the church of Sant Pere d'Olopte, located on a promontory that dominates the town.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This protected natural area is a good example of the limestone and schist hill landscapes of the area. These low hills, known as \"tossals\" (tozales or tesos in Spanish), are typical of the southern slopes of the eastern Pyrenees in the Cerdanya regions.\r\n\r\nDespite belonging to the Pyrenean sub-Mediterranean mountain, they are an area of penetration for numerous Mediterranean animal species, while their flora is continental and steppe.",
+    "The Durán River is a Pyrenean channel that rises in the Engorgs region, in the Sierra del Esquella. Its course is surrounded by landscapes of great beauty, in the heart of the Baixa Cerdanya region and it is a protected natural area that is part of the Natura 2000 Network.",
+    "From the viewpoint you can see a good part of the Cerdanya plain, with beautiful views over the valley and the Segre river. It is also a point of observation for birds of prey. It is accessed from the same path that surrounds the Tossal d'Isòvol.",
+    "The Tossal d'Isòvol is a rounded hill located between the towns of Isòvol and Olopte, it has a viewpoint with magnificent views of Cerdanya and the Segre River.",
+    "The church of Sant Pere d'Olopte is located on a small promontory located at the entrance to the town of Olopte. This church has been documented since the end of the 10th century, when it was consecrated in the Seo de Urgell.\r\n\r\nIts nave is rectangular, with a semicircular apse with a pointed vault cover. In the 17th century, two chapels were added to form a transept."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.07364792,
+    "nature": 0.9263521
+  },
+  "way_types": {
+    "minor_road": 0.07364792,
+    "way": 0.2768864,
+    "mountain_hiking_path": 0.6494657
+  },
+  "waypoints": [
+    {
+      "name": "Protected Natural Area of the Tossals of Isòvol and Olopte",
+      "lat": 42.387654,
+      "lng": 1.810352,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "trail",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 5896765
+    },
+    {
+      "name": "Durán River",
+      "lat": 42.381532,
+      "lng": 1.80706,
+      "type": "river",
+      "categories": [
+        "river",
+        "other_natural",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 5887921
+    },
+    {
+      "name": "Tossal d'Isòvol Viewpoint",
+      "lat": 42.381369,
+      "lng": 1.810672,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "unknown"
+      ],
+      "highlight_id": 5887697
+    },
+    {
+      "name": "Tossal d'Isòvol",
+      "lat": 42.384046,
+      "lng": 1.815879,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "other_natural",
+        "summit",
+        "intermediate"
+      ],
+      "highlight_id": 5887738
+    },
+    {
+      "name": "Sant Pere d’Olopte Church",
+      "lat": 42.391779,
+      "lng": 1.813471,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 5887763
+    }
+  ],
+  "categories": [
+    "forest",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "religious_building",
+    "river",
+    "summit",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.615384578704834,
+  "rating_count": 13,
+  "visitors": 62,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2023-07-07T15:00:27.897Z",
+  "changed_at": "2025-05-15T15:14:52.583Z",
+  "scraped_at": "2026-04-27T12:18:56.708138+00:00"
+}

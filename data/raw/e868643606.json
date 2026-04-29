@@ -1,0 +1,143 @@
+{
+  "tour_id": "e868643606",
+  "url": "https://www.komoot.com/smarttour/e868643606",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e868643606/smugglers-route",
+  "name": "Smugglers' Route",
+  "name_original": "Boucle de Saint-Pée-sur-Nivelle",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 37594.11135551416,
+  "duration_s": 8816,
+  "elevation_up_m": 448.5718638858395,
+  "elevation_down_m": 448.33676844940044,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.356019,
+  "start_lng": -1.552745,
+  "start_alt_m": 16.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle the moderate 23.4-mile Loop of Saint-Pée-sur-Nivelle, enjoying Basque Country scenery, the lake, and historic bridges.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Ascain is an authentic village in the Basque Country. Populated by its typical houses, it sits in a unique atmosphere at the foot of the first peaks of the Pyrenees.",
+    "The Col de St Ignace, starting point for taking the little train from La Rhune! Magnificent"
+  ],
+  "faqs": [
+    {
+      "question": "What is the typical duration and difficulty for cycling the Loop of Saint-Pée-sur-Nivelle?",
+      "answer": "<p>The main Loop of Saint-Pée-sur-Nivelle is a moderate 37.6 km route with an elevation gain of about 450 meters, typically taking around 2 hours and 27 minutes to complete. It requires good fitness but is suitable for all skill levels due to its predominantly paved surfaces. For a more relaxed experience, a shorter 13 km loop with 130 meters of elevation gain is available, taking about 1 hour and 45 minutes, perfect for beginners and racing bikes.</p>"
+    },
+    {
+      "question": "What kind of terrain will I encounter on this cycling route?",
+      "answer": "<p>The Loop of Saint-Pée-sur-Nivelle is characterized by mostly paved surfaces, making it well-suited for touring bicycles. While the broader region might have some unpaved sections on other routes, this specific loop is largely accessible and smooth.</p>"
+    },
+    {
+      "question": "What are the main scenic highlights and cultural points of interest along the loop?",
+      "answer": "<p>You'll experience picturesque Basque Country scenery, including unique green landscapes and traditional Basque houses. Key highlights include the tranquil Lake of Saint-Pée-sur-Nivelle, ancient bridges (like a Roman bridge), and the peaceful Nivelle riverbed. The route also passes through areas near <a href=\"https://www.komoot.com/highlight/3411050\" target=\"_blank\" rel=\"noopener\">Ascain</a> and the <a href=\"https://www.komoot.com/highlight/950759\" target=\"_blank\" rel=\"noopener\">Saint-Ignace Pass – Departure point for the La Rhune train</a>, offering glimpses into the region's rich cultural heritage.</p>"
+    },
+    {
+      "question": "Is the Loop of Saint-Pée-sur-Nivelle suitable for families or beginners?",
+      "answer": "<p>Yes, absolutely! While the full 37.6 km loop is moderate, there are easier, family-friendly options. A 13 km circuit with minimal elevation gain is perfect for all skill levels. The area around the Lake of Saint-Pée-sur-Nivelle also features a pleasant 3 km path, ideal for leisurely rides with children, complete with picnic areas and playgrounds.</p>"
+    },
+    {
+      "question": "What is the best time of year to cycle the Loop of Saint-Pée-sur-Nivelle?",
+      "answer": "<p>The best time to cycle this route is generally during the warmer months, from spring through early autumn. Summer offers the added benefit of being able to enjoy swimming and other water activities at the Lake of Saint-Pée-sur-Nivelle, which is a prominent feature along the route.</p>"
+    },
+    {
+      "question": "Where can I park to access the Loop of Saint-Pée-sur-Nivelle?",
+      "answer": "<p>As a loop trail, you have flexibility in where to start. While specific parking areas aren't detailed, Saint-Pée-sur-Nivelle village and areas around the lake typically offer parking facilities. Look for public parking in the village center or near recreational areas around the lake.</p>"
+    },
+    {
+      "question": "Are dogs allowed on the cycling route?",
+      "answer": "<p>Generally, dogs are permitted on public cycling paths in France, but they should always be kept on a leash, especially in populated areas or near wildlife. Please ensure you clean up after your pet to maintain the trail's cleanliness for everyone.</p>"
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees to cycle this loop?",
+      "answer": "<p>No, there are no specific permits or entrance fees required to cycle the Loop of Saint-Pée-sur-Nivelle. It's a public route accessible to everyone.</p>"
+    },
+    {
+      "question": "Does this route connect with other cycling paths or trails?",
+      "answer": "<p>Yes, the Loop of Saint-Pée-sur-Nivelle intersects with several other paths. Notably, it covers a significant portion of \"La route des contrebandiers\" (99%) and also passes through sections of \"La route des cols Hendaye - Larrau\" (38%) and \"Errobiko bidea - Bidasoa / Voie de la Nive - Bidassoa\" (9%).</p>"
+    },
+    {
+      "question": "Are there places to eat or get refreshments along the route?",
+      "answer": "<p>Yes, the village of Saint-Pée-sur-Nivelle itself offers various cafes and restaurants. Additionally, given the popularity of the Lake of Saint-Pée-sur-Nivelle as a recreational spot, you can expect to find refreshment options, especially during peak seasons.</p>"
+    },
+    {
+      "question": "What makes the Loop of Saint-Pée-sur-Nivelle a unique cycling experience?",
+      "answer": "<p>This loop stands out for its blend of natural beauty and rich cultural heritage. You'll cycle through the heart of the Basque Country, past traditional architecture and the serene Lake of Saint-Pée-sur-Nivelle, while also experiencing a route that reflects the region's history as a commercial crossroads and pilgrimage stop. The variety of route options also makes it accessible for different fitness levels.</p>"
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.008755735,
+    "sb#compacted": 0.019943403,
+    "sb#unpaved": 0.025331339,
+    "sb#paved": 0.1732771,
+    "sb#asphalt": 0.77269244
+  },
+  "way_types": {
+    "service": 0.0019785026,
+    "trail": 0.0032104794,
+    "cycleway": 0.009653148,
+    "minor_road": 0.01966617,
+    "way": 0.034822688,
+    "primary": 0.40537727,
+    "street": 0.52529174
+  },
+  "waypoints": [
+    {
+      "name": "Ascain",
+      "lat": 43.34508,
+      "lng": -1.620833,
+      "type": "settlement",
+      "categories": [
+        "family_friendly",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 3411050
+    },
+    {
+      "name": "Saint-Ignace Pass – Departure point for the La Rhune train",
+      "lat": 43.32612,
+      "lng": -1.601124,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "man_made_monument",
+        "family_friendly",
+        "mountain_pass",
+        "mountain_pass"
+      ],
+      "highlight_id": 950759
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "mountain_pass",
+    "settlement"
+  ],
+  "tags": [],
+  "rating_score": 3.7142856121063232,
+  "rating_count": 7,
+  "visitors": 82,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-02T10:12:20.510Z",
+  "changed_at": "2026-02-26T18:39:21.269Z",
+  "scraped_at": "2026-04-28T23:31:48.581799+00:00"
+}

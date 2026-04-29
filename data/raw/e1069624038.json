@@ -1,0 +1,118 @@
+{
+  "tour_id": "e1069624038",
+  "url": "https://www.komoot.com/smarttour/e1069624038",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069624038/gourzy-loop-running-in-the-ossau-valley",
+  "name": "Gourzy loop – running in the Ossau Valley",
+  "name_original": "Boucle de Gourzy — Courir dans la vallée d’Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14457.242360844066,
+  "duration_s": 11213,
+  "elevation_up_m": 1163.384941968341,
+  "elevation_down_m": 1163.3849419683402,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.973073,
+  "start_lng": -0.393617,
+  "start_alt_m": 712.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful loop on the heights of the town of Eaux-Bonnes is ideal for practitioners looking for a significant kilometer/elevation ratio. Indeed the 14.5 kilometers include almost 1,200 meters of elevation gain.\n\nThe route begins in the car park of the casino in the thermal village of Eaux-Bonnes. You start on a wide track which you leave quickly to descend into a district of the village. This section allows you to warm up well before undertaking a relatively steep climb. This one meanders in a beautiful forest while climbing in the gorges of Balour. It stops for a moment to reveal a magnificent grassy plateau which allows you to breathe a little before continuing the climb.\n\nGradually the forest opens up and you begin to see several peaks of Le Gourzy that you are about to discover. A final steep climb in the Combe de Balour takes you to the highest point of the outing: the Pas de Brèque. Located at the foot of the Pic de Gourzy at 1,866 meters, it offers a magnificent panorama of the surrounding peaks.\n\nThe descent then begins towards the wood of Assouste. Savor the view one last time before plunging into the forest following a trail that forms numerous switchbacks to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The pretty little mountain village of Eaux-Bonnes is perched 715 meters above sea level. It owes its fame to its thermal springs which have contributed to its development since the 17th century.\r\nNestled between Laruns and Gourette, the village encourages a pleasant break in a beautiful valley.",
+    "This pretty plateau is revealed after a steep climb in the forest of the Balour gorges. A beautiful meadow opens up revealing the rocky peaks that surround it.",
+    "The Pas de Brèque marks the end of the Vallon de Gourziotte that you have just crossed. From here you slowly start your descent to Eaux-Chaudes. Be sure to follow the yellow and red GRP trail as there are a lot of trails in this area which can easily mislead you.",
+    "Superb view on the descent from the Pic du Gourzy. It offers a nice panorama before plunging into the woods of Assouste"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.006461934,
+    "unknown": 0.01648756,
+    "unpaved": 0.029513,
+    "alpin": 0.9475375
+  },
+  "way_types": {
+    "minor_road": 0.022949493,
+    "hiking_path": 0.029513,
+    "mountain_hiking_path": 0.9475375
+  },
+  "waypoints": [
+    {
+      "name": "Eaux-Bonnes",
+      "lat": 42.9732,
+      "lng": -0.39369,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "natural_monument",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5588632
+    },
+    {
+      "name": "Plateau de Balour",
+      "lat": 42.9553,
+      "lng": -0.3971,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "other_natural",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 5598511
+    },
+    {
+      "name": "Brècque Pass",
+      "lat": 42.9443,
+      "lng": -0.4016,
+      "type": "viewpoint",
+      "categories": [
+        "intermediate",
+        "viewpoint",
+        "mountain_pass"
+      ],
+      "highlight_id": 4199883
+    },
+    {
+      "name": "Valley viewpoint",
+      "lat": 42.9612,
+      "lng": -0.4026,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5598560
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 38,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T14:31:32.367Z",
+  "changed_at": "2024-06-07T19:30:36.226Z",
+  "scraped_at": "2026-04-27T15:29:19.235847+00:00"
+}

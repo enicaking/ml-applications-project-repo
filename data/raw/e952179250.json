@@ -1,0 +1,134 @@
+{
+  "tour_id": "e952179250",
+  "url": "https://www.komoot.com/smarttour/e952179250",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e952179250/bossost-puerto-del-portillon-collado-de-baretja-es-bordes-ruta-circular-por-el-valle-de-aran",
+  "name": "Bossòst - Puerto del Portillón - Collado de Baretja - Es Bòrdes — Ruta circular por el Valle de Arán",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 41247.441243377965,
+  "duration_s": 20467,
+  "elevation_up_m": 1710.5921037028324,
+  "elevation_down_m": 1710.5355840819925,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.78403,
+  "start_lng": 0.694068,
+  "start_alt_m": 707.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Really nice small town that has plenty of resupply options and some hotels to sleep in.",
+    "Nice track to climb to the Portillon in Gravel/MTB mode. The part that goes over the pass remains quite flat for a while before actually starting the descent to Bossost. So, it's a nice spot to come and ride in the quiet mountains in family mode with children who are new to mountain biking, for example.",
+    "The Col du Portillón is a short but intense mountain pass that connects the Aran Valley to France via a narrow, shady road through forests. Its ascent, with its pleasant slopes, is highly appreciated by local and professional cyclists.",
+    "Located at an altitude of 1,750 meters on the border with France, it offers wonderful views, to the north, of the spectacular Maladetas massif (3,312 m)."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#asphalt": 0.09141403,
+    "sm#paved": 0.13106193,
+    "sm#alpin": 0.21913007,
+    "sm#nature": 0.2457668,
+    "sm#unpaved": 0.31262717
+  },
+  "way_types": {
+    "primary": 0.028554063,
+    "minor_road": 0.03837851,
+    "street": 0.08844487,
+    "trail": 0.24076615,
+    "way": 0.6038564
+  },
+  "waypoints": [
+    {
+      "name": "Bossòst",
+      "lat": 42.78501,
+      "lng": 0.69271,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "religious_building",
+        "wheelchair_accessible",
+        "river"
+      ],
+      "highlight_id": 2974212
+    },
+    {
+      "name": "Tuc de la Clota Trail",
+      "lat": 42.78814,
+      "lng": 0.671247,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "family_friendly",
+        "mtb_park"
+      ],
+      "highlight_id": 1084086
+    },
+    {
+      "name": "Portillón Pass",
+      "lat": 42.769038,
+      "lng": 0.660116,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "cycle_way",
+        "intermediate",
+        "trail",
+        "challenging",
+        "climb"
+      ],
+      "highlight_id": 6391367
+    },
+    {
+      "name": "Collado de Baretja",
+      "lat": 42.752767,
+      "lng": 0.648547,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 6391366
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "mtb_park",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 3,
+  "visitors": 79,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-13T16:34:02.527Z",
+  "changed_at": "2024-05-31T09:21:42.705Z",
+  "scraped_at": "2026-04-28T15:36:55.781530+00:00"
+}

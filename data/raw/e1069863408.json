@@ -1,0 +1,142 @@
+{
+  "tour_id": "e1069863408",
+  "url": "https://www.komoot.com/smarttour/e1069863408",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069863408/arre-sourins-running-in-the-ossau-valley",
+  "name": "Arre-Sourins – running in the Ossau Valley",
+  "name_original": "L'Arre-Sourins — Courir dans la vallée d’Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 13850.670919797081,
+  "duration_s": 10202,
+  "elevation_up_m": 1207.9111123355733,
+  "elevation_down_m": 1207.9111123355733,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.956641,
+  "start_lng": -0.328814,
+  "start_alt_m": 1386.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Often neglected in favor of its emblematic neighbour, the Pic du Ger, Arre-Sourins is a pretty summit located on the heights of Gourette. The start is in the ski resort in a car park near the GR 10.\n\nThe route starts by going up on the GR path towards Lake Anglas. This first lake of the day offers an unobstructed view of the Arre-Sourins. The climb continues by meandering in a scree on its last portion. At the top, at 2,614 meters, you find yourself at the highest point of the exit. You will discover a magnificent panorama of all the emblematic peaks of the Ossau valley as well as many lakes. Take advantage of this superb belvedere before turning back.\n\nBack on the Arre plateau, you go around the peak of Anglas to head towards the lake of Lavedan then that of Uzious. A few kilometers further you find the GR 10. Follow its markings until you find your starting point in Gourette.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Anglas is a small natural lake perched 2,068 meters above sea level.\r\nIt is nestled at the bottom of a small circus and surrounded by the Pène-Médaa (2,521 meters above sea level) and the Arre Sourins (2,614 meters above sea level).",
+    "L'Arre-Sourrins is a pretty summit which culminates at 2,614 meters. Accessible from Gourette via the GR 10, it offers a magnificent panorama of the peaks that surround it, including the Pic du Ger. It spectacularly dominates the lake of Anglas which is more than 600 meters below.",
+    "Lac du Lavedan sits on a beautiful grassy plateau at an altitude of 2,179 metres. It dominates a series of lakes which are on the heights of the Cirque de Gourette.",
+    "A small mountain lake located at an altitude of 2,117 meters in the town of Eaux-Bonnes, upstream from the Cirque de Gourette.",
+    "Gourette is part of the thermal village of Eaux-Bonnes. This ski resort is around 1,400 meters above sea level and offers plenty of accommodation and dining options."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.00045840716,
+    "asphalt": 0.0015533359,
+    "unknown": 0.0049925316,
+    "nature": 0.084533714,
+    "alpin": 0.35611853,
+    "unpaved": 0.5523435
+  },
+  "way_types": {
+    "minor_road": 0.0007083303,
+    "street": 0.0008450057,
+    "way": 0.23290879,
+    "mountain_hiking_path": 0.35611853,
+    "hiking_path": 0.40941936
+  },
+  "waypoints": [
+    {
+      "name": "Lake Anglas",
+      "lat": 42.9325,
+      "lng": -0.3243,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "lake"
+      ],
+      "highlight_id": 4230689
+    },
+    {
+      "name": "Arre-Sourins",
+      "lat": 42.9264,
+      "lng": -0.3361,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "challenging"
+      ],
+      "highlight_id": 5599082
+    },
+    {
+      "name": "Lac du Lavedan",
+      "lat": 42.9226,
+      "lng": -0.3135,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 5599110
+    },
+    {
+      "name": "Lac d'Uzious",
+      "lat": 42.927254,
+      "lng": -0.315914,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 4785396
+    },
+    {
+      "name": "Gourette",
+      "lat": 42.95659,
+      "lng": -0.32878,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "facilities",
+        "viewpoint"
+      ],
+      "highlight_id": 5598937
+    }
+  ],
+  "categories": [
+    "challenging",
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 19,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T17:43:50.206Z",
+  "changed_at": "2024-06-07T19:31:51.285Z",
+  "scraped_at": "2026-04-27T15:39:07.877551+00:00"
+}

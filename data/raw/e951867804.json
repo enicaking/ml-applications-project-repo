@@ -1,0 +1,136 @@
+{
+  "tour_id": "e951867804",
+  "url": "https://www.komoot.com/smarttour/e951867804",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e951867804/valle-de-toran-les-pista-portet-refugio-honeria-canejan-les-circular-por-el-valle-de-aran",
+  "name": "Valle de Toran: Les - Pista Portet - Refugio Honeria - Canejan - Les — Circular por el Valle de Arán",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 39407.86317713155,
+  "duration_s": 15060,
+  "elevation_up_m": 1308.083941050713,
+  "elevation_down_m": 1306.9002885451503,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.808353,
+  "start_lng": 0.71001,
+  "start_alt_m": 666,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "From the viewpoint, Guardador de Les, we can see this beautiful small town in the Arán Valley, the mountains that surround it and the Garonne River that flows towards France.",
+    "This refuge is located in the Torán Valley, at an altitude of 1,015 metres. When it is open, it has 30 places and there is a restaurant service, hot shower, barbecues, lockers, etc. It is perfect for starting hiking trails, as it is accessible by car.\r\nCurrently (September 2022) it is closed for works. Stay tuned for the next reopening. Information on reservations is at this link: refusonline.com/es/mapa-reservas-online/erahoneria.",
+    "San Juan de Torán is part of the municipality of Caneján and is literally one of those towns that have \"two streets\". In 2019 it had 3 inhabitants.\r\n\r\nIt is located very close to the border with France and next to the Torán River, a tributary of the Garonne. The constructions of this place are very peculiar and deserve a visit, as well as the 12th century church. Throughout the town there are impressive views of the Aran Valley.",
+    "The Haro de Les festival has a pagan origin. On the summer solstice, a fir trunk about 12 meters high was burned to thank the gods for the success of the crops. Currently, it is a folklore festival declared intangible heritage of humanity by UNESCO and is celebrated with typical Aranese dances on June 24, Saint John's Day."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0024552352,
+    "sm#alpin": 0.07761089,
+    "sm#paved": 0.09279982,
+    "sm#nature": 0.34640726,
+    "sm#asphalt": 0.48072678
+  },
+  "way_types": {
+    "minor_road": 0.027513232,
+    "primary": 0.029197587,
+    "trail": 0.069211476,
+    "way": 0.37964794,
+    "street": 0.49442977
+  },
+  "waypoints": [
+    {
+      "name": "View of Les from Mirador Guardador de Les",
+      "lat": 42.808917,
+      "lng": 0.714744,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "mountain_pass",
+        "river",
+        "family_friendly",
+        "settlement"
+      ],
+      "highlight_id": 5130997
+    },
+    {
+      "name": "Refugio Era Honeria",
+      "lat": 42.81829,
+      "lng": 0.80639,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "family_friendly",
+        "restaurant",
+        "facilities",
+        "pub",
+        "accomodation"
+      ],
+      "highlight_id": 5061813
+    },
+    {
+      "name": "San Juan de Torán",
+      "lat": 42.823783,
+      "lng": 0.797077,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "intermediate",
+        "viewpoint",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 5030133
+    },
+    {
+      "name": "Haro of Les",
+      "lat": 42.812222,
+      "lng": 0.713226,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "family_friendly",
+        "historical_site",
+        "settlement"
+      ],
+      "highlight_id": 5130977
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "pub",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.916666507720947,
+  "rating_count": 12,
+  "visitors": 61,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-13T09:34:19.907Z",
+  "changed_at": "2024-05-31T09:21:37.757Z",
+  "scraped_at": "2026-04-28T15:36:59.377765+00:00"
+}

@@ -1,0 +1,159 @@
+{
+  "tour_id": "e969085758",
+  "url": "https://www.komoot.com/smarttour/e969085758",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e969085758/oak-road-and-ustaritz-loop",
+  "name": "Oak Road and Ustaritz Loop",
+  "name_original": "Boucle entre Espelette et Ustarritz",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 17469.902792655284,
+  "duration_s": 4508,
+  "elevation_up_m": 227.27819059909498,
+  "elevation_down_m": 227.261802741731,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.342299,
+  "start_lng": -1.450184,
+  "start_alt_m": 75.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This easy 10.9-mile mountain biking loop between Espelette and Ustarritz offers charming Basque landscapes and cultural highlights.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Segment that takes you to Espelette in the middle of pepper fields. There's gravel, there's forest. It's green, it's red. The colors of the Basque country surround you.",
+    "Pretty Basque village and starting point of the recommended bike path to Bayonne.",
+    "A superb, typical Basque village! Take advantage of your visit to grab a sandwich or a jar of Basque piperade, the local specialty."
+  ],
+  "faqs": [
+    {
+      "question": "Is the Boucle entre Espelette et Ustarritz suitable for beginners or families?",
+      "answer": "Yes, this mountain bike loop is classified as 'easy' and is designed to be accessible for riders of all skill and fitness levels, making it ideal for beginners and families looking for a pleasant outdoor experience in the Basque Country."
+    },
+    {
+      "question": "What is the terrain like on this mountain bike route?",
+      "answer": "The route covers approximately 17.5 km with around 227 meters of elevation gain. The terrain is a mix, with about 72% paved roads and 28% other surfaces, including regular roads, paths, and quiet roads. You'll experience constantly rising and falling roads through dense green forests and lush fields."
+    },
+    {
+      "question": "How long does it typically take to complete this mountain bike loop?",
+      "answer": "On average, completing the Boucle entre Espelette et Ustarritz takes about 1 hour and 15 minutes. This duration can vary depending on your pace and how often you stop to enjoy the scenery or visit points of interest."
+    },
+    {
+      "question": "What are the main sights and landscapes I can expect to see along the route?",
+      "answer": "You'll experience the quintessential beauty of the Basque Country, with charming rural landscapes, green forests, and fields where sheep graze. Key highlights include <a href=\"https://www.komoot.com/highlight/5373758\" target=\"_blank\" rel=\"noopener\">The Oak Road</a>, the historic <a href=\"https://www.komoot.com/highlight/3538478\" target=\"_blank\" rel=\"noopener\">Ustaritz Château and Church</a>, and the famous <a href=\"https://www.komoot.com/highlight/4785522\" target=\"_blank\" rel=\"noopener\">Espelette Village</a>, known for its unique peppers. You might also catch glimpses of mountains like La Rhune and Mondarrain."
+    },
+    {
+      "question": "Where can I park to access the Boucle entre Espelette et Ustarritz?",
+      "answer": "While specific parking details for this exact loop are not provided, both Espelette and Ustarritz are villages with public parking options. It's advisable to look for designated parking areas within or on the outskirts of these villages to begin your ride."
+    },
+    {
+      "question": "What is the best time of year to ride this trail?",
+      "answer": "The trail can be enjoyed for much of the year. Spring and autumn offer pleasant temperatures and vibrant landscapes. Summer is also popular, though it can be warmer. Winter rides are possible, but be mindful of potential rain and cooler conditions typical of the Basque Country."
+    },
+    {
+      "question": "Is the Boucle entre Espelette et Ustarritz dog-friendly?",
+      "answer": "Generally, dogs are welcome on trails in this region, especially if kept on a leash. Given the mix of paved roads and paths, and the presence of livestock in fields, keeping your dog leashed is recommended to ensure their safety and respect for local wildlife and property."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this mountain bike loop?",
+      "answer": "No, there are no specific permits or entrance fees required to ride the Boucle entre Espelette et Ustarritz. It's a public access route through the beautiful Basque countryside."
+    },
+    {
+      "question": "Does this route connect with other trails in the area?",
+      "answer": "Yes, the route intersects with several other official trails. You'll find sections that overlap with the Baztan Way, Entre Nive et Arberoue, Nive Way (Way of Saint James), La route des contrebandiers, and various segments of the Circuit des Familles, among others."
+    },
+    {
+      "question": "Are there places to eat or drink near the trail?",
+      "answer": "Absolutely! The loop passes through or near charming villages like Espelette and Ustarritz. Espelette, in particular, is famous for its peppers and offers numerous opportunities to stop for a meal, a coffee, or to sample local Basque specialties."
+    },
+    {
+      "question": "Is the Boucle entre Espelette et Ustarritz a loop trail?",
+      "answer": "Yes, as its name 'Boucle' (loop) suggests, this is a circular trail, meaning you'll end your ride at the same point where you started, without needing to retrace your steps."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.034644734,
+    "sm#nature": 0.051108707,
+    "sm#unpaved": 0.23124176,
+    "sm#paved": 0.29890364,
+    "sm#asphalt": 0.38410115
+  },
+  "way_types": {
+    "service": 0.0038092614,
+    "trail": 0.051108707,
+    "primary": 0.0886486,
+    "minor_road": 0.22344528,
+    "way": 0.2323379,
+    "street": 0.40065023
+  },
+  "waypoints": [
+    {
+      "name": "The Oak Road",
+      "lat": 43.344886,
+      "lng": -1.464583,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "cycle_way",
+        "intermediate",
+        "forest"
+      ],
+      "highlight_id": 5373758
+    },
+    {
+      "name": "Ustaritz Château and Church",
+      "lat": 43.397062,
+      "lng": -1.454297,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "religious_building",
+        "family_friendly",
+        "castle",
+        "settlement"
+      ],
+      "highlight_id": 3538478
+    },
+    {
+      "name": "Espelette Village",
+      "lat": 43.340653,
+      "lng": -1.4467,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 4785522
+    }
+  ],
+  "categories": [
+    "castle",
+    "cycle_way",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "settlement",
+    "trail"
+  ],
+  "tags": [],
+  "rating_score": 3.3333333,
+  "rating_count": 6,
+  "visitors": 17,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-31T16:37:22.913Z",
+  "changed_at": "2026-02-26T19:02:15.172Z",
+  "scraped_at": "2026-04-28T15:01:41.940063+00:00"
+}

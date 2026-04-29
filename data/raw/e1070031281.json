@@ -1,0 +1,130 @@
+{
+  "tour_id": "e1070031281",
+  "url": "https://www.komoot.com/smarttour/e1070031281",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1070031281/tour-of-cezy-running-in-the-ossau-valley",
+  "name": "Tour of Cézy – running in the Ossau Valley",
+  "name_original": "Le tour de Cézy — Courir dans la vallée d’Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 20157.783093786304,
+  "duration_s": 13054,
+  "elevation_up_m": 1420.773193852871,
+  "elevation_down_m": 1420.77319385287,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.952487,
+  "start_lng": -0.439815,
+  "start_alt_m": 691.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The peak of Cézy stands as a citadel watching over access to the bottom of the Ossau valley. This route invites you to go around it starting from the thermal village of Eaux-Chaudes.\n\nLeaving the village you embark on an ascent that begins in a beautiful forest. As you climb, the landscape opens up to vast summer pastures. Behind you, the view also reveals superb peaks such as the Bouerzy peak or the Montaut peak. A last section of steep climb leads to the Pas de Brèque.\n\nThe Pic du Ger now stands in front of you. A pretty balcony path guides you to the Col de Lurdé. Located at an altitude of 1,958 meters below the peak of Cézy, it is the highest point of your outing.\nYou continue by starting a beautiful downhill portion that joins the GR 10 path. A beautiful balcony suspended above the Soussouéou valley leads you to the Lacaya plateau.\n\nThe end of the route is on a pleasant path that winds through the forest while descending towards the Eaux-Chaudes. Along the way, do not miss the incredible cave which is a few kilometers before returning to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Pas de Brèque marks the end of the Vallon de Gourziotte that you have just crossed. From here you slowly start your descent to Eaux-Chaudes. Be sure to follow the yellow and red GRP trail as there are a lot of trails in this area which can easily mislead you.",
+    "Superb path that runs along the side of the Petite Ancizette. This magnificent balcony is also on the GR 10 path towards Gourette.",
+    "By entering the caves of Eaux-Chaudes you can reach the underground banks of the bed of the river which passes in front of the entrance to the cave.",
+    "Small village with famous thermal baths"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.00861299,
+    "paved": 0.03991935,
+    "unknown": 0.07489627,
+    "alpin": 0.13366584,
+    "unpaved": 0.74290556
+  },
+  "way_types": {
+    "minor_road": 0.00861299,
+    "way": 0.11481562,
+    "mountain_hiking_path": 0.13366584,
+    "hiking_path": 0.74290556
+  },
+  "waypoints": [
+    {
+      "name": "Brècque Pass",
+      "lat": 42.9438,
+      "lng": -0.4015,
+      "type": "viewpoint",
+      "categories": [
+        "intermediate",
+        "viewpoint",
+        "mountain_pass"
+      ],
+      "highlight_id": 4199883
+    },
+    {
+      "name": "Balcon d'Arcizette",
+      "lat": 42.911226,
+      "lng": -0.396063,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5599238
+    },
+    {
+      "name": "Eaux-Chaudes Cave",
+      "lat": 42.93713,
+      "lng": -0.43916,
+      "type": "cave",
+      "categories": [
+        "cave",
+        "river",
+        "forest",
+        "intermediate",
+        "natural_monument",
+        "gorge"
+      ],
+      "highlight_id": 1017577
+    },
+    {
+      "name": "Eaux-Chaudes",
+      "lat": 42.9524,
+      "lng": -0.4397,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "other_natural",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5599432
+    }
+  ],
+  "categories": [
+    "cave",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 3,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T20:31:45.734Z",
+  "changed_at": "2024-06-07T19:34:21.584Z",
+  "scraped_at": "2026-04-27T15:39:11.450412+00:00"
+}

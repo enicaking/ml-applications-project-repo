@@ -1,0 +1,119 @@
+{
+  "tour_id": "e932276308",
+  "url": "https://www.komoot.com/smarttour/e932276308",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e932276308/ruta-del-hierro-y-del-carbon-entre-ripoll-y-ogassa",
+  "name": "Ruta del Hierro y del Carbón entre Ripoll y Ogassa",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 31309.208200770023,
+  "duration_s": 7390,
+  "elevation_up_m": 461.8865839546785,
+  "elevation_down_m": 461.8865839546784,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.19569,
+  "start_lng": 2.196446,
+  "start_alt_m": 684.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Magnificent medieval Gothic-style bridge that crosses the River Ter as it passes through Sant Joan de les Abadesses. Since its construction, the bridge has undergone various transformations and, in the 1970s, after being destroyed during the Civil War, the new bridge was inaugurated.",
+    "Mina Dolça is an old coal mine in the municipality of Ogassa built in the 19th century. Currently access to the mine is impracticable due to weeds at the entrance and water seepage.",
+    "The Ogassa coal mine museum shows the municipality's past, when, thanks to the exploitation of the mines between the end of the 18th century and 1967, it brought economic and industrial growth to the Ripollès region that allowed the arrival of the railway to the territory."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.000705427,
+    "sm#unpaved": 0.0034686418,
+    "sm#gravel": 0.017740812,
+    "sm#asphalt": 0.063177526,
+    "sm#paved": 0.9149076
+  },
+  "way_types": {
+    "service": 0.000705427,
+    "street": 0.00075134623,
+    "way": 0.00530126,
+    "minor_road": 0.049042657,
+    "primary": 0.053608608,
+    "cycleway": 0.8905907
+  },
+  "waypoints": [
+    {
+      "name": "Pont Vell of Sant Joan de les Abadesses",
+      "lat": 42.234886,
+      "lng": 2.284991,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "historical_site",
+        "man_made_monument",
+        "family_friendly",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 471788
+    },
+    {
+      "name": "Mina Dolça",
+      "lat": 42.266495,
+      "lng": 2.275756,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "other_man_made",
+        "intermediate",
+        "challenging",
+        "cave"
+      ],
+      "highlight_id": 3618628
+    },
+    {
+      "name": "Ogassa Coal Mines Museum",
+      "lat": 42.266861,
+      "lng": 2.274847,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "other_man_made",
+        "intermediate",
+        "man_made_monument",
+        "unknown"
+      ],
+      "highlight_id": 5042567
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cave",
+    "challenging",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "other_man_made",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.636363506317139,
+  "rating_count": 11,
+  "visitors": 121,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-21T13:33:24.152Z",
+  "changed_at": "2024-05-31T09:19:16.525Z",
+  "scraped_at": "2026-04-28T15:58:20.154032+00:00"
+}

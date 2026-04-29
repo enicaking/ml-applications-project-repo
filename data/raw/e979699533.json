@@ -1,0 +1,113 @@
+{
+  "tour_id": "e979699533",
+  "url": "https://www.komoot.com/smarttour/e979699533",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e979699533/to-the-feet-of-aneto-ascent-to-la-besurta",
+  "name": "To the feet of Aneto — ascent to La Besurta",
+  "name_original": "Hasta los pies del Aneto — subida a La Besurta",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 33575.88844311316,
+  "duration_s": 9928,
+  "elevation_up_m": 910.2196738548446,
+  "elevation_down_m": 910.1281248350733,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606992,
+  "start_lng": 0.523832,
+  "start_alt_m": 1163.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "End of paved road. Interesting climb.",
+    "End of the track that reaches the La Besurta hut at 1,920 meters high and at the foot of Aneto and the Maladeta massif. La Besurta is open in the summer season and many walks can be done from this point in the valley, such as the Plan d'Aigualluts.",
+    "This is an alternative route to the road that borders the river Ésara and where it runs close to the bank of the same river, while avoiding the tunnels. The Fisherman's Refuge is a small hut in the middle of the route"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0022256123,
+    "sb#unpaved": 0.106780015,
+    "sb#asphalt": 0.27171305,
+    "sb#paved": 0.6192813
+  },
+  "way_types": {
+    "minor_road": 0.0028877158,
+    "trail": 0.0032711257,
+    "way": 0.112433106,
+    "street": 0.88140804
+  },
+  "waypoints": [
+    {
+      "name": "Camino de Aigualluts",
+      "lat": 42.683348,
+      "lng": 0.613081,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 837946
+    },
+    {
+      "name": "La Besurta",
+      "lat": 42.680935,
+      "lng": 0.648746,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "viewpoint",
+        "facilities",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 837943
+    },
+    {
+      "name": "Alternative route Fishermen's Shelter",
+      "lat": 42.652558,
+      "lng": 0.576778,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "forest",
+        "river",
+        "viewpoint",
+        "hut"
+      ],
+      "highlight_id": 5285318
+    }
+  ],
+  "categories": [
+    "facilities",
+    "forest",
+    "hut",
+    "intermediate",
+    "other_natural",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 4,
+  "visitors": 104,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-14T16:29:46.770Z",
+  "changed_at": "2024-06-06T05:11:46.719Z",
+  "scraped_at": "2026-04-28T23:59:19.795026+00:00"
+}

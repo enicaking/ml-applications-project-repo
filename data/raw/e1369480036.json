@@ -1,0 +1,125 @@
+{
+  "tour_id": "e1369480036",
+  "url": "https://www.komoot.com/smarttour/e1369480036",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369480036/ispeguy-pass",
+  "name": "Ispeguy pass ",
+  "name_original": "Le col d'Ispeguy",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 18457.243492131885,
+  "duration_s": 10173,
+  "elevation_up_m": 914.680820635856,
+  "elevation_down_m": 916.3027225545611,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.177157,
+  "start_lng": -1.341902,
+  "start_alt_m": 159.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Located at an altitude of 672 meters, the Ispeguy Pass is an emblematic border crossing in the Basque Country. It forms the link between the Spanish valley of Baztan in Navarre and that of Aldudes in France. This route leads to the discovery of the pass from the village of Saint-Etienne-de-Baïgorry.\n\nIn a loop, the route begins with a relatively steep climb, crosses a wood which leads to the pass, then concludes with a long gradual descent on a magnificent path. As soon as you leave the village, the route begins on a path that goes straight up the slope. On open ground, you climb along a wide ridge which leads to Elhorriko Kaskoa.\n\nThe highest point of the route, this summit offers sweeping views of the Aldudes valley from where you started. You then head towards Ispeguy following a path that goes deep into the forest. This pleasant section wanders along the foothills of the French-Spanish border.\n\nWhen you reach Ispeguy Pass, the forest dissipates and many vistas are revealed. On the one hand the mythical Basque peaks of Rhune and Pic d'Orhy, on the other hand the Béarnaise mountains with the Anie and Gourette massifs. The terrace of the inn located there allows you to take a break to savor these beautiful views.\n\nThe last part of the route consists of returning to Saint-Etienne-de-Baïgorry via a long and magnificent descent. The path, very pleasant, dominates the road which leads to the pass by a few meters. You move along the foothills of the Iparla ridges in contact with open terrain, before plunging into the forest as you approach the village. The outing ends with small sections of roads which lead to the starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "Located at 987 meters above sea level, Elhorriko Kaskoa is a peak that is easily reached from the Ispeguy Pass. Dominating the village of Baigorri, it forms a great viewpoint over all the peaks of Iparla.",
+    "Fresh water at St Etienne Baigorry church"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.02957796,
+    "gravel": 0.062128518,
+    "paved": 0.08090981,
+    "asphalt": 0.10054993,
+    "nature": 0.11099814,
+    "alpin": 0.1671156,
+    "unpaved": 0.44872004
+  },
+  "way_types": {
+    "track": 0.0012909385,
+    "street": 0.022434866,
+    "way": 0.10568692,
+    "mountain_hiking_path": 0.1671156,
+    "minor_road": 0.19940682,
+    "hiking_path": 0.50406486
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.17706,
+      "lng": -1.34189,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "Elhorriko Kaskoa",
+      "lat": 43.1572,
+      "lng": -1.3956,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 1819027
+    },
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.17572,
+      "lng": -1.40187,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    }
+  ],
+  "categories": [
+    "bridge",
+    "climb",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "restaurant",
+    "river",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 97,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T12:03:45.215Z",
+  "changed_at": "2024-08-13T10:48:55.972Z",
+  "scraped_at": "2026-04-27T15:18:48.598464+00:00"
+}

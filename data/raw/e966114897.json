@@ -1,0 +1,175 @@
+{
+  "tour_id": "e966114897",
+  "url": "https://www.komoot.com/smarttour/e966114897",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e966114897/arrako-waterfall-and-belagua-valley-loop",
+  "name": "Arrako Waterfall and Belagua Valley Loop",
+  "name_original": "Refugio de Belagua-El Ferial – circular por el Rio Belagua y la Cascada de Arrako",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21713.90959880657,
+  "duration_s": 25133,
+  "elevation_up_m": 806.1180892813935,
+  "elevation_down_m": 808.6867797825618,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.932817,
+  "start_lng": -0.834321,
+  "start_alt_m": 991,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the difficult 13.5-mile Refugio de Belagua-El Ferial circular route, featuring the Rio Belagua and the beautiful Arrako Waterfall.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Belagua River rises on the western slope of Mount Paquiza-Linzola, in the Pyrenean area called Rincón de Belagua. In its first section it heads west but its channel is only functional because its waters infiltrate towards the French slope.\n\nIt is surrounded by a spectacular landscape to enjoy in any season of the year.",
+    "A beautiful waterfall a few meters from the road that crosses the Spain-France border. It is worth a visit especially if you are on your way to the Belagua refuge.",
+    "The small hut is located right next to a road and a large parking lot and can be very crowded in high season. However, there is delicious food and places to sleep if you want to stay overnight here.",
+    "The Larra-Belagua Station is located at the head of the Roncal Valley, in the Larra-Belagua area, in the heart of the Navarrese Pyrenees.\r\n\r\nYou can taste some good food dishes. This station is famous for cross-country skiing in the winter, and for hikers and bikers the rest of the year. For more information: https://www.esquilarrabelagua.com."
+  ],
+  "faqs": [
+    {
+      "question": "How long does this circular hike typically take?",
+      "answer": "This challenging circular hike, covering approximately 21.7 kilometers, typically takes around 6 hours and 59 minutes to complete. This duration is for active hiking time and doesn't include breaks."
+    },
+    {
+      "question": "Is this trail suitable for beginners?",
+      "answer": "No, this trail is classified as 'difficult' and requires 'very good fitness' and 'sure-footedness'. It is not recommended for beginners due to its length, significant elevation changes (over 800 meters up and down), and varied terrain."
+    },
+    {
+      "question": "Where does the trail start, and is there parking available?",
+      "answer": "The trail conveniently starts and ends at the <a href=\"https://www.komoot.com/highlight/2709792\" target=\"_blank\" rel=\"noopener\">Refugio de Belagua</a>. As this refuge is a significant base for mountaineering in Navarre, parking is generally available there, making it an ideal starting point for your adventure."
+    },
+    {
+      "question": "What kind of terrain can I expect on this hike?",
+      "answer": "You can expect diverse terrain on this route. While paths are mostly accessible, some sections may be uneven or rocky, requiring sure-footedness. The trail follows the <a href=\"https://www.komoot.com/highlight/4840232\" target=\"_blank\" rel=\"noopener\">Belagua River</a>, offering continuous riverside views, and passes through the El Ferial area, known for its distinctive limestone rock formations."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "Key points of interest include the picturesque <a href=\"https://www.komoot.com/highlight/4840232\" target=\"_blank\" rel=\"noopener\">Belagua River</a>, which the trail follows, and the beautiful <a href=\"https://www.komoot.com/highlight/4373323\" target=\"_blank\" rel=\"noopener\">Arrako Waterfall</a>. The hike also begins and ends at the <a href=\"https://www.komoot.com/highlight/2709792\" target=\"_blank\" rel=\"noopener\">Refugio de Belagua</a>, a notable high-mountain refuge."
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "The information available does not explicitly state restrictions on dogs for this specific trail. However, as a general rule in natural areas, it's always best to keep dogs on a leash to protect local wildlife and ensure a pleasant experience for all hikers."
+    },
+    {
+      "question": "What is the best time of year to hike this route?",
+      "answer": "Given its location in the Pyrenees and the mention of winter activities in the broader region, the best time for hiking this specific route is typically from late spring through early autumn (May to October). During these months, you'll likely encounter more favorable weather conditions and less snow, making the challenging terrain more manageable."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this hike?",
+      "answer": "Based on the available information, there are no specific permits or entrance fees required to hike this circular route. You can freely access the trail from the <a href=\"https://www.komoot.com/highlight/2709792\" target=\"_blank\" rel=\"noopener\">Refugio de Belagua</a>."
+    },
+    {
+      "question": "Are there any facilities or accommodation options along the trail?",
+      "answer": "Yes, the <a href=\"https://www.komoot.com/highlight/2709792\" target=\"_blank\" rel=\"noopener\">Refugio de Belagua</a>, which serves as the starting and ending point, is a full-service high-mountain refuge. It offers 54 beds, food, and bar services year-round, making it a convenient spot for pre- or post-hike refreshments or an overnight stay."
+    },
+    {
+      "question": "Does this route intersect with other official trails?",
+      "answer": "Yes, this route shares sections with several other official trails. Notably, it covers parts of the Via Sancti Martini - Chemin de Saragosse (53%), Errege bidea: Arrako - Belaguako aterpea (46%), and [CIMA NA05] Piedra de San Martín (46%). You'll also find it intersecting with E2. Errege bidea: Izaba - Belaguako aterpea (37%) and Étape 07 (32%)."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.08868862,
+    "alpin": 0.10747871,
+    "asphalt": 0.1691228,
+    "unpaved": 0.6347099
+  },
+  "way_types": {
+    "minor_road": 0.020607369,
+    "way": 0.06808125,
+    "mountain_hiking_path": 0.10747871,
+    "primary": 0.1691228,
+    "hiking_path": 0.6347099
+  },
+  "waypoints": [
+    {
+      "name": "Belagua River",
+      "lat": 42.92572,
+      "lng": -0.85973,
+      "type": "river",
+      "categories": [
+        "river",
+        "viewpoint",
+        "family_friendly",
+        "other_natural"
+      ],
+      "highlight_id": 4840232
+    },
+    {
+      "name": "Arrako Waterfall",
+      "lat": 42.936954,
+      "lng": -0.860969,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 4373323
+    },
+    {
+      "name": "Belagua Refuge",
+      "lat": 42.94502,
+      "lng": -0.834982,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "parking",
+        "facilities",
+        "restaurant",
+        "family_friendly",
+        "accomodation",
+        "pub"
+      ],
+      "highlight_id": 2709792
+    },
+    {
+      "name": "Larra-Belagua Visitor Center",
+      "lat": 42.957702,
+      "lng": -0.801088,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "restaurant",
+        "settlement",
+        "hut",
+        "family_friendly"
+      ],
+      "highlight_id": 3095091
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "facilities",
+    "family_friendly",
+    "hut",
+    "natural_monument",
+    "other_natural",
+    "parking",
+    "pub",
+    "restaurant",
+    "river",
+    "settlement",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-29T14:26:13.294Z",
+  "changed_at": "2026-02-26T18:55:20.060Z",
+  "scraped_at": "2026-04-27T11:34:51.976794+00:00"
+}

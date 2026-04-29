@@ -1,0 +1,135 @@
+{
+  "tour_id": "e1216814537",
+  "url": "https://www.komoot.com/smarttour/e1216814537",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1216814537/benasque-a-refugio-de-estos-parque-natural-posets-maladet",
+  "name": "Benasque a Refugio de Estós — Parque Natural Posets-Maladet",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 24511.939678381714,
+  "duration_s": 9819,
+  "elevation_up_m": 784.270948006058,
+  "elevation_down_m": 784.3037406564883,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606797,
+  "start_lng": 0.524521,
+  "start_alt_m": 1166.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Benasque occupies the central valley of the three that make up the Posets-Maladeta Natural Park. From this town with a lot of soul you can enjoy the Pyrenean landscape. Not only that, but it is home to the largest number of 3,000-meter-high peaks in the mountain range.\r\n\r\nThe Benasque Valley forms the center and heart of the Pyrenees.",
+    "This is a nice trail that is mostly single track. The perfect way to start or end a longer mountain bike ride or just as part of a small loop.",
+    "The Cubera bridge, also known as the stone bridge, crosses the Ésera river, in the Benasque valley. This stone bridge, of probable Romanesque origin, is built with masonry rigs of irregular shapes. It has only one eye, with a semicircular arch, and its profile is that of an irregular donkey's back, since one slope is longer than the other. The bridge road is made of ashlar, including some small sidings.",
+    "The Estós refuge is located at an altitude of 1,859 metres. It has 120 sleeping places in bunk beds and offers bed linen, heating and a fireplace. It also has a bar service and a self-service kitchen."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0018555769,
+    "sm#alpin": 0.004004249,
+    "sm#paved": 0.047491092,
+    "sm#asphalt": 0.051654447,
+    "sm#unpaved": 0.8949946
+  },
+  "way_types": {
+    "street": 0.009995442,
+    "primary": 0.010833252,
+    "minor_road": 0.029514719,
+    "trail": 0.3503962,
+    "way": 0.5992604
+  },
+  "waypoints": [
+    {
+      "name": "Benasque Village Center",
+      "lat": 42.60714,
+      "lng": 0.523784,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 2730451
+    },
+    {
+      "name": "Camino del Rigau",
+      "lat": 42.614911,
+      "lng": 0.528035,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "other_natural",
+        "intermediate",
+        "cycle_way"
+      ],
+      "highlight_id": 6088812
+    },
+    {
+      "name": "Puente de Cubera",
+      "lat": 42.624435,
+      "lng": 0.543763,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "man_made_monument",
+        "historical_site",
+        "intermediate",
+        "river"
+      ],
+      "highlight_id": 5114345
+    },
+    {
+      "name": "Estós Refuge",
+      "lat": 42.675434,
+      "lng": 0.485153,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "pub",
+        "restaurant",
+        "accomodation"
+      ],
+      "highlight_id": 555882
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "bridge",
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "man_made_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.666666507720947,
+  "rating_count": 3,
+  "visitors": 48,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-17T10:33:55.878Z",
+  "changed_at": "2024-05-31T09:59:55.391Z",
+  "scraped_at": "2026-04-28T15:30:42.368715+00:00"
+}

@@ -1,0 +1,141 @@
+{
+  "tour_id": "e1040736608",
+  "url": "https://www.komoot.com/smarttour/e1040736608",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1040736608/senpereko-trail-running-in-the-basque-country",
+  "name": "SENPEREKO Trail – running in the Basque Country",
+  "name_original": "SENPEREKO Trail en off — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21101.075493248412,
+  "duration_s": 10434,
+  "elevation_up_m": 832.7008756412816,
+  "elevation_down_m": 832.7008756412821,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.355592,
+  "start_lng": -1.56919,
+  "start_alt_m": 15.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The SENPEREKO Trail is a race of approximately 21 kilometers for 1,000 meters of elevation gain which takes place every year at the beginning of March. It leaves from the emblematic village of Saint-Pée-sur-Nivelle.\n\nA worthy representative of the Basque Country with its atypical architecture, \"Saint-Pée\" enjoys a rich cultural history. From the witch hunt to the birth of the chistera (wicker glove), anecdotes abound.\n\nThe route starts in the Ibarrun district, very close to the pala pediment. The route follows good quality tracks and paths. Concretely, it consists of climbing the three main peaks of the area: Suhalmendi, Esnaur and Bizkartun. Each of them offers its share of panoramas over the neighboring valleys, the Rhune or the Atlantic Ocean.\n\nThe first kilometers follow a wide track which gradually takes you up to the Suhalmendi, the highest point of the race. A descent leads very close to the Ignace pass before going up towards Esnaur. About three kilometers later, you are again perched. It is the Bizkartun that offers a last quality panorama before starting the final part of your outing.\n\nOn the way, do not miss the Uzkaingo Erreka waterfall which suggests a beautiful moment of freshness. You only have a few kilometers left before reaching your starting point.\n\nDuring the same weekend, the SPUC LASTERKA club also offers the following races:\nTontorrez Tontor, 80 kilometers for about 5,000 meters of elevation gain\nGotorlekuen Itzulia, 42 kilometers with 2,800 meters of elevation gain\nIbar Run, 10 kilometers with 350 meters of elevation gain\n\nFor more information on the various events:\nhttps://www.spuclasterka.fr/senpereko-trail/",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Suhalmendi is a mountain that culminates at 381 meters above sea level. It presents a magnificent 360° panorama of the Pyrenees, including the Rhune, the Nivelle valley and the village of Ascain as well as the Atlantic Ocean in the distance.",
+    "Esnaur is one of the three emblematic peaks around Ascain. From its height of 271 meters it is located between its neighbors Bizkartzun (183 meters) and Suhalmendi (301 meters).",
+    "A great spot! Accessible path and not technical and very nice view",
+    "Fantastically beautiful walk. Wild horses, a flowing river, a refreshing swim, narrow paths and a beautiful view of the ocean and the Basque Country. Definitely worth it!",
+    "Saint-Pée-sur-Nivelle is one of the emblematic villages of the Basque Country. Authentic and welcoming, it has many historical treasures. It is here that the famous glove called chistera was created. The village was also at the heart of the witch hunts that hit the Basque Country."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.03734065,
+    "alpin": 0.04437765,
+    "asphalt": 0.0572892,
+    "paved": 0.059379324,
+    "unknown": 0.15365401,
+    "nature": 0.21160387,
+    "unpaved": 0.4363553
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.05480381,
+    "minor_road": 0.06352239,
+    "street": 0.08124145,
+    "hiking_path": 0.36160907,
+    "way": 0.43882328
+  },
+  "waypoints": [
+    {
+      "name": "Suhalmendi",
+      "lat": 43.3313,
+      "lng": -1.5868,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 5517328
+    },
+    {
+      "name": "Esnaur",
+      "lat": 43.33835,
+      "lng": -1.61,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5517354
+    },
+    {
+      "name": "Bizkartzun",
+      "lat": 43.34826,
+      "lng": -1.60847,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 5517344
+    },
+    {
+      "name": "Uzkaingo Erreka Waterfall",
+      "lat": 43.35178,
+      "lng": -1.60491,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "river",
+        "intermediate",
+        "natural_monument",
+        "family_friendly",
+        "lake"
+      ],
+      "highlight_id": 5517359
+    },
+    {
+      "name": "Saint-Pée-sur-Nivelle",
+      "lat": 43.35558,
+      "lng": -1.56919,
+      "type": "bridge",
+      "categories": [
+        "family_friendly",
+        "bridge",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 5517367
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "river",
+    "settlement",
+    "summit",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 4,
+  "visitors": 755,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-02-27T18:08:04.372Z",
+  "changed_at": "2024-06-07T06:16:43.460Z",
+  "scraped_at": "2026-04-27T15:08:41.072529+00:00"
+}

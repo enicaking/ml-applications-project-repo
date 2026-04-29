@@ -1,0 +1,156 @@
+{
+  "tour_id": "e950242422",
+  "url": "https://www.komoot.com/smarttour/e950242422",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e950242422/bujaruelo-valley-to-otal-valley-trail",
+  "name": "Bujaruelo Valley to Otal Valley Trail",
+  "name_original": "Cascada y circo de Otal – trail running desde Bujaruelo",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 10077.438715011507,
+  "duration_s": 5063,
+  "elevation_up_m": 392.5532604028847,
+  "elevation_down_m": 392.55326040288446,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.692418,
+  "start_lng": -0.107365,
+  "start_alt_m": 1328.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 6.3-mile (10.1 km) trail running route from Bujaruelo explores the scenic Otal Valley and Circo de Otal.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Circo de Otal is a good example of a glacial cirque, where you can see the depression formed by the glacier in the form of an amphitheater where the valley is born.",
+    "Also known as the Paul waterfall, it feeds the Otal river, a tributary of the Ara. Above is the Punta Tendeñera and the access to Panticosa and the Alto Valle de Tena.",
+    "After crossing the 13th century Romanesque bridge and before reaching the refuge of the same name, the remains of this hermitage with a semicircular floor plan are found. This is a popular starting point for routes to the valleys of Panticosa, Gavarnie, Ordesa and the smaller Otal and Ordiso."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Waterfall and circus of Otal trail running route?",
+      "answer": "While komoot rates this route as 'difficult', the path from Bujaruelo to the Otal Valley is generally considered easy with a low gradient. It's manageable for those with good physical and aerobic conditions, making it suitable even for children accustomed to walking. The terrain is a mix of unpaved, gravel, alpine, and natural surfaces, ideal for trail running."
+    },
+    {
+      "question": "Where can I park and access the trailhead for this route?",
+      "answer": "The trail starts from Bujaruelo. You can typically find parking near the <a href=\"https://www.komoot.com/highlight/5698205\" target=\"_blank\" rel=\"noopener\">San Nicolás de Bujaruelo Stone Bridge and Hermitage</a>, which serves as a common starting point for routes in the valley."
+    },
+    {
+      "question": "Is this trail suitable for families with children?",
+      "answer": "Yes, this trail is considered one of the best options for families with children in the Bujaruelo area. Its manageable length and low gradient make it accessible for younger hikers who are used to walking."
+    },
+    {
+      "question": "What kind of terrain can I expect on the trail?",
+      "answer": "The route features a varied terrain, including unpaved paths, gravel sections, alpine trails, and natural surfaces. It's designed for trail running or off-road jogging, offering a natural and engaging experience."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "You'll traverse the beautiful <a href=\"https://www.komoot.com/highlight/4999753\" target=\"_blank\" rel=\"noopener\">Otal Valley</a>, a U-shaped glacial valley, and reach the impressive <a href=\"https://www.komoot.com/highlight/3295207\" target=\"_blank\" rel=\"noopener\">Circo de Otal</a>. The route also passes by the <a href=\"https://www.komoot.com/highlight/3723276\" target=\"_blank\" rel=\"noopener\">Otal Waterfall</a> and the historic <a href=\"https://www.komoot.com/highlight/5698205\" target=\"_blank\" rel=\"noopener\">San Nicolás de Bujaruelo Stone Bridge and Hermitage</a>. You'll also enjoy magnificent views of surrounding mountains like Escusaneta, Escuzana, Mondarruego, and Punta Narronal, while following the course of the Ara River."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The summer months are ideal, as cattle graze freely in the valley, adding to the scenic beauty. However, the trail can be enjoyed throughout the warmer seasons when conditions are dry and snow-free. Always check local weather forecasts before heading out."
+    },
+    {
+      "question": "Are dogs allowed on the Waterfall and circus of Otal trail?",
+      "answer": "The Otal Valley is generally dog-friendly. However, as this area is part of the Ordesa-Viñamala Biosphere Reserve and cattle graze freely, it's essential to keep dogs on a leash to protect wildlife and livestock."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this trail?",
+      "answer": "This trail is located within the Ordesa-Viñamala Biosphere Reserve. While there isn't typically an entrance fee for the Otal Valley itself, it's always advisable to check with local authorities or park information centers for any specific regulations or permits that might be required, especially for certain activities or during peak seasons."
+    },
+    {
+      "question": "Does this trail intersect with other well-known paths?",
+      "answer": "Yes, sections of this route overlap with several other official trails. You'll find it intersects with parts of the Ruta por el valle de Bujaruelo en la reserva de la biosfera Ordesa-Viñamala, Senda Pirenaica - E26, Senda Pirenaica - E25, and the Camino Valle de Bujaruelo, among others."
+    },
+    {
+      "question": "Is the route a loop or an out-and-back trail?",
+      "answer": "The route is typically undertaken as an out-and-back journey. You can choose to go as far as the Otal pass (approximately 4.8 km one way) or the Otal hut (approximately 10.2 km one way) before returning along the same path."
+    },
+    {
+      "question": "What makes the Otal Valley special compared to other Pyrenean valleys?",
+      "answer": "The Otal Valley is known for being a beautiful glacial valley that is typically less crowded than more popular Pyrenean valleys like Ordesa or Pineta. This offers a more tranquil and serene experience for trail runners and hikers, allowing for a deeper connection with nature."
+    }
+  ],
+  "surfaces": {
+    "gravel": 0.21712184,
+    "unpaved": 0.78287816
+  },
+  "way_types": {
+    "hiking_path": 0.26439044,
+    "way": 0.73560953
+  },
+  "waypoints": [
+    {
+      "name": "Circo de Otal",
+      "lat": 42.6958,
+      "lng": -0.13296,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "natural_monument",
+        "other_natural",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 3295207
+    },
+    {
+      "name": "Otal Waterfall",
+      "lat": 42.691,
+      "lng": -0.1558,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "river"
+      ],
+      "highlight_id": 3723276
+    },
+    {
+      "name": "San Nicolás de Bujaruelo Stone Bridge and Hermitage",
+      "lat": 42.694687,
+      "lng": -0.106607,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "historical_site",
+        "religious_building",
+        "intermediate",
+        "river"
+      ],
+      "highlight_id": 5698205
+    }
+  ],
+  "categories": [
+    "bridge",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "religious_building",
+    "river",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 26,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-11T08:34:05.320Z",
+  "changed_at": "2026-02-26T18:55:31.674Z",
+  "scraped_at": "2026-04-27T15:28:44.111442+00:00"
+}

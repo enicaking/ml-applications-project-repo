@@ -1,0 +1,140 @@
+{
+  "tour_id": "e1069399224",
+  "url": "https://www.komoot.com/smarttour/e1069399224",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069399224/great-tour-of-the-peak-running-in-the-ossau-valley",
+  "name": "Great tour of the peak – running in the Ossau Valley",
+  "name_original": "Le grand tour du pic — Courir dans la vallée d'Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 28816.581499446856,
+  "duration_s": 17820,
+  "elevation_up_m": 1585.4440339766013,
+  "elevation_down_m": 1585.4440339766013,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.872755,
+  "start_lng": -0.448498,
+  "start_alt_m": 1343.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Passes, ridges and lakes are on the program for the 28.8 kilometers and 1,600 meters of elevation gain that form a grand tour of the emblematic Pic du Midi d'Ossau. With this loop, I suggest a route that varies both the types of terrain and the landscapes to discover.\n\nThe adventure starts in the free car park of Bious-Oumettes from which you quickly reach the lake of Bious Artigues. The gradual climb begins in the forest then leads to beautiful grassy expanses before ending at the Col de Suzon. You switch in the direction of the refuge of Pombie before prolonging the descent more curtly which ends at the Gave du Brousset.\n\nAt the level of the river, the path rises again, passing gradually on the sides of several peaks located on the Franco-Spanish border. On the outskirts of the Pic d'Astú, you begin a beautiful portion of the ridge that leads you to the Pic des Moines, dancing on the border. The highest point of the route with its 2,349 meters above sea level, this summit offers an exceptional panorama over the Ossau valley and the Spanish side.\n\nFrom the peak, you successively discover several lakes which offer a unique view of the Pic du Midi d'Ossau which you have already largely skirted. Shortly after the last lake, you enter a beautiful forest following the GR 10. Follow the markings of the path which will take you to the starting point in the Bious-Oumettes car park.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col de Suzon peaks at 2,131 meters above sea level. It opens a door between the Saoubiste peak and the Midi d'Ossau peak allowing you to switch to the other side of the mountain towards the Pombie refuge and its lake.\r\n\r\nAt the top, the panorama is spectacular and takes your eyes far to the horizon. An even more magical scene in the morning when the clouds are still low in the valley.",
+    "Located at the foot of the Pic du Midi d'Ossau, the Pombie refuge offers you what is called a room with a view. The refuge has 45 beds in high season, reduced to 15 during the winter period. \nRemember to book on the information site: \nhttps://refugedepombie.ffcam.fr/",
+    "Culminating at 2,349 meters above sea level, the Pic des Moines is located a few meters from the border between France and Spain.\r\n\r\nThis summit offers a breathtaking view of the Pic du Midi d'Ossau, its valley and the Spanish side.",
+    "Lake Bersau is located 2,080 meters above sea level, at the foot of Pic Casterau. It is one of the six lakes of Ayous which mark out the paths of the Pyrenean Haute Route and the GR10, in this sector.",
+    "The Ayous lakes form a group of six lakes: Castérau, Miey, Gentau, Bersau, Paradis and Roumassot.\r\n\r\nArranged in stairs, they form a magnificent amphitheater to land and admire the Pic du Midi d'Ossau."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0007106708,
+    "asphalt": 0.010141542,
+    "alpin": 0.42032784,
+    "unpaved": 0.56881994
+  },
+  "way_types": {
+    "street": 0.010141542,
+    "alpine_hiking_path": 0.049632885,
+    "way": 0.11742071,
+    "mountain_hiking_path": 0.36804327,
+    "hiking_path": 0.4547616
+  },
+  "waypoints": [
+    {
+      "name": "Suzon Pass",
+      "lat": 42.84699,
+      "lng": -0.42343,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 2338072
+    },
+    {
+      "name": "Refuge de Pombie",
+      "lat": 42.83539,
+      "lng": -0.42697,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "viewpoint",
+        "accomodation",
+        "lake"
+      ],
+      "highlight_id": 2234384
+    },
+    {
+      "name": "Pic des Moines",
+      "lat": 42.82929,
+      "lng": -0.50034,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5393796
+    },
+    {
+      "name": "Lake Bersau",
+      "lat": 42.83893,
+      "lng": -0.49313,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 5393784
+    },
+    {
+      "name": "Lac Gentau",
+      "lat": 42.8499,
+      "lng": -0.4871,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_natural",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 2100671
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "hut",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 14,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T10:43:00.283Z",
+  "changed_at": "2024-06-07T19:27:00.636Z",
+  "scraped_at": "2026-04-27T15:20:58.508864+00:00"
+}

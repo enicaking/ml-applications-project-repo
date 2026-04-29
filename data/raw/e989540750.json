@@ -1,0 +1,147 @@
+{
+  "tour_id": "e989540750",
+  "url": "https://www.komoot.com/smarttour/e989540750",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e989540750/selva-de-irati-circular-desde-casas-de-irati-por-paxula-y-embalse-de-koixta-btt-irati",
+  "name": "Selva de Irati – circular desde Casas de Irati por Paxula y Embalse de Koixta (BTT Irati)",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 34809.56183490453,
+  "duration_s": 15835,
+  "elevation_up_m": 1131.188391787424,
+  "elevation_down_m": 1130.2699730133725,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.989236,
+  "start_lng": -1.106566,
+  "start_alt_m": 866,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Located in the heart of the Selva de Irati, this site is a classic route and tourist recognized for its charm. There you have a bar, restaurant, a bike shop and a water fountain, as well as being surrounded by a beautiful setting in the heart of the Navarrese Pyrenees.",
+    "Nice road on the France-Spain border in the heart of the Navarrese Pyrenees and surrounded by a wonderful grove of trees, ideal in the hot months to ride under the shade.",
+    "Wonderful gravel track that runs close to the Ibarrondoa ravine in the heart of the Navarrese Pyrenees and very close to the border between Spain and France.",
+    "This wonderful reservoir located in the Pyrenees area is a place you cannot miss. Surrounded by a dense beech forest, you can get here by a picturesque path, an ideal walk for the whole family,"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#asphalt": 0.022512427,
+    "sm#nature": 0.12271865,
+    "sm#paved": 0.16663375,
+    "sm#alpin": 0.20675896,
+    "sm#gravel": 0.2133457,
+    "sm#unpaved": 0.2680305
+  },
+  "way_types": {
+    "street": 0.09164999,
+    "trail": 0.21178007,
+    "way": 0.6965699
+  },
+  "waypoints": [
+    {
+      "name": "Irati Houses",
+      "lat": 42.9886,
+      "lng": -1.10619,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "forest",
+        "river",
+        "family_friendly",
+        "settlement",
+        "restaurant",
+        "mtb_park",
+        "parking",
+        "bridge",
+        "cafe",
+        "unknown",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5316113
+    },
+    {
+      "name": "Paxula - Border crossing",
+      "lat": 43.0112,
+      "lng": -1.0847,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 5319537
+    },
+    {
+      "name": "Ibarrondoa Ravine Trail",
+      "lat": 42.990636,
+      "lng": -1.040938,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 5319550
+    },
+    {
+      "name": "Koixta Reservoir",
+      "lat": 42.97174,
+      "lng": -1.069569,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_man_made",
+        "viewpoint",
+        "forest",
+        "intermediate",
+        "family_friendly",
+        "natural_monument",
+        "other_natural"
+      ],
+      "highlight_id": 3769664
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cafe",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "mtb_park",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "parking",
+    "restaurant",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 6,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-12-04T12:19:12.544Z",
+  "changed_at": "2024-05-31T09:28:00.467Z",
+  "scraped_at": "2026-04-28T14:49:50.190987+00:00"
+}

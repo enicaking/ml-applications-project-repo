@@ -1,0 +1,94 @@
+{
+  "tour_id": "e937182944",
+  "url": "https://www.komoot.com/smarttour/e937182944",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e937182944/puigcerda-pond-circular-from-bolvir",
+  "name": "Puigcerdà Pond - Circular from Bolvir",
+  "name_original": "Estanque de Puigcerdà - Circular desde Bolvir",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 26272.60947175423,
+  "duration_s": 6122,
+  "elevation_up_m": 310.14544652046334,
+  "elevation_down_m": 310.14544652046334,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.418741,
+  "start_lng": 1.881238,
+  "start_alt_m": 1115.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Road 80% ",
+    "Puigcerdà pond is an artificial pond located in the northwest part of the town of Puigcerdà.\nThe first news of the existence of this pond date from the 13th century, specifically from 2 December 1260, as described by priest Jaume Martí i Sanjaume in his book Dietari de Puigcerdà.\nThe lake's water supply comes from the Querol river which is brought to Puigcerdà by means of an artificial drain.\n\n\n\nhttps://ca.wikipedia.org/wiki/Estany_de_Puigcerd%C3%A0"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#unpaved": 0.036040224,
+    "sb#paved": 0.24292457,
+    "sb#asphalt": 0.7210352
+  },
+  "way_types": {
+    "primary": 0.029646616,
+    "way": 0.040561862,
+    "minor_road": 0.31006634,
+    "street": 0.61972517
+  },
+  "waypoints": [
+    {
+      "name": "View of Queixans and the Ousseja Valley",
+      "lat": 42.407828,
+      "lng": 1.950856,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 4854053
+    },
+    {
+      "name": "Estany de Puigcerdà",
+      "lat": 42.435731,
+      "lng": 1.927564,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "other_man_made",
+        "settlement",
+        "viewpoint"
+      ],
+      "highlight_id": 5058043
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "other_man_made",
+    "other_natural",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 6,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T15:32:21.382Z",
+  "changed_at": "2024-07-24T09:26:19.228Z",
+  "scraped_at": "2026-04-29T00:26:00.718090+00:00"
+}

@@ -1,0 +1,158 @@
+{
+  "tour_id": "e1422409454",
+  "url": "https://www.komoot.com/smarttour/e1422409454",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422409454/incles-valley-loop",
+  "name": "Incles Valley Loop",
+  "name_original": "Vall d'Incles — circular desde Soldeu",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7009.146731137746,
+  "duration_s": 2247,
+  "elevation_up_m": 174.63306566396432,
+  "elevation_down_m": 174.63306566396432,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.576301,
+  "start_lng": 1.667281,
+  "start_alt_m": 1810.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Moderate 4.4-mile touring cycling route through Andorra's scenic Vall d'Incles from Soldeu, featuring forests and wildflowers.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "At the foot of several first-class ski resorts, the small town of Soldeu is a gateway to all kinds of adventures. Postcard views, views of lush mountains and valleys, surrounded by melting rivers, this place has many natural beauties to offer.",
+    "Crossing the Riu d'Incles river there is a small stone bridge that connects the main road of the valley and the natural trails of this lush green valley.",
+    "It runs mostly along the old mixed surface paths through the river valley, following the local path Camí de l'Obac d'Incles. Enjoy the natural landscape of the river."
+  ],
+  "faqs": [
+    {
+      "question": "What is the terrain like for cycling on this route?",
+      "answer": "<p>The primary cycling route, including the circular path from <a href=\"https://www.komoot.com/highlight/6356162\" target=\"_blank\" rel=\"noopener\">Soldeu</a>, is mostly paved. However, be aware that some sections may have gravel, and the road can be narrow. While ideal for touring bikes, be prepared for potential unpaved segments if you venture off the main road.</p>"
+    },
+    {
+      "question": "Is this cycling route suitable for beginners or families?",
+      "answer": "<p>The \"Vall d'Incles — circular desde Soldeu\" route is generally considered a <strong>moderate bike ride</strong>, requiring good fitness. However, there are options for an \"easy level\" family ride through the valley, which typically takes 1-2 hours. The main route involves an ascent with an average gradient of 3%.</p>"
+    },
+    {
+      "question": "What is the best time of year to cycle the Vall d'Incles?",
+      "answer": "<p>The best time to cycle is generally from late spring through early autumn. The valley is particularly stunning in spring and summer when it transforms into the \"Valley of the 1,000 Flowers\" with abundant wildflowers. During summer (June to September), vehicle access is restricted, making for a more peaceful cycling experience, though an electric train service operates for other visitors.</p>"
+    },
+    {
+      "question": "Are dogs allowed on the trail?",
+      "answer": "<p>Yes, dogs are generally allowed on the trails in Vall d'Incles. However, it's always recommended to keep them on a leash, especially given the presence of other cyclists, hikers, and potential wildlife. Please remember to clean up after your pet.</p>"
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee to cycle in Vall d'Incles?",
+      "answer": "<p>No, there are no specific permits or entrance fees required to cycle the \"Vall d'Incles — circular desde Soldeu\" route. The valley is freely accessible to the public.</p>"
+    },
+    {
+      "question": "Where can I park when starting this cycling route from Soldeu?",
+      "answer": "<p>When starting from <a href=\"https://www.komoot.com/highlight/6356162\" target=\"_blank\" rel=\"noopener\">Soldeu</a>, you can typically find parking in or around the village. During peak seasons, especially summer when vehicle access into the valley is restricted, parking might be more competitive, so arriving earlier is advisable.</p>"
+    },
+    {
+      "question": "What natural features and landmarks can I see along the route?",
+      "answer": "<p>The route offers breathtaking natural beauty, including pine and fir forests, lush green meadows, and the crystal-clear Riu d'Incles. You'll pass by the <a href=\"https://www.komoot.com/highlight/5920479\" target=\"_blank\" rel=\"noopener\">Pont de Bonavida</a> and cycle along sections of the <a href=\"https://www.komoot.com/highlight/6383963\" target=\"_blank\" rel=\"noopener\">Camí de l'Obac d'Incles</a>. The valley is known for its wildflowers, waterfalls, and panoramic views of the rugged Pyrenean peaks.</p>"
+    },
+    {
+      "question": "Does this trail intersect with other well-known paths?",
+      "answer": "<p>Yes, the route intersects with several other paths. You will find sections that overlap with the HRP Variante 31.1, [CIMA AN09] Port d'Envalira, HRP Étape 31, and El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer. It also follows significant portions of the Camí de l'Obac d'Incles.</p>"
+    },
+    {
+      "question": "Are there any cafes or amenities near the cycling route?",
+      "answer": "<p>The route starts and ends in <a href=\"https://www.komoot.com/highlight/6356162\" target=\"_blank\" rel=\"noopener\">Soldeu</a>, where you can find various cafes, restaurants, and other amenities. As you cycle into the Vall d'Incles, the area becomes more natural and serene, with fewer commercial establishments directly on the route itself.</p>"
+    },
+    {
+      "question": "What is the insider tip for cycling in Vall d'Incles during summer?",
+      "answer": "<p>During the summer months (June to September), vehicle access into the Vall d'Incles is restricted to preserve its natural environment. This makes it an ideal time for a peaceful cycling experience without car traffic. An electric train service operates for other visitors, but cyclists can enjoy the tranquility of the valley road.</p>"
+    },
+    {
+      "question": "How long does it take to complete the Vall d'Incles — circular desde Soldeu cycling route?",
+      "answer": "<p>The estimated duration for completing this circular cycling route is approximately 37.5 minutes, covering a distance of about 7 kilometers. This duration can vary based on your cycling pace and how often you stop to enjoy the scenery.</p>"
+    }
+  ],
+  "surfaces": {
+    "sb#paved": 0.029776065,
+    "unknown": 0.05548597,
+    "sb#unpaved": 0.288574,
+    "sb#asphalt": 0.62616396
+  },
+  "way_types": {
+    "service": 0.032175347,
+    "minor_road": 0.053086687,
+    "way": 0.079949595,
+    "trail": 0.20862442,
+    "primary": 0.30030042,
+    "street": 0.3258635
+  },
+  "waypoints": [
+    {
+      "name": "Soldeu",
+      "lat": 42.576984,
+      "lng": 1.666649,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river"
+      ],
+      "highlight_id": 6356162
+    },
+    {
+      "name": "Pont de Bonavida",
+      "lat": 42.598068,
+      "lng": 1.681017,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "natural_monument",
+        "viewpoint",
+        "river",
+        "family_friendly",
+        "trail"
+      ],
+      "highlight_id": 5920479
+    },
+    {
+      "name": "Camí de l'Obac d'Incles",
+      "lat": 42.588087,
+      "lng": 1.668042,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "family_friendly",
+        "viewpoint",
+        "river"
+      ],
+      "highlight_id": 6383963
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "natural_monument",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 2,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-25T15:04:06.614Z",
+  "changed_at": "2026-02-26T20:28:46.938Z",
+  "scraped_at": "2026-04-29T00:32:00.098251+00:00"
+}

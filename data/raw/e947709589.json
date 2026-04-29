@@ -1,0 +1,156 @@
+{
+  "tour_id": "e947709589",
+  "url": "https://www.komoot.com/smarttour/e947709589",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e947709589/benasque-to-cerler-loop-trail",
+  "name": "Benasque to Cerler Loop Trail",
+  "name_original": "Cerler y Pinar de Velarta – trail running desde Benasque por el Camino de la Mina y el Camino de la Ball",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 13610.492871553379,
+  "duration_s": 8065,
+  "elevation_up_m": 706.0491685083446,
+  "elevation_down_m": 710.9083005936052,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606797,
+  "start_lng": 0.524521,
+  "start_alt_m": 1170.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 8.5-mile trail running route from Benasque to Cerler offers challenging terrain and stunning Pyrenean views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The highest town in the Aragonese Pyrenees, with the Aramón Cerler alpine ski resort as the main sports engine for decades, it is also a good starting point for numerous trail running training routes.",
+    "The Cubera bridge, also known as the stone bridge, crosses the Ésera river, in the Benasque valley. This stone bridge, of probable Romanesque origin, is built with masonry rigs of irregular shapes. It has only one eye, with a semicircular arch, and its profile is that of an irregular donkey's back, since one slope is longer than the other. The bridge road is made of ashlar, including some small sidings.",
+    "In addition to a beautiful town center, here you will find all kinds of tourist services, from shops to hotels and restaurants."
+  ],
+  "faqs": [
+    {
+      "question": "Is this trail running route suitable for beginners?",
+      "answer": "No, this route is categorized as 'difficult' for jogging. It involves significant physical demand and high technical difficulty, especially on sections like the Camino de la Mina. It's best suited for experienced trail runners with good fitness and sure-footedness."
+    },
+    {
+      "question": "What is the terrain like on this trail?",
+      "answer": "The terrain is varied and challenging. You'll encounter a mix of asphalt, tracks, and trails. Sections like the Camino de la Mina feature forest paths, alpine environments, and areas with waterfalls. Expect varied surfaces, including rocky sections and potentially uneven ground, typical of Pyrenean trails."
+    },
+    {
+      "question": "What are the key highlights and viewpoints along the route?",
+      "answer": "The route offers breathtaking Pyrenean views. You'll pass through the historic <a href=\"https://www.komoot.com/highlight/6259824\" target=\"_blank\" rel=\"noopener\">Historic Center of Benasque</a> and the picturesque <a href=\"https://www.komoot.com/highlight/5114322\" target=\"_blank\" rel=\"noopener\">Cerler Historic Village</a>. Look out for the <a href=\"https://www.komoot.com/highlight/5114345\" target=\"_blank\" rel=\"noopener\">Puente de Cubera</a>. The trail provides panoramic vistas of Benasque, Anciles, the Ésera river, and the Remáscaro ravine, with opportunities to see peaks like Posets, Perdiguero, Gran Bachimala, Maladeta massif, and Aneto."
+    },
+    {
+      "question": "Where can I park to access the trailhead in Benasque?",
+      "answer": "While specific parking details for this exact trailhead are not provided, Benasque is a popular starting point for many routes. You should look for public parking areas within Benasque, particularly near the historic center, as the route starts from there. Arriving early is advisable during peak seasons."
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "Generally, dogs are allowed on trails in the Benasque Valley, but it's crucial to keep them on a leash, especially in natural parks or areas with livestock and wildlife. Given the 'difficult' rating and varied terrain, ensure your dog is accustomed to challenging runs."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The best time to run this trail is typically from late spring to early autumn (May to October). During these months, the weather is generally more stable, and the trails are free of snow. Summer offers lush scenery, while autumn provides vibrant colors. Always check local weather conditions before heading out, as mountain weather can change rapidly."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this route?",
+      "answer": "No, typically you do not need specific permits or have to pay entrance fees to run this trail. It traverses public access areas in the Aragonese Pyrenees. However, always respect local regulations and private property."
+    },
+    {
+      "question": "Does this route intersect with other well-known trails?",
+      "answer": "Yes, this route intersects with several other paths. Notably, it includes sections of the Camino de La Ball and the Camino Benasque-Cerler. You may also encounter parts of the Tour de l'Aneto, Camino Real a Cerler PR-HU 26, and Sendero Ruta 13 Puro Pirineo."
+    },
+    {
+      "question": "Are there any historical points of interest along the way?",
+      "answer": "Yes, the route has historical significance. The Camino de la Mina section follows an old water channel that once led to abandoned pyrite mines, offering a glimpse into the region's industrial past. The trail also connects Benasque with Cerler, following paths historically used by locals."
+    },
+    {
+      "question": "What should I pack for a trail run on this route?",
+      "answer": "Given the 'difficult' rating and mountain environment, pack essentials like sufficient water and nutrition, appropriate trail running shoes with good grip, layers of clothing for changing weather, a waterproof jacket, a first-aid kit, and a charged phone. A map or GPS device is also highly recommended for navigation."
+    },
+    {
+      "question": "Are there places to refuel or find accommodation near the trail?",
+      "answer": "Yes, both Benasque and Cerler, which are connected by this route, offer various amenities. Benasque, as your starting point, has numerous cafes, restaurants, and accommodation options. Cerler also provides services, being a popular mountain village and ski resort."
+    }
+  ],
+  "surfaces": {
+    "paved": 0.037449084,
+    "asphalt": 0.04753014,
+    "alpin": 0.20104259,
+    "unknown": 0.29464805,
+    "unpaved": 0.41933015
+  },
+  "way_types": {
+    "footway": 0.00019878063,
+    "minor_road": 0.015337572,
+    "street": 0.06499413,
+    "hiking_path": 0.14507212,
+    "mountain_hiking_path": 0.32440338,
+    "way": 0.44999403
+  },
+  "waypoints": [
+    {
+      "name": "Cerler Historic Village",
+      "lat": 42.59559,
+      "lng": 0.5389,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 5114322
+    },
+    {
+      "name": "Puente de Cubera",
+      "lat": 42.624415,
+      "lng": 0.543743,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "man_made_monument",
+        "historical_site",
+        "intermediate",
+        "river"
+      ],
+      "highlight_id": 5114345
+    },
+    {
+      "name": "Historic Center of Benasque",
+      "lat": 42.60697,
+      "lng": 0.52397,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 6259824
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "river",
+    "settlement"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 12,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-08T17:54:03.649Z",
+  "changed_at": "2026-02-26T18:48:25.519Z",
+  "scraped_at": "2026-04-27T15:40:13.027577+00:00"
+}

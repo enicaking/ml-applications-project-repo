@@ -1,0 +1,156 @@
+{
+  "tour_id": "e924823673",
+  "url": "https://www.komoot.com/smarttour/e924823673",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e924823673/llemena-loop",
+  "name": "Llemena Loop",
+  "name_original": "Puertos alrededor rio Ter & Hors Categorie Girona (HCG) - circular desde Anglès",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 57341.651825432135,
+  "duration_s": 9481,
+  "elevation_up_m": 605.6297096528301,
+  "elevation_down_m": 605.9008138499048,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.958049,
+  "start_lng": 2.633893,
+  "start_alt_m": 156.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 35.6-mile road cycling route from Anglès explores the Ter River area, featuring scenic views and the Hors Categorie Café.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Bike friendly restaurant, healthy food, and amazi",
+    "Small but perfectly formed climb, with a smooth fast descent on the other side - with some beautiful views of Sant Roc d'Amer, the mountain range that looks like a cliff jutting out of the ground.",
+    "Nice alternative to the main road."
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park when starting this cycling route in Anglès?",
+      "answer": "The starting point in Anglès is conveniently located near a parking lot, making it easy to access the route."
+    },
+    {
+      "question": "What is the difficulty level of this cycling route?",
+      "answer": "This route is officially classified as a <strong>moderate road ride</strong>. It requires good fitness due to its distance and elevation gain, offering a balanced challenge with rolling hills and some longer climbs."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling route?",
+      "answer": "The route primarily features well-paved surfaces, typical for road cycling. However, be aware that <em>some segments might be unpaved</em>, which could present additional challenges."
+    },
+    {
+      "question": "Are there any notable points of interest or places to stop along the way?",
+      "answer": "Yes, the route includes a few notable spots. You can visit the <a href=\"https://www.komoot.com/highlight/3075778\" target=\"_blank\" rel=\"noopener\">Hors Categorie Café Girona</a>, known for its bike-friendly atmosphere and healthy food. There's also a scenic <a href=\"https://www.komoot.com/highlight/2556222\" target=\"_blank\" rel=\"noopener\">View of Sant Roc d'Amer</a>, offering beautiful vistas."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "Girona is renowned for its excellent cycling conditions. While not specified for this exact route, generally spring and autumn offer the most pleasant weather for road cycling in the region, avoiding the peak heat of summer or cooler, potentially wetter winter months."
+    },
+    {
+      "question": "Is this cycling route suitable for families or beginners?",
+      "answer": "Given its 'moderate' difficulty rating, good fitness is required. While experienced cyclists will enjoy it, it might be challenging for beginners or young children. There are easier cycling options in the wider Girona area if you're looking for a more relaxed family ride."
+    },
+    {
+      "question": "Does this route intersect with any other cycling paths?",
+      "answer": "Yes, this route briefly overlaps with several other paths, including sections of the Via Verda Carrilet Olot - Girona, Ruta del Carrilet I: \"Girona-Olot\", and Ruta del Ter."
+    },
+    {
+      "question": "Are there any permits or fees required to cycle this route?",
+      "answer": "No, there are no specific permits or fees required to cycle this route. It's open for public use."
+    },
+    {
+      "question": "What kind of scenery will I see while cycling?",
+      "answer": "You'll be immersed in the stunning natural beauty of the Girona region. Expect picturesque landscapes, which often include vineyards, olive groves, charming traditional villages, and views related to the Ter River."
+    },
+    {
+      "question": "Is the Ports around the Ter River & Hors Categorie Girona (HCG) - circular from Anglès route dog-friendly?",
+      "answer": "As a road cycling route, it is generally not ideal or recommended for cycling with dogs. There are no specific provisions for dogs mentioned for this particular route."
+    },
+    {
+      "question": "What should I pack for this circular cycling route?",
+      "answer": "For a moderate road ride of this length, you should pack essentials like water, snacks, a repair kit, appropriate cycling attire, sun protection, and a charged phone. Given some potentially unpaved segments, ensure your tires are suitable."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0014445058,
+    "sb#cobbles": 0.0018344749,
+    "sb#paved": 0.051028263,
+    "sb#asphalt": 0.9456928
+  },
+  "way_types": {
+    "service": 0.0023178752,
+    "primary": 0.0070609883,
+    "cycleway": 0.028178517,
+    "minor_road": 0.05141464,
+    "street": 0.91102797
+  },
+  "waypoints": [
+    {
+      "name": "Hors Categorie Café Girona",
+      "lat": 41.983677,
+      "lng": 2.822545,
+      "type": "cafe",
+      "categories": [
+        "cafe",
+        "cycle_way",
+        "restaurant",
+        "family_friendly"
+      ],
+      "highlight_id": 3075778
+    },
+    {
+      "name": "View of Sant Roc d'Amer",
+      "lat": 42.017746,
+      "lng": 2.670295,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "natural_monument",
+        "intermediate",
+        "climb"
+      ],
+      "highlight_id": 2556222
+    },
+    {
+      "name": "Road to Bonmatí",
+      "lat": 41.966904,
+      "lng": 2.665902,
+      "type": "cycle_way",
+      "categories": [
+        "cycle_way",
+        "trail",
+        "family_friendly"
+      ],
+      "highlight_id": 1186986
+    }
+  ],
+  "categories": [
+    "cafe",
+    "climb",
+    "cycle_way",
+    "family_friendly",
+    "intermediate",
+    "natural_monument",
+    "restaurant",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.82608699798584,
+  "rating_count": 23,
+  "visitors": 3042,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-13T09:21:05.550Z",
+  "changed_at": "2026-02-26T18:55:36.148Z",
+  "scraped_at": "2026-04-28T20:27:05.016408+00:00"
+}

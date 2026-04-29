@@ -1,0 +1,121 @@
+{
+  "tour_id": "e1422223923",
+  "url": "https://www.komoot.com/smarttour/e1422223923",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422223923/bastan-lakes",
+  "name": "Bastan lakes",
+  "name_original": "Les lacs de Bastan",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16664.794530704792,
+  "duration_s": 23376,
+  "elevation_up_m": 712.5501827585099,
+  "elevation_down_m": 712.5501827585099,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.819134,
+  "start_lng": 0.18969,
+  "start_alt_m": 1642.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This pretty route ventures to the heights of Lake Oule to discover the isolated lakes of Bastan. Nestled among them, the refuge of the same name welcomes you halfway. The route begins from the Artigusse car park, at around 1,600 meters above sea level.\n\nInitially, the route climbs on a wide track in the forest. This leads to the Oule Lake dam. Built by the Midi railway company, it swallows up meadows which were once used as pastures. You go around it via its western banks, bordered by forest.\n\nA small stone hut then crossing a bridge means that you have reached the end of the lake. From there, you attack a beautiful uphill section on terrain that gradually clears up. The environment is becoming more and more mineral. The lower lake of Bastan provides a first enchanted interlude. Lurking in the mountains, it stands in a magnificent natural setting.\n\nA short climb then leads to the middle lake of Bastan. Dominated by the eponymous refuge, this body of water is larger than the previous one. Its raw and jagged banks give it a singular shape. From the refuge you can easily reach the upper Bastan lake. Otherwise, take the time to enjoy a nice break and a good meal before starting the long descent back to the starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Lake Oule, an artificial body of water, is one of the largest in the Néouvielle reserve. His work dates from the interwar period, when the Midi railway company decided to transform a pasture plateau into a water reservoir in order to supply the Eget hydroelectric power station. Its waters come from Lake Oredon through a canal designed to supply the body of water.",
+    "The middle lake lies, as its name suggests, between the lower and upper lakes. The three of them form a string of lakes called the Bastan lakes. Of glacial origin, this natural body of water is now home to a few species of fish (including trout) and makes up the landscape with beautiful islets of century-old pines all around.",
+    "The Bastan refuge is located a little higher up, on the shores of Lac du Milieu. It is open from the last weekend of May to the first weekend of October, continuously.\r\n\r\nIt offers a 12-seat dormitory as well as a refectory for which we advise you to book in advance on the refuge website: http://refugedebastan.fr/dates-douverture/\r\n\r\nHowever, the refuge remains open out of season (you will need to bring your duvets) to accommodate hikers in need of shelter.",
+    "The lower lake forms a peaceful and preserved lake site, out of sight. You will have the feeling of entering a crater as it is protected by its environment. This lake is perhaps the most intimate and exotic of the Néouvielle reserve."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.04415672,
+    "unpaved": 0.088040195,
+    "alpin": 0.39320228,
+    "nature": 0.47460082
+  },
+  "way_types": {
+    "hiking_path": 0.1829305,
+    "mountain_hiking_path": 0.39320228,
+    "way": 0.42386723
+  },
+  "waypoints": [
+    {
+      "name": "Lake Oule",
+      "lat": 42.83972,
+      "lng": 0.197341,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 929638
+    },
+    {
+      "name": "Middle Bastan Lake",
+      "lat": 42.85117,
+      "lng": 0.211717,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1637275
+    },
+    {
+      "name": "Bastan Refuge",
+      "lat": 42.853337,
+      "lng": 0.209746,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "accomodation",
+        "hut"
+      ],
+      "highlight_id": 2829825
+    },
+    {
+      "name": "Lower Bastan Lake",
+      "lat": 42.846611,
+      "lng": 0.209519,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3073976
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "restaurant",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 32,
+  "visitors": 426,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-25T10:57:54.091Z",
+  "changed_at": "2024-06-13T13:16:43.532Z",
+  "scraped_at": "2026-04-27T11:50:36.502649+00:00"
+}

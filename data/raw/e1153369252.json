@@ -1,0 +1,136 @@
+{
+  "tour_id": "e1153369252",
+  "url": "https://www.komoot.com/smarttour/e1153369252",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1153369252/loop-6-artzamendi-from-espelette-basque-country-passes",
+  "name": "Loop 6: Artzamendi from Espelette – Basque Country passes",
+  "name_original": "Circuit 6 : L'Artzamendi depuis Espelette — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 35404.01032194027,
+  "duration_s": 8998,
+  "elevation_up_m": 1202.469462285417,
+  "elevation_down_m": 1202.4694622854154,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.340135,
+  "start_lng": -1.447619,
+  "start_alt_m": 77.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "classic from the Basque Country. At the top, the panorama stretches from the Pyrenees to the Atlantic.\n\nThe start is in the world famous village of Espelette. The facades of the houses are decorated with peppers at the origin of its fame. A few kilometers after the start stands in front of you the Col de Légaré. More than a warm-up, this pass puts you in the entry bath with passages reaching 20%.\n\nA slight descent allows you to recover a little before tackling the \"Basque hell\". The climb begins with low percentages before seriously hardening in the final kilometers. You find portions that flirt with 19% before the last meters calm down a bit.\n\nFrom the top the view rewards all your efforts. Indeed, beyond the Basque mountains, you can guess the high Pyrenean peaks in the distance. On the other side, the infinity of the Atlantic Ocean stretches out to the horizon. Savor these beautiful panoramas before descending.\n\nYou start by following the same route as for the climb before continuing until you reach the banks of the Nive. A very beautiful portion surveys a canyon dug by the stream in the direction of Itxassou. From the village a last hilly section guides your return to Espelette.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Magnificent little Basque village which owes its fame to the Espelette pepper. Basque architecture is omnipresent in a very pleasant and warm atmosphere.",
+    "The Col de Légaré is a small pass in the Basque Country as charming as it is formidable. From Espelette the climb is 4.4 kilometers long with an average of 6.2%. However, it includes portions that reach 20%.",
+    "Mount Artzamendi is reached by a short but particularly demanding climb. From Laxia, the climb is 5.6 kilometers at an average of 11% with passages at 19%. At the top, the panorama of the Basque Country extends practically to the Atlantic coast.",
+    "The Pas de Roland is a gorge dug by the Nive on the outskirts of Itxassou en Labourd. Located at the bottom of the gorge, the path runs along beautiful cliffs in a remarkable mineral setting. The road follows the river, in the Basque hinterland in a pleasant and bucolic atmosphere.",
+    "Itxassou is a pretty little village in the heart of the Basque Country. Crossed by the Nive, Itxassou has typical Basque architecture. The village partly owes its reputation to Itxassou cherries. Also worth discovering is the Rabbit Forest, a space dedicated to dozens of species of rabbit. You will find many restaurants there which offer local gastronomy."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.19239643,
+    "sb#asphalt": 0.8076036
+  },
+  "way_types": {
+    "primary": 0.0013603321,
+    "minor_road": 0.045248665,
+    "street": 0.953391
+  },
+  "waypoints": [
+    {
+      "name": "Espelette",
+      "lat": 43.340068,
+      "lng": -1.447488,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5169768
+    },
+    {
+      "name": "Col de Légarré",
+      "lat": 43.30673,
+      "lng": -1.421362,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "challenging",
+        "climb",
+        "mountain_pass"
+      ],
+      "highlight_id": 874771
+    },
+    {
+      "name": "Mont Artzamendi",
+      "lat": 43.283556,
+      "lng": -1.407142,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "climb",
+        "viewpoint"
+      ],
+      "highlight_id": 1365446
+    },
+    {
+      "name": "Roland Gorge",
+      "lat": 43.3189,
+      "lng": -1.4043,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5711161
+    },
+    {
+      "name": "Itxassou",
+      "lat": 43.3327,
+      "lng": -1.4115,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "religious_building",
+        "forest",
+        "family_friendly",
+        "river",
+        "settlement"
+      ],
+      "highlight_id": 5537862
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "mountain_pass",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 5,
+  "visitors": 191,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-05T11:16:14.193Z",
+  "changed_at": "2024-06-08T06:01:51.454Z",
+  "scraped_at": "2026-04-28T19:26:12.844651+00:00"
+}

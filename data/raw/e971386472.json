@@ -1,0 +1,143 @@
+{
+  "tour_id": "e971386472",
+  "url": "https://www.komoot.com/smarttour/e971386472",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971386472/zabaleta-forest-trail",
+  "name": "Zabaleta Forest Trail",
+  "name_original": "Sierra de Irati – circular hasta el Pantano de Irabia por el Sendero del Bosque de Zabaleta",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8306.468834355886,
+  "duration_s": 3681,
+  "elevation_up_m": 201.45615228115616,
+  "elevation_down_m": 201.45615228115616,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.988505,
+  "start_lng": -1.105951,
+  "start_alt_m": 871.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog a moderate 5.2-mile (8.3 km) loop through the ancient Irati Forest, circling the Irabia Reservoir via the Zabaleta Forest Trail.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "One of the points of interest within the Sierra de Irati ZEPA, the beautiful reservoir created on the Irati riverbed will captivate you with its beautiful green waters and its surroundings surrounded by forest.",
+    "Wonderful trail that will take you inside the Sierra Irati reserve, a dense forest that will surprise you. Enjoy the silence and at the same time the sounds of nature, it is an amazing place."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the jogging route?",
+      "answer": "For jogging, this route is estimated to take around 1 hour and 1 minute. If you're hiking, it's rated as medium difficulty and usually takes about 2 hours and 30 minutes."
+    },
+    {
+      "question": "Is this a circular route?",
+      "answer": "Yes, the Sierra de Irati – circular to the Irabia Reservoir via the Zabaleta Forest Trail is a circular route, bringing you back to your starting point."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "The trail is accessible, but specific parking details are not provided in the source. Generally, trails around the <a href=\"https://www.komoot.com/highlight/5184994\" target=\"_blank\" rel=\"noopener\">Irabia Reservoir</a> and <a href=\"https://www.komoot.com/highlight/5228590\" target=\"_blank\" rel=\"noopener\">Zabaleta Forest Trail</a> area often have designated parking spots. It's advisable to check local signage upon arrival."
+    },
+    {
+      "question": "What is the terrain like on this trail?",
+      "answer": "The terrain is varied, predominantly unpaved and gravel, with some forest paths and tracks. There's a small section of asphalt (less than 100 meters). You'll encounter undulating stretches, some dry leaves covering the ground, and occasional stream crossings. Be prepared for a potentially 'steep and, with mud, delicate descent' in parts."
+    },
+    {
+      "question": "What wildlife or plants can I see along the way?",
+      "answer": "The Irati Forest is a natural sanctuary. You can expect to see dense beech and silver fir trees. The forest is also home to diverse fauna, including roe deer, wild boar, and various bird species like the black woodpecker."
+    },
+    {
+      "question": "What is the best time of year to jog this trail?",
+      "answer": "Autumn is particularly celebrated for its vibrant display of reds, golds, and oranges from the foliage, making it a spectacular time to visit. While beautiful year-round, winter can bring snow, increasing the difficulty of the route."
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "The Irati Forest is generally welcoming to visitors, but specific regulations regarding dogs on this particular trail are not detailed. It's always best to keep dogs on a leash to protect wildlife and ensure a pleasant experience for all users."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to access the Irati Forest?",
+      "answer": "The Irati Forest, as a significant natural area, may have regulations regarding access or conservation fees, especially during peak seasons. It's recommended to check the official Irati Forest website or local visitor information centers for the most current information on permits or entrance fees before your visit."
+    },
+    {
+      "question": "What makes this trail unique or special?",
+      "answer": "This trail takes you through the heart of the Sierra de Irati, renowned as the second-largest and one of the best-preserved beech-fir forests in Europe. It offers continuous views of the <a href=\"https://www.komoot.com/highlight/5184994\" target=\"_blank\" rel=\"noopener\">Irabia Reservoir</a> and its reflections, along with a deep sense of tranquility and a connection with nature's splendor, especially during the autumn foliage transformation."
+    },
+    {
+      "question": "What should I bring for jogging on this route?",
+      "answer": "Given the varied terrain, including unpaved sections and potential stream crossings, appropriate footwear like sneakers or trekking boots is advisable for comfort and safety. Bringing water and checking the weather forecast is also recommended."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, the route overlaps with sections of several other trails, including Chalet Pedro, Zabaletako oihaneko bide-zaharra, Abodi, Burdinzokoa, and Ruta Transpirenaica en BTT (Aisa - Roncesvalles)."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0070749405,
+    "asphalt": 0.010741819,
+    "gravel": 0.44252655,
+    "unpaved": 0.5396567
+  },
+  "way_types": {
+    "street": 0.010741819,
+    "way": 0.4496015,
+    "hiking_path": 0.5396567
+  },
+  "waypoints": [
+    {
+      "name": "Irabia Reservoir - Irati River",
+      "lat": 42.98602,
+      "lng": -1.13705,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "forest",
+        "family_friendly",
+        "river",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5184994
+    },
+    {
+      "name": "Zabaleta Forest Trail",
+      "lat": 42.9848,
+      "lng": -1.12615,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5228590
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 28,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T12:35:38.577Z",
+  "changed_at": "2026-02-26T18:52:18.277Z",
+  "scraped_at": "2026-04-27T15:04:50.616931+00:00"
+}

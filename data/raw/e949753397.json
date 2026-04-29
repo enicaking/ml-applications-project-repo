@@ -1,0 +1,148 @@
+{
+  "tour_id": "e949753397",
+  "url": "https://www.komoot.com/smarttour/e949753397",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e949753397/llanos-de-la-larri-trail",
+  "name": "Llanos de La Larri Trail",
+  "name_original": "Llanos y Cascadas de La Larri – trail running desde el Valle de Pineta",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 5157.8244515457845,
+  "duration_s": 3435,
+  "elevation_up_m": 321.80549899391303,
+  "elevation_down_m": 319.6950674535283,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.676193,
+  "start_lng": 0.086272,
+  "start_alt_m": 1280.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 3.2-mile trail running route in Ordesa y Monte Perdido National Park features waterfalls, meadows, and mountain views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Rio La Larri, because of the sloping terrain, creates a waterfall. The rock, which comes to light with brown color, completes the highlight. The water falls deeper into the gorge with a roaring sound.",
+    "A great view of the surrounding peaks, such as La Munia and Monte Perdido."
+  ],
+  "faqs": [
+    {
+      "question": "How difficult is the Plains and Waterfalls of La Larri trail for trail running?",
+      "answer": "This trail is classified as a \"difficult\" run, requiring very good fitness, sure-footedness, and sturdy trail running shoes. You should also have some alpine experience. The route includes ascents along the River La Larri, which can be wet and slippery, and stony paths at higher elevations."
+    },
+    {
+      "question": "What is the terrain like on the Plains and Waterfalls of La Larri trail?",
+      "answer": "The terrain is varied and challenging. You'll encounter forest tracks, lush meadows, and stony alpine paths. Expect gradual ascents, particularly along the river, where steps can be present and surfaces may be wet. While some sections are accessible, the route also features unpaved and technical parts, including hairpin bends leading to viewpoints."
+    },
+    {
+      "question": "What natural features and landmarks will I see along the route?",
+      "answer": "The trail offers breathtaking scenery. You'll traverse a deep glacial valley with forested slopes and expansive meadows. Key highlights include the enchanting <a href=\"https://www.komoot.com/highlight/4958930\" target=\"_blank\" rel=\"noopener\">La Larri Waterfall</a>, which plunges down rocky steps, and the spectacular <a href=\"https://www.komoot.com/highlight/2499001\" target=\"_blank\" rel=\"noopener\">La Larri Plains</a>, a high-altitude meadow. You'll also get impressive views of the Pineta circus and the majestic north face of Monte Perdido."
+    },
+    {
+      "question": "Where can I park to access the Plains and Waterfalls of La Larri trail?",
+      "answer": "The trail typically starts from the Pradera de Pineta. Parking is usually available there, but it's advisable to arrive early, especially during peak season, as parking can fill up quickly in popular areas of Ordesa y Monte Perdido National Park."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for this trail in Ordesa y Monte Perdido National Park?",
+      "answer": "While there isn't a specific permit required for this particular trail, it is located within Ordesa y Monte Perdido National Park. It's always a good idea to check the official park regulations before your visit, as rules regarding access, parking, and activities can change. Generally, there are no entrance fees to access the park itself, but certain services or areas might have charges."
+    },
+    {
+      "question": "What is the best time of year to trail run the Plains and Waterfalls of La Larri?",
+      "answer": "The best time to trail run this route is typically from late spring to early autumn (May to October). During these months, the weather is generally more stable, and the trails are free of snow. The waterfalls are usually at their most impressive in spring due to snowmelt. Always check local weather conditions before heading out."
+    },
+    {
+      "question": "Can I trail run this route in winter?",
+      "answer": "Trail running this route in winter is generally not recommended due to snow, ice, and potentially hazardous conditions. The trail can become very slippery and difficult to navigate, requiring specialized equipment and significant alpine experience. It's best to stick to the warmer months for this particular run."
+    },
+    {
+      "question": "Is the Plains and Waterfalls of La Larri trail dog-friendly?",
+      "answer": "As this trail is located within Ordesa y Monte Perdido National Park, specific regulations regarding dogs apply. Generally, dogs are allowed on trails but must be kept on a leash at all times to protect wildlife and ensure the safety of other visitors. Always check the latest park rules regarding pets before your visit."
+    },
+    {
+      "question": "Does this trail connect with other routes in the Pineta Valley?",
+      "answer": "Yes, this route intersects with several other trails in the area. Sections of the trail overlap with the Senda Pirenaica - E23, Variante 16.2, and Senda Pirenaica - E24, among others. This offers opportunities to extend or modify your run if you're looking for a longer adventure."
+    },
+    {
+      "question": "Are there any specific tips for navigating the more challenging sections of the trail?",
+      "answer": "Given the \"difficult\" rating and varied terrain, sure-footedness is crucial, especially on the stony and potentially wet sections near the waterfalls. Wearing sturdy trail running shoes with good grip is essential. Pay close attention to the trail markers, particularly on the higher, more alpine sections. It's also wise to carry enough water and snacks, as there are no facilities directly on the trail."
+    },
+    {
+      "question": "Is this trail suitable for beginners or families with children?",
+      "answer": "Due to its \"difficult\" classification, requiring very good fitness and alpine experience, this trail is generally not recommended for beginners or young children for trail running. While a related hiking route to the Llanos de La Larri is rated as \"moderate,\" the jogging version involves more challenging terrain and elevation changes that demand caution and appropriate skill."
+    }
+  ],
+  "surfaces": {
+    "paved": 0.004210365,
+    "gravel": 0.015349417,
+    "nature": 0.026706474,
+    "unknown": 0.037823893,
+    "asphalt": 0.05056241,
+    "unpaved": 0.2479186,
+    "alpin": 0.61742884
+  },
+  "way_types": {
+    "minor_road": 0.018181276,
+    "street": 0.05056241,
+    "hiking_path": 0.05785141,
+    "way": 0.2066843,
+    "mountain_hiking_path": 0.6667206
+  },
+  "waypoints": [
+    {
+      "name": "La Larri Waterfall",
+      "lat": 42.6839,
+      "lng": 0.0801,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "trail",
+        "viewpoint",
+        "unknown"
+      ],
+      "highlight_id": 4958930
+    },
+    {
+      "name": "La Larri Plains",
+      "lat": 42.6915,
+      "lng": 0.0885,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "waterfall",
+        "trail",
+        "other_natural",
+        "family_friendly"
+      ],
+      "highlight_id": 2499001
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "trail",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 2,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-10T15:01:21.975Z",
+  "changed_at": "2026-02-26T18:52:17.512Z",
+  "scraped_at": "2026-04-27T15:31:23.797025+00:00"
+}

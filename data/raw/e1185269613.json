@@ -1,0 +1,124 @@
+{
+  "tour_id": "e1185269613",
+  "url": "https://www.komoot.com/smarttour/e1185269613",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1185269613/gueejar-sierra-mtb-center-route-9-cuesta-de-la-vina",
+  "name": "Güejar Sierra MTB Center Route 9: Cuesta de la Viña",
+  "name_original": "Güejar Sierra, Pantano de Canales y Rio Genil — BTT en Sierra Nacional de Sierra Nevada",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 6939.930366320232,
+  "duration_s": 2010,
+  "elevation_up_m": 162.04579366062183,
+  "elevation_down_m": 165.19817292445475,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.160167,
+  "start_lng": -3.440152,
+  "start_alt_m": 1095.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This easy 4.3-mile mountain biking route in Sierra Nevada Natural Park offers scenic views of Güéjar Sierra and Canales Reservoir.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The views towards Güejar Sierra and the Canales reservoir from this point of the path are impressive.\r\n\r\nI hope the sun shines when you're here because the views are so worth it."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the Cuesta de la Viña trail?",
+      "answer": "The Cuesta de la Viña trail is a circular route spanning 13.8 km. While komoot estimates a riding time of around 33 minutes, its 'very difficult' technical rating means experienced riders should budget more time, especially considering the challenging terrain and significant elevation changes. Plan for a longer ride to safely navigate the technical sections."
+    },
+    {
+      "question": "Is the Cuesta de la Viña trail suitable for beginners?",
+      "answer": "No, the Cuesta de la Viña trail is not suitable for beginners. It has a 'very difficult' technical rating and is specifically designed for experienced riders. You can expect demanding terrain, including chunky sections, rock gardens, chutes, and slabs."
+    },
+    {
+      "question": "Where does the Cuesta de la Viña trail start, and is there parking available?",
+      "answer": "The Cuesta de la Viña trail begins and ends at the Municipal Sports Pavilion 'Vereda de la Estrella' in Güéjar Sierra. Parking should be available in the vicinity of the pavilion."
+    },
+    {
+      "question": "What kind of terrain can I expect on the Cuesta de la Viña trail?",
+      "answer": "You can expect challenging and demanding enduro mountain biking terrain. This includes chunky sections, rock gardens, chutes, and slabs. The trail also features significant elevation changes, with an accumulated ascent of 681 meters and a descent of 690 meters."
+    },
+    {
+      "question": "Are there any notable viewpoints or scenic spots along the Cuesta de la Viña route?",
+      "answer": "Yes, the trail offers scenic mountain views and varied natural landscapes. A notable highlight is the <a href=\"https://www.komoot.com/highlight/3513207\" target=\"_blank\" rel=\"noopener\">View of Güéjar Sierra and Canales Reservoir</a>. You'll also ride through chestnut forests and river valleys, including that of the emblematic Genil River."
+    },
+    {
+      "question": "Is the Cuesta de la Viña trail dog-friendly?",
+      "answer": "As the trail is located within the Sierra Nevada National Park, dogs are generally permitted but must be kept on a leash at all times to protect wildlife and ensure the safety of other trail users."
+    },
+    {
+      "question": "What is the best time of year to ride the Cuesta de la Viña trail?",
+      "answer": "The best time to ride this trail is typically during spring (April-May) and autumn (September-October) when temperatures are milder. Summer can be very hot, and winter may bring snow or icy conditions at higher altitudes, making the already challenging terrain even more difficult."
+    },
+    {
+      "question": "Are there any permits or fees required to ride the Cuesta de la Viña trail, especially since it's in Sierra Nevada National Park?",
+      "answer": "Generally, there are no specific permits or entrance fees required for mountain biking on established trails like Cuesta de la Viña within the Sierra Nevada National Park. However, always respect park regulations, stay on marked trails, and practice Leave No Trace principles."
+    },
+    {
+      "question": "Does the Cuesta de la Viña trail connect with other routes?",
+      "answer": "Yes, the route is part of the Güéjar Sierra MTB Center and intersects with several other trails. Notable overlaps include sections of the [CIMA GR18] Sierra Nevada - Pico Veleta * Guéjar Sierra / Hotel del Duque, Transnevada (Stage 8 / 8), and Ruta 10: Centro BTT Güéjar Sierra - Sendero del Tranvía."
+    },
+    {
+      "question": "Are there other mountain biking trails in the Güéjar Sierra MTB Center for different skill levels?",
+      "answer": "Absolutely. The Cuesta de la Viña is just one of 10 routes within the Güéjar Sierra MTB Center, which collectively offers over 180 km of trails. These range from family-friendly options to other highly demanding enduro routes, catering to various skill levels."
+    },
+    {
+      "question": "What is the altitude range of the Cuesta de la Viña trail?",
+      "answer": "The trail's altitude ranges significantly, from a minimum of 960 meters (3,160 feet) to a maximum of 1,513 meters (4,950 feet), contributing to its challenging nature and scenic views."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.026039239,
+    "sm#asphalt": 0.1564427,
+    "sm#unpaved": 0.23604196,
+    "sm#paved": 0.5814761
+  },
+  "way_types": {
+    "service": 0.0051894067,
+    "way": 0.13824572,
+    "cycleway": 0.24537545,
+    "minor_road": 0.2532068,
+    "street": 0.35798264
+  },
+  "waypoints": [
+    {
+      "name": "View of Güéjar Sierra and Canales Reservoir",
+      "lat": 37.154773,
+      "lng": -3.429227,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "intermediate",
+        "settlement"
+      ],
+      "highlight_id": 3513207
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 2,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-06-26T09:28:49.983Z",
+  "changed_at": "2026-02-26T19:50:12.195Z",
+  "scraped_at": "2026-04-28T13:45:44.874729+00:00"
+}

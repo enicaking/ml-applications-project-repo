@@ -1,0 +1,145 @@
+{
+  "tour_id": "e1237714156",
+  "url": "https://www.komoot.com/smarttour/e1237714156",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1237714156/cascada-de-la-ratera-y-mirador-del-lago-de-san-mauricio-desde-prat-de-pierro-circular-en-el-parque-nacional-de-aigueestortes-i-estany-de-sant-maurici",
+  "name": "Cascada de la Ratera y Mirador del Lago de San Mauricio desde Prat de Pierró — circular en el Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "name_original": null,
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 13861.55037787582,
+  "duration_s": 16696,
+  "elevation_up_m": 516.8710112111141,
+  "elevation_down_m": 516.8710112111144,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.584509,
+  "start_lng": 1.048182,
+  "start_alt_m": 1658.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "These stone paths, named after the park: the Pont de la Gorga footbridge, are adapted for people in wheelchairs until they reach the bridge, where the adapted path ends. About 450m.",
+    "As we get closer to the Ratera Waterfall, we will hear the louder and louder noise of the water, which indicates that we are on the right track towards one of the most beautiful waterfalls in the Aigüestortes Natural Park. It will be great for us to cool off on the hottest days.",
+    "Mountain lake at 2160 meters of altitude located in the Aiguas Tortas and Lake San Mauricio National Park.",
+    "Viewpoint that allows us to appreciate the San Mauricio pond and the wonderful views that surround it.",
+    "Monumental tree cataloged and protected.\nMeasurements: Total height (h) = 26.0 m Cannon vault (c) = 4.40 m Average crown (C) = 11.4 m\n\nNotes (NB): L’Avet de la Solaneta is located near Sant Maurici Lake, next to the E. Mallafré refuge. It is a unique tree for its size and age and located on a busy road that borders the lake on the south side.\nThis Fir is located in a mixed forest with species such as the moixera, the birch, the black pine and the fir as the predominant tree. These are species typical of the subalpine habitat that live in environments with cold winters and an abundance of snow and cool, humid summers.\nIn this mixed forest, the largest and most prominent tree is the fir. There are other large fir trees around, none of them, but they are about the size of our fir tree."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.00059547985,
+    "asphalt": 0.012130482,
+    "gravel": 0.1346136,
+    "alpin": 0.19742543,
+    "nature": 0.22447287,
+    "unpaved": 0.43076214
+  },
+  "way_types": {
+    "street": 0.012130482,
+    "mountain_hiking_path": 0.24078135,
+    "way": 0.24284211,
+    "hiking_path": 0.50424606
+  },
+  "waypoints": [
+    {
+      "name": "Pont de la Gorga footbridge",
+      "lat": 42.584311,
+      "lng": 1.043993,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "wheelchair_accessible",
+        "forest",
+        "bridge"
+      ],
+      "highlight_id": 4633519
+    },
+    {
+      "name": "Ratera Waterfall",
+      "lat": 42.585865,
+      "lng": 0.999194,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1033042
+    },
+    {
+      "name": "Ratera Lake",
+      "lat": 42.588793,
+      "lng": 0.992836,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 197506
+    },
+    {
+      "name": "View of Estany de Sant Maurici",
+      "lat": 42.58653,
+      "lng": 0.987636,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "natural_monument",
+        "challenging",
+        "summit"
+      ],
+      "highlight_id": 154043
+    },
+    {
+      "name": "Solaneta Fir",
+      "lat": 42.579897,
+      "lng": 1.006268,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "forest",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4696472
+    }
+  ],
+  "categories": [
+    "bridge",
+    "challenging",
+    "forest",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint",
+    "waterfall",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": 4.87234,
+  "rating_count": 94,
+  "visitors": 552,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-30T19:20:31.291Z",
+  "changed_at": "2024-08-12T07:44:58.106Z",
+  "scraped_at": "2026-04-27T12:02:36.554614+00:00"
+}

@@ -1,0 +1,129 @@
+{
+  "tour_id": "e1041795852",
+  "url": "https://www.komoot.com/smarttour/e1041795852",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1041795852/ridge-run-running-in-the-basque-country",
+  "name": "Ridge run – running in the Basque Country",
+  "name_original": "Course des crêtes en off — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 25788.821548049098,
+  "duration_s": 13455,
+  "elevation_up_m": 977.0716309409257,
+  "elevation_down_m": 977.5648536280888,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.339455,
+  "start_lng": -1.447031,
+  "start_alt_m": 77.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The ridge race is a must for trail running in the Basque Country. Organized for more than 40 years, the event takes place in a festive atmosphere that does not neglect the sporting challenge. The loop of approximately 27 kilometers and 1,000 meters of elevation gain starts from the village of Espelette each year at the end of June - beginning of July.\n\nIf Espelette owes its fame to the cultivation of peppers, it is also a pretty little village nestled in the heart of the Basque Country. There are many craftsmen and shops that highlight an exceptional heritage.\n\nDeparture is in the town center of the village. The first three kilometers, relatively flat, allow you to warm up before attacking the first ascent towards Mondarrain.\nThe incline gets steeper as you get closer to the top, but once you get there the views are worth it.\n\nYou then follow the side of the Bizkaïluze ridge to the Spanish border before turning around. This time you move directly on the ridge before joining another line that takes you to Mount Errebi. On a sunny day, the panorama extends to the Atlantic Ocean.\n\nFrom the mountain, there is practically only a descent to Espelette. This takes the Pinodieta pass, surrounded by pepper fields. You then follow a nice, rolling path back to where you started.\n\nDuring the same weekend, the ASC Napurrak club also offers the following races:\na 45 kilometer race\na 21 kilometer race\na 14 kilometer race\na 7.5 kilometer night run\na 7 kilometer race\na free hike of 15.5 kilometers\na 16.7 kilometer yum-yum walk\na 14 kilometer Nordic walk\nYou can find more information about the entire event here:\nhttps://www.coursedescretes.com/",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Culminating at 749 meters, the Mondarrain is an iconic summit of the Basque Country. Its particular shape makes it easy to distinguish.\r\n\r\nThe “mount of eagles” in Basque offers a magnificent view of the surroundings, including its neighbour, Artzamendi.\r\n\r\nIts ascent is easy with a last rocky part which makes it a nice climbing spot.",
+    "Mount Errebi culminates at 583 meters above sea level. This summit, which looks like a large grassy bump, dominates the village of Ainhoa and offers a pretty panorama of the Pyrenees chain and the Atlantic coast.",
+    "The Pinodieta pass rises to 176 meters above sea level. It is located between the villages of Espelette and Ainhoa which it dominates offering beautiful panoramas.",
+    "Magnificent little Basque village which owes its fame to the Espelette pepper. Basque architecture is omnipresent in a very pleasant and warm atmosphere."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.080955006,
+    "nature": 0.10913032,
+    "paved": 0.1436085,
+    "unpaved": 0.17216519,
+    "unknown": 0.1787393,
+    "alpin": 0.31540167
+  },
+  "way_types": {
+    "primary": 0.0061857696,
+    "minor_road": 0.10000618,
+    "hiking_path": 0.116543084,
+    "street": 0.16507645,
+    "mountain_hiking_path": 0.24419071,
+    "way": 0.3679978
+  },
+  "waypoints": [
+    {
+      "name": "Mount Mondarrain",
+      "lat": 43.30214,
+      "lng": -1.432053,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "climb",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 4732901
+    },
+    {
+      "name": "Mont Errebi",
+      "lat": 43.30477,
+      "lng": -1.47178,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2529385
+    },
+    {
+      "name": "Col de Pinodieta",
+      "lat": 43.32767,
+      "lng": -1.47416,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "trail"
+      ],
+      "highlight_id": 2648545
+    },
+    {
+      "name": "Espelette",
+      "lat": 43.33948,
+      "lng": -1.44705,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 5169768
+    }
+  ],
+  "categories": [
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.199999809265137,
+  "rating_count": 5,
+  "visitors": 504,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-01T14:18:32.483Z",
+  "changed_at": "2024-06-07T06:53:40.328Z",
+  "scraped_at": "2026-04-27T15:18:29.183824+00:00"
+}

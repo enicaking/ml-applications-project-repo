@@ -1,0 +1,122 @@
+{
+  "tour_id": "e949048405",
+  "url": "https://www.komoot.com/smarttour/e949048405",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e949048405/route-of-the-three-waterfalls-of-ardones-circular-trail-running-from-cerler",
+  "name": "Route of the Three Waterfalls of Ardonés – circular trail running from Cerler",
+  "name_original": "Ruta de las Tres Cascadas de Ardonés – circular de trail running desde Cerler",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 4,
+  "distance_m": 6525.612154113838,
+  "duration_s": 3637,
+  "elevation_up_m": 300.1226949485799,
+  "elevation_down_m": 300.383500734511,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.593926,
+  "start_lng": 0.539422,
+  "start_alt_m": 1623.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Really a beautiful waterfall and well worth a visit. It's a nice hike from Cerler. There may be a lot of hikers on the way, also because there is a parking lot nearby.",
+    "The highest of the 3 waterfalls. It is at its peak in late spring.",
+    "Smaller waterfall and less spectacular than its neighbors.",
+    "The highest town in the Aragonese Pyrenees, with the Aramón Cerler alpine ski resort as the main sports engine for decades, it is also a good starting point for numerous trail running training routes."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.023550067,
+    "paved": 0.071131,
+    "alpin": 0.9053189
+  },
+  "way_types": {
+    "street": 0.007743017,
+    "minor_road": 0.053590953,
+    "way": 0.10496721,
+    "mountain_hiking_path": 0.8336988
+  },
+  "waypoints": [
+    {
+      "name": "Ardonés Waterfall",
+      "lat": 42.58866,
+      "lng": 0.57045,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "climb",
+        "trail",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 871651
+    },
+    {
+      "name": "Clotet Waterfall",
+      "lat": 42.58936,
+      "lng": 0.56952,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 4977100
+    },
+    {
+      "name": "Cascada de la Mascarada",
+      "lat": 42.59025,
+      "lng": 0.56638,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate"
+      ],
+      "highlight_id": 4976813
+    },
+    {
+      "name": "Cerler Historic Village",
+      "lat": 42.59559,
+      "lng": 0.5389,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 5114322
+    }
+  ],
+  "categories": [
+    "climb",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 165,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-09T16:24:32.847Z",
+  "changed_at": "2024-06-05T22:06:20.783Z",
+  "scraped_at": "2026-04-27T15:39:48.381399+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "tour_id": "e1058649097",
+  "url": "https://www.komoot.com/smarttour/e1058649097",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1058649097/penas-de-aia-erroilbide-txurrumurru-irumugarrieta-y-muganix-circular-trailrunning-por-el-parque-natural-aiako-harria",
+  "name": "Peñas de Aia: Erroilbide, Txurrumurru, Irumugarrieta y Muganix — circular trailrunning por el Parque Natural Aiako Harria",
+  "name_original": null,
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 7486.848631114379,
+  "duration_s": 5195,
+  "elevation_up_m": 408.33669465189803,
+  "elevation_down_m": 408.9584708887675,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.295247,
+  "start_lng": -1.786588,
+  "start_alt_m": 512.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Mountain with category +1 of Guipúzcoa and Navarra. The use of hands is necessary to reach the top so it is not suitable for beginners.",
+    "Magnificent views from San Sebastián to Las Landas",
+    "Good walk, and magnificent views from San Sebastián to Las Landas to the north, and the Navarro and French Pyrenees to the east.",
+    "One of the peaks of Peñas de Aia is home to the Junkal cave, a cavity that is the object of mountain celebrations."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.133066,
+    "alpin": 0.41855487,
+    "nature": 0.44837913
+  },
+  "way_types": {
+    "way": 0.0023062793,
+    "hiking_path": 0.133066,
+    "alpine_hiking_path": 0.14532898,
+    "mountain_hiking_path": 0.7192987
+  },
+  "waypoints": [
+    {
+      "name": "Erroilbide Summit (837 m)",
+      "lat": 43.281717,
+      "lng": -1.785222,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "climb",
+        "viewpoint",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 928356
+    },
+    {
+      "name": "Txurrumurru Summit (828 m)",
+      "lat": 43.285186,
+      "lng": -1.783568,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "climb",
+        "viewpoint",
+        "natural_monument",
+        "man_made_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1664824
+    },
+    {
+      "name": "Irumugarrieta Peak (811 m)",
+      "lat": 43.286932,
+      "lng": -1.783456,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "challenging"
+      ],
+      "highlight_id": 918649
+    },
+    {
+      "name": "Muganix Summit (758 m)",
+      "lat": 43.28871,
+      "lng": -1.78612,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "cave"
+      ],
+      "highlight_id": 918648
+    }
+  ],
+  "categories": [
+    "cave",
+    "challenging",
+    "climb",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 162,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-03-23T17:00:02.890Z",
+  "changed_at": "2024-07-25T14:11:42.704Z",
+  "scraped_at": "2026-04-27T15:02:59.555577+00:00"
+}

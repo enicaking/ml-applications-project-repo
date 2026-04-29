@@ -1,0 +1,154 @@
+{
+  "tour_id": "e926318508",
+  "url": "https://www.komoot.com/smarttour/e926318508",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926318508/canyon-of-anisclo-from-broto",
+  "name": "Canyon of Añisclo from Broto",
+  "name_original": "Cañón de Añisclo desde Broto",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 75146.76273994273,
+  "duration_s": 16904,
+  "elevation_up_m": 2168.601929352688,
+  "elevation_down_m": 2156.5508791917914,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.601986,
+  "start_lng": -0.120686,
+  "start_alt_m": 922.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Experience challenging road cycling through the dramatic Añisclo Canyon from Broto, featuring stunning Pyrenean views and varied terrain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This beautiful Pyrenean town is divided into two neighborhoods by the Ara River. It is located at the gates of the Ordesa y Monte Perdido National Park.",
+    "Very good views from the viewpoint and nice road.",
+    "Spectacular views. Boggy and gravel road. Traffic in high season but only vehicles circulate in the Fanlo direction."
+  ],
+  "faqs": [
+    {
+      "question": "What is the terrain like for road cycling through the Canyon of Añisclo?",
+      "answer": "While much of the route features well-paved surfaces, be prepared for varying road conditions. Some segments within the canyon are described as boggy and gravel. Specifically, the HU-631 road through the gorge is in very poor condition, potentially slippery after rain, and quite bumpy. You will also encounter extremely narrow sections and unlit tunnels."
+    },
+    {
+      "question": "Is this road cycling route suitable for beginners?",
+      "answer": "No, this route is generally classified as a \"hard road ride\" and is not suitable for beginners. It requires a very good level of fitness due to its significant elevation gain and challenging terrain."
+    },
+    {
+      "question": "Where can I park when cycling the Canyon of Añisclo from Broto?",
+      "answer": "The route starts in Broto, a picturesque Pyrenean town. You should be able to find parking within or near the village to begin your ride."
+    },
+    {
+      "question": "Are there any special road rules or access restrictions within the Añisclo Canyon?",
+      "answer": "Yes, it's important to note that during certain periods of the year, the road within the Añisclo Canyon may operate as a one-way system. Always check local regulations before you go to ensure a smooth ride."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "The route offers breathtaking natural beauty. You'll pass through <a href=\"https://www.komoot.com/highlight/4988512\" target=\"_blank\" rel=\"noopener\">Broto village on the Ara River</a>. The highlight is undoubtedly the <a href=\"https://www.komoot.com/highlight/3537384\" target=\"_blank\" rel=\"noopener\">Añisclo Gorge</a> itself, with its impressive vertical walls. A notable viewpoint along the way is the <a href=\"https://www.komoot.com/highlight/529365\" target=\"_blank\" rel=\"noopener\">Vió Viewpoint - Añisclo Canyon</a>, offering excellent vistas."
+    },
+    {
+      "question": "What is the best time of year to road cycle the Canyon of Añisclo?",
+      "answer": "The best time to cycle this route is typically during the warmer, drier months to avoid slippery conditions on the poorly maintained sections of road and to ensure the most pleasant experience through the canyon."
+    },
+    {
+      "question": "Are dogs allowed on this road cycling route?",
+      "answer": "This is a road cycling route, so dogs are generally not restricted from accompanying you on public roads. However, if you plan to stop and explore any trails or areas within Ordesa y Monte Perdido National Park, be aware of specific park regulations regarding dogs, which may require them to be on a leash or restrict access in certain zones."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to cycle through the Añisclo Canyon?",
+      "answer": "The Añisclo Canyon is part of the Ordesa y Monte Perdido National Park. While there isn't typically an entrance fee for cycling on the public roads through the canyon, it's always wise to check the official park website for any specific regulations or permits that might apply to cyclists, especially during peak seasons or for specific activities."
+    },
+    {
+      "question": "Does the route intersect other well-known paths?",
+      "answer": "Yes, the route also passes through sections of the Ruta Transpirenaica en BTT (El Pont de Suert - Broto), Sendero Prepirenaico, and [CIMA HU04] Fanlo * Sarvisé."
+    },
+    {
+      "question": "What should I bring for this challenging road ride?",
+      "answer": "Given the difficult nature of the ride and varying road conditions, you should bring a well-maintained road bike suitable for rougher patches, appropriate cycling gear, plenty of water and snacks, a repair kit, and lights for the unlit tunnels. Always check the weather forecast and pack accordingly."
+    },
+    {
+      "question": "Are there any places to eat or drink near the route?",
+      "answer": "The route starts in Broto, where you can find cafes, pubs, and restaurants. It's advisable to stock up on supplies there as options might be limited once you are deep within the canyon."
+    }
+  ],
+  "surfaces": {
+    "sb#paved": 0.0054472443,
+    "sb#asphalt": 0.99455273
+  },
+  "way_types": {
+    "service": 0.0011491454,
+    "minor_road": 0.0032894756,
+    "street": 0.99556136
+  },
+  "waypoints": [
+    {
+      "name": "Broto village on the Ara River",
+      "lat": 42.60438,
+      "lng": -0.12278,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river",
+        "bridge",
+        "historical_site"
+      ],
+      "highlight_id": 4988512
+    },
+    {
+      "name": "Vió Viewpoint - Añisclo Canyon",
+      "lat": 42.555049,
+      "lng": 0.051059,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "canyon",
+        "intermediate"
+      ],
+      "highlight_id": 529365
+    },
+    {
+      "name": "Añisclo Gorge",
+      "lat": 42.528136,
+      "lng": 0.089962,
+      "type": "canyon",
+      "categories": [
+        "canyon",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3537384
+    }
+  ],
+  "categories": [
+    "bridge",
+    "canyon",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 68,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-14T18:12:47.176Z",
+  "changed_at": "2026-02-26T18:36:02.227Z",
+  "scraped_at": "2026-04-28T19:30:03.629343+00:00"
+}

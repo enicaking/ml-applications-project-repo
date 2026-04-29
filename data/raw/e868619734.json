@@ -1,0 +1,161 @@
+{
+  "tour_id": "e868619734",
+  "url": "https://www.komoot.com/smarttour/e868619734",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e868619734/demanding-loop-at-ispeguy-pass",
+  "name": "Demanding loop at Ispeguy pass",
+  "name_original": "Boucle exigeante au col d'Ispeguy",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 76800.93196575198,
+  "duration_s": 19969,
+  "elevation_up_m": 1643.739481744718,
+  "elevation_down_m": 1641.9033725947043,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.181902,
+  "start_lng": -1.334274,
+  "start_alt_m": 166.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This demanding 47.7-mile touring cycling loop at Ispeguy Pass offers challenging climbs, stunning Basque landscapes, and panoramic views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Fresh water at St Etienne Baigorry church",
+    "Magnificent little Basque village which owes its fame to the Espelette pepper. Basque architecture is omnipresent in a very pleasant and warm atmosphere.",
+    "The Pas de Roland is a gorge carved by the Nive River near Itxassou in Labourd. Located at the bottom of the gorge, the path runs alongside beautiful cliffs in a remarkable mineral setting. The road follows the river, through the Basque hinterland, in a pleasant and bucolic atmosphere."
+  ],
+  "faqs": [
+    {
+      "question": "How challenging is the Demanding loop at Ispeguy pass for touring cyclists?",
+      "answer": "This route is classified as <strong>difficult</strong> and requires very good fitness. While the climb itself features consistent gradients of 6-8% which are manageable, the overall distance of approximately 77 km and over 1,600 meters of elevation gain make it a demanding ride."
+    },
+    {
+      "question": "How long does it typically take to complete this demanding cycling loop?",
+      "answer": "The estimated duration for this touring bicycle loop is around 5 hours and 30 minutes. However, depending on your fitness level and stops, it can take over 5 hours, as similar challenging routes in the area often do."
+    },
+    {
+      "question": "What are the road conditions and terrain like on the Ispeguy Pass route?",
+      "answer": "The cycling terrain on the Ispeguy Pass is predominantly well-paved and smooth, offering an enjoyable ride. The climb from common starting points like Saint-Étienne-de-Baïgorry features steady gradients, allowing cyclists to maintain a rhythm. While most of the route is paved, some segments on more demanding loops might be unpaved."
+    },
+    {
+      "question": "What kind of scenery can I expect along the route?",
+      "answer": "You can expect magnificent panoramic views of the Basque Country's raw and wild beauty. The route offers views over green rolling hills, gently curving mountains, and rocky peaks, especially on the upper slopes. You might also see colorful wildflowers, streams, and even wild horses."
+    },
+    {
+      "question": "Are there any specific viewpoints or notable attractions on the loop?",
+      "answer": "Yes, the route features several notable attractions. You'll pass through the scenic <a href=\"https://www.komoot.com/highlight/211371\" target=\"_blank\" rel=\"noopener\">Ispéguy Pass</a> itself, and the charming village of <a href=\"https://www.komoot.com/highlight/1127635\" target=\"_blank\" rel=\"noopener\">Espelette</a>, famous for its chili peppers. Another highlight is the <a href=\"https://www.komoot.com/highlight/911139\" target=\"_blank\" rel=\"noopener\">Route du Pas de Roland</a>, offering picturesque views."
+    },
+    {
+      "question": "When is the best time of year to cycle the Ispeguy Pass loop?",
+      "answer": "The best time to cycle this loop is generally during the warmer months when the weather is more stable. Spring and autumn offer pleasant temperatures and vibrant landscapes, though autumn might bring more unpredictable weather. The region's climate ensures lush green scenery for much of the year."
+    },
+    {
+      "question": "Where can I start this cycling loop and is there parking available?",
+      "answer": "A common starting point for routes incorporating the Ispeguy Pass is Saint-Étienne-de-Baïgorry, which offers picturesque views of a typical Basque village. While specific parking details for this exact loop aren't provided, villages like Saint-Étienne-de-Baïgorry typically have public parking options suitable for cyclists."
+    },
+    {
+      "question": "Are there places to rest or refuel along the way?",
+      "answer": "Yes, at the summit of the <a href=\"https://www.komoot.com/highlight/211371\" target=\"_blank\" rel=\"noopener\">Ispéguy Pass</a>, you'll find two 'bentaas' (bars) located between the former customs house. These provide a convenient spot to rest and refuel before continuing your journey."
+    },
+    {
+      "question": "Is this cycling route suitable for dogs?",
+      "answer": "This route is designed for touring bicycles. While dogs are generally welcome in the Basque Country, it's not typically recommended to bring dogs on a demanding, long-distance cycling route like this one, especially given the elevation and duration. If you plan to bring a dog, ensure they are safely secured in a bike trailer and consider the physical demands on them."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this cycling route?",
+      "answer": "No, you do not need any special permits or have to pay entrance fees to cycle this route. The Ispeguy Pass is a public road that straddles the French-Spanish border, freely accessible to cyclists."
+    },
+    {
+      "question": "What is the traffic like on the Ispeguy Pass?",
+      "answer": "A significant advantage for touring cyclists on the Ispeguy Pass is the very low traffic volume on the climb. This contributes to a more peaceful and enjoyable experience, allowing you to focus on the ride and the stunning scenery."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.005468651,
+    "sb#paved": 0.22731219,
+    "sb#asphalt": 0.7672192
+  },
+  "way_types": {
+    "minor_road": 0.049571913,
+    "primary": 0.22878051,
+    "street": 0.72164756
+  },
+  "waypoints": [
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.175672,
+      "lng": -1.4021,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    },
+    {
+      "name": "Espelette — village and Espelette chili peppers",
+      "lat": 43.341189,
+      "lng": -1.449398,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "cafe",
+        "restaurant",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 1127635
+    },
+    {
+      "name": "Route du Pas de Roland",
+      "lat": 43.316315,
+      "lng": -1.403213,
+      "type": "natural_monument",
+      "categories": [
+        "road",
+        "natural_monument"
+      ],
+      "highlight_id": 911139
+    }
+  ],
+  "categories": [
+    "cafe",
+    "climb",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "road",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.3333332538604736,
+  "rating_count": 3,
+  "visitors": 136,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-02T09:53:09.026Z",
+  "changed_at": "2026-02-26T18:39:20.502Z",
+  "scraped_at": "2026-04-28T23:39:09.873006+00:00"
+}

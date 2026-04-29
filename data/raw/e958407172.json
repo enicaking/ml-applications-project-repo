@@ -1,0 +1,121 @@
+{
+  "tour_id": "e958407172",
+  "url": "https://www.komoot.com/smarttour/e958407172",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e958407172/loop-towards-the-waterfall-the-abyss-and-the-ru-d-enfer-from-the-lis-valley",
+  "name": "Loop towards the Waterfall, the Abyss and the Ru d'Enfer from the Lis valley",
+  "name_original": "Boucle vers la Cascade, le Gouffre et le Ru d'Enfer depuis la vallée du Lis",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6925.849942951945,
+  "duration_s": 10342,
+  "elevation_up_m": 531.1240422233263,
+  "elevation_down_m": 529.7581608175803,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.736801,
+  "start_lng": 0.556205,
+  "start_alt_m": 1137.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "At the end of our hike we were able to look at the waterfall and catch our breath. 😉\r\nWe did the loop clockwise.",
+    "Magnificent and impressive must-see waterfall",
+    "Super nice, old stone path. Must have been a lot of hard work.",
+    "The brook of Hell rushes into an impressive very narrow canyon at the bottom of the Lys valley."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.034881093,
+    "unknown": 0.073269695,
+    "alpin": 0.19548084,
+    "unpaved": 0.6963684
+  },
+  "way_types": {
+    "way": 0.004194618,
+    "street": 0.034881093,
+    "minor_road": 0.06907508,
+    "mountain_hiking_path": 0.19548084,
+    "hiking_path": 0.6963684
+  },
+  "waypoints": [
+    {
+      "name": "Cascade d'Enfer",
+      "lat": 42.732735,
+      "lng": 0.552495,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 452119
+    },
+    {
+      "name": "Old Mine Trail Bridge and Waterfall",
+      "lat": 42.730927,
+      "lng": 0.550401,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "bridge",
+        "intermediate",
+        "forest"
+      ],
+      "highlight_id": 452121
+    },
+    {
+      "name": "Hell's Abyss",
+      "lat": 42.729897,
+      "lng": 0.55009,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 452092
+    },
+    {
+      "name": "Large old stone path",
+      "lat": 42.730213,
+      "lng": 0.547979,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 2812682
+    },
+    {
+      "name": "Stream of Hell",
+      "lat": 42.725163,
+      "lng": 0.545758,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 991456
+    }
+  ],
+  "categories": [
+    "bridge",
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.7317070960998535,
+  "rating_count": 41,
+  "visitors": 209,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-21T00:48:36.906Z",
+  "changed_at": "2024-06-06T00:16:26.840Z",
+  "scraped_at": "2026-04-27T11:52:00.302783+00:00"
+}

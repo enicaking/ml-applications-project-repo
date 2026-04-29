@@ -1,0 +1,160 @@
+{
+  "tour_id": "e1395112726",
+  "url": "https://www.komoot.com/smarttour/e1395112726",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1395112726/obac-d-incles-trail",
+  "name": "Obac d'Incles Trail",
+  "name_original": "Vall d'Incles — circular",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 5463.544993141878,
+  "duration_s": 5505,
+  "elevation_up_m": 107.29814005649405,
+  "elevation_down_m": 112.70538303036597,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.601621,
+  "start_lng": 1.686073,
+  "start_alt_m": 1842.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This easy 3.4-mile (5.5 km) circular hike in Andorra's Vall d'Incles offers lush scenery, waterfalls, and a distinctive U-shaped valley.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A beautiful stream with a small bridge.",
+    "The splendor of the Pyrenean peaks surrounds a vibrant landscape of the Vall d'Incles. With many starting points to explore the surrounding peaks of Siscaró, Pic d'Anrodat and Pic de la Coma de Varilles.",
+    "Great place to start hiking routes. Open and clean bathrooms (October 2023) and free parking. You must take into account the time of access to the Vall d'Incles. The road is usually cut/closed at a certain time due to construction or influx of visitors."
+  ],
+  "faqs": [
+    {
+      "question": "How do I get to the trailhead for the Vall d'Incles circular hike?",
+      "answer": "<p>The trailhead for the Vall d'Incles circular route is accessible via the <a href=\"https://www.komoot.com/highlight/6240442\" target=\"_blank\" rel=\"noopener\">Vall d'Incles Trailhead</a>. During peak summer season (mid-June to mid-September), vehicle access to the valley is restricted to preserve its tranquility. A convenient bus service is available during these months to transport visitors into the valley.</p>"
+    },
+    {
+      "question": "Is the Vall d'Incles circular trail suitable for beginners or families with children?",
+      "answer": "<p>Yes, the Vall d'Incles offers sections suitable for all levels. While the full circular route has varied terrain, there are very easy, gentle walks along the valley floor, such as the <a href=\"https://www.komoot.com/highlight/4328671\" target=\"_blank\" rel=\"noopener\">Obac d’Incles Trail</a>, which is perfect for families and even young children. These routes follow the Incles river and have minimal elevation gain.</p>"
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "<p>The Vall d'Incles is beautiful throughout the warmer months. Summer (mid-June to mid-September) is ideal for vibrant wildflowers and lush greenery, though vehicle access is restricted then. Spring offers melting snow and fresh growth, while autumn brings stunning fall colors. Winter hiking is possible but requires appropriate gear for snow and ice conditions.</p>"
+    },
+    {
+      "question": "Are dogs allowed on the Vall d'Incles circular trail?",
+      "answer": "<p>Yes, dogs are generally allowed on trails in the Vall d'Incles. However, it's always recommended to keep them on a leash to protect local wildlife and ensure a pleasant experience for all hikers. Please remember to clean up after your pet.</p>"
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to hike in Vall d'Incles?",
+      "answer": "<p>No, there are no specific permits or entrance fees required to hike the trails in the Vall d'Incles. The valley is freely accessible to the public. However, be aware of the vehicle access restrictions during peak summer season, which may require using the bus service.</p>"
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "<p>The terrain is quite varied. You'll walk through peaceful pine and fir forests, open meadows, and along the U-shaped glacial <a href=\"https://www.komoot.com/highlight/550045\" target=\"_blank\" rel=\"noopener\">Incles Valley</a>. Some paths are well-marked forest tracks, while others are narrower and more undulating. Expect some low-intensity ups and downs. Depending on the season, certain areas might be muddy, especially from snowmelt.</p>"
+    },
+    {
+      "question": "What natural features or landmarks will I see along the way?",
+      "answer": "<p>You'll be treated to spectacular scenery, including lush greenery, vibrant wildflowers, and the constant sound of flowing water from natural waterfalls and brooks. The elevated sections offer panoramic views of the surrounding mountains. The valley itself is a significant natural feature, being a distinctive U-shaped glacial valley. You might also spot traditional stone houses, adding to the cultural charm.</p>"
+    },
+    {
+      "question": "Does this trail intersect with any other hiking routes?",
+      "answer": "<p>Yes, the route intersects with several other official trails. You'll find sections that overlap with the HRP Variante 31.1, HRP Variante 30-31.1, HRP Étape 31, HRP Étape 32, and the Camí de l'Obac d'Incles. These intersections offer opportunities to explore further if you wish to extend your hike.</p>"
+    },
+    {
+      "question": "What wildlife might I encounter on the Vall d'Incles circular trail?",
+      "answer": "<p>The valley is rich in biodiversity. Keep an eye out for various flora like black pine and rhododendrons. Wildlife sightings can include deer, squirrels, roe deer, and diverse bird species such as the alpine pipit, alpine accentor, and grey wheatear. If you're lucky, you might even spot the Pyrenean newt in high mountain lakes.</p>"
+    },
+    {
+      "question": "Are there any cafes or facilities near the trailhead?",
+      "answer": "<p>While the valley itself is preserved for its natural beauty and tranquility, there are usually some facilities available at the entrance or nearby villages. During the peak summer season when vehicle access is restricted, the bus service often connects to areas with amenities. It's always a good idea to check local information for current offerings before your visit.</p>"
+    },
+    {
+      "question": "What makes the Vall d'Incles a special place for hiking?",
+      "answer": "<p>The Vall d'Incles is often called a \"hidden gem\" and a \"hiker's paradise\" due to its unique blend of wild nature, peaceful atmosphere, and breathtaking views. Its distinctive U-shaped glacial valley is one of Andorra's most beautiful and unspoiled. Informative panels along some routes also describe the area's ancestral trades, adding a cultural and educational dimension to your hike.</p>"
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.00495287,
+    "paved": 0.07420592,
+    "unpaved": 0.42886987,
+    "asphalt": 0.4919713
+  },
+  "way_types": {
+    "minor_road": 0.050694767,
+    "way": 0.10907024,
+    "hiking_path": 0.34826368,
+    "street": 0.4919713
+  },
+  "waypoints": [
+    {
+      "name": "Obac d’Incles Trail",
+      "lat": 42.594778,
+      "lng": 1.675833,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "river",
+        "forest",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 4328671
+    },
+    {
+      "name": "Incles Valley",
+      "lat": 42.59305,
+      "lng": 1.67133,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "family_friendly",
+        "trail",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 550045
+    },
+    {
+      "name": "Vall d'Incles Trailhead",
+      "lat": 42.602156,
+      "lng": 1.686113,
+      "type": "parking",
+      "categories": [
+        "parking",
+        "trail",
+        "facilities",
+        "family_friendly",
+        "trail_head"
+      ],
+      "highlight_id": 6240442
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "other_natural",
+    "parking",
+    "river",
+    "trail",
+    "trail_head",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.6551723,
+  "rating_count": 29,
+  "visitors": 301,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-12-19T14:42:22.703Z",
+  "changed_at": "2026-02-26T20:12:23.049Z",
+  "scraped_at": "2026-04-27T12:15:57.946202+00:00"
+}

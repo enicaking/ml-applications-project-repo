@@ -1,0 +1,154 @@
+{
+  "tour_id": "e859952388",
+  "url": "https://www.komoot.com/smarttour/e859952388",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e859952388/col-de-gamia-loop-from-saint-jean-pied-de-port",
+  "name": "Col de Gamia Loop from Saint-Jean-Pied-de-Port",
+  "name_original": "Superbe boucle de Saint-Jean-Pied-de-Port",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 46726.93745995382,
+  "duration_s": 11830,
+  "elevation_up_m": 835.3746012649318,
+  "elevation_down_m": 834.7931150087054,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.162939,
+  "start_lng": -1.239761,
+  "start_alt_m": 166.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 29.0-mile touring cycling loop from Saint-Jean-Pied-de-Port offers 2741 feet of elevation gain and scenic Pyrenean views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Jean-Pied-de-Port is a medieval town that is definitely worth a visit. Plan a walk along the ramparts. You will be impressed by the large amount of hostels for pilgrims. It's normal, here converge several roads of the way of Saint-Jacques!",
+    "Another road that loses us in the valley. Each elevation will allow us to enjoy the panorama that we never tire of.",
+    "Lost road, pleasant, a small steep path at the end (it's the Basque Country) but breathtaking view of the valley!",
+    "A small collar that fits well. The road is narrow, with no traffic. The start is a bit rough, but it gets you going!"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Col de Gamia Loop from Saint-Jean-Pied-de-Port?",
+      "answer": "This route is rated as <strong>difficult</strong> for touring cyclists. It features significant climbs and descents characteristic of the Pyrenean foothills. The Col de Gamia itself is known for being very challenging, with consistently high gradients and steep sections, making it demanding even for experienced cyclists."
+    },
+    {
+      "question": "How long does it typically take to complete this cycling loop?",
+      "answer": "The estimated duration for this touring bicycle route is approximately 3 hours and 17 minutes. However, this can vary significantly based on your fitness level, the number of stops you make, and weather conditions."
+    },
+    {
+      "question": "What kind of terrain will I encounter on this route?",
+      "answer": "You will cycle through rugged Pyrenean foothills with substantial elevation gains and descents. While some road surfaces, particularly around Col de Gamia, are described as 'fantastic' and recently redone, conditions can vary. Expect winding mountain roads, some of which can be quite steep."
+    },
+    {
+      "question": "Are there any notable landmarks or points of interest along the way?",
+      "answer": "Yes, the route offers several points of interest. You'll start from the historic town of <a href=\"https://www.komoot.com/highlight/761411\" target=\"_blank\" rel=\"noopener\">Saint-Jean-Pied-de-Port</a>. The loop also includes scenic sections like <a href=\"https://www.komoot.com/highlight/2576167\" target=\"_blank\" rel=\"noopener\">La petite route de la Madeleine</a> and the <a href=\"https://www.komoot.com/highlight/2576164\" target=\"_blank\" rel=\"noopener\">Crossing between Bussunarits and Ahaxe</a>. A key highlight is the challenging climb to <a href=\"https://www.komoot.com/highlight/2576173\" target=\"_blank\" rel=\"noopener\">Col de Gamia (west)</a>, which offers expansive views."
+    },
+    {
+      "question": "What is the best time of year to cycle the Col de Gamia Loop?",
+      "answer": "The Pyrenees region is best enjoyed for cycling during the warmer months, typically from late spring (May) through early autumn (October). During these periods, you'll generally find more stable weather, less chance of snow at higher elevations, and pleasant temperatures for cycling. Always check the local weather forecast before you go."
+    },
+    {
+      "question": "Where can I park my car to start this cycling route in Saint-Jean-Pied-de-Port?",
+      "answer": "Saint-Jean-Pied-de-Port, being a popular starting point for various routes, offers several parking options. Look for public parking areas within or on the outskirts of the town. Arriving earlier in the day, especially during peak season, is advisable to secure a spot."
+    },
+    {
+      "question": "Does this route intersect with any other well-known cycling or hiking trails?",
+      "answer": "Yes, this route shares sections with several other paths. Notably, it covers parts of the Orthez - Estérençuby (47%), EV3 France 49, Saint-Palais - Saint-Jean-Pied-de-Port (46%), and the Chemin navarrais / Nafar bidea (30%). You'll also find smaller sections overlapping with trails like La route des cols Hendaye - Larrau and the Chemin du Piémont Pyrénéen."
+    },
+    {
+      "question": "Is the Col de Gamia Loop dog-friendly for cyclists?",
+      "answer": "While cycling with dogs attached to bikes is generally uncommon and can be unsafe on challenging mountain roads, there are no specific restrictions against dogs on public roads in the French Basque Country. However, given the difficult nature of this touring bicycle route with significant climbs and descents, it is not recommended for cycling with a dog."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees to cycle this loop?",
+      "answer": "No, you do not need any special permits or have to pay entrance fees to cycle the Col de Gamia Loop. The route primarily uses public roads and mountain passes that are freely accessible."
+    },
+    {
+      "question": "What kind of views can I expect from the Col de Gamia?",
+      "answer": "From the summit of <a href=\"https://www.komoot.com/highlight/2576173\" target=\"_blank\" rel=\"noopener\">Col de Gamia (west)</a> and other high points, you can expect breathtaking scenery with magnificent views of the Pyrenean mountains. The region is characterized by lush green fields and peaks, offering expansive vistas of the French Basque Country."
+    }
+  ],
+  "surfaces": {
+    "sb#cobbles": 0.017551433,
+    "unknown": 0.050613243,
+    "sb#paved": 0.37398776,
+    "sb#asphalt": 0.55784756
+  },
+  "way_types": {
+    "service": 0.0019464053,
+    "cycleway": 0.012087167,
+    "primary": 0.01956394,
+    "minor_road": 0.08987097,
+    "street": 0.87653154
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Jean-Pied-de-Port",
+      "lat": 43.160529,
+      "lng": -1.238269,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "family_friendly",
+        "settlement"
+      ],
+      "highlight_id": 761411
+    },
+    {
+      "name": "La petite route de la Madeleine",
+      "lat": 43.154251,
+      "lng": -1.20493,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 2576167
+    },
+    {
+      "name": "Crossing between Bussunarits and Ahaxe",
+      "lat": 43.154126,
+      "lng": -1.159733,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 2576164
+    },
+    {
+      "name": "Col de Gamia (west)",
+      "lat": 43.175357,
+      "lng": -1.156895,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "cycle_way",
+        "viewpoint"
+      ],
+      "highlight_id": 2576173
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.142857074737549,
+  "rating_count": 7,
+  "visitors": 35,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-27T08:48:44.142Z",
+  "changed_at": "2026-02-26T18:57:55.167Z",
+  "scraped_at": "2026-04-28T23:39:17.437984+00:00"
+}

@@ -1,0 +1,176 @@
+{
+  "tour_id": "e924253973",
+  "url": "https://www.komoot.com/smarttour/e924253973",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e924253973/the-7-waterfalls-of-campdevanol-circular-by-the-cabana-stream",
+  "name": "The 7 waterfalls of Campdevànol - Circular by the Cabana stream",
+  "name_original": "Las 7 cascadas de Campdevànol - Circular por el torrente de la Cabana",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9407.522295061695,
+  "duration_s": 9491,
+  "elevation_up_m": 185.36772506324928,
+  "elevation_down_m": 185.36772506324917,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.227512,
+  "start_lng": 2.140033,
+  "start_alt_m": 767.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Explore the 7 waterfalls of Campdevànol - Circular by the Cabana stream, a moderate 5.8-mile hike through the scenic Catalan Pre-Pyrenees.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The largest and deepest gorg of the 7. It has a nice waterfall. Ideal for bathing and relaxing with family, friends and dogs. In the summer months there is a bar if you fancy an ice cream or coffee. In the middle of summer it gets very crowded, so for a quieter experience I recommend coming during the week or out of season.",
+    "This Gorg del Petit Colomer is the last stop on the Route of the 7 gorgs. It is not only the most aesthetically impressive but also the most visited.",
+    "Gorg 2 of the itinerary",
+    "Itinerary that follows the refreshing torrent of Estiula, popularly known as Torrent de la Cabana, where we can enjoy the visual beauty of its waterfalls and observe the plant diversity such as the riparian forest consisting mainly of alders and pine forests red."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to hike The 7 waterfalls of Campdevànol - Circular by the Cabana stream?",
+      "answer": "The trail is approximately 9.4 kilometers (5.8 miles) long and typically takes between 3 to 5 hours to complete, depending on your pace and how much time you spend enjoying the waterfalls."
+    },
+    {
+      "question": "What is the difficulty of this trail?",
+      "answer": "This trail is considered of <strong>moderate difficulty</strong>. It requires good fitness and sure-footedness, especially on descents to the waterfalls. The difficulty can increase significantly after rainfall or during winter due to muddy and slippery conditions."
+    },
+    {
+      "question": "Is the trail suitable for families or beginners?",
+      "answer": "While generally accessible, its length and duration might be challenging for very young children. Beginners with good physical condition should be fine, but be prepared for some steep and potentially slippery sections, especially near the waterfalls."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "The trail is famous for its seven natural pools, or 'gorgs', formed by the Torrent de la Cabana. Notable highlights include the <a href=\"https://www.komoot.com/highlight/2524507\" target=\"_blank\" rel=\"noopener\">Colomer Pool</a>, which is the largest and deepest, the <a href=\"https://www.komoot.com/highlight/4042085\" target=\"_blank\" rel=\"noopener\">Petit Colomer Gorge</a>, and the <a href=\"https://www.komoot.com/highlight/4042072\" target=\"_blank\" rel=\"noopener\">Gorg de la Tosca</a>. Each gorg offers a unique natural bathing spot."
+    },
+    {
+      "question": "What kind of terrain can I expect on the trail?",
+      "answer": "You will traverse diverse terrain, including natural paths, some paved or unpaved sections, and gravel. The route winds through pine and riparian forests, with descents to each of the seven 'gorgs'. Expect some challenging sections, particularly when wet."
+    },
+    {
+      "question": "What is the best time of year to visit the 7 waterfalls of Campdevànol?",
+      "answer": "The trail is beautiful year-round. Warmer months are ideal for swimming in the natural pools. In winter, the scenery transforms with stalactites forming on rock walls. To avoid crowds, consider visiting during weekdays or outside of peak summer season."
+    },
+    {
+      "question": "Are there any fees or permits required for this trail?",
+      "answer": "Yes, there is typically a paid parking area at Font del Querol (around €10 per car per day). During high season, an admission fee or eco-tax (around €5 per person) may also be required to access the trail."
+    },
+    {
+      "question": "Where can I park for the 7 waterfalls of Campdevànol trail?",
+      "answer": "The main parking area is located at Font del Querol. Please note that parking here usually incurs a fee, typically around €10 per car per day."
+    },
+    {
+      "question": "Can I bring my dog on the trail?",
+      "answer": "Generally, dogs are allowed on the trail, but they must be kept on a leash at all times to protect wildlife and ensure the safety of other hikers. Please be mindful of local regulations and clean up after your pet."
+    },
+    {
+      "question": "What should I bring for the hike?",
+      "answer": "It's recommended to bring water, snacks, sun protection (hat, sunscreen), and appropriate footwear with good grip, especially if you plan to descend to the waterfalls or if conditions are wet. Swimwear is a good idea if you want to take a dip in the gorgs."
+    },
+    {
+      "question": "How can I avoid crowds on this popular trail?",
+      "answer": "The trail can get very crowded, especially during summer, weekends, and holidays. To enjoy a more peaceful experience, consider visiting early in the morning, late in the afternoon, or on weekdays outside of peak tourist seasons."
+    }
+  ],
+  "surfaces": {
+    "alpin": 0.008177252,
+    "unknown": 0.008770225,
+    "unpaved": 0.14520837,
+    "paved": 0.20947342,
+    "gravel": 0.23654427,
+    "nature": 0.39182645
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.008177252,
+    "hiking_path": 0.37288904,
+    "way": 0.6189337
+  },
+  "waypoints": [
+    {
+      "name": "Colomer Pool",
+      "lat": 42.208242,
+      "lng": 2.121096,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "lake",
+        "family_friendly",
+        "natural_monument",
+        "intermediate",
+        "gorge"
+      ],
+      "highlight_id": 2524507
+    },
+    {
+      "name": "Petit Colomer Gorge",
+      "lat": 42.21118,
+      "lng": 2.12266,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "gorge",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4042085
+    },
+    {
+      "name": "Gorg de la Tosca",
+      "lat": 42.219117,
+      "lng": 2.125338,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "gorge",
+        "unknown"
+      ],
+      "highlight_id": 4042072
+    },
+    {
+      "name": "Cabana Gorge",
+      "lat": 42.221055,
+      "lng": 2.126023,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "waterfall",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "forest"
+      ],
+      "highlight_id": 2524433
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.574999809265137,
+  "rating_count": 120,
+  "visitors": 849,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-12T16:58:09.975Z",
+  "changed_at": "2026-02-26T18:55:29.607Z",
+  "scraped_at": "2026-04-27T12:18:52.944806+00:00"
+}

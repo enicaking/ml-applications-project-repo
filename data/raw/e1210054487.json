@@ -1,0 +1,121 @@
+{
+  "tour_id": "e1210054487",
+  "url": "https://www.komoot.com/smarttour/e1210054487",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1210054487/bielsa-a-ibon-de-urdiceto-a-valle-de-chistau-circular-parque-natural-posets-maladet",
+  "name": "Bielsa a Ibón de Urdiceto a Valle de Chistau — circular Parque Natural Posets-Maladet",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 69491.89283617066,
+  "duration_s": 28810,
+  "elevation_up_m": 2727.5238314566946,
+  "elevation_down_m": 2739.3963814833987,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.634836,
+  "start_lng": 0.218503,
+  "start_alt_m": 1029.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A conditionally challenging tour. We were on e-mountain bikes. For the tour are about 1300 vertical meters to deal with and only on gravel and stone runway. However, one is also almost alone on the road and can enjoy at the destination gigantic views in peace. Water, mountains and flowers everywhere as a companion! The effort is definitely worth it!",
+    "Here you will find beautiful mountain lakes with spectacular views all around you. Going down the path is the Urdiceto Refuge. Quite small but a refuge when you need it.",
+    "Beautiful valley that is surrounded by peaks between 2,000 and 3,000 meters high, among which the Tuca Llardana (or Posets) stands out, which with 3,375 m. it is the second highest peak in the Pyrenees; In addition, it has abundant lakes, such as those of Millares, Barbarisa and Basa de la Mora (or Plan lake)."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#gravel": 0.0010496132,
+    "unknown": 0.0040535284,
+    "sm#nature": 0.0041227373,
+    "sm#alpin": 0.058102664,
+    "sm#paved": 0.11342224,
+    "sm#asphalt": 0.3653443,
+    "sm#unpaved": 0.45390493
+  },
+  "way_types": {
+    "service": 0.0022482772,
+    "minor_road": 0.009485428,
+    "trail": 0.060484525,
+    "primary": 0.15814508,
+    "street": 0.2161802,
+    "way": 0.5534565
+  },
+  "waypoints": [
+    {
+      "name": "Trail to Ibón de Urdiceto",
+      "lat": 42.67833,
+      "lng": 0.252674,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "lake",
+        "challenging",
+        "mountain_pass"
+      ],
+      "highlight_id": 294643
+    },
+    {
+      "name": "Ibón de Urdiceto",
+      "lat": 42.6676,
+      "lng": 0.2844,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 5905792
+    },
+    {
+      "name": "Chistau Valley",
+      "lat": 42.6126,
+      "lng": 0.3462,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "forest",
+        "viewpoint",
+        "other_natural",
+        "intermediate",
+        "river",
+        "trail"
+      ],
+      "highlight_id": 5905726
+    }
+  ],
+  "categories": [
+    "challenging",
+    "forest",
+    "gorge",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "other_natural",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-13T09:38:49.668Z",
+  "changed_at": "2024-05-31T09:59:14.462Z",
+  "scraped_at": "2026-04-28T15:25:05.414569+00:00"
+}

@@ -1,0 +1,132 @@
+{
+  "tour_id": "e1369443079",
+  "url": "https://www.komoot.com/smarttour/e1369443079",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369443079/course-des-bergers-the-shepherds-race",
+  "name": "Course des bergers (the shepherds' race) ",
+  "name_original": "La course des bergers en off",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 22130.870508758297,
+  "duration_s": 12540,
+  "elevation_up_m": 1305.7753368777194,
+  "elevation_down_m": 1305.775336877719,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.177319,
+  "start_lng": -1.341936,
+  "start_alt_m": 160.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Departing from Saint-Étienne-de-Baïgorry, the race of the shepherds is a pretty trail which offers a loop of approximately 23 kilometers and 1,350 meters of elevation gain. Nestled in the valley of the same name, this village combines nature and history in an atmosphere faithful to the Basque Country.\n\nSaint-Étienne-de-Baïgorry has also become a trail resort which offers numerous routes on the mountains that surround it. As soon as you leave the village, you embark on the climb which leads to the highest point of the race: Oilandoi. You are immediately rewarded with superb panoramas, before descending to the Aharza pass. You follow the pass that you have just climbed before going back down on a small portion.\n\nYou then begin a new long climb which ends on Munhogain, close to your first summit. Once again you slide towards the Aharza pass. This time, it marks the start of a long, fairly rolling descent which gradually brings you back to your starting point.\n\nThe event, which usually takes place in early May, also includes another 15 kilometer race. You will find all the information about the race here:\nhttps://www.artzain.fr/.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "Superb view of the Nive des Aldudes valley. This valley is traversed by a stream of the same name which flows into the Nive de Baigorry.",
+    "The Oilarandoi is a peak in the Basque Country which culminates at 933 meters above sea level. It is reached at the cost of a steep ascent from the Aharza pass.",
+    "The summit of Munhogain culminating at 933 meters above sea level is easy to reach from the Aharza pass. It offers a lovely panorama over the crests of Iparla and its neighbour: Oilarandoi."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.003696058,
+    "alpin": 0.063264854,
+    "unknown": 0.16385935,
+    "paved": 0.25183415,
+    "unpaved": 0.5173456
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.063264854,
+    "street": 0.12289166,
+    "minor_road": 0.13001703,
+    "way": 0.27003625,
+    "hiking_path": 0.41379023
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.17706,
+      "lng": -1.34189,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "View over the Aldudes Valley",
+      "lat": 43.16295,
+      "lng": -1.33697,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "valley"
+      ],
+      "highlight_id": 3761082
+    },
+    {
+      "name": "Oilarandoi Peak",
+      "lat": 43.15309,
+      "lng": -1.33434,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "religious_building"
+      ],
+      "highlight_id": 3408391
+    },
+    {
+      "name": "Munhogain",
+      "lat": 43.1394,
+      "lng": -1.3343,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "gorge",
+        "natural_monument"
+      ],
+      "highlight_id": 5539353
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "religious_building",
+    "river",
+    "settlement",
+    "summit",
+    "valley",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 168,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T11:07:55.576Z",
+  "changed_at": "2024-06-11T22:48:07.835Z",
+  "scraped_at": "2026-04-27T15:18:39.003734+00:00"
+}

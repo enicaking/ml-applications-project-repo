@@ -1,0 +1,167 @@
+{
+  "tour_id": "e869924385",
+  "url": "https://www.komoot.com/smarttour/e869924385",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e869924385/biarritz-coastal-trail",
+  "name": "Biarritz Coastal Trail",
+  "name_original": "Randonnée de Biarritz",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7647.582368830504,
+  "duration_s": 7420,
+  "elevation_up_m": 97.70371072993855,
+  "elevation_down_m": 97.70371072993868,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.483203,
+  "start_lng": -1.558968,
+  "start_alt_m": 24.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 4.8-mile (7.6 km) hike in Biarritz offers panoramic Atlantic views, passing iconic landmarks like Virgin Rock and the fishing ",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nice vantage point on the sea and the wide sandy beach.",
+    "Charming place! with the sunset it's even better",
+    "Nice vantage point with interesting rock formations. As a tourist highlight, unfortunately, mostly overcrowded ...",
+    "The old buildings from the English period"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Hike of Biarritz?",
+      "answer": "The Hike of Biarritz is generally considered to be of <strong>moderate difficulty</strong>. While the overall Coastal Pathway features undulating terrain with frequent ascents and descents, this specific route is manageable for most hikers. It involves a mix of coastal paths, rocky sections, and some sandy areas."
+    },
+    {
+      "question": "What kind of terrain can I expect on this hike?",
+      "answer": "The terrain along this route is varied and generally undulating. You'll encounter coastal paths, some rocky sections, and sandy stretches as it winds along the coastline. Expect numerous gentle climbs and descents as the path navigates coves and beaches."
+    },
+    {
+      "question": "What are the main sights and landmarks along the way?",
+      "answer": "This hike offers stunning coastal views and passes by several iconic Biarritz landmarks. You'll see the dramatic <a href=\"https://www.komoot.com/highlight/4254305\" target=\"_blank\" rel=\"noopener\">Basta Rock</a>, the picturesque <a href=\"https://www.komoot.com/highlight/809665\" target=\"_blank\" rel=\"noopener\">Biarritz Fishing Port</a>, the famous <a href=\"https://www.komoot.com/highlight/5689167\" target=\"_blank\" rel=\"noopener\">Virgin Rock</a> with its statue and footbridge, and the historic <a href=\"https://www.komoot.com/highlight/859813\" target=\"_blank\" rel=\"noopener\">Villa Belza</a>. The route provides panoramic views of the Atlantic Ocean and the Biarritz coastline."
+    },
+    {
+      "question": "Is the Hike of Biarritz dog-friendly?",
+      "answer": "While the general Coastal Pathway is often accessible, specific rules for dogs can vary by section and season, especially on beaches. It's best to keep dogs on a leash and be mindful of local signage. Always ensure your dog is well-behaved and that you clean up after them."
+    },
+    {
+      "question": "What is the best time of year to do this hike?",
+      "answer": "The best time to hike in Biarritz is generally during the warmer months, from late spring to early autumn (May to October). During this period, the weather is pleasant, and the opportunity for refreshing stops at beaches makes the experience even more enjoyable. However, the coastal path can be walked year-round, with cooler temperatures in winter offering a different, often quieter, experience."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for the Hike of Biarritz?",
+      "answer": "No, there are no specific permits or entrance fees required to hike the Coastal Pathway sections around Biarritz, including this route. It is freely accessible to the public."
+    },
+    {
+      "question": "How do I get to the start of the Hike of Biarritz, and is there parking?",
+      "answer": "The Hike of Biarritz starts and ends within Biarritz itself, making it easily accessible. You can reach the starting point by public transport within the city. For those driving, various public parking options are available throughout Biarritz, though they can be busy, especially during peak season. Consider parking slightly away from the immediate city center and walking to the trailhead."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, this route utilizes sections of several official paths within Biarritz. You will find yourself on parts of the Esplanade des Anciens Combattants, Rue de Proutze, Allée Port des Pêcheurs, and Passage Bista Ederra, among others, as you explore the city's coastal areas."
+    },
+    {
+      "question": "Are there opportunities for food and drink along the route?",
+      "answer": "Yes, as the hike is within Biarritz and passes through popular areas like the fishing port, you'll find numerous cafes, restaurants, and shops where you can stop for refreshments, a meal, or to pick up local delicacies. Many spots offer scenic views of the ocean."
+    },
+    {
+      "question": "What should I bring for this hike?",
+      "answer": "For this moderate coastal hike, bring comfortable walking shoes suitable for varied terrain, water, sun protection (hat, sunscreen), and layers of clothing as coastal weather can change. A camera is highly recommended for the stunning views. If hiking in warmer months, consider bringing swimwear for a refreshing dip at one of the beaches."
+    },
+    {
+      "question": "Is the Hike of Biarritz suitable for families with children?",
+      "answer": "Given its moderate difficulty and undulating terrain, the Hike of Biarritz is generally suitable for active families with children who are accustomed to walking. Some sections might involve stairs or uneven surfaces. For very young children or those less experienced, you might consider doing shorter sections or opting for easier, flatter routes within Biarritz, such as those around Lakes Marion and Mouriscot."
+    }
+  ],
+  "surfaces": {
+    "gravel": 0.0147188045,
+    "nature": 0.015231858,
+    "unpaved": 0.048307978,
+    "paved": 0.15678066,
+    "unknown": 0.35152936,
+    "asphalt": 0.41343135
+  },
+  "way_types": {
+    "hiking_path": 0.015231858,
+    "street": 0.083257586,
+    "minor_road": 0.16212578,
+    "way": 0.7393848
+  },
+  "waypoints": [
+    {
+      "name": "Basta Rock",
+      "lat": 43.483897,
+      "lng": -1.562296,
+      "type": "unknown",
+      "categories": [
+        "coast"
+      ],
+      "highlight_id": 4254305
+    },
+    {
+      "name": "Biarritz Fishing Port",
+      "lat": 43.483228,
+      "lng": -1.564525,
+      "type": "unknown",
+      "categories": [
+        "port_harbour"
+      ],
+      "highlight_id": 809665
+    },
+    {
+      "name": "Virgin Rock",
+      "lat": 43.483935,
+      "lng": -1.569998,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "man_made_monument",
+        "viewpoint",
+        "family_friendly",
+        "bridge"
+      ],
+      "highlight_id": 5689167
+    },
+    {
+      "name": "Villa Belza, Biarritz",
+      "lat": 43.481359,
+      "lng": -1.568863,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "unknown",
+        "historical_site",
+        "viewpoint"
+      ],
+      "highlight_id": 859813
+    }
+  ],
+  "categories": [
+    "bridge",
+    "coast",
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "natural_monument",
+    "port_harbour",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.8947367668151855,
+  "rating_count": 19,
+  "visitors": 267,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-03T07:39:44.816Z",
+  "changed_at": "2026-02-26T18:42:11.811Z",
+  "scraped_at": "2026-04-27T11:30:44.748975+00:00"
+}

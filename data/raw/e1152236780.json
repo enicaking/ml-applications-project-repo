@@ -1,0 +1,139 @@
+{
+  "tour_id": "e1152236780",
+  "url": "https://www.komoot.com/smarttour/e1152236780",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1152236780/loop-5-ispeguy-pass-basque-country-passes",
+  "name": "Loop 5: Ispéguy Pass – Basque Country passes",
+  "name_original": "Circuit 5 : Col d’Ispéguy — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 76158.08265888641,
+  "duration_s": 15950,
+  "elevation_up_m": 1684.651210390553,
+  "elevation_down_m": 1685.5192001630544,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.332803,
+  "start_lng": -1.412332,
+  "start_alt_m": 90.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This loop from Itxassou offers an incredible trip to the heart of the Basque Country. Shared between France and Spain, the route covers a beautiful diversity of landscapes and terrains.\n\nThe route starts in the center of the charming village of Itxassou, at the foot of its pediment, a few meters from an excellent restaurant. Quickly, you plunge into beautiful gorges where the Nive flows. The first part of the route is like going up the stream on a very beautiful road. A few steep slopes may surprise you and announce the color.\n\nArrived at Bidarray you embark on the road which leads to Saint-Étienne-de-Baïgorry in a superb valley. At the foot of the Iparla ridges, the Col de Gastangarte is more than a warm-up. Some passages flirt with 18%. However, as you progress, the landscapes never cease to amaze.\n\nYou then arrive at the village of Saint-Étienne-de-Baïgorry where the longest ascent of the route begins towards the Col d'Ispéguy. Classic of the Basque Country, this pass has seen the Tour de France take it a few times. Relatively open, it allows you to enjoy the view throughout the climb. Regular, it does not include real difficulties. The summit, straddling the border, offers beautiful views of the French and Spanish sides. The hostel there allows you to take a very pleasant break and recharge the batteries for the future.\n \nThe descent includes several switchbacks at the start before softening and heading towards the village of Erratzu. a fountain allows you to fill the cans if you have not stopped earlier. A little after the village, when you join the departmental road, begins the second ascent of the day towards the Otxondo pass. Its slopes, which are gentler and straighter, allow you to appreciate the view of the Gorramendi which stands out on your right.\n\nArrived at the top, a beautiful picnic area invites you to a gentle shady break before continuing on a beautiful descent that leads to Dantxaria. Last Spanish village, it induces your imminent return to France. A last hilly section closes the route before returning to Itxassou.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Itxassou is a pretty little village in the heart of the Basque Country. Crossed by the Nive, Itxassou has typical Basque architecture. The village partly owes its reputation to Itxassou cherries. Also worth discovering is the Rabbit Forest, a space dedicated to dozens of species of rabbit. You will find many restaurants there which offer local gastronomy.",
+    "The Pas de Roland is a gorge dug by the Nive on the outskirts of Itxassou en Labourd. Located at the bottom of the gorge, the path runs along beautiful cliffs in a remarkable mineral setting. The road follows the river, in the Basque hinterland in a pleasant and bucolic atmosphere.",
+    "This segment contains a succession of short but very steep climbs (15-20%!). If you're doing a longer ride, this will really burn up your energy. If I was to do it again, I would look for a workaround.",
+    "Fresh water at St Etienne Baigorry church",
+    "Small col on the border between the Basque Country and France. It has a restaurant with a bar and a small shop that sells snacks and souvenirs"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.22075987,
+    "sb#asphalt": 0.77924013
+  },
+  "way_types": {
+    "minor_road": 0.034320645,
+    "primary": 0.22841181,
+    "street": 0.73726755
+  },
+  "waypoints": [
+    {
+      "name": "Itxassou",
+      "lat": 43.3327,
+      "lng": -1.4115,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "religious_building",
+        "forest",
+        "family_friendly",
+        "river",
+        "settlement"
+      ],
+      "highlight_id": 5537862
+    },
+    {
+      "name": "Roland Gorge",
+      "lat": 43.3189,
+      "lng": -1.4043,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5711161
+    },
+    {
+      "name": "Col de Gastangarte",
+      "lat": 43.237362,
+      "lng": -1.356281,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass"
+      ],
+      "highlight_id": 4696320
+    },
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.175698,
+      "lng": -1.402125,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    },
+    {
+      "name": "Otxondo Pass",
+      "lat": 43.23703,
+      "lng": -1.49411,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "facilities",
+        "intermediate",
+        "cycle_way",
+        "restaurant"
+      ],
+      "highlight_id": 211367
+    }
+  ],
+  "categories": [
+    "climb",
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "mountain_pass",
+    "religious_building",
+    "restaurant",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.615384578704834,
+  "rating_count": 13,
+  "visitors": 634,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-04T15:05:04.705Z",
+  "changed_at": "2024-07-25T17:09:41.717Z",
+  "scraped_at": "2026-04-28T19:25:57.823605+00:00"
+}

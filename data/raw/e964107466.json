@@ -1,0 +1,162 @@
+{
+  "tour_id": "e964107466",
+  "url": "https://www.komoot.com/smarttour/e964107466",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e964107466/towns-of-the-val-d-aran",
+  "name": "Towns of the Val d'Aran",
+  "name_original": "Pueblos del Valle de Aran",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 28345.79498735717,
+  "duration_s": 7809,
+  "elevation_up_m": 605.3026691930428,
+  "elevation_down_m": 606.3040046215987,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.702539,
+  "start_lng": 0.792821,
+  "start_alt_m": 995.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Nere River is also known as arriu Nere and is a tributary of the Garona River that runs through the Aran Valley.\r\n\r\nThe source of these waters is found in the glacial lakes identified as lac deth Hòro and estanh Nere, located in the upper part of the Nere valley.\r\n\r\nThis river receives water from the Hereishedo, deth Pòrt or sant Estèue ravines during its journey until it finally flows into the Garona river at Viella level.",
+    "Track that joins Garos with Arties, very good terrain to ride a Gravel bike.",
+    "Beautiful church in the upper part of the town.",
+    "Romanesque church of Sant Andreu de Salardú, located in the upper part of the municipality of Alto Arán and dating from the 12th century.\r\nWe should not miss the interior of the church where we will notice the Christ and the frescoes on the cross and the ceiling.",
+    "Small Aranese town located in Upper Aran. It is located at 1348 meters of altitude and has 107 lucky inhabitants. A beautiful route for the whole family begins from Tredós, Camino de Las Brujas.",
+    "Bagergue is considered one of the most beautiful villages in Spain. At 1,419 meters above sea level, it is the municipality located at the highest altitude in the Arán Valley. It belongs to the province of Lleida and has about 100 inhabitants."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.0021455556,
+    "unknown": 0.0025471193,
+    "sb#unpaved": 0.1216142,
+    "sb#paved": 0.4299941,
+    "sb#asphalt": 0.443699
+  },
+  "way_types": {
+    "service": 0.0014764254,
+    "way": 0.17901208,
+    "street": 0.2071429,
+    "minor_road": 0.26912925,
+    "primary": 0.34323934
+  },
+  "waypoints": [
+    {
+      "name": "Nere River in Vielha",
+      "lat": 42.70008,
+      "lng": 0.794138,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly",
+        "viewpoint",
+        "settlement"
+      ],
+      "highlight_id": 5182825
+    },
+    {
+      "name": "Baños de Arties Trail",
+      "lat": 42.698688,
+      "lng": 0.857204,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "cycle_way",
+        "intermediate"
+      ],
+      "highlight_id": 4845090
+    },
+    {
+      "name": "Church of Santa Maria d'Arties",
+      "lat": 42.698042,
+      "lng": 0.871063,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "castle"
+      ],
+      "highlight_id": 3591691
+    },
+    {
+      "name": "Church of Sant Andreu de Salardú",
+      "lat": 42.70718,
+      "lng": 0.901678,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 5182679
+    },
+    {
+      "name": "Tredós Village",
+      "lat": 42.702126,
+      "lng": 0.91459,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "trail",
+        "religious_building",
+        "waterfall",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 4857995
+    },
+    {
+      "name": "Bagergue",
+      "lat": 42.718847,
+      "lng": 0.915658,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 5182705
+    }
+  ],
+  "categories": [
+    "castle",
+    "cycle_way",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 81,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-27T14:54:45.969Z",
+  "changed_at": "2024-06-06T01:26:53.021Z",
+  "scraped_at": "2026-04-29T00:09:29.122927+00:00"
+}

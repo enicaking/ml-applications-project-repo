@@ -1,0 +1,82 @@
+{
+  "tour_id": "e968307200",
+  "url": "https://www.komoot.com/smarttour/e968307200",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e968307200/cascada-el-cubo-circular-by-the-zepa-roncesvalles-sierra-irati",
+  "name": "Cascada El Cubo – circular by the ZEPA Roncesvalles-Sierra Irati",
+  "name_original": "Cascada El Cubo – circular por la ZEPA Roncesvalles-Sierra Irati",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 6665.911333619047,
+  "duration_s": 6849,
+  "elevation_up_m": 133.99476594307714,
+  "elevation_down_m": 136.7189114630878,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.988505,
+  "start_lng": -1.105951,
+  "start_alt_m": 873.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "On the bed of the Urbeltza River and within the Roncesvalles-Sierra Irati Protected Area is this beautiful waterfall surrounded by a picturesque setting of beech forests that make it the ideal place to relax and cool off, especially on summer days."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0044096904,
+    "asphalt": 0.010301155,
+    "nature": 0.022584341,
+    "unpaved": 0.47995985,
+    "gravel": 0.48274496
+  },
+  "way_types": {
+    "street": 0.010301155,
+    "mountain_hiking_path": 0.024274364,
+    "alpine_hiking_path": 0.03840574,
+    "hiking_path": 0.13917615,
+    "way": 0.7878426
+  },
+  "waypoints": [
+    {
+      "name": "El Cubo Waterfall",
+      "lat": 42.998905,
+      "lng": -1.102137,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "river",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 4900460
+    }
+  ],
+  "categories": [
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 3,
+  "visitors": 30,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-30T22:49:36.752Z",
+  "changed_at": "2024-06-06T01:48:42.934Z",
+  "scraped_at": "2026-04-27T11:04:27.579375+00:00"
+}

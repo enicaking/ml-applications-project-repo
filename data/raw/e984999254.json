@@ -1,0 +1,126 @@
+{
+  "tour_id": "e984999254",
+  "url": "https://www.komoot.com/smarttour/e984999254",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e984999254/roncesvalles-col-de-orgambide-fr-western-loop-through-the-sierra-de-irati",
+  "name": "Roncesvalles-Col de Orgambide (FR) – western loop through the Sierra de Irati",
+  "name_original": "Roncesvalles-Col de Orgambide (FR) – vuelta occidental por la Sierra de Irati",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 80351.45035935885,
+  "duration_s": 17348,
+  "elevation_up_m": 1941.460632210404,
+  "elevation_down_m": 1941.460632210405,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.973174,
+  "start_lng": -1.35182,
+  "start_alt_m": 863.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Roncesvalles is a town with only 22 neighbors and, nevertheless, it is one of the most important points on the French Camino de Santiago.\r\n\r\nFor many centuries the life of this small town revolves around the coming and going of pilgrims. Which explains the majesty of its Pilgrims Hospital and the entire set of the Collegiate Church of Santa María.\r\n\r\nOf course, it has a hostel for pilgrims and an inn. Also a hotel and a hostel, so there are accommodation options for all tastes.\r\n\r\nIf you need to stop for something to eat, the inn and the hotels have a bar-restaurant.\r\n\r\nYou will find a fountain at the exit of the town if you follow the road bike route, just after the inn.",
+    "At the Ibañeta Pass (1057 meters above sea level) it ends the steep slope that from the French town of Saint Jean Pied de Port crosses the Spanish border and the Pyrenees, for the first leg of the Camino Francés to Santiago de Compostela. \r\nAt Arneguy, it begins a foot-path that climbs in the woods: as it is quite bumpy and challenging, in case of bad weather it is advisable to choose the route for bicycle, on asphalt. \r\nAfter the pass, sloping down for nearly  2 kilometres, there is the village of Roncesvalles.",
+    "Located on the border with Spain, the Orgambide Pass offers beautiful views of both sides. There is a cabin and several steles that dot this crossing point."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.001678367,
+    "sb#paved": 0.13002832,
+    "sb#asphalt": 0.8682933
+  },
+  "way_types": {
+    "minor_road": 0.001678367,
+    "primary": 0.44898236,
+    "street": 0.5493393
+  },
+  "waypoints": [
+    {
+      "name": "Roncesvalles",
+      "lat": 43.009219,
+      "lng": -1.320567,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "viewpoint",
+        "man_made_monument",
+        "intermediate",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 1060138
+    },
+    {
+      "name": "Ibañeta Pass",
+      "lat": 43.020138,
+      "lng": -1.324394,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 212873
+    },
+    {
+      "name": "View of the winding road",
+      "lat": 43.114284,
+      "lng": -1.241793,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "mountain_pass",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 2745182
+    },
+    {
+      "name": "Stone Circle at Col d'Orgambide",
+      "lat": 43.063107,
+      "lng": -1.201617,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 4544878
+    }
+  ],
+  "categories": [
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 4,
+  "visitors": 67,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-25T11:44:36.961Z",
+  "changed_at": "2024-06-06T07:59:33.113Z",
+  "scraped_at": "2026-04-28T19:13:40.811616+00:00"
+}

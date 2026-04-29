@@ -1,0 +1,168 @@
+{
+  "tour_id": "e963262674",
+  "url": "https://www.komoot.com/smarttour/e963262674",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e963262674/path-of-the-good-men",
+  "name": "Path of the Good Men",
+  "name_original": "Sanavastre y Soriguerola - running circular por el río Segre",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11100.970081350777,
+  "duration_s": 4299,
+  "elevation_up_m": 48.507562002680515,
+  "elevation_down_m": 49.85384742269002,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.396449,
+  "start_lng": 1.878161,
+  "start_alt_m": 1080.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "A moderate 6.9-mile (11.1 km) circular jogging route along the Segre River, passing historic churches and The Segre Footbridge.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Romanesque religious sanctuary dating from the 11th century, located in the town of Soriguerola, belonging to the municipality of Fontanals de Cerdanya.\r\n\r\nIt is documented in the will of count Wifredo II de Cerdaña, from the year 1035, in which he leaves Soriguerola and its church to his wife.",
+    "Bridge to cross the River Segre at Altitude of All and Sanavastre.",
+    "Church of Romanesque origin, but greatly enlarged during the 18th century. Of a nave with a barrel vault, closed by a smooth semicircular apse.\r\nA few meters away, an accommodation and a restaurant with terraces have been built by an individual.",
+    "Romanesque religious sanctuary of the town of Sanavastre, in the municipality of Das. Church protected as a cultural asset of local interest. It has a single nave, with a barrel arch and two semicircular side chapels."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this running route?",
+      "answer": "This circular running route is designed to be completed in approximately <em>1 hour and 11 minutes</em>, making it a great option for a focused run."
+    },
+    {
+      "question": "What is the terrain like on the Sanavastre y Soriguerola running trail?",
+      "answer": "As a moderate running trail along the Segre River, you can expect varied terrain. It will likely feature natural paths, gravel, or dirt sections, and may include some uneven ground. While generally accessible, some parts might require sure-footedness."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "The route offers scenic views along the Segre River. You'll also pass by several notable points of interest, including the religious buildings of <a href=\"https://www.komoot.com/highlight/5179287\" target=\"_blank\" rel=\"noopener\">Sant Miquel de Soriguerola</a>, <a href=\"https://www.komoot.com/highlight/5608689\" target=\"_blank\" rel=\"noopener\">Ermita de Santa María de Quadres</a>, and <a href=\"https://www.komoot.com/highlight/5179318\" target=\"_blank\" rel=\"noopener\">Sant Iscle and Santa Victòria of Sanavastre</a>. Additionally, you'll cross <a href=\"https://www.komoot.com/highlight/298928\" target=\"_blank\" rel=\"noopener\">The Segre Footbridge</a>."
+    },
+    {
+      "question": "Is this running route dog-friendly?",
+      "answer": "Yes, this trail is generally dog-friendly. However, it's always recommended to keep your dog on a leash, especially in areas with wildlife or near agricultural land, and to clean up after them."
+    },
+    {
+      "question": "What is the best time of year to run this circular route?",
+      "answer": "The best times to enjoy this route are typically spring and autumn, when the weather is milder and the natural scenery is vibrant. Summer mornings or evenings can also be pleasant, while winter might be colder but still runnable."
+    },
+    {
+      "question": "Do I need any permits or pay an entrance fee for this trail?",
+      "answer": "No, there are no specific permits or entrance fees required to access and run this circular trail along the Segre River."
+    },
+    {
+      "question": "Where can I park to access the Sanavastre y Soriguerola running trail?",
+      "answer": "As a circular route connecting Sanavastre and Soriguerola, you can likely find parking in either village to begin your run. Specific parking areas are not detailed, but local street parking or small village lots would be the most probable options."
+    },
+    {
+      "question": "Is this trail suitable for beginners?",
+      "answer": "This trail is categorized as 'moderate'. While it's not overly long (11.1 km) and has minimal elevation gain (48.5m), a moderate rating suggests it's best suited for runners with a good fitness level and some experience on varied terrain, rather than absolute beginners."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, sections of this route overlap with other trails. You will find it intersects with parts of the Camí dels bons homes en BTT, Volta per la Baixa Cerdanya, TC249 Isòvol riu Segre All, and El Camí IT1TR4 El Camí Capçaler: de Salzes a Balaguer, among others."
+    },
+    {
+      "question": "Are there any facilities like cafes or restaurants near the trail?",
+      "answer": "Since the trail passes through or near the villages of Sanavastre and Soriguerola, you may find local cafes or restaurants in these areas where you can refuel before or after your run."
+    },
+    {
+      "question": "What should I bring for a run on this trail?",
+      "answer": "Given its moderate difficulty and length, it's advisable to bring appropriate running shoes for varied terrain, water to stay hydrated, and a phone for navigation or emergencies. Depending on the weather, consider sun protection or layers."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.010836597,
+    "paved": 0.061741333,
+    "gravel": 0.10092397,
+    "unpaved": 0.23611991,
+    "asphalt": 0.26181045,
+    "nature": 0.3285677
+  },
+  "way_types": {
+    "footway": 0.016231652,
+    "minor_road": 0.061741333,
+    "hiking_path": 0.14698984,
+    "street": 0.26181045,
+    "way": 0.51322675
+  },
+  "waypoints": [
+    {
+      "name": "Sant Miquel de Soriguerola",
+      "lat": 42.39727,
+      "lng": 1.8814,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 5179287
+    },
+    {
+      "name": "The Segre Footbridge",
+      "lat": 42.38995,
+      "lng": 1.848756,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 298928
+    },
+    {
+      "name": "Ermita de Santa María de Quadres",
+      "lat": 42.386345,
+      "lng": 1.837152,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "unknown",
+        "intermediate"
+      ],
+      "highlight_id": 5608689
+    },
+    {
+      "name": "Sant Iscle and Santa Victòria of Sanavastre",
+      "lat": 42.38525,
+      "lng": 1.84979,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 5179318
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "river",
+    "unknown"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 2,
+  "visitors": 11,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-26T14:49:29.106Z",
+  "changed_at": "2026-02-26T18:42:14.342Z",
+  "scraped_at": "2026-04-27T16:08:57.315034+00:00"
+}

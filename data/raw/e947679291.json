@@ -1,0 +1,142 @@
+{
+  "tour_id": "e947679291",
+  "url": "https://www.komoot.com/smarttour/e947679291",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e947679291/balcon-de-pineta-and-lago-de-marbore-trail",
+  "name": "Balcón de Pineta and Lago de Marboré Trail",
+  "name_original": "Balcón de Pineta y Lago de Marboré – trail running desde el Valle de Pineta",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14999.534084588855,
+  "duration_s": 15871,
+  "elevation_up_m": 1301.642029046397,
+  "elevation_down_m": 1301.642029046397,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.676193,
+  "start_lng": 0.086272,
+  "start_alt_m": 1280.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 9.3-mile trail running route in Ordesa y Monte Perdido National Park leads to Balcón de Pineta and Lake Marboré.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Lake Marboré is located at 2,592 meters above sea level. Of glacial origin, it was dug by the melting of a glacier which extended over the slope of the lake, up to the Astazou pass.",
+    "The panoramic view of the Pineta Valley is getting wider as you go up that steep slope.\n\nAfter a hard and steep climb you will come to see the incredible balcony of Pineta."
+  ],
+  "faqs": [
+    {
+      "question": "Is this trail suitable for beginners or casual runners?",
+      "answer": "No, this trail is rated as <strong>difficult</strong> and is generally <em>unsuitable for casual jogging or beginners</em>. It demands excellent physical condition, sure-footedness, sturdy shoes, and alpine experience due to its significant elevation gain (over 1,300 meters) and technical terrain. It's considered one of the hardest day trips in the Pyrenees."
+    },
+    {
+      "question": "What is the terrain like on the way to Balcón de Pineta and Lago de Marboré?",
+      "answer": "The terrain is diverse and challenging. You'll encounter sections of technical, difficult, or hazardous ground, including alpine and mountain hiking paths. Initially, you might pass through a beech forest, but as you gain altitude, expect steep slopes, continuous zig-zags, and potentially loose rock or scree, especially closer to the lake. The final, very steep stretch to the Balcón is known as 'el Embudo' (the Funnel)."
+    },
+    {
+      "question": "What are the main scenic highlights along the route?",
+      "answer": "This route offers magnificent scenery. Key highlights include the spectacular Pineta Valley, the <a href=\"https://www.komoot.com/highlight/271113\" target=\"_blank\" rel=\"noopener\">Balcón de Pineta</a> with its unparalleled views of the Monte Perdido massif, and the stunning turquoise <a href=\"https://www.komoot.com/highlight/3988466\" target=\"_blank\" rel=\"noopener\">Lake Marboré</a> (Ibón de Marboré) nestled beneath craggy peaks. You'll also see the dramatic Cinca waterfalls and surrounding peaks like La Munia."
+    },
+    {
+      "question": "Where can I park to access the Balcón de Pineta y Lago de Marboré trail?",
+      "answer": "The trail typically starts from a parking area located in the Pineta Valley, often near the Parador de Bielsa. It's advisable to arrive early, especially during peak season, as parking can fill up quickly for popular routes in the national park."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The best time to run this trail is generally during the <strong>late spring, summer, and early autumn months</strong> (June to September). Outside of these months, you may encounter snow and ice, making the already challenging route even more hazardous and requiring specialized equipment. Always check local weather and trail conditions before heading out."
+    },
+    {
+      "question": "Is the trail dog-friendly?",
+      "answer": "No, dogs are generally <strong>not permitted</strong> on this trail as it is located within the Ordesa y Monte Perdido National Park. National parks often have strict regulations regarding pets to protect wildlife and the natural environment. Always check the latest park rules before planning your visit with a dog."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this trail in Ordesa y Monte Perdido National Park?",
+      "answer": "While there isn't typically an entrance fee for the Ordesa y Monte Perdido National Park itself, certain areas or activities might require permits, especially during peak seasons or for specific routes. For this particular trail, it's always best to check the official National Park website or local information centers for any current regulations regarding access or permits, particularly for trail running."
+    },
+    {
+      "question": "What essential gear should I bring for this trail?",
+      "answer": "Given the trail's difficulty and alpine nature, you should bring <strong>sturdy trail running shoes with good grip</strong>, appropriate layers of clothing for varying weather conditions, plenty of water and snacks, a map and compass or GPS device, sun protection (hat, sunglasses, sunscreen), and a first-aid kit. Trekking poles can also be very helpful on the steep and technical sections."
+    },
+    {
+      "question": "Does this route connect with other trails?",
+      "answer": "Yes, this route intersects with several other official trails. You'll find sections that overlap with the Variante 16.2, Camino Marboré, Ruta Circo Monte Perdido, and the Senda Pirenaica (E23 and E24). These intersections can offer options for extending or modifying your route if you are an experienced runner."
+    },
+    {
+      "question": "Is this a loop trail or an out-and-back?",
+      "answer": "This specific route to the Balcón de Pineta and Lago de Marboré is typically an <strong>out-and-back trail</strong>. You ascend to the viewpoints and the lake and then return along the same path. There are no simple loop options for this particular destination."
+    },
+    {
+      "question": "Is there water available on the trail?",
+      "answer": "Natural water sources may be present along the trail, especially from snowmelt or streams, but their reliability can vary with the season and weather. It is <strong>highly recommended to carry sufficient water for your entire journey</strong>, as treated drinking water sources are not guaranteed. Always filter or treat any natural water you collect."
+    }
+  ],
+  "surfaces": {
+    "paved": 0.0028955997,
+    "nature": 0.018366877,
+    "unknown": 0.019442346,
+    "unpaved": 0.08048658,
+    "alpin": 0.8788086
+  },
+  "way_types": {
+    "minor_road": 0.003856499,
+    "way": 0.034856405,
+    "hiking_path": 0.039786227,
+    "mountain_hiking_path": 0.35845107,
+    "alpine_hiking_path": 0.5630498
+  },
+  "waypoints": [
+    {
+      "name": "Lake Marboré",
+      "lat": 42.693477,
+      "lng": 0.039516,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "challenging",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 3988466
+    },
+    {
+      "name": "Balcón de Pineta",
+      "lat": 42.689009,
+      "lng": 0.049054,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "summit",
+        "challenging",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 271113
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 81,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-08T17:22:17.895Z",
+  "changed_at": "2026-02-26T18:48:25.058Z",
+  "scraped_at": "2026-04-27T15:28:38.286005+00:00"
+}

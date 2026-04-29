@@ -1,0 +1,219 @@
+{
+  "tour_id": "e918326047",
+  "url": "https://www.komoot.com/smarttour/e918326047",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e918326047/peak-of-ratera-amitges-refuge-and-lake-of-san-mauricio-aigueestortes-national-park",
+  "name": "Peak of Ratera, Amitges Refuge and Lake of San Mauricio — Aigüestortes National Park",
+  "name_original": "Pico de Ratera, Refugio Amitges y Lago de San Mauricio — Parque Nacional de Aigüestortes",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 22882.013845267837,
+  "duration_s": 31245,
+  "elevation_up_m": 1158.3529426788161,
+  "elevation_down_m": 1158.3529426788164,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.584509,
+  "start_lng": 1.048182,
+  "start_alt_m": 1658.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "These stone paths, named after the park: the Pont de la Gorga footbridge, are adapted for people in wheelchairs until they reach the bridge, where the adapted path ends. About 450m.",
+    "Hermitage near the lake of Sant Maurici. It can be seen from the path or we can approach it.",
+    "We are in one, or the most popular lake in the Aigüestortes national park. Located at 1910 m above sea level, we will have privileged views of the lake and the surrounding mountains. Without a doubt, we will take out the camera to take the occasional photo.\r\nAccess is not difficult, since we can leave the car or take a taxi to the Prat Pierró parking lot and follow a small wooden path.",
+    "As we get closer to the Ratera Waterfall, we will hear the louder and louder noise of the water, which indicates that we are on the right track towards one of the most beautiful waterfalls in the Aigüestortes Natural Park. It will be great for us to cool off on the hottest days.",
+    "Mountain lake at 2160 meters of altitude located in the Aiguas Tortas and Lake San Mauricio National Park.",
+    "Lake of glacial origin located in the Valley of Ratera within the National Park of Aiguas Tortas and Lake of San Mauricio",
+    "The Ratera peak is located at an altitude of 2,862 meters and is located within the Colomers cirque, an impressive setting for mountain lovers.",
+    "The Amitges refuge has toilets, hot showers (€1), blankets, food and drink service, public telephone, radio station connected to the Mountain Rescue Group of the Aran Firefighters, pets are not accepted company inside the shelter.\r\n\r\nPlaces in the saved shelter: 74\r\n\r\nEmergency shelter places when the shelter is closed (not saved): 12 places. We will find mattresses and blankets, an emergency radio and a gas stove.\r\n\r\nIt is one of the best in the national park.",
+    "Viewpoint that allows us to appreciate the San Mauricio pond and the wonderful views that surround it."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.00036072667,
+    "asphalt": 0.007348594,
+    "gravel": 0.07970301,
+    "nature": 0.13563283,
+    "alpin": 0.3816777,
+    "unpaved": 0.39527717
+  },
+  "way_types": {
+    "street": 0.007348594,
+    "way": 0.19633976,
+    "hiking_path": 0.38846314,
+    "mountain_hiking_path": 0.4078485
+  },
+  "waypoints": [
+    {
+      "name": "Pont de la Gorga footbridge",
+      "lat": 42.584308,
+      "lng": 1.043995,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "wheelchair_accessible",
+        "forest",
+        "bridge"
+      ],
+      "highlight_id": 4633519
+    },
+    {
+      "name": "Hermitage of Sant Maurici d'Espot",
+      "lat": 42.581688,
+      "lng": 1.014208,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate",
+        "facilities",
+        "viewpoint"
+      ],
+      "highlight_id": 3440613
+    },
+    {
+      "name": "Lake Sant Maurici",
+      "lat": 42.581859,
+      "lng": 1.009966,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "family_friendly",
+        "natural_monument",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 154020
+    },
+    {
+      "name": "Ratera Waterfall",
+      "lat": 42.585865,
+      "lng": 0.999194,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1033042
+    },
+    {
+      "name": "Ratera Lake",
+      "lat": 42.5891,
+      "lng": 0.991975,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 197506
+    },
+    {
+      "name": "Estany de les Obagues de Ratera",
+      "lat": 42.592386,
+      "lng": 0.980397,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 7595184
+    },
+    {
+      "name": "Pico de Ratera",
+      "lat": 42.60144,
+      "lng": 0.953599,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "climb",
+        "viewpoint",
+        "challenging"
+      ],
+      "highlight_id": 325346
+    },
+    {
+      "name": "Amitges Refuge",
+      "lat": 42.596708,
+      "lng": 0.984759,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "facilities",
+        "viewpoint",
+        "restaurant",
+        "pub",
+        "accomodation",
+        "challenging"
+      ],
+      "highlight_id": 154034
+    },
+    {
+      "name": "View of Estany de Sant Maurici",
+      "lat": 42.58653,
+      "lng": 0.987636,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "natural_monument",
+        "challenging",
+        "summit"
+      ],
+      "highlight_id": 154043
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "bridge",
+    "challenging",
+    "climb",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "religious_building",
+    "restaurant",
+    "summit",
+    "trail",
+    "viewpoint",
+    "waterfall",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 28,
+  "visitors": 234,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-07T08:26:16.566Z",
+  "changed_at": "2024-07-24T09:02:25.453Z",
+  "scraped_at": "2026-04-27T12:02:51.606564+00:00"
+}

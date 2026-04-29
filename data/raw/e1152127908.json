@@ -1,0 +1,113 @@
+{
+  "tour_id": "e1152127908",
+  "url": "https://www.komoot.com/smarttour/e1152127908",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1152127908/loop-1-the-jaizkibel-basque-country-passes",
+  "name": "Loop 1: The Jaizkibel – Basque Country passes",
+  "name_original": "Circuit 1 : Le Jaizkibel — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 31554.426589783172,
+  "duration_s": 6977,
+  "elevation_up_m": 730.5259967081307,
+  "elevation_down_m": 729.467014183494,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.36141,
+  "start_lng": -1.795551,
+  "start_alt_m": 3.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This small loop of around thirty kilometers takes place entirely in the Spanish Basque Country. Starting from Fontarrabie (or Hondarribia in Basque) it runs along the foothills of the Jaizkibel massif before flirting with its summit.\n\nThe start is located on the outskirts of the maritime town of Hondarribia. Separated from Hendaye by the bay of Txingui, it is at the gates of the Cantabrian Sea at the mouth of the Bidassoa. Its architecture and atypical houses are worth a stroll.\n\nThe route runs along the Jaizkibel massif, meandering at its feet on small roads with little traffic. A small bump allows you to warm up a bit before returning to Pasaia Donibane. You reach this small bucolic village by its north bank. If you have time for a visit, a boat takes you to the southern part of the village and its authentic main street.\n\nIt is on the heights of Pasaia Donibane that your ascent to Jaizkibel begins. The classic climb is just over seven kilometers long and includes an average of 6%. The beginning of the ascent is the steepest part while the last meters are the easiest. In the middle, a flat area of a few meters allows you to catch your breath.\n\nArrived at the top of the pass, you can make a small detour to reach the summit, easily recognizable with its antennas. You are on the westernmost mountain range of the Pyrenees. The view extends from the chain and its first mountains before losing itself off to the Atlantic Ocean.\n\nThe downhill portion is very nice. It delivers its share of panoramas over France and the town of Hondarribia which you are about to join to complete this pretty loop between land and sea.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The old town of Pasaia Donibane is accessible by a small shuttle boat. The beauty of its main street contrasts with its industrial surroundings.",
+    "One of the mythical ports of Basque cycling, as it forms part of the Clásica San Sebastián route and is one of the key places to decide the classification of this race.\r\n\r\nOn the Hondarribia slope, the first kilometers are on a gentle slope and through a chestnut forest. Arriving at the sanctuary of the Virgin of Guadalupe is the fountain of the same name. The last three kilometers are the hardest. At the crown you can continue to the antennas, barely a kilometer with percentages between 11 and 14%.\r\n\r\nThe Lezo slope begins with three very hard kilometers, with various horseshoe curves and ramps of more than 11%. Upon reaching the Arrokaundieta hostel, the slope softens until it reaches the top.",
+    "Hondarribia (or Hondarribia in French) bathes in the waters of the Cantabrian Sea. It is one of the most beautiful villages in the Basque Country. Of maritime tradition the village also has a beautiful architecture."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.37733486,
+    "sb#asphalt": 0.62266517
+  },
+  "way_types": {
+    "way": 0.008988215,
+    "cycleway": 0.058854844,
+    "minor_road": 0.11671069,
+    "street": 0.81544626
+  },
+  "waypoints": [
+    {
+      "name": "Pasaia Donibane Old Town",
+      "lat": 43.3245,
+      "lng": -1.9098,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "viewpoint"
+      ],
+      "highlight_id": 750520
+    },
+    {
+      "name": "Jaizkibel",
+      "lat": 43.3507,
+      "lng": -1.8508,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "trail",
+        "forest",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 5778966
+    },
+    {
+      "name": "Hondarribia",
+      "lat": 43.36147,
+      "lng": -1.7957,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "historical_site",
+        "beach"
+      ],
+      "highlight_id": 5779090
+    }
+  ],
+  "categories": [
+    "beach",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.8181817531585693,
+  "rating_count": 11,
+  "visitors": 331,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-04T14:23:29.400Z",
+  "changed_at": "2024-06-08T05:52:05.476Z",
+  "scraped_at": "2026-04-28T19:24:43.299826+00:00"
+}

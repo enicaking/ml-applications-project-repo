@@ -1,0 +1,97 @@
+{
+  "tour_id": "e1039232128",
+  "url": "https://www.komoot.com/smarttour/e1039232128",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1039232128/laguna-del-padul-circular-by-cozvijar-valle-de-lecrin",
+  "name": "Laguna del Padul — circular by Cozvíjar — Valle de Lecrín",
+  "name_original": "Laguna del Padul — circular por Cozvíjar — Valle de Lecrín",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 18895.49895679258,
+  "duration_s": 5056,
+  "elevation_up_m": 144.3314329152215,
+  "elevation_down_m": 145.7284918410827,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.026179,
+  "start_lng": -3.617713,
+  "start_alt_m": 767.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Bird observatory located in an important wetland that is home to a wide variety of migratory and resident birds. Thanks to this small wooden gazebo, visitors can watch the birds without disturbing their natural habitat. The Laguna Padul bird observatory is an ideal place for lovers of ornithology and nature in general.",
+    "The mammoth is the image and symbol of El Padul due to the fact that the remains of this prehistoric animal have appeared on the territory of the municipality. It has thus become the effigy of the city and a \"mammoth road\" through the lagoon of the Ecrin valley is dedicated to it. It is a protected area of the Sierra Nevada Natural Park, with an area of almost 300 hectares. Most of it is agricultural land and about 60 hectares are flooded and covered with vegetation. Due to its environmental importance, it has been classified as a Special Protection Area for Birds (ZEPA), a protected area of the Sierra Nevada National Park and a Wetland of International Importance."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.083094195,
+    "sb#unpaved": 0.38353804,
+    "sb#asphalt": 0.53336775
+  },
+  "way_types": {
+    "primary": 0.007923253,
+    "minor_road": 0.10674921,
+    "way": 0.359883,
+    "street": 0.5254445
+  },
+  "waypoints": [
+    {
+      "name": "Laguna de Padul Bird Observatory",
+      "lat": 37.012658,
+      "lng": -3.60182,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "other_natural",
+        "lake",
+        "family_friendly",
+        "natural_monument"
+      ],
+      "highlight_id": 5517847
+    },
+    {
+      "name": "El Padul",
+      "lat": 37.022715,
+      "lng": -3.627564,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "settlement",
+        "family_friendly",
+        "natural_monument",
+        "other_natural"
+      ],
+      "highlight_id": 4039932
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-02-25T20:44:11.622Z",
+  "changed_at": "2024-07-24T13:11:17.740Z",
+  "scraped_at": "2026-04-28T22:45:01.267172+00:00"
+}

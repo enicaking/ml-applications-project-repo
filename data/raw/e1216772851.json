@@ -1,0 +1,178 @@
+{
+  "tour_id": "e1216772851",
+  "url": "https://www.komoot.com/smarttour/e1216772851",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1216772851/santa-elena-accessible-trail",
+  "name": "Santa Elena Accessible Trail",
+  "name_original": "Dolmen y Fuente de Santa Elena — circular",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 3365.5420696254682,
+  "duration_s": 3698,
+  "elevation_up_m": 121.45110482296832,
+  "elevation_down_m": 117.41881321521566,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.660582,
+  "start_lng": -0.322373,
+  "start_alt_m": 981.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the easy 2.1-mile Santa Elena Accessible Trail to explore a scenic gorge, an ancient dolmen, and a hermitage in Biescas, Spain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Just before the car park for the ascent to Dolmen and Santa Elena are several beautiful cataracts that are easy to get to the water",
+    "I wouldn't have expected it here.\n\nIn addition to the Santa Elena dolmen, there are several testimonies of this type, e.g. in Guarrinza, on the ascent to Puerto del Palo, Canal Roya and Puerto de Escalé.\n\nhttps://es.wikipedia.org/wiki/Dólmenes_de_Santa_Elena_(Biescas)",
+    "Legend has it that Saint Helena took refuge in the cave from which the fountain flows and was protected by a spider's web until the danger that awaited her passed. When he came out of the cave, the spring gushed out and for this reason the hermitage was built in his honor in this place."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to hike the Santa Elena Accessible Trail?",
+      "answer": "This easy hike typically takes about 1 hour and 1 minute to complete. The total distance is approximately 3.4 kilometers."
+    },
+    {
+      "question": "What is the difficulty level of this route?",
+      "answer": "The trail is rated as easy, making it suitable for most fitness levels and a pleasant outdoor experience."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "Along the way, you'll encounter several interesting points. These include the <a href=\"https://www.komoot.com/highlight/5807667\" target=\"_blank\" rel=\"noopener\">Barranco del Asieso</a>, the ancient <a href=\"https://www.komoot.com/highlight/4761604\" target=\"_blank\" rel=\"noopener\">Dolmen of Santa Elena</a>, the serene <a href=\"https://www.komoot.com/highlight/4326488\" target=\"_blank\" rel=\"noopener\">Santa Elena Hermitage and Fountain</a>, and the intriguing <a href=\"https://www.komoot.com/highlight/5128550\" target=\"_blank\" rel=\"noopener\">Cave of Santa Elena</a>."
+    },
+    {
+      "question": "Does the trail intersect other well-known paths?",
+      "answer": "Yes, the route shares sections with several other paths, including the 'Biescas - Hoz de Jaca' trail, 'Vias Ferratas de Huesca', 'R31 - Valle de L'asieso', 'R9 - Santa Elena', and the 'Sendero adaptado Santa Elena'."
+    },
+    {
+      "question": "Is the Santa Elena Accessible Trail dog-friendly?",
+      "answer": "While specific regulations for this trail are not provided, it's generally advisable to keep dogs on a leash in natural areas to protect wildlife and ensure a pleasant experience for all hikers. Please check local signage for any specific restrictions."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to hike here?",
+      "answer": "Based on available information, there are no specific permits or entrance fees required to access this trail. However, it's always good practice to check for any local updates before your visit."
+    },
+    {
+      "question": "Where can I park to access the trailhead?",
+      "answer": "Specific parking information for the Santa Elena Accessible Trail is not detailed in the provided data. We recommend checking local maps or community resources for designated parking areas near the trailhead, especially if driving."
+    },
+    {
+      "question": "What is the best time of year to visit?",
+      "answer": "Given its 'easy' difficulty and moderate elevation changes, this trail is likely enjoyable during most seasons. For the most comfortable hiking, consider spring or autumn when temperatures are typically milder."
+    },
+    {
+      "question": "What kind of terrain can I expect?",
+      "answer": "The trail is classified as easy, suggesting generally well-maintained paths. With an elevation gain of around 121 meters, you can expect some gentle inclines and declines, but nothing overly strenuous."
+    },
+    {
+      "question": "Is the trail suitable for children?",
+      "answer": "Given its 'easy' difficulty rating and relatively short distance of 3.4 km, this trail is generally suitable for children and families looking for a pleasant outdoor walk."
+    },
+    {
+      "question": "What should I bring for this hike?",
+      "answer": "For an easy 1-hour hike, comfortable walking shoes, water, and appropriate clothing for the weather are usually sufficient. Don't forget your camera to capture the highlights like the Dolmen and Hermitage!"
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.039161067,
+    "paved": 0.052282106,
+    "unknown": 0.13522722,
+    "unpaved": 0.16558693,
+    "nature": 0.17698431,
+    "gravel": 0.43075836
+  },
+  "way_types": {
+    "minor_road": 0.0050559714,
+    "street": 0.039161067,
+    "hiking_path": 0.2515143,
+    "way": 0.7042687
+  },
+  "waypoints": [
+    {
+      "name": "Barranco del Asieso",
+      "lat": 42.659342,
+      "lng": -0.316031,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "trail",
+        "forest",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 5807667
+    },
+    {
+      "name": "Dolmen of Santa Elena",
+      "lat": 42.659408,
+      "lng": -0.318542,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "natural_monument",
+        "man_made_monument"
+      ],
+      "highlight_id": 4761604
+    },
+    {
+      "name": "Santa Elena Hermitage and Fountain",
+      "lat": 42.662879,
+      "lng": -0.320858,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "other_man_made",
+        "family_friendly",
+        "intermediate",
+        "natural_monument",
+        "cave"
+      ],
+      "highlight_id": 4326488
+    },
+    {
+      "name": "Cave of Santa Elena",
+      "lat": 42.662894,
+      "lng": -0.321259,
+      "type": "cave",
+      "categories": [
+        "cave",
+        "natural_monument",
+        "intermediate",
+        "waterfall"
+      ],
+      "highlight_id": 5128550
+    }
+  ],
+  "categories": [
+    "cave",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "religious_building",
+    "river",
+    "trail",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 6,
+  "visitors": 49,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-17T10:07:26.025Z",
+  "changed_at": "2026-02-26T19:51:23.346Z",
+  "scraped_at": "2026-04-27T11:12:50.644373+00:00"
+}

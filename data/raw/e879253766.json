@@ -1,0 +1,95 @@
+{
+  "tour_id": "e879253766",
+  "url": "https://www.komoot.com/smarttour/e879253766",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e879253766/trail-from-espelette",
+  "name": "Trail from Espelette",
+  "name_original": "Trail à partir d'Espelette",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8029.505588058923,
+  "duration_s": 3379,
+  "elevation_up_m": 189.16385701322474,
+  "elevation_down_m": 188.42725033055444,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.339176,
+  "start_lng": -1.445966,
+  "start_alt_m": 72,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Even if the summit is only 200m above sea level, the view of the Basque country remains truly incredible.",
+    "A superb, typical Basque village! Take advantage of your visit to grab a sandwich or a jar of Basque piperade, the local specialty."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.003299842,
+    "gravel": 0.0047329017,
+    "asphalt": 0.016577585,
+    "nature": 0.05923881,
+    "unknown": 0.29868633,
+    "paved": 0.61746454
+  },
+  "way_types": {
+    "primary": 0.016577585,
+    "hiking_path": 0.06397171,
+    "minor_road": 0.095974624,
+    "way": 0.30667463,
+    "street": 0.5168015
+  },
+  "waypoints": [
+    {
+      "name": "Mont Urzumu",
+      "lat": 43.335265,
+      "lng": -1.426829,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 4785568
+    },
+    {
+      "name": "Espelette Village",
+      "lat": 43.340653,
+      "lng": -1.4467,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 4785522
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 19,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-09T13:35:48.368Z",
+  "changed_at": "2024-06-05T00:39:05.271Z",
+  "scraped_at": "2026-04-27T15:18:56.588675+00:00"
+}

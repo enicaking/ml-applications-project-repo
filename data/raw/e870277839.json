@@ -1,0 +1,159 @@
+{
+  "tour_id": "e870277839",
+  "url": "https://www.komoot.com/smarttour/e870277839",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e870277839/bizkarzun-trail",
+  "name": "Bizkarzun Trail",
+  "name_original": "Randonnée de Bizkartzun",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 6260.7637406107,
+  "duration_s": 7009,
+  "elevation_up_m": 233.82830240221543,
+  "elevation_down_m": 233.82830240221531,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.346214,
+  "start_lng": -1.618297,
+  "start_alt_m": 15.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate Bizkarzun Trail for 3.9 miles (6.3 km) to enjoy 360-degree views of the Basque coast and mountains.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nice easy walk. You will meet Basque pigs, potyocks, will have a beautiful view of the bay of st jean de luz.",
+    "Fantastically beautiful walk. Wild horses, a flowing river, a refreshing swim, narrow paths and a beautiful view of the ocean and the Basque Country. Definitely worth it!",
+    "A great spot! Accessible path and not technical and very nice view"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to hike the Bizkarzun Trail?",
+      "answer": "The main Bizkarzun Trail, as described on komoot, is approximately 6.26 km long and typically takes around 1 hour and 56 minutes to complete. However, if you combine it with neighboring peaks like Zuhalmendi and Esnaur, a longer route of about 10.82 km could take around 4 hours and 35 minutes."
+    },
+    {
+      "question": "What is the terrain like on the Bizkarzun Trail?",
+      "answer": "The trail offers a diverse landscape, featuring easy paths, steep sections, flat stretches, scree, and both paved and dirt tracks. You'll navigate narrow trails that can sometimes resemble animal tracks, cross streams (often by ford), and encounter rocky parts as well as grassy areas. This variety keeps the hike engaging."
+    },
+    {
+      "question": "What are the best times of year to hike this trail?",
+      "answer": "Spring and autumn are generally the best seasons for hiking the Bizkarzun Trail. The weather is typically milder, and the natural scenery is vibrant. Summer can be pleasant, but it's advisable to start early to avoid the midday heat. Winter hikes are possible but require appropriate gear for potentially colder and wetter conditions."
+    },
+    {
+      "question": "Are dogs allowed on the Bizkarzun Trail?",
+      "answer": "Yes, the Bizkarzun Trail is generally dog-friendly. However, given the presence of semi-wild Pottok horses and open-air pigsties for Basque black pigs, it's highly recommended to keep your dog on a leash to ensure the safety and comfort of both your pet and the local wildlife."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee to access the trail?",
+      "answer": "No, there are no specific permits or entrance fees required to hike the Bizkarzun Trail. It is freely accessible to the public, allowing you to enjoy the natural beauty of the Basque Country without additional costs."
+    },
+    {
+      "question": "Where can I park and what is the trailhead access like?",
+      "answer": "While specific parking details are not provided, the trail is located behind Ascain in the Basque Country. Hikers typically access the trail from points near Ascain. It's advisable to check local maps or komoot's route details for the most convenient starting points and parking options."
+    },
+    {
+      "question": "What notable landmarks or viewpoints can I expect to see along the route?",
+      "answer": "The trail offers superb 360° panoramic views of the Basque coast, stretching from Saint-Jean-de-Luz to Hendaye, as well as views of La Rhune mountain and the Pyrenees. You can also see the Nivelle and Sare valleys. Highlights along the way include <a href=\"https://www.komoot.com/highlight/4703056\" target=\"_blank\" rel=\"noopener\">Arrayo Farm</a>, the <a href=\"https://www.komoot.com/highlight/5517359\" target=\"_blank\" rel=\"noopener\">Uzkaingo Erreka Waterfall</a>, and the <a href=\"https://www.komoot.com/highlight/5517344\" target=\"_blank\" rel=\"noopener\">Bizkartzun summit</a> itself."
+    },
+    {
+      "question": "What kind of wildlife might I encounter on the trail?",
+      "answer": "A unique aspect of the trail is the chance to encounter Pottoks, the semi-wild horses native to the Basque mountains. You might also observe open-air pigsties with Basque black pigs. Griffon vultures have been spotted gliding near the peaks, adding to the rich wildlife experience."
+    },
+    {
+      "question": "Is the Bizkarzun Trail suitable for beginners?",
+      "answer": "The Bizkarzun Trail is generally considered to be of 'moderate' difficulty. While it includes some steep sections, the rewarding views often make the effort worthwhile. For a less strenuous option, a shorter walk focusing on the streams and the Bizkarzun peak is described as 'without any difficulty,' lasting around 1 hour and 30 minutes with approximately 200 meters of elevation gain."
+    },
+    {
+      "question": "Does this trail intersect with any other well-known paths?",
+      "answer": "Yes, the route also passes through sections of the Bizkarzun trail (61% of the route), Errobiko bidea - Bidasoa / Voie de la Nive - Bidassoa (42%), and the Sentier des sommets (41%). These intersections offer opportunities to extend or vary your hike."
+    },
+    {
+      "question": "Are there any specific sections of the trail that require extra caution?",
+      "answer": "Some sections of the trail can be steep, particularly a descent from Esnaur if you extend your hike to include that peak. For this specific descent, an easier alternative path is suggested. Always pay attention to the narrow trails, which can sometimes resemble animal tracks, to stay on course."
+    }
+  ],
+  "surfaces": {
+    "alpin": 0.006153716,
+    "unknown": 0.007845748,
+    "asphalt": 0.010019563,
+    "paved": 0.12213446,
+    "nature": 0.1441184,
+    "unpaved": 0.7097281
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.006153716,
+    "minor_road": 0.12213446,
+    "hiking_path": 0.3571923,
+    "way": 0.5145195
+  },
+  "waypoints": [
+    {
+      "name": "Arrayo Farm",
+      "lat": 43.345564,
+      "lng": -1.613733,
+      "type": "other_man_made",
+      "categories": [
+        "other_man_made",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4703056
+    },
+    {
+      "name": "Uzkaingo Erreka Waterfall",
+      "lat": 43.351957,
+      "lng": -1.604686,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "river",
+        "intermediate",
+        "natural_monument",
+        "family_friendly",
+        "lake"
+      ],
+      "highlight_id": 5517359
+    },
+    {
+      "name": "Bizkartzun",
+      "lat": 43.347883,
+      "lng": -1.60823,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 5517344
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "river",
+    "summit",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.580645,
+  "rating_count": 124,
+  "visitors": 475,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-03T12:21:58.391Z",
+  "changed_at": "2026-02-26T18:42:15.034Z",
+  "scraped_at": "2026-04-27T11:08:15.419355+00:00"
+}

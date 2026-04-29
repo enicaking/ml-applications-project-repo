@@ -1,0 +1,196 @@
+{
+  "tour_id": "e1237150845",
+  "url": "https://www.komoot.com/smarttour/e1237150845",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1237150845/estany-de-sant-maurici-estany-de-ratera-estany-de-les-obagues-de-ratera-estany-del-barbs-estany-gran-d-amitges-circular-in-the-parque-nacional-de-aigueestortes-i-estany-de-sant-maurici",
+  "name": "Estany de Sant Maurici, Estany de Ratera, Estany de les Obagues de Ratera, Estany del Barbs, Estany Gran d'Amitges — circular in the Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "name_original": "Estany de Sant Maurici, Estany de Ratera, Estany de les Obagues de Ratera, Estany del Barbs, Estany Gran d'Amitges — circular en el Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c2",
+  "constitution": 2,
+  "distance_m": 10717.269438862086,
+  "duration_s": 16841,
+  "elevation_up_m": 455.88020820981455,
+  "elevation_down_m": 455.880208209815,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.58231,
+  "start_lng": 1.011278,
+  "start_alt_m": 1909.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "We are in one, or the most popular lake in the Aigüestortes national park. Located at 1910 m above sea level, we will have privileged views of the lake and the surrounding mountains. Without a doubt, we will take out the camera to take the occasional photo.\r\nAccess is not difficult, since we can leave the car or take a taxi to the Prat Pierró parking lot and follow a small wooden path.",
+    "As we get closer to the Ratera Waterfall, we will hear the louder and louder noise of the water, which indicates that we are on the right track towards one of the most beautiful waterfalls in the Aigüestortes Natural Park. It will be great for us to cool off on the hottest days.",
+    "Mountain lake at 2160 meters of altitude located in the Aiguas Tortas and Lake San Mauricio National Park.",
+    "Viewpoint that allows us to appreciate the San Mauricio pond and the wonderful views that surround it.",
+    "Lake of glacial origin located in the Valley of Ratera within the National Park of Aiguas Tortas and Lake of San Mauricio",
+    "The Amitges refuge has toilets, hot showers (€1), blankets, food and drink service, public telephone, radio station connected to the Mountain Rescue Group of the Aran Firefighters, pets are not accepted company inside the shelter.\r\n\r\nPlaces in the saved shelter: 74\r\n\r\nEmergency shelter places when the shelter is closed (not saved): 12 places. We will find mattresses and blankets, an emergency radio and a gas stove.\r\n\r\nIt is one of the best in the national park.",
+    "One of the beautiful lakes that you pass on the hike across the Coll d'Amitges to the Vall de Gerber.",
+    "Despite the ugly of being \"dammed\", it has one of the most beautiful shades of blue I've seen."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.0027565965,
+    "nature": 0.13609277,
+    "alpin": 0.42469797,
+    "unpaved": 0.4364527
+  },
+  "way_types": {
+    "street": 0.0027565965,
+    "alpine_hiking_path": 0.049935725,
+    "hiking_path": 0.11700509,
+    "mountain_hiking_path": 0.3869932,
+    "way": 0.4433094
+  },
+  "waypoints": [
+    {
+      "name": "Lake Sant Maurici",
+      "lat": 42.581859,
+      "lng": 1.009966,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "family_friendly",
+        "natural_monument",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 154020
+    },
+    {
+      "name": "Ratera Waterfall",
+      "lat": 42.585865,
+      "lng": 0.999194,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1033042
+    },
+    {
+      "name": "Ratera Lake",
+      "lat": 42.5891,
+      "lng": 0.991975,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 197506
+    },
+    {
+      "name": "View of Estany de Sant Maurici",
+      "lat": 42.58653,
+      "lng": 0.987636,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "natural_monument",
+        "challenging",
+        "summit"
+      ],
+      "highlight_id": 154043
+    },
+    {
+      "name": "Estany de les Obagues de Ratera",
+      "lat": 42.592386,
+      "lng": 0.980397,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 7595184
+    },
+    {
+      "name": "Amitges Refuge",
+      "lat": 42.596708,
+      "lng": 0.984759,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "facilities",
+        "viewpoint",
+        "restaurant",
+        "pub",
+        "accomodation",
+        "challenging"
+      ],
+      "highlight_id": 154034
+    },
+    {
+      "name": "Estany del Barbs",
+      "lat": 42.598881,
+      "lng": 0.98183,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 198137
+    },
+    {
+      "name": "Estany Gran d'Amitges",
+      "lat": 42.598712,
+      "lng": 0.984036,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 3587827
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "summit",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.854838848114014,
+  "rating_count": 62,
+  "visitors": 469,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-30T14:30:46.786Z",
+  "changed_at": "2024-08-12T07:44:34.106Z",
+  "scraped_at": "2026-04-27T12:02:39.087450+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "tour_id": "e958399442",
+  "url": "https://www.komoot.com/smarttour/e958399442",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e958399442/pic-du-mont-ne-loop-starting-from-col-de-bales",
+  "name": "Pic du Mont-Né – loop starting from Col de Bales",
+  "name_original": "Pic du Mont-Né – boucle au départ du Col de Bales",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9749.107599090452,
+  "duration_s": 11612,
+  "elevation_up_m": 388.6831091952513,
+  "elevation_down_m": 390.64139240847726,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.874041,
+  "start_lng": 0.500753,
+  "start_alt_m": 1774.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Climb to the summit of Mont-Né via the Crête de la Pale to enjoy a 360° panorama of the highest peaks of the Central Pyrenees (departure from Port de Bales: we say hello to the cows on the way!!! 😊)",
+    "The Pic du Mont-Né offers an exceptional view and is quite accessible from the Col de Bales.",
+    "The Cromlechs of the Pyrenees are comparatively modest megalithic structures in a circular shape with diameters between about 2.0 and a little more than 10.0 meters and stones that very rarely reach a height of 3.0 m. The origin is dated to 1200 to 600 BC. Dated.",
+    "Clean, spacious, well equipped, rescue from thunderstorms with hail"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.020661984,
+    "gravel": 0.13308086,
+    "nature": 0.15484434,
+    "asphalt": 0.17712519,
+    "unpaved": 0.51428765
+  },
+  "way_types": {
+    "street": 0.004045029,
+    "mountain_hiking_path": 0.1381257,
+    "hiking_path": 0.15805253,
+    "way": 0.6997767
+  },
+  "waypoints": [
+    {
+      "name": "Crête de la Pale",
+      "lat": 42.883187,
+      "lng": 0.4768,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4760543
+    },
+    {
+      "name": "Mount Né",
+      "lat": 42.877211,
+      "lng": 0.476722,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2831211
+    },
+    {
+      "name": "Port de Pierrefite Cromlech",
+      "lat": 42.868088,
+      "lng": 0.471814,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "historical_site",
+        "mountain_pass"
+      ],
+      "highlight_id": 4544218
+    },
+    {
+      "name": "Mont Ne Refuge",
+      "lat": 42.87307,
+      "lng": 0.480632,
+      "type": "hut",
+      "categories": [
+        "hut"
+      ],
+      "highlight_id": 452133
+    }
+  ],
+  "categories": [
+    "historical_site",
+    "hut",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.869565010070801,
+  "rating_count": 23,
+  "visitors": 145,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-20T23:26:35.341Z",
+  "changed_at": "2024-06-06T00:15:36.923Z",
+  "scraped_at": "2026-04-27T11:58:50.346350+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "tour_id": "e1069718003",
+  "url": "https://www.komoot.com/smarttour/e1069718003",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1069718003/the-soum-of-grum-running-in-the-ossau-valley",
+  "name": "The soum of Grum – running in the Ossau Valley",
+  "name_original": "Le soum de Grum — Courir dans la vallée d’Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 9841.078280999824,
+  "duration_s": 5259,
+  "elevation_up_m": 453.27320551878756,
+  "elevation_down_m": 446.23463567383465,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.976817,
+  "start_lng": -0.340436,
+  "start_alt_m": 1699,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Grum soum owes its name to a mixture of ancient local dialects. Soum comes from Occitan and designates the summit while brum, crum means \"thick clouds\" in Gascon. It could therefore be translated as “the summit that catches the clouds”. This beautiful loop suggests going around it before finally climbing to its summit.\n\nThe starting point is in the Col d'Aubisque car park. This myth of the Tour de France is an interesting crossing point of the Pyrenees. It stands as a real one in the middle of remarkable valleys. The route starts with a pleasant flat area that runs under the soum of Grum. A slight climb looms ahead of you before the trail dips towards Labourd's hut.\n\nAbout a kilometer further ahead is the main climb out of the exit. This follows a superb ridge which has no difficulty. Gradually, it guides you to the foot of soum de Grum. At the cost of a last portion of ascent, you reach its summit. This remarkable belvedere rewards your efforts by offering a breathtaking panorama of the surrounding peaks, including the Ger massif.\n\nGo back slightly before plunging into a short descent that brings you back to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col d'Aubisque is at an altitude of 1709 meters and surely offers one of the most beautiful views of the Pic de Ger or the slats of Bazen.\r\nFrom up there you are surrounded by the sharp peaks that dominate the Ossau valley.",
+    "The Andreyt ridges are one of three lines of ridges that converge on Soum de Grum. They therefore complete the trio with the crests of Grum and those of Laudège.",
+    "Soum de Grum is a small summit dominating the mythical Col d'Aubisque at 1,870 meters above sea level. It offers a beautiful panorama over the summits of the Ossau valley and Western Bigorre."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.009411676,
+    "nature": 0.25239587,
+    "unpaved": 0.73819244
+  },
+  "way_types": {
+    "hiking_path": 0.16515721,
+    "mountain_hiking_path": 0.25239587,
+    "way": 0.58244693
+  },
+  "waypoints": [
+    {
+      "name": "Col d'Aubisque",
+      "lat": 42.97675,
+      "lng": -0.33992,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "climb",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 128885
+    },
+    {
+      "name": "The Andreyt ridges",
+      "lat": 42.9869,
+      "lng": -0.3526,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 5598811
+    },
+    {
+      "name": "Soum de Grum",
+      "lat": 42.9853,
+      "lng": -0.3408,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 5598791
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 47,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T15:48:44.161Z",
+  "changed_at": "2024-06-07T19:31:18.784Z",
+  "scraped_at": "2026-04-27T15:29:15.901784+00:00"
+}

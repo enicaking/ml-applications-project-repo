@@ -1,0 +1,162 @@
+{
+  "tour_id": "e926784511",
+  "url": "https://www.komoot.com/smarttour/e926784511",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926784511/lakes-of-pera-and-peaks-of-sirvent-perafita-and-monturull",
+  "name": "Lakes of Pera and Peaks of Sirvent, Perafita and Monturull",
+  "name_original": "Lagos de la Pera y Picos de Sirvent, Perafita y Monturull",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10361.096555264774,
+  "duration_s": 14213,
+  "elevation_up_m": 681.8745760818861,
+  "elevation_down_m": 682.2632997168721,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.445821,
+  "start_lng": 1.610184,
+  "start_alt_m": 2143.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Shelter at the highest point of the route. Nice views and a magnificent terrace to have a drink.",
+    "We are in the Collet de Sant Vicenç near the Port of Perafita and the Lagos de la Pera. It is located at 2573 meters of altitude and has views that will not leave us indifferent.",
+    "Pico de Perfaita, bordering Andorra, at an altitude of 2,756 meters",
+    "Located at 2760 meters of altitude.",
+    "These are two lakes nestled in a cirque of glacial origin that belong to the Lleida municipality of Lles de Cerdanya. Two peaks of considerable height: Monturull (2,759 meters) and the Perafita peak (2,752 meters) serve to complete a beautiful environment with great natural diversity, where the water environment of the lakes is combined with an incredible collection of species. aquatic and marine, with the high mountains.",
+    "These are two lakes nestled in a cirque of glacial origin that belong to the Lleida municipality of Lles de Cerdanya. Two peaks of considerable height: Monturull (2,759 meters) and the Perafita peak (2,752 meters) serve to complete a beautiful environment with great natural diversity, where the water environment of the lakes is combined with an incredible collection of species. aquatic and marine, with the high mountains."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.014060284,
+    "gravel": 0.10091599,
+    "unpaved": 0.2436368,
+    "nature": 0.6413869
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.1113736,
+    "way": 0.11608665,
+    "hiking_path": 0.77253973
+  },
+  "waypoints": [
+    {
+      "name": "Estanys de la Pera Refuge",
+      "lat": 42.456548,
+      "lng": 1.598961,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "family_friendly",
+        "accomodation",
+        "pub",
+        "restaurant",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 3659624
+    },
+    {
+      "name": "Collet de Sant Vicenç",
+      "lat": 42.464709,
+      "lng": 1.593651,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 3530497
+    },
+    {
+      "name": "Pic de Perafita",
+      "lat": 42.45916,
+      "lng": 1.585444,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "lake",
+        "viewpoint"
+      ],
+      "highlight_id": 2049233
+    },
+    {
+      "name": "Pic de Monturull (2,760 m)",
+      "lat": 42.450131,
+      "lng": 1.58122,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 2049228
+    },
+    {
+      "name": "Estany Gran de la Pera",
+      "lat": 42.457026,
+      "lng": 1.594617,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 3659610
+    },
+    {
+      "name": "Estany de la Pera",
+      "lat": 42.455497,
+      "lng": 1.597594,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "natural_monument",
+        "intermediate",
+        "forest",
+        "other_natural"
+      ],
+      "highlight_id": 3743506
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "family_friendly",
+    "forest",
+    "hut",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 4,
+  "visitors": 36,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-15T11:16:30.939Z",
+  "changed_at": "2024-07-24T09:13:12.079Z",
+  "scraped_at": "2026-04-27T12:13:01.307367+00:00"
+}

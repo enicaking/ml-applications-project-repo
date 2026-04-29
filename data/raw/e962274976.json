@@ -1,0 +1,134 @@
+{
+  "tour_id": "e962274976",
+  "url": "https://www.komoot.com/smarttour/e962274976",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962274976/santuario-el-remei-de-creixenturri-trail-run-circular-in-camprodon",
+  "name": "Santuario el Remei de Creixenturri - trail run circular in Camprodon",
+  "name_original": "Santuario el Remei de Creixenturri - trail run circular en Camprodon",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 13159.53979565514,
+  "duration_s": 6242,
+  "elevation_up_m": 468.6748312704266,
+  "elevation_down_m": 468.8807307134474,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.312352,
+  "start_lng": 2.362935,
+  "start_alt_m": 950.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Camprodon is a small town in the province of Girona with a long history behind it: it was taken and burned in several wars over the centuries. Today, it is a quiet place located in the valley where the Ter and Ritort rivers meet.",
+    "Romanesque church located in the town of Camprodon. It appears described in the mid-twelfth century built on an old Romanesque church from 904 converted into a Benedictine monastery. It is a building with a Latin cross plan with five square apses with a bell tower.",
+    "The monastery (Monestir) de Sant Antoni dates back to 1702 and stands on top of the Col de la Brossa near Camprodon. From there you have a panoramic view of the villages and mountains of the surrounding area. There is also a table up there, which explains the magnificent view of the entire valley. Under the Canigó massif you can see Sant Pau de Segúries, La Ral, Cavallera, Camprodon, Llanar, La Roca, Abella, Vilallonga, Tregurà and Molló. The house includes barbecues, tables and toilets that are normally closed.",
+    "Spectacular Neo-Gothic style church located in the neighborhood of Creixenturri, 948 meters high."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.015165337,
+    "asphalt": 0.026185174,
+    "nature": 0.05938205,
+    "unknown": 0.060471833,
+    "paved": 0.36139727,
+    "unpaved": 0.47739834
+  },
+  "way_types": {
+    "primary": 0.013310588,
+    "footway": 0.03369285,
+    "minor_road": 0.12398509,
+    "street": 0.24096829,
+    "way": 0.29385683,
+    "hiking_path": 0.29418638
+  },
+  "waypoints": [
+    {
+      "name": "Pont Nou of Camprodon",
+      "lat": 42.31285,
+      "lng": 2.36464,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "man_made_monument",
+        "family_friendly",
+        "historical_site",
+        "settlement",
+        "intermediate"
+      ],
+      "highlight_id": 471345
+    },
+    {
+      "name": "Saint Peter's Monastery, Camprodon",
+      "lat": 42.31428,
+      "lng": 2.36937,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "historical_site",
+        "unknown",
+        "intermediate"
+      ],
+      "highlight_id": 5034556
+    },
+    {
+      "name": "Hermitage of Sant Antoni",
+      "lat": 42.30515,
+      "lng": 2.37584,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "viewpoint",
+        "summit"
+      ],
+      "highlight_id": 471334
+    },
+    {
+      "name": "El Remei Church, Creixenturri",
+      "lat": 42.29024,
+      "lng": 2.37509,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 5034496
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "religious_building",
+    "settlement",
+    "summit",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 34,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-25T11:20:14.186Z",
+  "changed_at": "2024-06-06T00:57:23.414Z",
+  "scraped_at": "2026-04-27T16:13:01.834960+00:00"
+}

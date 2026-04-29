@@ -1,0 +1,106 @@
+{
+  "tour_id": "e1383170919",
+  "url": "https://www.komoot.com/smarttour/e1383170919",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1383170919/lac-de-l-oule-tour",
+  "name": "Lac de l'Oule Tour",
+  "name_original": "Le tour du lac de l’Oule",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9572.362760796079,
+  "duration_s": 12156,
+  "elevation_up_m": 288.2380788680068,
+  "elevation_down_m": 288.2380788680068,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.819134,
+  "start_lng": 0.18969,
+  "start_alt_m": 1642.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This pretty route, accessible to all, takes a loop that goes around Lake Oule. Artificial, it is one of the largest in the Néouvielle reserve. The departure is at the free Artigusse car park, located at around 1,600 meters above sea level.\n\nThe first part of the route avoids most of the elevation gain of the route. This portion is on a fairly wide track which winds through a beautiful and dense forest. When the slope softens and the forest becomes less dense, you approach the lake. You discover it when you arrive under its imposing dam.\n\nThe first part of the path which goes around it always takes place at the edge of the forest. On the other side of the lake is the Col du Portet, taken by the GR 10. Two kilometers further, you reach a small cabin and a bridge which offer a clear view of the lake. This is where you begin the U-turn towards the starting point.\n\nYou are moving on the other side of the lake. Much clearer, it offers pretty panoramas. The tour of the body of water ends at the Oule refuge. Charming and welcoming, it allows a pleasant break near the dam, before starting the descent towards the Artigusse car park.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Oule hut is an unguarded and open hut. Don't expect a palace, the floor is clay, the door closes badly, the fireplace has a weak draft (be careful not to get smoked).\r\nDespite that, it will do you great favors by protecting you from the rain and a bit of the wind. There are also streams and woods nearby. That is the demand of the people !",
+    "Lake Oule, an artificial body of water, is one of the largest in the Néouvielle reserve. His work dates from the interwar period, when the Midi railway company decided to transform a pasture plateau into a water reservoir in order to supply the Eget hydroelectric power station. Its waters come from Lake Oredon through a canal designed to supply the body of water.",
+    "Located a few steps from the dam of the lake of the same name, the refuge overlooks the valley. Comfortable and bucolic, it welcomes visitors all year round. More information here: https://refugedeloule.fr/."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.043914523,
+    "gravel": 0.0768629,
+    "unpaved": 0.14028065,
+    "nature": 0.7389419
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.043914523,
+    "hiking_path": 0.21818328,
+    "way": 0.7379022
+  },
+  "waypoints": [
+    {
+      "name": "L'Oule Hut",
+      "lat": 42.8395,
+      "lng": 0.195887,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 3387889
+    },
+    {
+      "name": "Lake Oule",
+      "lat": 42.83972,
+      "lng": 0.197341,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 929638
+    },
+    {
+      "name": "Refuge de l'Oule",
+      "lat": 42.82473,
+      "lng": 0.20733,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "viewpoint",
+        "lake",
+        "intermediate",
+        "unknown"
+      ],
+      "highlight_id": 6307254
+    }
+  ],
+  "categories": [
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "summit",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.583333492279053,
+  "rating_count": 36,
+  "visitors": 551,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-27T16:26:34.392Z",
+  "changed_at": "2024-06-12T10:16:07.079Z",
+  "scraped_at": "2026-04-27T11:50:31.100521+00:00"
+}

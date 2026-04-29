@@ -1,0 +1,109 @@
+{
+  "tour_id": "e967487862",
+  "url": "https://www.komoot.com/smarttour/e967487862",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e967487862/loop-starting-from-argeles-gazost",
+  "name": "Loop starting from Argelès-Gazost",
+  "name_original": "Boucle au départ d'Argelès-Gazost",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 32065.881470180542,
+  "duration_s": 13779,
+  "elevation_up_m": 1255.209116400265,
+  "elevation_down_m": 1255.383352709054,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.009087,
+  "start_lng": -0.100328,
+  "start_alt_m": 461,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful place 👍 for enduro mountain bikers.\r\n\r\nThe MTR+Mont de Gez track is incredible!",
+    "Incredible view! We are over 1300m above sea level. We can see the peak of the pene and Ostes",
+    "a superb view of the valley\r\nit is possible to make a bivouac there, place for the fire, picnic table"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#asphalt": 0.035523813,
+    "unknown": 0.085536085,
+    "sm#paved": 0.087551735,
+    "sm#unpaved": 0.17524947,
+    "sm#nature": 0.6161389
+  },
+  "way_types": {
+    "street": 0.072182454,
+    "minor_road": 0.114283375,
+    "trail": 0.22029443,
+    "way": 0.5932397
+  },
+  "waypoints": [
+    {
+      "name": "Mount de Gez",
+      "lat": 43.007016,
+      "lng": -0.123911,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 347701
+    },
+    {
+      "name": "View from Pic d'Arragnat",
+      "lat": 43.000216,
+      "lng": -0.148115,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "summit"
+      ],
+      "highlight_id": 4645809
+    },
+    {
+      "name": "Col de Couret",
+      "lat": 42.991849,
+      "lng": -0.194386,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "mountain_pass"
+      ],
+      "highlight_id": 6362042
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.6666667461395264,
+  "rating_count": 3,
+  "visitors": 20,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-30T13:03:27.615Z",
+  "changed_at": "2024-05-31T09:23:25.028Z",
+  "scraped_at": "2026-04-28T15:22:49.381854+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "tour_id": "e1408362090",
+  "url": "https://www.komoot.com/smarttour/e1408362090",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1408362090/lago-de-engolasters-por-les-escaldes-circular-desde-encamp",
+  "name": "Lago de Engolasters por les Escaldes — circular desde Encamp",
+  "name_original": null,
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 18729.278394786346,
+  "duration_s": 6160,
+  "elevation_up_m": 621.787957458545,
+  "elevation_down_m": 615.1167993140091,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.537178,
+  "start_lng": 1.583863,
+  "start_alt_m": 1278.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "All the towns in Andorra have had a historic center, even if it can't seem like it. Encamp, it is also like that and its church appears, that of Sant Miquel and Sant Joan de la Mosquera.",
+    "Lake Engolasters is an artificial lake located in this area at the top of the town of Escaldes-Engordany and Encamp. It is usually full of water and the track gives you the opportunity to see both sides of the lake.",
+    "Beautiful path that takes you to Engolasters lake and along this, there are some sections where you can find views of the valley. The path breaks through the mountain at some point."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.006599631,
+    "unknown": 0.029988997,
+    "sb#unpaved": 0.20371936,
+    "sb#asphalt": 0.759692
+  },
+  "way_types": {
+    "minor_road": 0.04653133,
+    "primary": 0.18095283,
+    "way": 0.19972612,
+    "street": 0.5727897
+  },
+  "waypoints": [
+    {
+      "name": "Encamp town center",
+      "lat": 42.535367,
+      "lng": 1.581544,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "cafe",
+        "religious_building"
+      ],
+      "highlight_id": 6356421
+    },
+    {
+      "name": "Engolasters Lake",
+      "lat": 42.51957,
+      "lng": 1.570096,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "family_friendly",
+        "forest",
+        "trail"
+      ],
+      "highlight_id": 6356411
+    },
+    {
+      "name": "Camí de les Perdines",
+      "lat": 42.528842,
+      "lng": 1.592296,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 6356413
+    }
+  ],
+  "categories": [
+    "cafe",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "religious_building",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 42,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-05T14:24:56.491Z",
+  "changed_at": "2024-08-13T15:03:49.979Z",
+  "scraped_at": "2026-04-29T00:28:40.755447+00:00"
+}

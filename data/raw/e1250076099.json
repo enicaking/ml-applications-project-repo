@@ -1,0 +1,117 @@
+{
+  "tour_id": "e1250076099",
+  "url": "https://www.komoot.com/smarttour/e1250076099",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1250076099/cascada-de-gerber-parque-nacional-de-aigueestortes-i-estany-de-sant-maurici",
+  "name": "Cascada de Gerber — Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "name_original": null,
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6748.219897055758,
+  "duration_s": 7389,
+  "elevation_up_m": 222.33331027713075,
+  "elevation_down_m": 222.33331027713052,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.635567,
+  "start_lng": 1.041653,
+  "start_alt_m": 1534.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Gerdar Refuge is located in the Gerdar Forest, in the municipality of Alt Àneu.",
+    "The trail is made up of a combination of a wooden walkway and a conventional trail.",
+    "We find one of the most popular waterfalls in the Aigüestortes National Park, the Cascada de Gerber or Salto de Comials and it is the highest in the national park. There are information panels that tell us the story and a viewpoint from where people want to take the famous photo.\nIt can be accessed from the Gerber Refuge, by a nice walk under the trees of the Gerber forest or from a small parking lot that is closer.\nQuite busy during summer and spring weekends."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.12700748,
+    "unpaved": 0.8729925
+  },
+  "way_types": {
+    "street": 0.12700748,
+    "hiking_path": 0.8729925
+  },
+  "waypoints": [
+    {
+      "name": "Gerdar Refuge",
+      "lat": 42.637462,
+      "lng": 1.039827,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "facilities",
+        "family_friendly",
+        "restaurant",
+        "accomodation",
+        "pub",
+        "intermediate",
+        "forest"
+      ],
+      "highlight_id": 5577974
+    },
+    {
+      "name": "Wooden Boardwalk Over Waterfall Stream",
+      "lat": 42.64486,
+      "lng": 1.01131,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "family_friendly",
+        "waterfall",
+        "bridge",
+        "forest"
+      ],
+      "highlight_id": 6008727
+    },
+    {
+      "name": "Gerber Waterfall",
+      "lat": 42.643341,
+      "lng": 1.009089,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 3217857
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "bridge",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "hut",
+    "intermediate",
+    "natural_monument",
+    "pub",
+    "restaurant",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.5806450843811035,
+  "rating_count": 31,
+  "visitors": 269,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-08-08T20:11:46.057Z",
+  "changed_at": "2024-08-12T08:23:04.183Z",
+  "scraped_at": "2026-04-27T12:02:55.370020+00:00"
+}

@@ -1,0 +1,131 @@
+{
+  "tour_id": "e962142276",
+  "url": "https://www.komoot.com/smarttour/e962142276",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e962142276/the-7-waterfalls-of-campdevanol-circular-trail-run-by-the-cabana-stream",
+  "name": "The 7 waterfalls of Campdevanol - circular trail run by the Cabana stream",
+  "name_original": "Las 7 cascadas de Campdevànol - trail run circular por el torrente de la Cabana",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9493.22855489091,
+  "duration_s": 4030,
+  "elevation_up_m": 184.79873471790154,
+  "elevation_down_m": 184.79873471790154,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.227511,
+  "start_lng": 2.140026,
+  "start_alt_m": 767.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The largest and deepest gorg of the 7. It has a nice waterfall. Ideal for bathing and relaxing with family, friends and dogs. In the summer months there is a bar if you fancy an ice cream or coffee. In the middle of summer it gets very crowded, so for a quieter experience I recommend coming during the week or out of season.",
+    "This Gorg del Petit Colomer is the last stop on the Route of the 7 gorgs. It is not only the most aesthetically impressive but also the most visited.",
+    "Gorg 2 of the itinerary",
+    "Itinerary that follows the refreshing torrent of Estiula, popularly known as Torrent de la Cabana, where we can enjoy the visual beauty of its waterfalls and observe the plant diversity such as the riparian forest consisting mainly of alders and pine forests red."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.008103616,
+    "unknown": 0.008568288,
+    "unpaved": 0.16920552,
+    "paved": 0.20758435,
+    "gravel": 0.23440865,
+    "nature": 0.3721296
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.008103616,
+    "hiking_path": 0.37868538,
+    "way": 0.61321104
+  },
+  "waypoints": [
+    {
+      "name": "Colomer Pool",
+      "lat": 42.20812,
+      "lng": 2.12105,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "lake",
+        "family_friendly",
+        "natural_monument",
+        "intermediate",
+        "gorge"
+      ],
+      "highlight_id": 2524507
+    },
+    {
+      "name": "Petit Colomer Gorge",
+      "lat": 42.21119,
+      "lng": 2.12247,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "gorge",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 4042085
+    },
+    {
+      "name": "Gorg de la Tosca",
+      "lat": 42.21919,
+      "lng": 2.12533,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "intermediate",
+        "gorge",
+        "unknown"
+      ],
+      "highlight_id": 4042072
+    },
+    {
+      "name": "Cabana Gorge",
+      "lat": 42.2209,
+      "lng": 2.12589,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "waterfall",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "forest"
+      ],
+      "highlight_id": 2524433
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 73,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-25T08:06:54.816Z",
+  "changed_at": "2024-06-06T00:53:03.959Z",
+  "scraped_at": "2026-04-27T16:08:53.252567+00:00"
+}

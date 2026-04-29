@@ -1,0 +1,114 @@
+{
+  "tour_id": "e930241164",
+  "url": "https://www.komoot.com/smarttour/e930241164",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e930241164/pyrenees-crossing-section-5-gr-10",
+  "name": "Pyrenees Crossing - Section 5 (GR 10)",
+  "name_original": "De Bagnères-de-Luchon à Artigue",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 19349.268654852804,
+  "duration_s": 5904,
+  "elevation_up_m": 652.0785262136426,
+  "elevation_down_m": 651.8208690088727,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.786801,
+  "start_lng": 0.59209,
+  "start_alt_m": 645.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle the challenging 12.0-mile (19.3 km) route from Bagnères-de-Luchon to Artigue, featuring steep climbs and panoramic Pyrenean views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small village with privileged views over the Luchon valley and the Pyrenees. Specifically, the Maladeta and Aneto massifs"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to cycle From Bagnères-de-Luchon to Artigue?",
+      "answer": "The touring bicycle route from Bagnères-de-Luchon to Artigue typically takes around 1 hour and 38 minutes to complete. This duration accounts for the challenging ascent and the overall distance of approximately 19.3 kilometers."
+    },
+    {
+      "question": "What is the difficulty level of this cycling route?",
+      "answer": "This route is considered <strong>difficult</strong> for touring cyclists. It features a significant elevation gain of over 650 meters, with sustained sections exceeding a 10% gradient, particularly on the climb to <a href=\"https://www.komoot.com/highlight/2587663\" target=\"_blank\" rel=\"noopener\">Artigue</a>. A good level of fitness and appropriate gearing are essential."
+    },
+    {
+      "question": "What kind of terrain can I expect on the way to Artigue?",
+      "answer": "The route primarily follows roads with a generally very good surface. While the climb is steep and demanding, the road conditions are favorable, and traffic is typically light, making for a pleasant riding experience despite the intensity."
+    },
+    {
+      "question": "Are there any notable viewpoints or landmarks along the route?",
+      "answer": "Yes, despite much of the climb being through forested areas, the route occasionally opens up to offer stunning vistas. A viewpoint near the summit provides fantastic views overlooking the town of Luchon and the surrounding valley, extending to Pico Aneto, the highest mountain in the Pyrenees, and also offers wonderful views of Superbagnères."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The best time to cycle this route is generally during the warmer months, from late spring through early autumn. This period offers more stable weather conditions in the Pyrenees, reducing the likelihood of snow or ice at higher elevations and providing more comfortable temperatures for the strenuous climb."
+    },
+    {
+      "question": "Where can I park to start this cycling tour in Bagnères-de-Luchon?",
+      "answer": "Bagnères-de-Luchon, being a well-known hub for cyclists, offers various parking options within the town. You can typically find parking near the town center or at designated public parking areas, which provide convenient access to the start of the route."
+    },
+    {
+      "question": "Is this cycling route suitable for beginners or families with children?",
+      "answer": "No, due to its <strong>difficult</strong> rating, significant elevation gain, and consistently steep gradients, this route is not recommended for beginners or families with young children. It requires a good level of fitness and experience in touring cycling."
+    },
+    {
+      "question": "Are dogs allowed on this cycling route?",
+      "answer": "As this route primarily follows public roads, dogs are generally permitted if they are safely secured, for example, in a bicycle trailer or basket. However, always ensure your dog's safety and comfort, especially on demanding climbs and descents."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees to cycle this route?",
+      "answer": "No, you do not need any special permits or to pay entrance fees to cycle this route. It follows public roads in the French Pyrenees, which are freely accessible to cyclists."
+    },
+    {
+      "question": "What makes the Artigue climb particularly notable for cyclists?",
+      "answer": "The Artigue climb is notable for being a short but intense challenge. It provides a significant workout with consistently steep gradients, making it a favorite for those looking to test their climbing abilities. The breathtaking panoramic views from the top serve as a significant reward for the effort expended."
+    },
+    {
+      "question": "Does this route intersect with other well-known cycling paths?",
+      "answer": "Yes, the route also passes through sections of the De Saint-Pé-d'Ardet à Bagnères-de-Luchon, La traversée des Pyrénées - sec.5, and Pedals d'Occitània trails."
+    }
+  ],
+  "surfaces": {
+    "sb#unpaved": 0.012041014,
+    "unknown": 0.019100796,
+    "sb#paved": 0.046031132,
+    "sb#asphalt": 0.92282706
+  },
+  "way_types": {
+    "service": 0.004496889,
+    "trail": 0.012696421,
+    "primary": 0.10436891,
+    "minor_road": 0.10662055,
+    "street": 0.7718172
+  },
+  "waypoints": [
+    {
+      "name": "Artigue",
+      "lat": 42.829662,
+      "lng": 0.619587,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 2587663
+    }
+  ],
+  "categories": [],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 40,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-19T06:42:19.085Z",
+  "changed_at": "2026-02-26T18:50:00.494Z",
+  "scraped_at": "2026-04-29T00:03:59.339690+00:00"
+}

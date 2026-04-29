@@ -1,0 +1,128 @@
+{
+  "tour_id": "e1153817934",
+  "url": "https://www.komoot.com/smarttour/e1153817934",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1153817934/caste-1-and-caste-2",
+  "name": "Caste 1 and Caste 2",
+  "name_original": "Kaste 1 & Kaste 2",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 14378.048339223724,
+  "duration_s": 5954,
+  "elevation_up_m": 469.23004676815583,
+  "elevation_down_m": 467.86712166582356,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.858047,
+  "start_lng": 2.661014,
+  "start_alt_m": 134.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "On this tour, spectacular rock formations, magnificent views and trails with that certain something await you, which have been named Caste 1 and Caste 2.\n\nFrom the parking lot you roll to the entrance to San Salvador Park and pedal up the wide gravel road until you reach the entrance to Caste 2 after a little more than four kilometers. This enchanting path winds through a unique landscape full of boulders. Sometimes you leave them behind and sometimes the impressive giant stones are integrated into the trail and you just roll over them. What a great choice of line – cheers to the trail builders!\n\nThen you go back up on a steep gravel path until you reach the entrance to Kaste 1 after 150 meters of altitude. This narrow path is not too difficult and that's why it's a lot of fun. And just when you think that's it: puff cake! The big finale of this round is on the last section of the legendary Spiderman Trail.\n\nWith a big grin on your face, you arrive at the El Racó restaurant downstairs, where you can review the round with delicious Catalan snacks and cool drinks.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This is the perfect place to refill your water bottles. The sign says it's not drinking water, but many people fill up large water canisters here. So we tried the water too and it tasted great.",
+    "You pass huge boulder stones when you are on the Kaste 2 Trail. This landscape is simply spectacular. And the lines are also impressive. There are some sections over larger rocks that you roll over with your bike. These places are real highlights and great photo spots at the same time.",
+    "This gravel road is very steep, but ridable if you have fresh legs.",
+    "In the El Racó restaurant you can enjoy delicious Catalan snacks and refresh yourself with cool drinks. So it's the perfect spot for a breather in between."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#gravel": 0.004596604,
+    "unknown": 0.0065361694,
+    "sm#asphalt": 0.010642509,
+    "sm#unpaved": 0.06599306,
+    "sm#nature": 0.9122317
+  },
+  "way_types": {
+    "minor_road": 0.00046265262,
+    "service": 0.004596604,
+    "street": 0.010179856,
+    "trail": 0.44952667,
+    "way": 0.5352342
+  },
+  "waypoints": [
+    {
+      "name": "Font de Sant Salvador",
+      "lat": 41.857172,
+      "lng": 2.660895,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "family_friendly",
+        "other_natural",
+        "facilities"
+      ],
+      "highlight_id": 5696788
+    },
+    {
+      "name": "Kaste 2 Trail",
+      "lat": 41.839,
+      "lng": 2.6559,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "other_natural",
+        "mtb_park"
+      ],
+      "highlight_id": 5782200
+    },
+    {
+      "name": "Ascent",
+      "lat": 41.83807,
+      "lng": 2.665372,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "challenging",
+        "viewpoint",
+        "trail"
+      ],
+      "highlight_id": 5698618
+    },
+    {
+      "name": "El Racó de Farners 😋",
+      "lat": 41.857803,
+      "lng": 2.659775,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "family_friendly",
+        "cafe"
+      ],
+      "highlight_id": 5686259
+    }
+  ],
+  "categories": [
+    "cafe",
+    "challenging",
+    "climb",
+    "facilities",
+    "family_friendly",
+    "mtb_park",
+    "natural_monument",
+    "other_natural",
+    "restaurant",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 33,
+  "author_name": "Diana",
+  "author_id": "371692835994",
+  "created_at": "2023-06-05T16:30:25.647Z",
+  "changed_at": "2024-05-31T09:52:59.064Z",
+  "scraped_at": "2026-04-28T16:02:32.126375+00:00"
+}

@@ -1,0 +1,137 @@
+{
+  "tour_id": "e1064317042",
+  "url": "https://www.komoot.com/smarttour/e1064317042",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1064317042/peyresourde-pass-emblematic-passes-of-the-pyrenees",
+  "name": "Peyresourde Pass – emblematic passes of the Pyrenees",
+  "name_original": "Circuit 2 : Col de Peyresourde — Les cols emblématiques des Pyrénées",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 65523.17943561366,
+  "duration_s": 16474,
+  "elevation_up_m": 2349.269058832535,
+  "elevation_down_m": 2348.244696344742,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.791843,
+  "start_lng": 0.590858,
+  "start_alt_m": 633.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Col de Peyresourde is an emblematic passage in the Pyrenees and a classic of the Tour de France. Since 1910, it has been climbed more than 60 times by runners on the great loop. Culminating at 1,589 meters above sea level, it is a historic passage between Luron, Larboust and Luchon. The pass is located between Bagnères-de-Luchon and Arreau and provides access to the resort of Peyragudes and its altiport.\n\nFor this itinerary, I suggest a departure and an arrival from Bagnères-de-Luchon. This beautiful spa town includes an SNCF train station. From the first meters you are launched to attack the pass. The climb of about 14 kilometers passes through several villages and hamlets during a section with low elevation. It is the end of the climb that includes the highest percentages in order to hoist you up to the pass. Enjoy the beautiful view of the valley that the last meters grant before reaching the summit.\n\nIf your goal is just to pin this mythical pass to your list, you can turn around to find Bagnères. Here I suggest you continue in order to find another beautiful climb less known and less frequented. For this, you make the switch and dive towards Loudenvielle through a beautiful descent. Once at the bottom, you go around the lake through the village of Génos before undertaking the second ascent of the day, the one that leads to the Col d'Azet.\n\nThe climb is just over seven kilometers long and includes some passages at more than 13%. This one has several switchbacks that quickly take you above the valley and its lake. The Col d'Azet culminates at 1,580 meters, it therefore offers a remarkable landscape throughout its ascent but also at its summit.\n\n\nThe descent is on the same side as your previous ascent. Returning to the valley, I suggest you take a welcome break in the peaceful village of Loudenvielle. The shores of Lac de Génos are also ideal for a pleasant moment of rest. You will actually need to regain your strength to attack the third and final climb of the day. That of the Col de Peyresourde taking its other side. Back at the pass, take advantage of the beautiful descent which takes you back to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nicknamed “the queen of the Pyrenees”, Bagnères-de-Luchon, also called Luchon, is a famous spa resort in Occitania. There is a wide range of accommodation and catering options.",
+    "The Col de Peyresourde is one of the legendary passes of the Pyrenees. Located at an altitude of 1,589 meters, it marks the separation between the Hautes-Pyrénées and Haute-Garonne departments. The most emblematic climb is the one that starts from Bagnères-de-Luchon. It extends over 13.74 kilometers with an average of 6.9%. It begins with a long false flat before really rising over the last few kilometers.",
+    "Located in the Louron valley, the Col d'Azet peaks at an altitude of 1,580 meters. This passage connects the village of Loudenvielle and that of Azet on the heights of Saint-Lary-Soulan. The ascent from Lake Génos is 7.5 kilometers for an average of 8.3% with some passages at 13%.",
+    "Loudenvielle is a charming little mountain village on the shores of Lac de Génos. Enjoying a rich cultural heritage, Loudenvielle invites you to take a pleasant break in a remarkable natural setting.",
+    "A great lake that is worth the detour for a break after descending the surrounding passes."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.00010939018,
+    "sb#paved": 0.008488433,
+    "sb#asphalt": 0.99140215
+  },
+  "way_types": {
+    "way": 0.00010939018,
+    "minor_road": 0.008488433,
+    "street": 0.99140215
+  },
+  "waypoints": [
+    {
+      "name": "Bagnères-de-Luchon",
+      "lat": 42.7919,
+      "lng": 0.5912,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5558028
+    },
+    {
+      "name": "Peyresourde Pass",
+      "lat": 42.802249,
+      "lng": 0.46222,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "climb",
+        "challenging",
+        "mountain_pass",
+        "restaurant",
+        "family_friendly",
+        "cafe"
+      ],
+      "highlight_id": 128886
+    },
+    {
+      "name": "Col de Val Louron-Azet",
+      "lat": 42.791973,
+      "lng": 0.380995,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging",
+        "climb",
+        "viewpoint",
+        "mountain_pass",
+        "summit",
+        "intermediate"
+      ],
+      "highlight_id": 329668
+    },
+    {
+      "name": "Loudenvielle Village",
+      "lat": 42.79633,
+      "lng": 0.407433,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly",
+        "lake"
+      ],
+      "highlight_id": 801018
+    },
+    {
+      "name": "Lake Génos",
+      "lat": 42.8036,
+      "lng": 0.4117,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3767771
+    }
+  ],
+  "categories": [
+    "cafe",
+    "challenging",
+    "climb",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "restaurant",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 8,
+  "visitors": 602,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-30T18:01:53.762Z",
+  "changed_at": "2024-06-07T18:16:25.042Z",
+  "scraped_at": "2026-04-28T19:54:54.172030+00:00"
+}

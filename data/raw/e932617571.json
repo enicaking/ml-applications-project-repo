@@ -1,0 +1,118 @@
+{
+  "tour_id": "e932617571",
+  "url": "https://www.komoot.com/smarttour/e932617571",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e932617571/plains-and-waterfalls-of-la-larri-from-the-pineta-valley",
+  "name": "Plains and Waterfalls of La Larri from the Pineta Valley",
+  "name_original": "Llanos y Cascadas de La Larri desde el Valle de Pineta",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6816.578452569395,
+  "duration_s": 10298,
+  "elevation_up_m": 372.81024921745575,
+  "elevation_down_m": 370.699817677071,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.676193,
+  "start_lng": 0.086272,
+  "start_alt_m": 1280.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "It is a small waterfall compared to that of the Cinca, but of great beauty.",
+    "A great view of the surrounding peaks, such as La Munia and Monte Perdido.",
+    "A nice leisurely hike, particularly good as an introduction to the big hiking tours. At about 1,400 m you pass a smaller waterfall with red-brown rock formations.\r\nThe La Larri waterfall falls about 180 m with a roaring sound.\r\nBehind the mountain range is France and from here you can climb to the peak of La Munia."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.00318581,
+    "gravel": 0.011614272,
+    "nature": 0.02020769,
+    "unknown": 0.028619783,
+    "asphalt": 0.038258497,
+    "unpaved": 0.20448218,
+    "alpin": 0.69363177
+  },
+  "way_types": {
+    "minor_road": 0.013757023,
+    "street": 0.038258497,
+    "hiking_path": 0.060612705,
+    "way": 0.15641765,
+    "mountain_hiking_path": 0.7309541
+  },
+  "waypoints": [
+    {
+      "name": "La Larri Waterfalls",
+      "lat": 42.683558,
+      "lng": 0.079957,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "viewpoint",
+        "natural_monument",
+        "trail"
+      ],
+      "highlight_id": 347869
+    },
+    {
+      "name": "La Larri Plains",
+      "lat": 42.69204,
+      "lng": 0.08887,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "waterfall",
+        "trail",
+        "other_natural",
+        "family_friendly"
+      ],
+      "highlight_id": 2499001
+    },
+    {
+      "name": "La Larri Waterfalls",
+      "lat": 42.697903,
+      "lng": 0.092242,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "family_friendly",
+        "natural_monument",
+        "trail",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 797055
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "natural_monument",
+    "other_natural",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.846153736114502,
+  "rating_count": 52,
+  "visitors": 418,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-21T18:06:17.587Z",
+  "changed_at": "2024-06-05T07:32:23.666Z",
+  "scraped_at": "2026-04-27T11:34:03.762057+00:00"
+}

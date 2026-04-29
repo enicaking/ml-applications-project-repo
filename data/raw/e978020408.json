@@ -1,0 +1,140 @@
+{
+  "tour_id": "e978020408",
+  "url": "https://www.komoot.com/smarttour/e978020408",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e978020408/parque-nacional-de-sierra-nevada-circular-to-vereda-de-la-estrella-via-cuesta-de-los-presidiarios",
+  "name": "Parque Nacional de Sierra Nevada – circular to Vereda de la Estrella via Cuesta de los Presidiarios",
+  "name_original": "Parque Nacional de Sierra Nevada – circular a la Vereda de la Estrella por Cuesta de los Presidiarios",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 22170.476160170863,
+  "duration_s": 31199,
+  "elevation_up_m": 810.073728525337,
+  "elevation_down_m": 810.073728525337,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.13436,
+  "start_lng": -3.391965,
+  "start_alt_m": 1171.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Excellent rest area and to cool off, with good shades.",
+    "Old Forest House, called Casa Forestal del Calvario or Forest Refuge of Calvario, because of the place where it is located, although it is popularly known as Refugio de la Cucaracha.",
+    "It is a perfect place to sleep on the way to Mulhacén. In addition, at this point you also have access to the river to make a stop and put your sore feet in the water or refill some of the bottles you carry in your backpack.",
+    "Wonderful route that goes through the Barranco de San Juan and the Cuesta de los Presidiarios.",
+    "The Estrella, Probadora and Justicia mines were the most important. These were small underground farms."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.013151638,
+    "unpaved": 0.98684835
+  },
+  "way_types": {
+    "street": 0.0067163086,
+    "way": 0.007710507,
+    "mountain_hiking_path": 0.9855732
+  },
+  "waypoints": [
+    {
+      "name": "Bridge over the Genil River",
+      "lat": 37.128902,
+      "lng": -3.353723,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "river",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 112264
+    },
+    {
+      "name": "Cucaracha Refuge",
+      "lat": 37.117683,
+      "lng": -3.338746,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "forest",
+        "viewpoint"
+      ],
+      "highlight_id": 112263
+    },
+    {
+      "name": "Secret Cave",
+      "lat": 37.090431,
+      "lng": -3.329353,
+      "type": "cave",
+      "categories": [
+        "cave",
+        "intermediate",
+        "hut"
+      ],
+      "highlight_id": 2086363
+    },
+    {
+      "name": "Guarnón River Bridge",
+      "lat": 37.107972,
+      "lng": -3.341583,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "river",
+        "gorge",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 3255632
+    },
+    {
+      "name": "Estrella and Probadora Mines",
+      "lat": 37.118171,
+      "lng": -3.346232,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "man_made_monument",
+        "other_man_made"
+      ],
+      "highlight_id": 4239441
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cave",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "man_made_monument",
+    "other_man_made",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.930232524871826,
+  "rating_count": 43,
+  "visitors": 299,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-12T17:16:42.065Z",
+  "changed_at": "2024-06-06T04:43:17.579Z",
+  "scraped_at": "2026-04-27T09:51:50.303935+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "tour_id": "e1369540014",
+  "url": "https://www.komoot.com/smarttour/e1369540014",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369540014/hargibel",
+  "name": "Hargibel",
+  "name_original": "L'Hargibel",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 11546.762789707795,
+  "duration_s": 6442,
+  "elevation_up_m": 631.7314988473327,
+  "elevation_down_m": 631.7314988473323,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.098542,
+  "start_lng": -1.427814,
+  "start_alt_m": 372.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful loop offers an immersion in the heart of the Aldudes valley, while traversing its heights. The departure is in the center of the village of Aldudes which shares the eponymous valley with its neighbors Banca and Urepel. This charming locality takes its name from the contraction of the Basque word “aldubide” which means “path to the summits”. This etymology perfectly illustrates the course of the route.\n\nThe first part of the route aims to climb the border ridge which marks the separation between France and Spain. The route climbs through a beautiful beech forest before the terrain opens up to offer the first views of the Aldudes valley. From then on, the slope softens and the path crisscrosses on both sides of the border.\n\nTake the time to observe the superb panoramas on both sides. The beautiful rounded hills alternate with some rocky portions. Below the summit, just before reaching it, don't miss Harrikulunka, the tilting rock. This impressive, swinging stone appears to have been placed here by some mystical force.\n\nThe Hargibel then offers itself to you, dominating a beautiful and wide ridge line. Here nature mixes with history and religion. This section is punctuated with megalithic monuments dating from the first millennium BC. These sites testify to the existence of ancient funeral rites.\n\nAfter this leap in time, you return to the starting point by following the HRP (Haute Route Pyrénéenne) path. The path is dotted with beautiful beech trees which accompany the descent, while allowing a glimpse of the landscape.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small authentic village in the interior of the Basque Country. Nestled on an open plateau in the valley of the same name, it lies at the foot of the border ridge.",
+    "Situated at an altitude of 860 meters on the border ridge, this summit offers beautiful views of the Baztan valley and superb panoramas of the Pyrenees.",
+    "Hargibel or Argibel in Basque is a summit located on the French-Spanish border at 985 meters above sea level. Don't miss the dancing stone called Harrikulunka which is located just below the rocky ridge."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.048731934,
+    "alpin": 0.07206297,
+    "nature": 0.15939812,
+    "paved": 0.26518995,
+    "unpaved": 0.45461702
+  },
+  "way_types": {
+    "minor_road": 0.056171425,
+    "mountain_hiking_path": 0.07206297,
+    "street": 0.24690823,
+    "way": 0.24743918,
+    "hiking_path": 0.3774182
+  },
+  "waypoints": [
+    {
+      "name": "Aldudes Village",
+      "lat": 43.09854,
+      "lng": -1.42785,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 3093202
+    },
+    {
+      "name": "Zarkindegi",
+      "lat": 43.1049,
+      "lng": -1.4483,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 6275775
+    },
+    {
+      "name": "Hargibel",
+      "lat": 43.09304,
+      "lng": -1.46939,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 6275766
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "natural_monument",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 7,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T13:40:28.440Z",
+  "changed_at": "2024-08-13T10:49:58.135Z",
+  "scraped_at": "2026-04-27T15:05:11.432384+00:00"
+}

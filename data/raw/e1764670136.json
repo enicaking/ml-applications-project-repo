@@ -1,0 +1,149 @@
+{
+  "tour_id": "e1764670136",
+  "url": "https://www.komoot.com/smarttour/e1764670136",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1764670136/gravel-in-the-val-d-aran-prueedo-per-valarties",
+  "name": "Gravel in the Val d'Aran – Prüedo per Valarties",
+  "name_original": "Gravel por la Val d'Aran — Prüedo por Valarties",
+  "sport": "mtb_easy",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 30987.14192473917,
+  "duration_s": 12159,
+  "elevation_up_m": 994.6540802713271,
+  "elevation_down_m": 994.580733445757,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.701177,
+  "start_lng": 0.876315,
+  "start_alt_m": 1157.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The ascent to Prüedo from Arties along the Valarties track is a concentrate of views and Pyrenean adventure. Although the distance and gradient figures are not striking, the amount of landscapes it crosses and the physical and technical challenge that some of the sections of this Route pose are an appetizer of the Catalan mountains.\n\nThe route is circular from a car park in Arties. We recommend that you bring enough water and food for the entire journey, in addition to bringing the bike in good condition and carrying some tools and light spare parts.\n\nThe climb is demanding, but the wonderful environment you climb through makes it worth every pedal stroke. Shortly before reaching the top, you can make a gentle detour to visit the beautiful lakes of Montcasau. The upper area is a spectacle: at more than 2000 meters above sea level, the panoramic views of the peaks are breathtaking.\n\nThe descent is also an adventure, try not to let the views distract you. Although, surely, you will make some stops to immortalize the landscape on a postcard. Before returning to Arties, the beautiful Tredós awaits you, a town of stone houses and winding streets. Both here and in Arties you can take the opportunity to delight in the local cuisine and recharge your batteries.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "It is a paved mountain track. Good for gravel riding, with few cars and with spectacular views of the Montardo.",
+    "From this point, surrounded by a charming landscape, we can see Pico Salana and Pico Montardo, two of the most famous peaks in the Arán Valley.",
+    "Good point to observe three peaks of the Aran Valley.\r\nLooking southwest we will see, from left to right, the Tossau de Mar, the Cima de Aubeta in the center and the Pujoalbo.",
+    "Small Aranese town located in Upper Aran. It is located at 1348 meters of altitude and has 107 lucky inhabitants. A beautiful route for the whole family begins from Tredós, Camino de Las Brujas.",
+    "Romanesque church of Sant Andreu de Salardú, located in the upper part of the municipality of Alto Arán and dating from the 12th century.\r\nWe should not miss the interior of the church where we will notice the Christ and the frescoes on the cross and the ceiling."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.00468137,
+    "unknown": 0.0068061687,
+    "sb#asphalt": 0.24847715,
+    "sb#paved": 0.26032043,
+    "sb#unpaved": 0.4797149
+  },
+  "way_types": {
+    "service": 0.002854312,
+    "primary": 0.017775495,
+    "trail": 0.021024136,
+    "minor_road": 0.04393048,
+    "street": 0.2246269,
+    "way": 0.6897887
+  },
+  "waypoints": [
+    {
+      "name": "Valarties Road",
+      "lat": 42.678694,
+      "lng": 0.873041,
+      "type": "cycle_way",
+      "categories": [
+        "cycle_way",
+        "family_friendly",
+        "viewpoint",
+        "trail"
+      ],
+      "highlight_id": 4845335
+    },
+    {
+      "name": "View of Pico Salana and Pico Montardo",
+      "lat": 42.659477,
+      "lng": 0.903637,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "summit",
+        "mountain_pass"
+      ],
+      "highlight_id": 3411673
+    },
+    {
+      "name": "View of Tossau de Mar, Aubeta, and Pujoalbo",
+      "lat": 42.668671,
+      "lng": 0.915459,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "summit",
+        "intermediate"
+      ],
+      "highlight_id": 5132500
+    },
+    {
+      "name": "Tredós Village",
+      "lat": 42.702126,
+      "lng": 0.91459,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "trail",
+        "religious_building",
+        "waterfall",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 4857995
+    },
+    {
+      "name": "Church of Sant Andreu de Salardú",
+      "lat": 42.70718,
+      "lng": 0.901678,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "unknown",
+        "family_friendly"
+      ],
+      "highlight_id": 5182679
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "religious_building",
+    "settlement",
+    "summit",
+    "trail",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 24,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2024-08-05T16:01:58.063Z",
+  "changed_at": "2025-05-16T08:21:57.634Z",
+  "scraped_at": "2026-04-28T08:38:01.458077+00:00"
+}

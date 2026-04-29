@@ -1,0 +1,95 @@
+{
+  "tour_id": "e852990516",
+  "url": "https://www.komoot.com/smarttour/e852990516",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e852990516/bidart-loop",
+  "name": "Bidart Loop",
+  "name_original": "Boucle de Bidart",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 43308.97099467111,
+  "duration_s": 7991,
+  "elevation_up_m": 490.77369210753426,
+  "elevation_down_m": 490.85155682676236,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.438206,
+  "start_lng": -1.591226,
+  "start_alt_m": 33.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Nice asphalt path next to the river. No cars, for cyclist and walking.",
+    "A magnificent point of view on the Bayonnaise agglomeration and on the Basque mountain",
+    "be sure to take the correct way because it's very steep the other way around"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0010267377,
+    "sb#unpaved": 0.015567006,
+    "sb#paved": 0.37116122,
+    "sb#asphalt": 0.612245
+  },
+  "way_types": {
+    "service": 0.00380517,
+    "primary": 0.066749066,
+    "cycleway": 0.08071509,
+    "minor_road": 0.1311581,
+    "street": 0.71757257
+  },
+  "waypoints": [
+    {
+      "name": "La Nive River to Villefranque",
+      "lat": 43.437525,
+      "lng": -1.468026,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3516329
+    },
+    {
+      "name": "The Ustaritz Moors",
+      "lat": 43.387547,
+      "lng": -1.492806,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3069467
+    },
+    {
+      "name": "Laretta Cross",
+      "lat": 43.36581,
+      "lng": -1.5235,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 233437
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.384615421295166,
+  "rating_count": 26,
+  "visitors": 243,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-22T09:00:01.908Z",
+  "changed_at": "2024-07-24T07:03:12.088Z",
+  "scraped_at": "2026-04-28T19:29:34.456554+00:00"
+}

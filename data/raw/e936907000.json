@@ -1,0 +1,166 @@
+{
+  "tour_id": "e936907000",
+  "url": "https://www.komoot.com/smarttour/e936907000",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e936907000/llemena-valley-loop",
+  "name": "Llémena Valley Loop",
+  "name_original": "La Barroca - Circular por Constantins & Llorà & Sant Climent d'Amer",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 53263.70572450782,
+  "duration_s": 13005,
+  "elevation_up_m": 647.9085396051636,
+  "elevation_down_m": 647.9085396051638,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.958049,
+  "start_lng": 2.633893,
+  "start_alt_m": 156,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 33.1-mile touring cycling route through the Rocacorba Mountains offers diverse landscapes and significant elevation gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Although some cars pass by, as it is a track between 4m and 6m wide, it is a very bucolic and quiet place, which borders, for the most part, the river Ter.\r\nAlthough some cars pass by, as it is a track between 4m and 6m wide, it is a very bucolic and quiet place, which spends much of its time following the river Ter.",
+    "Church located at the top of a hill, very close to the urban center of Sant Esteve de Llémena.",
+    "The church of Sant Climent d'Amer is located in a spot near the town of Amer, surrounded by farmhouses and with privileged views of the Sant Roc cliff and the Selva plain."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the La Barroca circular cycling route?",
+      "answer": "This route is considered <strong>difficult</strong> for touring cyclists, requiring very good fitness. It features significant elevation changes and varied terrain, including some very vertical sections. Be prepared for challenging climbs."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling route?",
+      "answer": "The route offers varied terrain, combining paved and unpaved surfaces. You'll encounter asphalt, other paved roads, compacted gravel, and some unpaved sections. Some parts may be stony and challenging, similar to mountain biking trails."
+    },
+    {
+      "question": "What are the main points of interest along the La Barroca circular route?",
+      "answer": "Along the route, you can experience the picturesque landscapes of Vall de Llémena, La Garrotxa, and La Selva. Highlights include the section along the Susqueda reservoir and Ter River, the <a href=\"https://www.komoot.com/highlight/4101861\" target=\"_blank\" rel=\"noopener\">Church of Sant Esteve</a>, and the area around <a href=\"https://www.komoot.com/highlight/2942225\" target=\"_blank\" rel=\"noopener\">Sant Climent d'Amer and the Serres Cliffs</a>. You'll also find panoramic viewpoints offering expansive views of the Sant Joan plain, Rocafesa, Rocacorba, and the Girona area."
+    },
+    {
+      "question": "Where can I park to start this cycling route?",
+      "answer": "While specific parking areas are not detailed, as a circular route, you can typically start and park in any of the towns it passes through, such as Constantins, Llorà, or Sant Climent d'Amer. Look for public parking facilities in these villages."
+    },
+    {
+      "question": "Are there public transport options to reach the starting point of this route?",
+      "answer": "Public transport options to the smaller villages along the route, like Constantins or Sant Climent d'Amer, might be limited. It's advisable to check local bus schedules from larger nearby towns like Girona, which is better connected."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The Girona region generally offers good cycling weather for much of the year. Spring and autumn are often ideal, with milder temperatures and pleasant scenery. Summer can be hot, especially in the midday sun, while winter might bring colder temperatures and potentially wet conditions."
+    },
+    {
+      "question": "Is this cycling route family-friendly or suitable for children?",
+      "answer": "Given its 'difficult' grading, significant elevation gain, and varied terrain including unpaved and vertical sections, this route is generally <strong>not recommended for families with young children or beginner cyclists</strong>. It demands very good fitness and experience."
+    },
+    {
+      "question": "Is the La Barroca circular route dog-friendly?",
+      "answer": "While there are no specific restrictions against dogs on this cycling route, it's primarily designed for touring bicycles. If you plan to bring a dog, ensure it can comfortably keep pace or be carried safely in a bike trailer, especially given the route's difficulty and length. Always keep dogs under control and respect local wildlife."
+    },
+    {
+      "question": "Do I need any permits or need to pay an entrance fee to cycle this route?",
+      "answer": "No, you do not need any specific permits or have to pay an entrance fee to cycle this route. It traverses public roads and trails. However, as parts of the route are within the Rocacorba Mountains Natural Area, always adhere to general outdoor ethics and any posted regulations regarding nature conservation."
+    },
+    {
+      "question": "What regulations should I be aware of when cycling in the Rocacorba Mountains Natural Area?",
+      "answer": "When cycling through the Rocacorba Mountains Natural Area, remember to stay on marked paths to protect the environment. Do not disturb wildlife, take all your waste with you, and respect private property. There are no specific entrance fees for cyclists, but responsible behavior is expected to preserve the natural beauty of the area."
+    },
+    {
+      "question": "Does this route intersect with other well-known cycling paths?",
+      "answer": "Yes, this route intersects with several other paths. Notably, it covers significant portions of the Camí ral de la Vall de Llémena, BTT la Selva - Circular Nord, El Camí IT7TR4 El Camí de Llevant: de Montserrat a Salses, PirineXus, and the Ruta del Carrilet I: \"Girona-Olot\" (also known as Via Verda Carrilet Olot - Girona)."
+    }
+  ],
+  "surfaces": {
+    "sb#cobbles": 0.0008558281,
+    "unknown": 0.00123405,
+    "sb#compacted": 0.05892478,
+    "sb#unpaved": 0.09206639,
+    "sb#paved": 0.26028627,
+    "sb#asphalt": 0.58663267
+  },
+  "way_types": {
+    "trail": 0.0022229066,
+    "service": 0.0024953408,
+    "primary": 0.009055302,
+    "minor_road": 0.016059566,
+    "cycleway": 0.14915092,
+    "way": 0.17379323,
+    "street": 0.64722276
+  },
+  "waypoints": [
+    {
+      "name": "Sant Gregori to Constantins Road",
+      "lat": 41.975863,
+      "lng": 2.718838,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "family_friendly",
+        "river",
+        "forest"
+      ],
+      "highlight_id": 815836
+    },
+    {
+      "name": "Church of Sant Esteve",
+      "lat": 42.056996,
+      "lng": 2.628792,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "unknown",
+        "intermediate"
+      ],
+      "highlight_id": 4101861
+    },
+    {
+      "name": "Sant Climent d'Amer and the Serres Cliffs",
+      "lat": 42.004354,
+      "lng": 2.637446,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "gorge",
+        "viewpoint",
+        "intermediate",
+        "historical_site",
+        "religious_building",
+        "unknown"
+      ],
+      "highlight_id": 2942225
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "gorge",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 19,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T08:40:15.297Z",
+  "changed_at": "2026-02-26T18:53:26.293Z",
+  "scraped_at": "2026-04-29T00:33:17.097560+00:00"
+}

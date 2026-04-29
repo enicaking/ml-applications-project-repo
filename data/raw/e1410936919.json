@@ -1,0 +1,166 @@
+{
+  "tour_id": "e1410936919",
+  "url": "https://www.komoot.com/smarttour/e1410936919",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1410936919/pla-de-les-pedres-desde-el-tarter",
+  "name": "Pla de les Pedres desde El Tarter",
+  "name_original": "Pla de les Pedres desde El Tarter — circular por el Valire d'Orient",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 12819.271113785082,
+  "duration_s": 5349,
+  "elevation_up_m": 490.196316044942,
+  "elevation_down_m": 486.0335656649668,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.578982,
+  "start_lng": 1.652503,
+  "start_alt_m": 1709.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Mountain bike the moderate 8.0-mile Pla de les Pedres desde El Tarter route, featuring stunning Valira d'Orient river views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Gravel trails above El Peretol, rising above the lush valley towards the ski resort. Great place for summer adventures.",
+    "Bridge over the Valira d'Orient river with a nice spot to have a picnic and dip your feet in the water.",
+    "Sant Pere del Tarter, a small and charming stone hermitage in the town of Tarter overlooking the Valira d'Orient river that runs through this magical valley."
+  ],
+  "faqs": [
+    {
+      "question": "Is the Pla de les Pedres desde El Tarter trail suitable for beginners?",
+      "answer": "No, this trail is generally considered to be of <strong>moderate difficulty</strong> physically, but technically it is rated around STS S3-S6. This means advanced riding skills are necessary, and you should be prepared for sections where pushing your bike may be required. It is not recommended for beginners."
+    },
+    {
+      "question": "What is the terrain like on this mountain bike route?",
+      "answer": "The route offers a mixed terrain experience. It follows the Valira d'Orient River and traverses wooded areas, featuring narrow singletrack with various obstacles. Given its technical rating, expect challenging sections typical of advanced mountain bike trails."
+    },
+    {
+      "question": "What kind of scenery can I expect along the route?",
+      "answer": "Riders can expect stunning landscapes and breathtaking views as the trail follows the Valira d'Orient River. The route passes through forests and mountainous terrain, offering a visually engaging experience of the Andorran environment, known for its natural beauty."
+    },
+    {
+      "question": "Are there any notable landmarks or viewpoints along the route?",
+      "answer": "Yes, the trail offers several points of interest. You'll pass by the scenic <a href=\"https://www.komoot.com/highlight/6361154\" target=\"_blank\" rel=\"noopener\">Pla de les Pedres</a>, the historic <a href=\"https://www.komoot.com/highlight/5918020\" target=\"_blank\" rel=\"noopener\">Pont de Cavalier</a>, and the charming <a href=\"https://www.komoot.com/highlight/6332131\" target=\"_blank\" rel=\"noopener\">Sant Pere del Tarter Hermitage</a>."
+    },
+    {
+      "question": "Where can I park to access the trailhead in El Tarter?",
+      "answer": "The trail is a circular route that begins and ends in El Tarter. There are parking options available within El Tarter village, which serves as the primary access point for this and other local trails. Specific parking areas may vary, so check local signage upon arrival."
+    },
+    {
+      "question": "Can I reach the trailhead by public transport?",
+      "answer": "El Tarter is accessible by public transport, particularly bus services connecting various towns in Andorra. Check local bus schedules for routes that stop in El Tarter to reach the trailhead conveniently."
+    },
+    {
+      "question": "Is the Pla de les Pedres desde El Tarter trail dog-friendly?",
+      "answer": "While Andorra generally welcomes dogs on trails, this specific route can be quite popular and may be <em>\"packed with hikers in season\"</em>. If you bring your dog, ensure they are well-behaved, kept on a leash, and that you carry waste bags to maintain trail etiquette."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this trail?",
+      "answer": "The best time to ride is typically during the warmer months, from late spring to early autumn, when the weather is favorable and the trails are clear of snow. Be aware that due to its popularity, the trail may experience high traffic, especially with hikers, during peak season."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to ride this trail in Grandvalira?",
+      "answer": "Generally, there are no specific permits or entrance fees required for mountain biking on natural trails like this one in Andorra. However, if you plan to use any specific bike park facilities or lifts within the Grandvalira area, those may have associated costs. Always check local regulations before your ride."
+    },
+    {
+      "question": "Does this mountain bike route connect with other trails?",
+      "answer": "Yes, this route intersects with several other trails. You'll find sections that are part of the <p>CIMA AN09 Port d'Envalira</p>, <p>El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer</p>, and <p>GRP La volta a Andorra</p>. It also briefly crosses parts of <p>HRP Variante 31.1</p>, <p>Camí del Port Dret</p>, <p>Camí del Gall</p>, <p>Valira 2</p>, <p>Pont de Collart</p>, and <p>Marrades del Piol</p>."
+    },
+    {
+      "question": "Are there any specific considerations for riding this trail during peak season?",
+      "answer": "During peak season, especially in summer, this trail can become quite busy with both mountain bikers and hikers. To ensure a more enjoyable experience and avoid crowds, consider starting your ride early in the morning. This also helps in managing the technical sections with fewer people around."
+    }
+  ],
+  "surfaces": {
+    "sm#gravel": 0.0020812226,
+    "sm#paved": 0.029066516,
+    "sm#asphalt": 0.11161057,
+    "unknown": 0.13383128,
+    "sm#unpaved": 0.7234104
+  },
+  "way_types": {
+    "service": 0.0019728756,
+    "primary": 0.026961401,
+    "trail": 0.061905254,
+    "street": 0.08152761,
+    "minor_road": 0.15856136,
+    "way": 0.6690715
+  },
+  "waypoints": [
+    {
+      "name": "Pla de les Pedres",
+      "lat": 42.553316,
+      "lng": 1.680573,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "trail"
+      ],
+      "highlight_id": 6361154
+    },
+    {
+      "name": "Pont de Cavalier",
+      "lat": 42.576331,
+      "lng": 1.658818,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "viewpoint",
+        "river",
+        "family_friendly",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 5918020
+    },
+    {
+      "name": "Sant Pere del Tarter Hermitage",
+      "lat": 42.57897,
+      "lng": 1.652978,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "viewpoint",
+        "intermediate",
+        "historical_site",
+        "settlement",
+        "family_friendly",
+        "unknown"
+      ],
+      "highlight_id": 6332131
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "religious_building",
+    "river",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 4,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-08T16:50:03.816Z",
+  "changed_at": "2026-02-26T20:21:10.128Z",
+  "scraped_at": "2026-04-28T15:57:41.639434+00:00"
+}

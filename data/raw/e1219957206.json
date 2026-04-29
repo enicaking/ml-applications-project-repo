@@ -1,0 +1,158 @@
+{
+  "tour_id": "e1219957206",
+  "url": "https://www.komoot.com/smarttour/e1219957206",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1219957206/via-verde-ruta-del-ferro-i-del-carbo",
+  "name": "Vía Verde Ruta del Ferro i del Carbó",
+  "name_original": null,
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 18878.952706402706,
+  "duration_s": 3907,
+  "elevation_up_m": 119.1386675516801,
+  "elevation_down_m": 282.07247507844295,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 42.259478,
+  "start_lng": 2.364753,
+  "start_alt_m": 859.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Water, iron and coal. The presence of these three elements created an important mining and iron forging industry in the Catalan region of Ripollès, which prompted the construction of a train line that connected the region with Barcelona. This train line, now in disuse, has become a greenway that connects the towns of Ripoll, Sant Joan de les Abadesses and Sant Pau de Segúries. On this route I suggest you go along the old railway line and enjoy the charms of the Ruta del Ferro i del Carbó greenway. In this video you can get an idea of what you will find:\n \nhttps://www.youtube.com/watch?v=ECCJhX5LmOM\n\nIn this case, the Route goes in a descending direction, it starts in Sant Pau de Segúries and ends in Ripoll, but it can be done in both directions, since the unevenness is very gentle (an average of 1% in its 18 kilometres). The greenway is paved with asphalt conglomerate, so you can use practically any bicycle.\n\nYou start from Sant Pau de Segúries to cross the river Ter by a bridge and enter the greenway. You now descend through the Ter valley to the Perella bridge, built in stone and with a single semicircular arch. This valley forms one of the typical landscapes of the area: a mosaic made up of leafy forests and harvest meadows dotted with small horticultural plots. Your next destination is Colònia Llaudet, where some of its residential buildings still fulfill their original function. Immediately you arrive at Sant Joan de les Abadesses, where a visit to the monastery and its collection of sacred art is a must.\n\nLeaving Sant Joan de les Abadesses you cross its old bridge, known as Pont de Sant Joan, which has a spectacular Gothic arch with one of the largest lights in the entire Iberian Peninsula. Now continue through the valley in the direction of Ripoll, where the end of the Route awaits you and another monastery that is worth visiting: the monastery of Santa Maria de Ripoll, also founded by Guifré el Pilós. You cannot miss its portal, from the 12th century, one of the most important works of Catalan Romanesque.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Perella bridge was built in 1913 by Miquel Pallàs Sala, in order to gain access to his property, Mas Perella.\r\n\r\nIt is a bridge with a single arch, round and built in stone. It communicates the road with the chapel of Santa Magdalena de Parella.",
+    "Colonia Llaudet is a textile colony in the municipality of Sant Joan de les Abadesses, next to the river Ter. The factory and the first colony were built at the end of the 19th century by Tomàs Alexandre. Soon after, he leased it to Josep Maria Llaudet, an entrepreneur who was engaged in the manufacture of cotton threads.\n\nFinally, Llaudet bought the factory, the colony and the nearby waterfall. The colony includes the director's house, two sets of apartment blocks, a church, and the café and dance hall.",
+    "Greenway between Ripoll and Sant Pau de Segúries, which is partly the old route of the railway between Sant Joan de les Abadesses and the iron mines of Ogassa.\r\n\r\nThe difference in level between Ripoll and Sant Pau de Segúries is 160 meters, which results in a comfortable gradient of 1%, which makes it very accessible both downhill (in the direction of Ripoll) and uphill (in the direction of Sant Pau de Segúries).\r\n\r\nIt has different services, such as toilets in the old stations, picnic area, motorhome area and MTB center in Sant Joan de les Abadesses, as well as another motorhome area in Ripoll.",
+    "The monastery of Sant Joan de les Abadesses was built in the 9th century by order of Wilfredo el Velloso and intended for his daughter Emma (while the Ripoll monastery was intended for his son Radulfo). In this way, Emma became the first abbess of the monastery, which in turn became the first female monastery in Catalonia.",
+    "Pont Vell, also known as Pont de Sant Joan, was originally built in 1138, but during the earthquake of 1428 it suffered considerable damage and was rebuilt and modified in Gothic style, with a spectacular arch, which has one of the largest spans in the world. the city, the Iberian Peninsula.\r\n\r\nDuring the Spanish Civil War it was dynamited to prevent the advance of rebel troops, so it was rebuilt in 1976, respecting the previous reconstruction.",
+    "The monastery church of Santa Maria de Ripoll is a pioneering Romanesque building in the city of Ripoll in Catalonia, but only the original cloister has survived. The current church is largely the result of a restoration carried out at the end of the 19th century. Source: https://de.m.wikipedia.org/wiki/Santa_Maria_de_Ripoll\r\n\r\nThe most significant work of art is the 12th-century portal, now unfortunately covered by reflective glass. The portal is also known as the triumphal arch of Christianity."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.00018479448,
+    "sb#unpaved": 0.00039711574,
+    "sb#cobbles": 0.009120774,
+    "sb#compacted": 0.014729695,
+    "sb#asphalt": 0.24834365,
+    "sb#paved": 0.727224
+  },
+  "way_types": {
+    "primary": 0.0012895935,
+    "way": 0.0053537334,
+    "street": 0.020098789,
+    "minor_road": 0.07024372,
+    "cycleway": 0.9030142
+  },
+  "waypoints": [
+    {
+      "name": "Perella Bridge",
+      "lat": 42.253229,
+      "lng": 2.33529,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 4760275
+    },
+    {
+      "name": "Llaudet Colony",
+      "lat": 42.242076,
+      "lng": 2.306209,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "unknown",
+        "man_made_monument",
+        "settlement"
+      ],
+      "highlight_id": 5926495
+    },
+    {
+      "name": "Ferro i Carbó Greenway",
+      "lat": 42.236563,
+      "lng": 2.29441,
+      "type": "cycle_way",
+      "categories": [
+        "cycle_way",
+        "family_friendly",
+        "trail"
+      ],
+      "highlight_id": 5931982
+    },
+    {
+      "name": "Monastery of Sant Joan de les Abadesses",
+      "lat": 42.232563,
+      "lng": 2.286684,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "historical_site",
+        "intermediate",
+        "man_made_monument"
+      ],
+      "highlight_id": 5415068
+    },
+    {
+      "name": "Pont Vell",
+      "lat": 42.234857,
+      "lng": 2.285024,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "intermediate",
+        "viewpoint",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 4754991
+    },
+    {
+      "name": "Monastery of Santa Maria de Ripoll",
+      "lat": 42.200917,
+      "lng": 2.19009,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "man_made_monument",
+        "family_friendly"
+      ],
+      "highlight_id": 471806
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "religious_building",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 28,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2023-07-19T11:16:55.731Z",
+  "changed_at": "2025-05-15T10:57:46.932Z",
+  "scraped_at": "2026-04-29T00:31:21.544462+00:00"
+}

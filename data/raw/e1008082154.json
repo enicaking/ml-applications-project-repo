@@ -1,0 +1,138 @@
+{
+  "tour_id": "e1008082154",
+  "url": "https://www.komoot.com/smarttour/e1008082154",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1008082154/loop-via-ziburu-and-the-emperor-s-ascent-running-to-the-rhune-from-olhette",
+  "name": "Loop via Ziburu and the Emperor's ascent – running to the Rhune from Olhette",
+  "name_original": "Boucle par Ziburu et la montée de l'empereur — Courir à la Rhune depuis Olhette",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16503.093744238893,
+  "duration_s": 11866,
+  "elevation_up_m": 1253.893288950661,
+  "elevation_down_m": 1247.8295298436103,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.331379,
+  "start_lng": -1.659488,
+  "start_alt_m": 104.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful outing is suitable for intermediate level trail runners looking for variations in elevation. The 16.5 kilometer loop has a cumulative drop of 1,250 meters and gradually leads to the top of the Rhune before descending directly to the starting point.\n\nThe route starts from the car park at the end of Chemin Xurien Borda, in the Olhette district towards Ascain, opposite the Hotel Trabenia. You cross the small stream using a lying pylon, then you engage on the GR 10 which you leave quickly to climb the mountain of Ciboure as a warm-up.\n\nThen you go down to the pass before going up towards the venta Yasola. From there, you take a single track that runs along the Larrun Txiki for just under two kilometers until you reach a wide track. A few hundred meters after joining the track, you dive on a new, very pleasant single track that goes off to the right. Along the laces, you discover a changing panorama of the Pyrenees which present themselves in front of you. The descent ends at the foot of the Montée de l'Empereur, which you are about to tackle. The ascent begins with a rocky single track that winds through the vegetation before emerging into an open meadow.\n\nYou are on one of the many variants of the HRP (Haute Route Pyrénéenne) which joins the Rhune from the east, bypassing the summit of Pilotalekugaña before reaching the summit which offers an exceptional panorama of the Basque Country, its coastline. and several peaks of the Pyrenees chain.\n\nFinally, it is a long descent that awaits you to your starting point. This begins with a first technical part up to the col des Trois Fontaines. From there, you find the GR 10 path which gradually descends to the car park.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The mountain of Ciboure is full of legends and traditions. One of them explains in an obscure way that the little blue chapel, which we see on the way down, would have been built in one night by strange characters.\r\nThe Basque name for this mountain is Ziburu Mendi.",
+    "La Venta Yasola is an ideal place to take a break while enjoying the view. Open on sunny days, it offers a simple, local menu. Remember to call to make sure it's open!",
+    "The Rise of the Emperor is a beautiful climb that runs along the French-Spanish border towards the breach of Athekaleun.\r\nThe first part is on a stony path before ending in the grass.",
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "The Col des Trois Fontaines offers a superb view of the Rhune but also of its surroundings. Several paths converge at this location and allow you to vary the approaches to reach the summit."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.033287905,
+    "paved": 0.033332564,
+    "unpaved": 0.17991829,
+    "nature": 0.18748738,
+    "alpin": 0.5659739
+  },
+  "way_types": {
+    "minor_road": 0.0026400173,
+    "footway": 0.002852725,
+    "hiking_path": 0.23988993,
+    "way": 0.24696577,
+    "mountain_hiking_path": 0.50765157
+  },
+  "waypoints": [
+    {
+      "name": "Ciboure mountain",
+      "lat": 43.32192,
+      "lng": -1.66329,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 3542385
+    },
+    {
+      "name": "Venta Yasola",
+      "lat": 43.3133,
+      "lng": -1.6592,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "viewpoint",
+        "intermediate",
+        "cafe"
+      ],
+      "highlight_id": 3553218
+    },
+    {
+      "name": "Emperor's ascent",
+      "lat": 43.296332,
+      "lng": -1.625639,
+      "type": "climb",
+      "categories": [
+        "climb",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 5387749
+    },
+    {
+      "name": "La Rhune summit",
+      "lat": 43.309069,
+      "lng": -1.635631,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Col des Trois Fontaines",
+      "lat": 43.31687,
+      "lng": -1.63314,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 3241506
+    }
+  ],
+  "categories": [
+    "cafe",
+    "climb",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 4,
+  "visitors": 62,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-01-08T13:56:10.284Z",
+  "changed_at": "2024-06-06T17:51:38.585Z",
+  "scraped_at": "2026-04-27T15:09:11.419617+00:00"
+}

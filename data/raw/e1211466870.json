@@ -1,0 +1,110 @@
+{
+  "tour_id": "e1211466870",
+  "url": "https://www.komoot.com/smarttour/e1211466870",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1211466870/hospital-de-benasque-to-plan-d-estan-circular-through-parque-natural-posets-maladet",
+  "name": "Hospital de Benasque to Plan d' Estan - circular through Parque Natural Posets-Maladet",
+  "name_original": "Hospital de Benasque a Plan d' Estan — circular por Parque Natural Posets-Maladet",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 9227.05557873482,
+  "duration_s": 3219,
+  "elevation_up_m": 280.2574659075567,
+  "elevation_down_m": 280.2574659075567,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.6819,
+  "start_lng": 0.604167,
+  "start_alt_m": 1724.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Worth a vissit, but watch out for the broken street. Its a horror for the car to drive through",
+    "Mountain clothing"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#alpin": 0.004669772,
+    "unknown": 0.034765486,
+    "sm#asphalt": 0.1266448,
+    "sm#unpaved": 0.3981565,
+    "sm#paved": 0.43576345
+  },
+  "way_types": {
+    "minor_road": 0.019371128,
+    "service": 0.034765486,
+    "trail": 0.40341845,
+    "street": 0.54244494
+  },
+  "waypoints": [
+    {
+      "name": "Plan d'Estan, Benasque Valley",
+      "lat": 42.678803,
+      "lng": 0.649863,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "other_natural",
+        "trail",
+        "parking",
+        "family_friendly",
+        "forest",
+        "river",
+        "lake"
+      ],
+      "highlight_id": 2579848
+    },
+    {
+      "name": "Plan of the Hospital de Benasque",
+      "lat": 42.6838,
+      "lng": 0.6122,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "forest",
+        "other_natural",
+        "intermediate",
+        "river",
+        "hut",
+        "facilities",
+        "settlement"
+      ],
+      "highlight_id": 3862258
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "forest",
+    "hut",
+    "intermediate",
+    "lake",
+    "other_natural",
+    "parking",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 16,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-14T08:58:19.496Z",
+  "changed_at": "2024-05-31T09:59:24.417Z",
+  "scraped_at": "2026-04-28T15:31:02.530527+00:00"
+}

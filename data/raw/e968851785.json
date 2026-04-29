@@ -1,0 +1,147 @@
+{
+  "tour_id": "e968851785",
+  "url": "https://www.komoot.com/smarttour/e968851785",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e968851785/paraisos-erlan-trail",
+  "name": "Paraísos - Erlan Trail",
+  "name_original": "ZEPA-ZEC Roncesvalles-Sierra de Irati – circular por senda Los Paraísos-Erlan (SL-NA 54C)",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4985.291566379383,
+  "duration_s": 4987,
+  "elevation_up_m": 89.04757579172849,
+  "elevation_down_m": 98.24954063051496,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.986099,
+  "start_lng": -1.157853,
+  "start_alt_m": 824.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the easy 3.1-mile Paraísos - Erlan Trail through the Irati Forest, enjoying beech trees and views of the Irabia reservoir.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This picturesque approved path runs through the Sierra de Irati next to the Irabia Reservoir, offering a very quiet and attractive route ideal for doing it with the family.",
+    "The Irabia Dam, also known as the Irati Dam, was built on the bed of the Irati River. It is located within the Protected Area of Roncesvalles and Sierra de Irati, a dense forest that offers a wide variety of alternative trails to enjoy a beautiful landscape."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Paraísos - Erlan Trail?",
+      "answer": "The Paraísos - Erlan Trail is considered <strong>easy</strong>. It's suitable for most visitors with a basic level of physical fitness, including families and children. While there are some gentle uphill sections, the overall elevation gain is moderate."
+    },
+    {
+      "question": "How long does it take to hike this trail?",
+      "answer": "The trail is approximately 5 kilometers (about 3.1 miles) long and can typically be completed in about 1 to 2 hours, depending on your pace and how often you stop to enjoy the scenery."
+    },
+    {
+      "question": "Is the Paraísos - Erlan Trail a loop?",
+      "answer": "Yes, the Paraísos - Erlan Trail is a circular route, meaning you will end up back at your starting point without having to retrace your steps."
+    },
+    {
+      "question": "Where does the trail start and where can I park?",
+      "answer": "The trail is located within the Irati Forest. It typically begins near the Irabia reservoir. Specific parking information is usually available at the entrance to the Irati Forest or near the reservoir itself."
+    },
+    {
+      "question": "What kind of scenery and terrain can I expect on the hike?",
+      "answer": "You can expect to be immersed in a beautiful natural environment, primarily a spectacular beech forest. The path includes both wider tracks and narrower trails, running parallel to the Irabia reservoir. You'll encounter areas with 'slender beeches' and glimpses of the lake's surface through dense forests."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "Key highlights include the trail itself, known as <a href=\"https://www.komoot.com/highlight/5198366\" target=\"_blank\" rel=\"noopener\">Los Paraísos-Erlan Trail</a>, and panoramic views of the <a href=\"https://www.komoot.com/highlight/517917\" target=\"_blank\" rel=\"noopener\">Irabia Dam</a> from spots like Onborduia and the Irabia viewpoint. You'll also see interpretive panels about beech trees and a model of an almadría (a traditional raft)."
+    },
+    {
+      "question": "What is the best time of year to hike the Paraísos - Erlan Trail?",
+      "answer": "The trail offers a visual spectacle, especially beautiful in autumn when the beech leaves change color, and in spring when the forest is lush and vibrant. These seasons generally provide pleasant hiking conditions."
+    },
+    {
+      "question": "Is the Paraísos - Erlan Trail dog-friendly?",
+      "answer": "While the Irati Forest generally welcomes dogs, it's always best to check specific regulations for this particular trail and the surrounding natural park. Dogs are typically required to be on a leash to protect wildlife and ensure a pleasant experience for all hikers."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for the Irati Forest?",
+      "answer": "The Paraísos - Erlan Trail is located within the Irati Forest. While the trail itself may not require a specific permit, there might be an entrance fee or parking fee to access certain areas of the Irati Forest, especially during peak seasons. It's advisable to check the official Irati Forest website for the most current information before your visit."
+    },
+    {
+      "question": "Does the trail connect with other hiking routes?",
+      "answer": "Yes, the route intersects with sections of several other trails within the Irati Forest. These include C Paradisuak - Erlan, Abodi, Burdinzokoa, Chalet Pedro, Ruta Transpirenaica en BTT (Aisa - Roncesvalles), and Irabiako uharkari itzulia."
+    },
+    {
+      "question": "What should I wear and bring for the hike?",
+      "answer": "For this easy trail, comfortable walking shoes or light hiking boots are recommended. Dress in layers suitable for the weather, and bring water, snacks, and a camera to capture the beautiful scenery. A light rain jacket is always a good idea, as weather in mountain forests can change quickly."
+    }
+  ],
+  "surfaces": {
+    "nature": 0.0070773503,
+    "paved": 0.13600126,
+    "unpaved": 0.34665275,
+    "gravel": 0.5102686
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.0070773503,
+    "street": 0.13600126,
+    "hiking_path": 0.34665275,
+    "way": 0.5102686
+  },
+  "waypoints": [
+    {
+      "name": "Los Paraísos-Erlan Trail",
+      "lat": 42.99143,
+      "lng": -1.15121,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "family_friendly",
+        "forest"
+      ],
+      "highlight_id": 5198366
+    },
+    {
+      "name": "Irabia Dam",
+      "lat": 42.984955,
+      "lng": -1.157449,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "lake",
+        "other_man_made",
+        "river",
+        "intermediate",
+        "other_natural",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 517917
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "river",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 2,
+  "visitors": 90,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-31T13:48:22.474Z",
+  "changed_at": "2026-02-26T18:58:23.739Z",
+  "scraped_at": "2026-04-27T11:04:13.135127+00:00"
+}

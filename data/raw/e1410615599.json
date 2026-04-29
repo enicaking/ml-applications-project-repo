@@ -1,0 +1,140 @@
+{
+  "tour_id": "e1410615599",
+  "url": "https://www.komoot.com/smarttour/e1410615599",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1410615599/pas-de-la-casa-to-port-d-envalira-climb",
+  "name": "Pas de la Casa to Port d'Envalira Climb",
+  "name_original": "Subida al Puerto de Envalira — ida y vuelta",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9481.979232369878,
+  "duration_s": 2773,
+  "elevation_up_m": 298.2622919936548,
+  "elevation_down_m": 297.28374486333587,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.544022,
+  "start_lng": 1.732788,
+  "start_alt_m": 2095.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle the moderate 5.9-mile Ascent to Puerto de Envalira round trip, gaining 979 feet for Pyrenean views near Pas de la Casa.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Before arriving at the port of Envalira, you can see good views of the mountains, both those on the Andorran side and those on the French side.",
+    "Port d'Envalira connects Andorra with France and Spain by road, located at 2409 meters above sea level, it is reached by the highest paved road in the Pyrenees and is passable throughout the year."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to cycle this route?",
+      "answer": "<p>The Komoot route for the Ascent to Puerto de Envalira — round trip is estimated to take around 46 minutes of moving time. However, this is a challenging climb, especially from Pas de la Casa, covering 4.9 km with an average gradient of 6.4% and 319 meters of elevation gain. Cyclists should account for their fitness level and potential stops to enjoy the <a href=\"https://www.komoot.com/highlight/3999587\" target=\"_blank\" rel=\"noopener\">View of the Pyrenees Mountains</a>.</p>"
+    },
+    {
+      "question": "What is the terrain like for cycling on this route?",
+      "answer": "<p>The route primarily consists of paved surfaces, making it suitable for touring bicycles. The climb features numerous serpentines through a high alpine landscape. While the road surface is generally in good condition, some lower sections may have narrow roads and blind corners. From Pas de la Casa, there's often an on-road cycle path for much of the way.</p>"
+    },
+    {
+      "question": "What is the best time of year to cycle the Ascent to Puerto de Envalira?",
+      "answer": "<p>The <a href=\"https://www.komoot.com/highlight/849136\" target=\"_blank\" rel=\"noopener\">Port d'Envalira</a> is generally open from May to October, and sometimes longer, depending on weather conditions. This period offers the most favorable conditions for cycling, avoiding snow and ice. However, be prepared for high-altitude weather changes even in summer.</p>"
+    },
+    {
+      "question": "Are there any specific viewpoints or landmarks along the way?",
+      "answer": "<p>Yes, cyclists can expect magnificent high alpine scenery, especially on the upper slopes, with sweeping views of meadows and craggy mountain tops. A notable highlight is the <a href=\"https://www.komoot.com/highlight/3999587\" target=\"_blank\" rel=\"noopener\">View of the Pyrenees Mountains</a>. The <a href=\"https://www.komoot.com/highlight/849136\" target=\"_blank\" rel=\"noopener\">Port d'Envalira</a> itself is a significant landmark as the highest road pass in the Pyrenees.</p>"
+    },
+    {
+      "question": "Is this cycling route suitable for beginners?",
+      "answer": "<p>The Ascent to Puerto de Envalira is considered a challenging climb. While some segments have relatively low gradients, the overall elevation gain and high-altitude setting contribute to its difficulty. It requires good to very good fitness, and cyclists are advised to be well-trained and have appropriate climbing gears. It is not generally recommended for beginners.</p>"
+    },
+    {
+      "question": "Where can I park to access the cycling route?",
+      "answer": "<p>The Komoot route starts and ends in Pas de la Casa. You can typically find parking available within the town of Pas de la Casa, which serves as a convenient starting point for the ascent to <a href=\"https://www.komoot.com/highlight/849136\" target=\"_blank\" rel=\"noopener\">Port d'Envalira</a>.</p>"
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this cycling route?",
+      "answer": "<p>No, there are no special permits or entrance fees required to cycle the Ascent to Puerto de Envalira. It is a public road through the Pyrenees.</p>"
+    },
+    {
+      "question": "Is the Ascent to Puerto de Envalira — round trip dog-friendly?",
+      "answer": "<p>While there are no specific restrictions against dogs on the paved road, this route is primarily a cycling ascent on a busy public road. Due to heavy traffic and the nature of road cycling, it is generally not recommended to bring dogs along for safety reasons.</p>"
+    },
+    {
+      "question": "What should I be aware of regarding traffic on this route?",
+      "answer": "<p>A major drawback for touring cyclists on this route is the heavy traffic. As the main road through Andorra, it experiences a high volume of vehicles, including heavy goods vehicles. This can make the experience unpleasant and potentially unsafe, especially on lower sections with narrow roads and blind corners. While traffic may lessen slightly towards the summit, it remains a nuisance. Be vigilant and consider cycling during off-peak hours if possible.</p>"
+    },
+    {
+      "question": "Does this route intersect with any other well-known cycling paths?",
+      "answer": "<p>Yes, the route also passes through sections of the HRP Étape 32 (75% of the route covered), El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer (14%), and [CIMA AN09] Port d'Envalira (6%).</p>"
+    },
+    {
+      "question": "What gear should I bring for cycling this high-altitude pass?",
+      "answer": "<p>Given the challenging nature and high altitude of the <a href=\"https://www.komoot.com/highlight/849136\" target=\"_blank\" rel=\"noopener\">Port d'Envalira</a>, it's essential to bring appropriate climbing gears for your touring bicycle. Additionally, even in summer, weather can change rapidly in the Pyrenees, so pack layers, including a windbreaker or rain jacket. Always carry sufficient water and snacks, and ensure your bike is in good condition.</p>"
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.016616728,
+    "sb#paved": 0.082153894,
+    "sb#asphalt": 0.9012294
+  },
+  "way_types": {
+    "street": 0.021346467,
+    "primary": 0.022749558,
+    "minor_road": 0.15734674,
+    "cycleway": 0.7985572
+  },
+  "waypoints": [
+    {
+      "name": "View of the Pyrenees Mountains",
+      "lat": 42.539429,
+      "lng": 1.727843,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "summit",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 3999587
+    },
+    {
+      "name": "Port d'Envalira",
+      "lat": 42.540046,
+      "lng": 1.719959,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "intermediate",
+        "viewpoint",
+        "climb",
+        "mountain_pass"
+      ],
+      "highlight_id": 849136
+    }
+  ],
+  "categories": [
+    "climb",
+    "cycle_way",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 14,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-08T06:40:17.645Z",
+  "changed_at": "2026-02-26T20:17:59.318Z",
+  "scraped_at": "2026-04-29T00:31:38.849979+00:00"
+}

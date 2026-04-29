@@ -1,0 +1,115 @@
+{
+  "tour_id": "e989971019",
+  "url": "https://www.komoot.com/smarttour/e989971019",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e989971019/cascada-irurrekaeat-circular-desde-camping-urrobi",
+  "name": "Cascada Irurrekaeat – circular desde Camping Urrobi",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 24502.258721044785,
+  "duration_s": 9022,
+  "elevation_up_m": 674.9674133431754,
+  "elevation_down_m": 675.081813452696,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.973174,
+  "start_lng": -1.35182,
+  "start_alt_m": 863.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The path popularly known as \"Vía Prinenca\" connects the town of Olaberri with the Urrobi campsite, passing through several towns, the reservoir on the Urrobi river and largely following the course of this river in a very picturesque and colorful route.",
+    "Beautiful and very picturesque, the waterfall on the Iruerreka River offers a place to relax and enjoy with the whole family. It is only 1 km away from the road along a single very colorful path with dense trees.",
+    "Camping Urrobi is located between the Irati and Sorogain forests, in a privileged environment with an Atlantic climate that is ideal for a habitat full of fauna and flora. From the camping restaurant you can appreciate the privileged environment in which we find ourselves while enjoying our cuisine and services.\n\nWe also have a children's playground and outdoor activity areas, which are perfect for enjoying tranquility and comfort in an unbeatable environment for the whole family."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0072315154,
+    "sm#paved": 0.0117555,
+    "sm#nature": 0.15255699,
+    "sm#asphalt": 0.18024121,
+    "sm#unpaved": 0.6482148
+  },
+  "way_types": {
+    "minor_road": 0.017260319,
+    "street": 0.18024121,
+    "way": 0.28833407,
+    "trail": 0.5141644
+  },
+  "waypoints": [
+    {
+      "name": "Vía Pirinenca (Pirinioteka Bidea)",
+      "lat": 42.95069,
+      "lng": -1.38304,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "forest",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 5321736
+    },
+    {
+      "name": "Irurrekaeta Waterfall",
+      "lat": 42.95484,
+      "lng": -1.35414,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "river",
+        "viewpoint",
+        "forest",
+        "family_friendly",
+        "intermediate"
+      ],
+      "highlight_id": 3011884
+    },
+    {
+      "name": "Camping Urrobi",
+      "lat": 42.973171,
+      "lng": -1.351958,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "family_friendly",
+        "settlement",
+        "restaurant"
+      ],
+      "highlight_id": 4657490
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "restaurant",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 2,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-12-05T11:06:54.031Z",
+  "changed_at": "2024-05-31T09:28:09.480Z",
+  "scraped_at": "2026-04-28T14:49:42.089577+00:00"
+}

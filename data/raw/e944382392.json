@@ -1,0 +1,143 @@
+{
+  "tour_id": "e944382392",
+  "url": "https://www.komoot.com/smarttour/e944382392",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e944382392/val-de-ruda-collado-de-baret-bonaigua",
+  "name": "Val de Ruda - Collado de Baret & Bonaigua",
+  "name_original": null,
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 85497.06243062708,
+  "duration_s": 19105,
+  "elevation_up_m": 2369.6704026096963,
+  "elevation_down_m": 2369.581831278877,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.703628,
+  "start_lng": 0.797161,
+  "start_alt_m": 976.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Vielha e Mijaran is the capital of the Vall d'Aran region, located in the old middle of the valley and which forms the nerve center of this region surrounded by large mountains.",
+    "The Pla de Beret is a wide plateau at 1,860m of mountain which is accessed by a six kilometer long paved track that climbs, in an abrupt zigzag, the mountainside.",
+    "The Port de la Bonaigua is one of the great Pyrenean passes, with a challenging climb that immerses you in majestic landscapes and high mountain scenery. Reaching the summit by bike is a legendary experience that connects Pallars with the Val d'Aran, amid curves and breathtaking views.",
+    "A spectacular port. Over 2,000 meters high.",
+    "Located at the foot of Puerto de la Bonaigua, it is the largest fir forest in Spain. A magical place, where you can relax, cool off in a waterfall and listen to nature."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0021781793,
+    "sb#paved": 0.01347984,
+    "sb#asphalt": 0.984342
+  },
+  "way_types": {
+    "service": 0.0017320199,
+    "minor_road": 0.006427384,
+    "street": 0.25930455,
+    "primary": 0.732536
+  },
+  "waypoints": [
+    {
+      "name": "Vielha",
+      "lat": 42.703075,
+      "lng": 0.79337,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 2971259
+    },
+    {
+      "name": "Pla de Beret",
+      "lat": 42.724437,
+      "lng": 0.960372,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "other_natural",
+        "family_friendly"
+      ],
+      "highlight_id": 759364
+    },
+    {
+      "name": "Bonaigua Pass",
+      "lat": 42.66382,
+      "lng": 0.979935,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "mountain_pass",
+        "cycle_way"
+      ],
+      "highlight_id": 759373
+    },
+    {
+      "name": "Port de La Bonaigua",
+      "lat": 42.646778,
+      "lng": 1.007989,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "climb",
+        "challenging"
+      ],
+      "highlight_id": 2476132
+    },
+    {
+      "name": "Gerdar Forest",
+      "lat": 42.637852,
+      "lng": 1.032492,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "family_friendly",
+        "natural_monument",
+        "waterfall"
+      ],
+      "highlight_id": 4596266
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 106,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-05T10:47:15.871Z",
+  "changed_at": "2024-07-24T09:35:51.917Z",
+  "scraped_at": "2026-04-28T20:01:04.042412+00:00"
+}

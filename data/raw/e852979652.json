@@ -1,0 +1,145 @@
+{
+  "tour_id": "e852979652",
+  "url": "https://www.komoot.com/smarttour/e852979652",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e852979652/col-d-ispeguy-and-col-d-artesiaga-loop",
+  "name": "Col d'Ispéguy and Col d'Artesiaga Loop",
+  "name_original": "Boucle du col d'Ispéguy",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 85535.33343163309,
+  "duration_s": 17440,
+  "elevation_up_m": 1880.4542450195986,
+  "elevation_down_m": 1880.8538718172558,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.175629,
+  "start_lng": -1.346338,
+  "start_alt_m": 162.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 53.1-mile (85.5 km) road cycling loop of the Col d'Ispéguy offers stunning Basque Country views and significant climbs.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "hard start with even harder end",
+    "Fresh water at St Etienne Baigorry church"
+  ],
+  "faqs": [
+    {
+      "question": "How challenging is the Loop of the Col d'Ispéguy for road cyclists?",
+      "answer": "This route is considered a <strong>difficult</strong> road ride, requiring <em>very good fitness</em> due to its significant elevation gain of 1,880 meters over 85.5 km. The climb features consistent gradients, often around 6-7%, with some short sections reaching 9%."
+    },
+    {
+      "question": "What kind of scenery can I expect along this cycling loop?",
+      "answer": "You'll be treated to <em>stunning</em> views of the Basque Country, including green rolling hills, gently curving mountains, and rocky peaks. The upper slopes offer panoramic views above the treeline and across the Aldudes valley. The route also passes through beautiful hidden valleys with impressive black rocks, wildflowers, and circling birds of prey."
+    },
+    {
+      "question": "Are there any notable features or places to stop on the route?",
+      "answer": "Yes, the route straddles the border between France and Spain. At the summit of the <a href=\"https://www.komoot.com/highlight/211371\" target=\"_blank\" rel=\"noopener\">Ispéguy Pass</a>, you'll find a tiny community with two bars near the former customs house, perfect for a rest stop and refreshments. You might even encounter wild pigs roaming freely near the pass."
+    },
+    {
+      "question": "What is the road surface like on the Col d'Ispéguy loop?",
+      "answer": "The road surfaces are predominantly <strong>well-paved</strong> and in <em>very good condition</em>, providing a smooth experience for cycling."
+    },
+    {
+      "question": "How long does it typically take to complete this cycling loop?",
+      "answer": "The Loop of the Col d'Ispéguy typically takes around 4 hours and 51 minutes to complete, though this can vary based on your fitness level and how often you stop."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "While not explicitly stated, mountain passes like Col d'Ispéguy are generally best cycled from late spring through early autumn (May to October) to avoid snow and ice, and to enjoy more favorable weather conditions."
+    },
+    {
+      "question": "Where can I start the Loop of the Col d'Ispéguy?",
+      "answer": "A popular approach for the ascent is from Saint-Etienne. Alternatively, the Col d'Ispéguy can also be climbed from the Spanish side, starting in Erratzu. Parking facilities would typically be available in these towns."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this route?",
+      "answer": "No, there are no special permits or entrance fees required to cycle the Loop of the Col d'Ispéguy."
+    },
+    {
+      "question": "Is the Loop of the Col d'Ispéguy dog-friendly?",
+      "answer": "As this is a challenging road cycling route, it is not typically considered suitable for dogs. There are no specific facilities or allowances mentioned for dogs on the route itself."
+    },
+    {
+      "question": "Does the route intersect with other trails?",
+      "answer": "Yes, the route intersects with several other paths, including sections of La route des cols Hendaye - Larrau, [CIMA NA13] Artesiaga, and La porte de Navarre."
+    },
+    {
+      "question": "Are there any strategic tips for cycling the Col d'Ispéguy?",
+      "answer": "The climb from Saint-Etienne is known for its <em>steady gradient</em>, which can help you find a rhythm. The route also has <strong>little traffic</strong>, contributing to a more peaceful riding experience. Don't forget to stop at the summit for refreshments at one of the two bars."
+    }
+  ],
+  "surfaces": {
+    "unknown": 5.921133e-05,
+    "sb#paved": 0.043046422,
+    "sb#asphalt": 0.95689434
+  },
+  "way_types": {
+    "way": 5.4983975e-05,
+    "minor_road": 0.01595773,
+    "primary": 0.15780547,
+    "street": 0.8261818
+  },
+  "waypoints": [
+    {
+      "name": "Scenic Mountain Road in Northern Spain",
+      "lat": 43.076707,
+      "lng": -1.521258,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "challenging"
+      ],
+      "highlight_id": 3813980
+    },
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.175698,
+      "lng": -1.402125,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "facilities",
+    "intermediate",
+    "mountain_pass",
+    "restaurant",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.55555534362793,
+  "rating_count": 9,
+  "visitors": 527,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-22T08:51:07.274Z",
+  "changed_at": "2026-02-26T18:51:04.769Z",
+  "scraped_at": "2026-04-28T19:26:03.462752+00:00"
+}

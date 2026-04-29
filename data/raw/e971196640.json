@@ -1,0 +1,115 @@
+{
+  "tour_id": "e971196640",
+  "url": "https://www.komoot.com/smarttour/e971196640",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971196640/yosa-y-linas-circular-desde-broto-zz-031",
+  "name": "Yosa y Linás – circular desde Broto (ZZ-031)",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 29614.936840527687,
+  "duration_s": 15642,
+  "elevation_up_m": 1444.5577438306846,
+  "elevation_down_m": 1444.7182175306439,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.601986,
+  "start_lng": -0.120686,
+  "start_alt_m": 922.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This beautiful Pyrenean town is divided into two neighborhoods by the Ara River. It is located at the gates of the Ordesa y Monte Perdido National Park.",
+    "Pelopín Peak at 2007m. Long and hard ascent until here but a long and beautiful descent to Broto.",
+    "Yosa had 63 inhabitants registered in the year 1900. The last two inhabitants left the town in 1970. The town lacked a water supply and electricity and, together with its complicated access (it never had a road), these were the most important causes for its abandonment. They didn't have a doctor either, when it was necessary they had to go look for one in Broto. The priest was carried on the back of a male every Sunday to Yosa, to say mass.\n\nhttp://www.despobladosenhuesca.com/search/label/YOSA%20DE%20BROTO\n\nhttps://es.wikipedia.org/wiki/Yosa"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.005942197,
+    "sm#nature": 0.019108104,
+    "sm#paved": 0.022407155,
+    "sm#asphalt": 0.12748656,
+    "sm#alpin": 0.18567999,
+    "sm#unpaved": 0.639376
+  },
+  "way_types": {
+    "service": 0.0035144836,
+    "minor_road": 0.022838727,
+    "street": 0.1294827,
+    "trail": 0.38357538,
+    "way": 0.46058872
+  },
+  "waypoints": [
+    {
+      "name": "Broto village on the Ara River",
+      "lat": 42.6044,
+      "lng": -0.1228,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "river",
+        "bridge",
+        "historical_site"
+      ],
+      "highlight_id": 4988512
+    },
+    {
+      "name": "Pelopín (2,007 m)",
+      "lat": 42.595253,
+      "lng": -0.190079,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "challenging"
+      ],
+      "highlight_id": 938818
+    },
+    {
+      "name": "Yosa de Broto Abandoned Village",
+      "lat": 42.59442,
+      "lng": -0.16454,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 5122987
+    }
+  ],
+  "categories": [
+    "bridge",
+    "challenging",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "river",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 21,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T06:58:42.781Z",
+  "changed_at": "2024-05-31T09:23:50.215Z",
+  "scraped_at": "2026-04-28T15:06:24.577056+00:00"
+}

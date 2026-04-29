@@ -1,0 +1,143 @@
+{
+  "tour_id": "e1045708496",
+  "url": "https://www.komoot.com/smarttour/e1045708496",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1045708496/skyrhune-running-in-the-basque-country",
+  "name": "Skyrhune – running in the Basque Country",
+  "name_original": "Skyrhune en off — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 19294.955611597514,
+  "duration_s": 14204,
+  "elevation_up_m": 1479.3255883992765,
+  "elevation_down_m": 1477.4766331314024,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.344723,
+  "start_lng": -1.62108,
+  "start_alt_m": 23.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Skyrhune is undoubtedly the most emblematic race in the French Basque Country. Registered in the Golden Trail Series, it brings together some of the best trail runners in the world in a popular fervor. From Ascain, it is done in a loop in the Rhune massif. The course is quite demanding since its 21 kilometers include approximately 1,700 meters of elevation gain.\n\nThe few hundred meters after the village allow you to warm up before attacking the first ascent to Miramar. This belvedere reveals what awaits you next: the Ciboure mountain and the Rhune.\n\nThe descent that follows leads into a pretty undergrowth that you leave to climb the mountain of Ciboure. Again, the Rhune stands in front of you. You descend slightly before attacking its ascent by one of its most demanding slopes. The path takes you on a path that crosses a pretty ridge before reaching a small forest. You only have the last few meters of climb left which rise sharply before reaching the summit.\n\nAt the top, the panorama rewards your efforts. You see the Atlantic Ocean on one side, while on the other you guess several peaks of the Pyrenees chain. You are at the highest point of your journey. There is mostly only descent to Ascain.\n\nIt begins with a fairly technical portion that includes several bends up to Trois Fontaines. From there, the slope becomes gentler and you just have to unroll to your starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Miramar is a pretty balcony which offers a superb view of the Rhune. This trail is just above the GR 10.",
+    "The mountain of Ciboure is full of legends and traditions. One of them explains in an obscure way that the little blue chapel, which we see on the way down, would have been built in one night by strange characters.\r\nThe Basque name for this mountain is Ziburu Mendi.",
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "Les Trois Fontaines offer a superb view of the Rhune but also of its surroundings.\r\nSeveral paths converge here and allow you to vary the approaches to the summit.\r\nYou will also find a small water source there.",
+    "Ascain is an authentic village in the Basque Country. Populated by its typical houses, it sits in a unique atmosphere at the foot of the first peaks of the Pyrenees."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.00170614,
+    "unknown": 0.009092082,
+    "asphalt": 0.017855812,
+    "paved": 0.13127276,
+    "nature": 0.1314953,
+    "unpaved": 0.25066265,
+    "alpin": 0.45791525
+  },
+  "way_types": {
+    "footway": 0.0012190511,
+    "track": 0.019497246,
+    "alpine_hiking_path": 0.033190787,
+    "street": 0.039980486,
+    "minor_road": 0.10975983,
+    "way": 0.14018744,
+    "hiking_path": 0.3080677,
+    "mountain_hiking_path": 0.34809744
+  },
+  "waypoints": [
+    {
+      "name": "View of La Rhune from the Miramar",
+      "lat": 43.322611,
+      "lng": -1.6414,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 1016292
+    },
+    {
+      "name": "Ciboure mountain",
+      "lat": 43.32192,
+      "lng": -1.66329,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 3542385
+    },
+    {
+      "name": "La Rhune summit",
+      "lat": 43.309069,
+      "lng": -1.635631,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Les Trois Fontaines",
+      "lat": 43.3164,
+      "lng": -1.62693,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "natural_monument",
+        "intermediate",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 5386706
+    },
+    {
+      "name": "Ascain",
+      "lat": 43.34472,
+      "lng": -1.62092,
+      "type": "settlement",
+      "categories": [
+        "family_friendly",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 3411050
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 2,
+  "visitors": 510,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-06T16:46:24.800Z",
+  "changed_at": "2024-06-07T08:07:18.335Z",
+  "scraped_at": "2026-04-27T15:08:48.627997+00:00"
+}

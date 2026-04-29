@@ -1,0 +1,179 @@
+{
+  "tour_id": "e926616140",
+  "url": "https://www.komoot.com/smarttour/e926616140",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926616140/portalet-sallent-trail",
+  "name": "Portalet - Sallent Trail",
+  "name_original": "Valle de Tena – Escarrilla, Lanuza, Formigal y Portalet",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 49824.35839568255,
+  "duration_s": 10700,
+  "elevation_up_m": 1266.0482050233854,
+  "elevation_down_m": 1266.0482050233854,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.736246,
+  "start_lng": -0.315011,
+  "start_alt_m": 1184.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle the difficult 31.0-mile Portalet - Sallent Trail, gaining 4154 feet through stunning Pyrenean landscapes and past Embalse de la Sarra.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The reservoir is surrounded by beech forests through which you can do many simple walking routes as a complement to the bike route.",
+    "Long and steady! 27km of up from the french side upto the spanish border. Save some for the last 10km as it gets a little steeper the higher you climb. And keep an eye out for those cows, especially in the dark - the cowbells help!",
+    "Different views can be seen from each station car park."
+  ],
+  "faqs": [
+    {
+      "question": "What is the terrain like on the Portalet - Sallent Trail?",
+      "answer": "The route is primarily on paved roads, which are generally in excellent condition and well-maintained for road cycling. While the main roads are smooth, be aware that some broader cycling routes in the wider Sallent de Gállego area might include unpaved sections, but this specific climb to Portalet is fully paved."
+    },
+    {
+      "question": "What are the best times of year to cycle this route?",
+      "answer": "The best time to cycle this route is typically from late spring to early autumn. In late spring or early autumn, you might encounter snow at higher elevations, adding to the scenic beauty. Always check local weather conditions before you go, especially for mountain passes."
+    },
+    {
+      "question": "Are there any notable landmarks or viewpoints along the way?",
+      "answer": "Yes, the route offers stunning scenery. You'll pass by the beautiful <a href=\"https://www.komoot.com/highlight/5036212\" target=\"_blank\" rel=\"noopener\">Embalse de la Sarra</a> in the lower sections. As you climb, you'll get a fantastic <a href=\"https://www.komoot.com/highlight/2167737\" target=\"_blank\" rel=\"noopener\">View of the mountains from Formigal</a>, and the route culminates at the iconic <a href=\"https://www.komoot.com/highlight/988643\" target=\"_blank\" rel=\"noopener\">Col du Pourtalet</a>, one of the highest passes in the Pyrenees."
+    },
+    {
+      "question": "Where can I park to access the Portalet - Sallent Trail?",
+      "answer": "You can find parking options in the area, such as <a href=\"https://www.komoot.com/highlight/3379702\" target=\"_blank\" rel=\"noopener\">Sarrios Parking – Formigal</a> or <a href=\"https://www.komoot.com/highlight/5001975\" target=\"_blank\" rel=\"noopener\">Formigal-Anayet Parking</a>. Sallent de Gállego also serves as an excellent base with various amenities, making it a convenient starting point for the climb."
+    },
+    {
+      "question": "Is this route suitable for beginners?",
+      "answer": "This route is classified as <strong>difficult</strong> and requires <strong>very good fitness</strong>. While it features generally gentle gradients for a long climb, there are short, steep ramps where the incline can reach 10-11%. The most consistent climb, with an average gradient not exceeding 6%, is found in the six kilometers between Sallent de Gállego and Formigal. It's not recommended for beginners."
+    },
+    {
+      "question": "Are there any permits or fees required to cycle this trail?",
+      "answer": "No, there are no specific permits or entrance fees required to cycle the Portalet - Sallent Trail. It uses public roads, so you can enjoy the ride freely."
+    },
+    {
+      "question": "Can I bring my dog on this cycling route?",
+      "answer": "This is a road cycling route on public roads, so dogs are generally permitted if they are safely secured (e.g., in a bike trailer) and do not interfere with traffic or other cyclists. However, it's not a typical trail for dogs to run alongside. Always ensure your dog's safety and adhere to local regulations."
+    },
+    {
+      "question": "What kind of traffic can I expect on the road?",
+      "answer": "There can be some traffic, especially on the lower parts of the A-136. However, it is generally not heavy, and the road is wide enough to accommodate cyclists safely. Always be vigilant and follow traffic laws."
+    },
+    {
+      "question": "Does this route intersect with other cycling paths?",
+      "answer": "Yes, while primarily a standalone climb, sections of this route overlap with other paths. Notably, it covers 60% of the official [CIMA HU14] Portalet ~ Sallent route and 50% of the [CIMA HU14] Portalet. You'll also find it briefly intersects with the Senda Pirenaica - E28 and R2 - Los Fondos."
+    },
+    {
+      "question": "Are there places to stop for food or drinks along the way?",
+      "answer": "Sallent de Gállego offers various amenities, including cafes and restaurants, making it a good place to fuel up before or after your ride. As you ascend towards Portalet, options become more limited, so it's advisable to carry sufficient water and snacks."
+    },
+    {
+      "question": "Why is the Portalet climb so well-regarded in the cycling community?",
+      "answer": "The Portalet climb is celebrated for being one of the most enjoyable ascents in the Aragón region, leading to one of the highest passes in the Pyrenees. It has been a featured ascent multiple times in the Vuelta a España and once in the Tour de France, and it's a regular inclusion in the famous Quebrantahuesos Gran Fondo cycling event, solidifying its reputation as a classic."
+    }
+  ],
+  "surfaces": {
+    "sb#paved": 0.07444755,
+    "sb#asphalt": 0.9255524
+  },
+  "way_types": {
+    "minor_road": 0.018602196,
+    "service": 0.02766584,
+    "primary": 0.39208862,
+    "street": 0.56164336
+  },
+  "waypoints": [
+    {
+      "name": "Embalse de la Sarra",
+      "lat": 42.793724,
+      "lng": -0.328615,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "forest",
+        "viewpoint"
+      ],
+      "highlight_id": 5036212
+    },
+    {
+      "name": "View of the mountains from Formigal",
+      "lat": 42.7727,
+      "lng": -0.356183,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "mountain_pass"
+      ],
+      "highlight_id": 2167737
+    },
+    {
+      "name": "Sarrios Parking – Formigal",
+      "lat": 42.764042,
+      "lng": -0.395294,
+      "type": "parking",
+      "categories": [
+        "parking",
+        "wheelchair_accessible"
+      ],
+      "highlight_id": 3379702
+    },
+    {
+      "name": "Col du Pourtalet",
+      "lat": 42.805712,
+      "lng": -0.418522,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "settlement",
+        "intermediate",
+        "viewpoint",
+        "facilities",
+        "mountain_pass"
+      ],
+      "highlight_id": 988643
+    },
+    {
+      "name": "Formigal-Anayet Parking",
+      "lat": 42.77948,
+      "lng": -0.41301,
+      "type": "parking",
+      "categories": [
+        "parking",
+        "viewpoint",
+        "wheelchair_accessible"
+      ],
+      "highlight_id": 5001975
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "parking",
+    "settlement",
+    "viewpoint",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": 3,
+  "rating_count": 1,
+  "visitors": 90,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-15T07:41:00.277Z",
+  "changed_at": "2026-02-26T18:38:49.293Z",
+  "scraped_at": "2026-04-28T19:28:13.478022+00:00"
+}

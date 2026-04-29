@@ -1,0 +1,245 @@
+{
+  "tour_id": "e951949436",
+  "url": "https://www.komoot.com/smarttour/e951949436",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e951949436/minas-de-liat-minas-de-montoliu-y-refugio-de-montgarri-ruta-circular-desde-bagergue",
+  "name": "Minas de Liat, minas de Montoliu y Refugio de Montgarri — Ruta circular desde Bagergue",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 50500.422192767146,
+  "duration_s": 21775,
+  "elevation_up_m": 1823.4836192864107,
+  "elevation_down_m": 1821.7159782783585,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.717741,
+  "start_lng": 0.915756,
+  "start_alt_m": 1418.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Bagergue is considered one of the most beautiful villages in Spain. At 1,419 meters above sea level, it is the municipality located at the highest altitude in the Arán Valley. It belongs to the province of Lleida and has about 100 inhabitants.",
+    "Located in the Unhòla river valley, municipality of Naut Aran, these mines date back to 1865 and were used by French companies during 1904 to 1909 to extract zinc (sphalerite). From 1910 to 1914 the activity decreased a lot and they were finally closed in 1917.",
+    "This refuge is located at an altitude of 2,270 meters and is not guarded, which means that there are no services. It has capacity for about 12 people. In winter there may be snow inside.",
+    "The houses of the Liat mines are located near the Liat refuge and the Pica Palomera lake, at more than 2,300 meters of altitude. Wherever we look, we have magnificent views.",
+    "From this lake you can appreciate the views of the top of Pica Palomera, at 2460 meters high. Due to mining activity, both the pond and the surroundings were affected. Today, the water has a much more acidic pH than most of the lakes in the Pyrenees, which does not allow the survival of aquatic vegetation or vertebrate animals.",
+    "Estanh Long de Liat in Aránese, is of glacial origin located at 2,136 meters of altitude, in the north of the Valle de Arán region. Located near the mines of Liat. And I look down at the peak of Mauberne.",
+    "Lac de Montoliu is a magnificent body of water at high altitude. Its color surprises because of the rich rate of iron. Not surprising ! The Liat mines are close by.",
+    "Urets refuge (2,500 m). Free entry mountain refuge located between Tuc de Mauberme and Tuc der Òme, on the border between Spain and France.\r\nShelter with three bunk beds, does not usually have firewood, but does have a wood stove. Comfortable and cozy enough.",
+    "Here are the first iron, zinc and lead mines of Etanh de Liat. They date from 1740. Between 1906 and 1911, a 4,000 meter long railway line was built. The mines were finally abandoned in 1929.",
+    "The refuge is located in the extreme northeast of the Aran Valley, seven kilometers from the \"Plá de Beret\".\r\n\r\n​Located in a unique environment. offers accommodation in two modalities: classic mountain refuge and a private room with bathroom inside and extra comfort \"Suite Ostau\" from summer 2021.\r\n\r\nIn addition, it has restaurant services, a bar, WC and showers for customers, emergency radio, e-bike rental, e-bike recharging and information on routes in the area.",
+    "The Llano de Beret is an esplanade about four kilometers long that is located next to the ski lift of the Baqueira ski resort. If you come from Bagergue, you must first pass through the port of Beret, at 1,879 meters above sea level.",
+    "Beautiful path with views of the Valle de Aran, which descends from the Beret road to the beautiful village of Bagergue"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.006649633,
+    "sm#asphalt": 0.010997443,
+    "sm#alpin": 0.016281424,
+    "sm#paved": 0.03843966,
+    "sm#nature": 0.1828289,
+    "sm#unpaved": 0.74480295
+  },
+  "way_types": {
+    "street": 0.0006170566,
+    "minor_road": 0.017471498,
+    "trail": 0.36133495,
+    "way": 0.6205765
+  },
+  "waypoints": [
+    {
+      "name": "Bagergue Village",
+      "lat": 42.718587,
+      "lng": 0.915561,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 2671169
+    },
+    {
+      "name": "Plan de Tor Mines",
+      "lat": 42.78137,
+      "lng": 0.903416,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "challenging",
+        "other_man_made",
+        "viewpoint"
+      ],
+      "highlight_id": 5131226
+    },
+    {
+      "name": "Liat unmanned shelter",
+      "lat": 42.795039,
+      "lng": 0.874137,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 5072089
+    },
+    {
+      "name": "Ruins of the Liat Mines",
+      "lat": 42.794097,
+      "lng": 0.871634,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "intermediate",
+        "other_man_made",
+        "settlement",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 2464724
+    },
+    {
+      "name": "Pica Palomera Pond",
+      "lat": 42.793354,
+      "lng": 0.866225,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 5030058
+    },
+    {
+      "name": "Estanh Long de Liat",
+      "lat": 42.80295,
+      "lng": 0.879121,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 5131232
+    },
+    {
+      "name": "Estany de Montoliu",
+      "lat": 42.782776,
+      "lng": 0.924552,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 5131280
+    },
+    {
+      "name": "Refugio de Urets",
+      "lat": 42.789338,
+      "lng": 0.926465,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "viewpoint",
+        "challenging"
+      ],
+      "highlight_id": 6392268
+    },
+    {
+      "name": "Montoliu Mines",
+      "lat": 42.784627,
+      "lng": 0.93243,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "challenging",
+        "intermediate",
+        "other_man_made"
+      ],
+      "highlight_id": 4200104
+    },
+    {
+      "name": "Montgarri Refuge and Sanctuary",
+      "lat": 42.75915,
+      "lng": 0.994631,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "restaurant",
+        "intermediate",
+        "settlement",
+        "historical_site",
+        "hut",
+        "pub",
+        "accomodation"
+      ],
+      "highlight_id": 1775736
+    },
+    {
+      "name": "Pla de Beret",
+      "lat": 42.725216,
+      "lng": 0.965155,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "family_friendly",
+        "other_natural"
+      ],
+      "highlight_id": 5131308
+    },
+    {
+      "name": "Trail from Beret to Bagergue",
+      "lat": 42.709076,
+      "lng": 0.920534,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4949883
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "family_friendly",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "pub",
+    "religious_building",
+    "restaurant",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 9,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-13T11:37:46.791Z",
+  "changed_at": "2024-05-31T09:21:39.087Z",
+  "scraped_at": "2026-04-28T15:37:10.618331+00:00"
+}

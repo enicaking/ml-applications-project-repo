@@ -1,0 +1,136 @@
+{
+  "tour_id": "e1185518400",
+  "url": "https://www.komoot.com/smarttour/e1185518400",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1185518400/fuente-alta-circuit",
+  "name": "Fuente Alta Circuit",
+  "name_original": "Desde Los Peñones a Pradollano por Fuente Alta — paseo por el Parque Nacional de Sierra Nevada",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 14811.253387979019,
+  "duration_s": 4876,
+  "elevation_up_m": 446.2142560547677,
+  "elevation_down_m": 450.08619004772754,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.09829,
+  "start_lng": -3.392698,
+  "start_alt_m": 2388.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This moderate 9.2-mile mountain biking circuit in Sierra Nevada National Park takes you through a pine forest with constant gradient changes",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This open-air museum aims to mediate a group of traditional mountain huts preserved as they were in origin. They cannot be visited inside (some serve as a warehouse for the company that manages the ski resort), but some very characteristic details can be seen from the outside, such as their circular and triangular skylights with stone slabs that frame them."
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park to access the Fuente Alta Circuit?",
+      "answer": "The Fuente Alta Circuit is located approximately one kilometer from the Pradollano urbanization. You can typically find parking near the start of the trail in the Pradollano area, which is a well-known hub in Sierra Nevada. Specific parking details might vary, but its proximity to Pradollano makes it accessible."
+    },
+    {
+      "question": "Is the Fuente Alta Circuit suitable for beginner mountain bikers?",
+      "answer": "The trail is rated as 'moderate' and is primarily designed for cross-country mountain biking. It features constant changes in gradient rather than steep, technical climbs, making it enjoyable for a range of riders. While not entirely flat, it avoids extreme technical challenges, so it can be suitable for beginners with some basic mountain biking experience."
+    },
+    {
+      "question": "What is the terrain like on the Fuente Alta Circuit?",
+      "answer": "You will be riding through an attractive pine forest with a consistent, albeit not extreme, change in gradient. The terrain is generally well-maintained and accessible, suitable for both mountain bikers and hikers. It's not characterized by steep, rocky, or unforgiving sections."
+    },
+    {
+      "question": "What points of interest or scenic views can I expect along the route?",
+      "answer": "The route primarily takes you through a beautiful pine forest, offering a refreshing natural setting. You'll also pass by the <a href=\"https://www.komoot.com/highlight/5303862\" target=\"_blank\" rel=\"noopener\">Fuente Alta Ethnographic Museum</a>, which is a notable highlight. While the forest is the main feature, the altitude of 2,100 meters suggests potential for expansive views at certain points."
+    },
+    {
+      "question": "Is the Fuente Alta Circuit dog-friendly?",
+      "answer": "Yes, the Fuente Alta Circuit is generally considered dog-friendly. However, as it is located within the Sierra Nevada National Park, it's always recommended to keep your dog on a leash to protect local wildlife and ensure a pleasant experience for all trail users."
+    },
+    {
+      "question": "What is the best time of year to mountain bike the Fuente Alta Circuit?",
+      "answer": "Given its location at 2,100 meters altitude in the Sierra Nevada, the best time to visit is typically during the warmer months, from late spring through early autumn. During winter, snow can make the trail impassable for mountain biking. Always check local weather conditions before you go."
+    },
+    {
+      "question": "Are there any permits or fees required to access the Fuente Alta Circuit in Sierra Nevada National Park?",
+      "answer": "Generally, there are no specific permits or entrance fees required to access the Fuente Alta Circuit itself. However, as it's located within the Sierra Nevada National Park, visitors should always adhere to national park regulations regarding environmental protection, waste disposal, and respecting wildlife."
+    },
+    {
+      "question": "Does the Fuente Alta Circuit connect with other trails?",
+      "answer": "Yes, the route is part of a network of trails in the area. The primary route is known as Circuito Fuente Alta. It also intersects with sections of the [CIMA GR18] Sierra Nevada - Pico Veleta * Guéjar Sierra / Haza Llanas, [CIMA GR18] Sierra Nevada - Pico Veleta * Guéjar Sierra / Hotel del Duque, and [CIMA GR18] Sierra Nevada - Pico Veleta * Pinos Genil trails, as well as parts of Plaza de Pradollano."
+    },
+    {
+      "question": "Are there any facilities or amenities near the Fuente Alta Circuit trailhead?",
+      "answer": "Yes, being close to the Pradollano urbanization, you'll find various amenities. The <a href=\"https://www.komoot.com/highlight/1044651\" target=\"_blank\" rel=\"noopener\">El Dornajo Visitor Center, Sierra Nevada</a> is a key facility nearby. Pradollano also offers cafes, pubs, and accommodation options, making it convenient for pre- or post-ride needs."
+    },
+    {
+      "question": "Is the Fuente Alta Circuit a loop trail?",
+      "answer": "Yes, the Fuente Alta Circuit is a circular route. This means you will end up back at your starting point without having to retrace your steps, making it convenient for planning your ride."
+    },
+    {
+      "question": "What essential gear should I bring for mountain biking the Fuente Alta Circuit?",
+      "answer": "For this moderate cross-country trail, essential gear includes a well-maintained mountain bike, a helmet, appropriate cycling attire, water, snacks, a basic repair kit (spare tube, pump, multi-tool), and navigation tools (like the komoot app). Sun protection is also advisable due to the altitude."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.045981742,
+    "sm#unpaved": 0.2443366,
+    "sm#paved": 0.3285543,
+    "sm#asphalt": 0.38112736
+  },
+  "way_types": {
+    "minor_road": 0.082590066,
+    "way": 0.10357687,
+    "trail": 0.14483875,
+    "cycleway": 0.29336113,
+    "street": 0.37563318
+  },
+  "waypoints": [
+    {
+      "name": "Fuente Alta Ethnographic Museum",
+      "lat": 37.10546,
+      "lng": -3.41131,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "other_man_made",
+        "family_friendly",
+        "intermediate"
+      ],
+      "highlight_id": 5303862
+    },
+    {
+      "name": "El Dornajo Visitor Center, Sierra Nevada",
+      "lat": 37.097687,
+      "lng": -3.396588,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "family_friendly"
+      ],
+      "highlight_id": 1044651
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "other_man_made"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 25,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-06-26T13:09:38.420Z",
+  "changed_at": "2026-02-26T19:50:22.458Z",
+  "scraped_at": "2026-04-28T13:45:38.302608+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "tour_id": "e970237385",
+  "url": "https://www.komoot.com/smarttour/e970237385",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e970237385/basajaunberro-forest-circular-from-orreaga-roncesvalles",
+  "name": "Basajaunberro Forest - circular from Orreaga/Roncesvalles",
+  "name_original": "Bosque de Basajaunberro – circular desde Orreaga/Roncesvalles",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4543.688082751561,
+  "duration_s": 4351,
+  "elevation_up_m": 46.232127512472175,
+  "elevation_down_m": 49.356542980659924,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.008671,
+  "start_lng": -1.319865,
+  "start_alt_m": 945.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Augustinian monastery is an important pilgrimage station on the Way of St. James. It was renovated a few years ago and now offers many pilgrims good overnight accommodation.",
+    "The itinerary through the forest is a very simple and at the same time very picturesque walk. A forest track with sections of trails that meanders between beech and oak trees and beautiful meadows, finally connecting with a section of the Camino de Santiago. Its name refers to Basajaun, the \"lord of the forest\" in Basque mythology."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.049242564,
+    "nature": 0.051179696,
+    "unknown": 0.05850197,
+    "asphalt": 0.077084795,
+    "unpaved": 0.21758275,
+    "gravel": 0.54640824
+  },
+  "way_types": {
+    "footway": 0.006424714,
+    "primary": 0.077084795,
+    "hiking_path": 0.08076694,
+    "minor_road": 0.110219225,
+    "way": 0.72550434
+  },
+  "waypoints": [
+    {
+      "name": "Roncesvalles Collegiate Church",
+      "lat": 43.010547,
+      "lng": -1.318931,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 594755
+    },
+    {
+      "name": "Basajaunberro Forest",
+      "lat": 43.0063,
+      "lng": -1.312,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "trail",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 5224618
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.699999809265137,
+  "rating_count": 10,
+  "visitors": 78,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-01T17:34:19.263Z",
+  "changed_at": "2024-07-24T10:03:05.453Z",
+  "scraped_at": "2026-04-27T11:04:21.631828+00:00"
+}

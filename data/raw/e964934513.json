@@ -1,0 +1,130 @@
+{
+  "tour_id": "e964934513",
+  "url": "https://www.komoot.com/smarttour/e964934513",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e964934513/xorroxin-trail",
+  "name": "Xorroxin Trail",
+  "name_original": "Cascada Xorroxin ur-jauzia desde Erratzu",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 5868.019152578348,
+  "duration_s": 5982,
+  "elevation_up_m": 109.57360237409097,
+  "elevation_down_m": 108.45804936000792,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.180158,
+  "start_lng": -1.456168,
+  "start_alt_m": 292.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the 3.6-mile Xorroxin Trail in Baztan Valley to discover the beautiful Xorroxin Waterfall and lush Atlantic forests.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Not only is it one of the most visited attractions in Baztán, but also the path to reach the waterfall is a real attraction. Between beech and chestnut trees, the landscape is extremely picturesque and at each time of year you will have a different postcard. The waterfall is wonderful, the environment even more so when you get there, take a few minutes to enjoy this beautiful place."
+  ],
+  "faqs": [
+    {
+      "question": "What is the typical duration for hiking the Xorroxin Trail?",
+      "answer": "The Xorroxin Trail is a relatively short hike. A typical circular route starting from Erratzu covers approximately 6.4 km to 7.5 km and can be completed in about 2 to 2.5 hours. Some longer routes, like those connecting to Amaiur, might take around 3 hours."
+    },
+    {
+      "question": "Is the Xorroxin Trail suitable for beginners or families?",
+      "answer": "Yes, the trail is generally considered <strong>easy</strong> and is very suitable for families and beginners. It has a relatively small accumulated slope. However, please note that the path does include some architectural barriers, such as stairs, making it unsuitable for people with reduced mobility or baby strollers."
+    },
+    {
+      "question": "Where does the Xorroxin Trail start and where can I park?",
+      "answer": "The trail officially starts from the village of Erratzu. Parking is available in the village. During summer, it's advisable to reserve a parking spot online due to high demand."
+    },
+    {
+      "question": "What kind of terrain can I expect on the Xorroxin Trail?",
+      "answer": "The trail offers a picturesque journey through diverse natural landscapes. You'll traverse paths winding through Atlantic forests, abundant with beech and chestnut trees. The route also follows the Iñarbegi River, providing sights and sounds of flowing water. While it may start through the village of Erratzu, it quickly transitions into peaceful natural settings."
+    },
+    {
+      "question": "What are the main points of interest along the route?",
+      "answer": "The primary highlight of the trail is the stunning <a href=\"https://www.komoot.com/highlight/807471\" target=\"_blank\" rel=\"noopener\">Xorroxin Waterfall</a>, a beautiful 4-meter high cascade surrounded by lush vegetation. You'll also experience the rich Atlantic forest and the scenic Iñarbegi River."
+    },
+    {
+      "question": "What is the best time of year to hike the Xorroxin Trail?",
+      "answer": "The trail is beautiful year-round, with the scenery changing with the seasons. However, <strong>spring</strong> is particularly spectacular due to increased water flow at the <a href=\"https://www.komoot.com/highlight/807471\" target=\"_blank\" rel=\"noopener\">Xorroxin Waterfall</a>, making it a prime time to visit."
+    },
+    {
+      "question": "Is the Xorroxin Trail dog-friendly?",
+      "answer": "Yes, the Xorroxin Trail is generally dog-friendly. However, always ensure your dog is kept on a leash to protect the local wildlife and for the safety of other hikers."
+    },
+    {
+      "question": "Can I swim at the Xorroxin Waterfall?",
+      "answer": "Yes, after your hike, you are allowed to swim in the cool, clear waters below the <a href=\"https://www.komoot.com/highlight/807471\" target=\"_blank\" rel=\"noopener\">Xorroxin Waterfall</a>, offering a refreshing experience."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for the Xorroxin Trail or the Baztan Valley area?",
+      "answer": "There are no specific permits or entrance fees required to hike the Xorroxin Trail itself. The trail is freely accessible to the public. However, if you plan to park in Erratzu during peak season, it's advisable to reserve a spot online."
+    },
+    {
+      "question": "Does the Xorroxin Trail intersect with other hiking paths?",
+      "answer": "Yes, the route of the Xorroxin Trail overlaps with sections of other official paths, including the Iñarbegi trail. It also briefly touches parts of longer routes like La route des cols Hendaye - Larrau and Ruta Transpirenaica en BTT (Roncesvalles - Hondarribia)."
+    },
+    {
+      "question": "Is the Xorroxin Trail a loop or an out-and-back route?",
+      "answer": "The most common and recommended way to experience the Xorroxin Trail is as a circular route starting and ending in the village of Erratzu. This allows you to fully enjoy the diverse scenery without retracing your steps."
+    }
+  ],
+  "surfaces": {
+    "alpin": 0.04121619,
+    "paved": 0.06485152,
+    "unknown": 0.082323864,
+    "unpaved": 0.1770932,
+    "asphalt": 0.2782372,
+    "nature": 0.35627803
+  },
+  "way_types": {
+    "minor_road": 0.023481373,
+    "mountain_hiking_path": 0.13756308,
+    "hiking_path": 0.1770932,
+    "street": 0.2782372,
+    "way": 0.38362515
+  },
+  "waypoints": [
+    {
+      "name": "Xorroxin Waterfall",
+      "lat": 43.158478,
+      "lng": -1.453817,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "viewpoint",
+        "forest",
+        "natural_monument",
+        "family_friendly",
+        "intermediate"
+      ],
+      "highlight_id": 807471
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.630434989929199,
+  "rating_count": 92,
+  "visitors": 645,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-28T13:38:23.180Z",
+  "changed_at": "2026-02-26T18:52:21.359Z",
+  "scraped_at": "2026-04-27T11:08:21.280865+00:00"
+}

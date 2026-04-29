@@ -1,0 +1,113 @@
+{
+  "tour_id": "e931486410",
+  "url": "https://www.komoot.com/smarttour/e931486410",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e931486410/ibon-y-arco-de-piedrafita-circular-route",
+  "name": "Ibon y Arco de Piedrafita – circular route",
+  "name_original": "Ibón y Arco de Piedrafita – ruta circular",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9043.578603955484,
+  "duration_s": 11277,
+  "elevation_up_m": 479.58168444015723,
+  "elevation_down_m": 491.00460787921725,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.696058,
+  "start_lng": -0.332359,
+  "start_alt_m": 1359.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The stream that descends from the Ibón de Piedrafita descends to what is called the Refugio de Telera, in some ridges of pasture meadows with a spectacular setting!",
+    "Easy access by track or path, suitable for all ages. The setting is beautiful.",
+    "The stone window is a fantastic whim of nature. The path goes around the arch to the right until it becomes a stone eye where the bluish Búbal reservoir appears inside at the foot of the Pyrenees. On the right there are some ledges that allow you to climb to the upper edge and get views, photos and sensations from all possible angles, although the best photos are from below. The return goes down the same slippery path until the marked intersection towards Piedrafita de Jaca. The entertaining hiking route is also shared with a mountain biking itinerary."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.008749961,
+    "asphalt": 0.009957505,
+    "alpin": 0.035703894,
+    "unknown": 0.09131151,
+    "nature": 0.17251976,
+    "unpaved": 0.6817574
+  },
+  "way_types": {
+    "street": 0.018707467,
+    "mountain_hiking_path": 0.035703894,
+    "way": 0.39152774,
+    "hiking_path": 0.5540609
+  },
+  "waypoints": [
+    {
+      "name": "Telera Refuge (Shepherds' Hut)",
+      "lat": 42.700935,
+      "lng": -0.349318,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "viewpoint",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 4100798
+    },
+    {
+      "name": "Piedrafita Lake",
+      "lat": 42.696543,
+      "lng": -0.354968,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 4473222
+    },
+    {
+      "name": "Piedrafita Arch",
+      "lat": 42.683987,
+      "lng": -0.351059,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "viewpoint",
+        "challenging",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 3076568
+    }
+  ],
+  "categories": [
+    "challenging",
+    "family_friendly",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.639999866485596,
+  "rating_count": 75,
+  "visitors": 327,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-20T15:29:15.957Z",
+  "changed_at": "2024-06-05T07:14:43.735Z",
+  "scraped_at": "2026-04-27T11:22:07.077193+00:00"
+}

@@ -1,0 +1,92 @@
+{
+  "tour_id": "e1275146401",
+  "url": "https://www.komoot.com/smarttour/e1275146401",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1275146401/pantano-de-cavallers-parque-nacional-de-aigueestortes-i-estany-de-sant-maurici",
+  "name": "Pantano de Cavallers — Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "name_original": null,
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 4962.4313511617665,
+  "duration_s": 3284,
+  "elevation_up_m": 271.4889440583545,
+  "elevation_down_m": 271.48894405835404,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.584727,
+  "start_lng": 0.854971,
+  "start_alt_m": 1727.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Espot serves as a starting point for numerous routes in the Aigüestortes and Estany de Sant Maurici National Park. From here, it is possible to see the Valle de Boí and the Presa de Cavallers, which we can cross by means of a bridge to explore.",
+    "Fantastic place with great views of the Valley. It is a starting point for many ascents."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.020795906,
+    "asphalt": 0.025152512,
+    "nature": 0.06284282,
+    "alpin": 0.89120877
+  },
+  "way_types": {
+    "street": 0.025152512,
+    "minor_road": 0.09120928,
+    "mountain_hiking_path": 0.8836382
+  },
+  "waypoints": [
+    {
+      "name": "Cavallers Reservoir",
+      "lat": 42.58514,
+      "lng": 0.8576,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "man_made_monument",
+        "intermediate"
+      ],
+      "highlight_id": 6046963
+    },
+    {
+      "name": "View of Estany de Cavallers",
+      "lat": 42.59935,
+      "lng": 0.85814,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "waterfall",
+        "lake"
+      ],
+      "highlight_id": 5999998
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 5,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-08-23T14:28:51.014Z",
+  "changed_at": "2024-08-12T09:37:59.702Z",
+  "scraped_at": "2026-04-27T15:57:19.394962+00:00"
+}

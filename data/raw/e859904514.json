@@ -1,0 +1,172 @@
+{
+  "tour_id": "e859904514",
+  "url": "https://www.komoot.com/smarttour/e859904514",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e859904514/round-of-the-passes-from-ascain-trail",
+  "name": "Round of the Passes from Ascain Trail",
+  "name_original": "Boucle d'Ascain vers Ibardin",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 34463.56766047546,
+  "duration_s": 8926,
+  "elevation_up_m": 700.0469810407014,
+  "elevation_down_m": 700.0469810407014,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.348559,
+  "start_lng": -1.622141,
+  "start_alt_m": 8.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 21.4-mile touring cycling loop from Ascain to Ibardin offers cross-border views and 2297 feet of elevation gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Ascain is an authentic village in the Basque Country. Populated by its typical houses, it sits in a unique atmosphere at the foot of the first peaks of the Pyrenees.",
+    "The Col de St Ignace, starting point for taking the little train from La Rhune! Magnificent",
+    "Magnificent little road with no traffic (apart from shepherds' trucks!) The view is splendid",
+    "Shy of the 4km mark, the Col d'Ibardin is an enjoyable hill that features consistent gradients between 5 and 7%. Many parts are at the shade of trees which helps with cooling during the hotter months.\n\nAt the foot of the climb, you have a \"boulangerie\" that can provide you with food and fresh drinks. \n\nAt the top, there are \"Ventas\", spanish grocery shops, that can supply you with almost anything (beware, they don't take credit cards under 15 euros, so bring some cash). \n\nYou will also find a free water dispenser at the gas station."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Loop from Ascain to Ibardin?",
+      "answer": "This is a challenging touring bicycle route, rated as <strong>difficult</strong>. It requires very good fitness due to significant elevation changes, including the 3.8 km ascent of the <a href=\"https://www.komoot.com/highlight/3135247\" target=\"_blank\" rel=\"noopener\">Col d'Ibardin Ascent from Herboure</a> with an average gradient of 6%. It's best suited for confirmed cyclists looking for a sustained effort."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling loop?",
+      "answer": "The terrain is mostly paved, but some challenging segments on harder routes might be unpaved, potentially requiring you to push your bike. You'll cycle through rolling hills, the foothills of the Pyrenees, and densely forested country roads."
+    },
+    {
+      "question": "What are the best times of year to cycle this route?",
+      "answer": "The Basque Country generally offers pleasant cycling conditions from spring through autumn. To avoid the hottest summer days and enjoy lush green landscapes, late spring (May-June) and early autumn (September-October) are often ideal. Always check local weather conditions before you go."
+    },
+    {
+      "question": "Are there any notable landmarks or viewpoints along the way?",
+      "answer": "Yes, the route offers diverse scenery. You'll pass through charming villages like <a href=\"https://www.komoot.com/highlight/3411050\" target=\"_blank\" rel=\"noopener\">Ascain</a> and experience the cross-border journey into Spain via the Ibardin Pass. The iconic La Rhune mountain is a prominent feature, and you'll get magnificent panoramic views of the French and Spanish coasts and mountains, including pleasant sea views from the <a href=\"https://www.komoot.com/highlight/3135247\" target=\"_blank\" rel=\"noopener\">Col d'Ibardin Ascent from Herboure</a>."
+    },
+    {
+      "question": "Where can I park to start this cycling loop?",
+      "answer": "You can typically find parking in the village of <a href=\"https://www.komoot.com/highlight/3411050\" target=\"_blank\" rel=\"noopener\">Ascain</a>, which serves as the starting and ending point for this loop. Look for public parking areas within the village."
+    },
+    {
+      "question": "Is this cycling route suitable for families or beginners?",
+      "answer": "Given its 'difficult' rating and significant elevation gain of 700 meters over 34.5 km, this specific loop is generally not recommended for beginners or young families. It requires a very good level of fitness and experience with challenging ascents."
+    },
+    {
+      "question": "Are dogs allowed on this touring bicycle route?",
+      "answer": "While the route primarily follows public roads and paths, specific regulations for dogs can vary. It's generally advisable to keep dogs on a leash, especially in villages and near livestock. Always be mindful of traffic and other cyclists."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this cross-border route?",
+      "answer": "No, you do not need special permits or pay entrance fees to cycle this route, even though it crosses from France into Spain via the Ibardin Pass. However, always carry identification when crossing international borders."
+    },
+    {
+      "question": "Are there places to eat or drink along the route?",
+      "answer": "Yes, you'll find options for refreshments. The route passes through traditional Basque villages like <a href=\"https://www.komoot.com/highlight/3411050\" target=\"_blank\" rel=\"noopener\">Ascain</a>, and there are 'ventas' (shops and restaurants) at the top of Col d'Ibardin on the Spanish side, offering places to stop for food and drinks."
+    },
+    {
+      "question": "Does this route intersect with other well-known trails?",
+      "answer": "Yes, the route also passes through sections of the La route des cols Hendaye - Larrau, La route des contrebandiers, and Larun trails."
+    },
+    {
+      "question": "What should I bring for this challenging touring bicycle ride?",
+      "answer": "For this difficult route, bring plenty of water, energy snacks, a repair kit for your bike, appropriate cycling gear for varying weather, and sun protection. Given the cross-border nature, remember to carry identification."
+    }
+  ],
+  "surfaces": {
+    "sb#cobbles": 0.00082078297,
+    "unknown": 0.023020996,
+    "sb#unpaved": 0.031973418,
+    "sb#paved": 0.1113658,
+    "sb#asphalt": 0.832819
+  },
+  "way_types": {
+    "service": 0.0037522998,
+    "trail": 0.0052779866,
+    "minor_road": 0.062332295,
+    "way": 0.12833852,
+    "street": 0.8002989
+  },
+  "waypoints": [
+    {
+      "name": "Ascain",
+      "lat": 43.34508,
+      "lng": -1.620833,
+      "type": "settlement",
+      "categories": [
+        "family_friendly",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 3411050
+    },
+    {
+      "name": "Saint-Ignace Pass – Departure point for the La Rhune train",
+      "lat": 43.32612,
+      "lng": -1.601124,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "man_made_monument",
+        "family_friendly",
+        "mountain_pass",
+        "mountain_pass"
+      ],
+      "highlight_id": 950759
+    },
+    {
+      "name": "Narrow Steep Road",
+      "lat": 43.301791,
+      "lng": -1.588754,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 4300616
+    },
+    {
+      "name": "Col d'Ibardin Ascent from Herboure",
+      "lat": 43.324952,
+      "lng": -1.68663,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "climb",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 3135247
+    }
+  ],
+  "categories": [
+    "climb",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.333333492279053,
+  "rating_count": 15,
+  "visitors": 235,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-27T08:08:31.500Z",
+  "changed_at": "2026-02-26T18:57:54.131Z",
+  "scraped_at": "2026-04-28T23:31:42.941124+00:00"
+}

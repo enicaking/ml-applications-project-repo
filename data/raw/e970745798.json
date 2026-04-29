@@ -1,0 +1,129 @@
+{
+  "tour_id": "e970745798",
+  "url": "https://www.komoot.com/smarttour/e970745798",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e970745798/zemeto-local-trail",
+  "name": "Zemeto Local Trail",
+  "name_original": "Camino de Zemeto – circular por el Refugio de Belagua",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 4411.99145774488,
+  "duration_s": 5970,
+  "elevation_up_m": 169.9214008918625,
+  "elevation_down_m": 169.9214008918625,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.945996,
+  "start_lng": -0.838038,
+  "start_alt_m": 1427.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 2.7-mile Zemeto Local Trail through Pyrenean plains and beech forests, gaining 558 feet in 1 hour 39 minutes.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The small hut is located right next to a road and a large parking lot and can be very crowded in high season. However, there is delicious food and places to sleep if you want to stay overnight here."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to hike the Zemeto Local Trail?",
+      "answer": "The Zemeto Local Trail is approximately 4.4 kilometers (2.7 miles) long. Most hikers can complete the loop in about 1 hour and 40 minutes, depending on their pace and how often they stop to enjoy the scenery."
+    },
+    {
+      "question": "What is the terrain like on this trail?",
+      "answer": "The trail offers a diverse landscape within the Pyrenees. You'll journey through verdant Pyrenean plains with gentle, wind-swept meadows, alternating with sections of lush beech forests, some containing centennial trees. The route also provides views of the distinctive karstic formations of Larra and majestic Pyrenean summits. The paths often follow historical routes, adding to the cultural heritage of the walk."
+    },
+    {
+      "question": "Are there any notable viewpoints or landmarks along the route?",
+      "answer": "Yes, the trail offers spectacular landscapes and breathtaking panoramic views, especially as it traverses the upper Belagua valley. The Zemeto Pass itself provides a natural division between expansive plains and dramatic vertical rock faces. You'll also pass by the <a href=\"https://www.komoot.com/highlight/2709792\" target=\"_blank\" rel=\"noopener\">Belagua Refuge</a>, which is a key landmark in the area."
+    },
+    {
+      "question": "Where can I park to access the Zemeto Local Trail?",
+      "answer": "The Zemeto Local Trail is located in Isaba/Izaba, within the Pirinioak / Pirineo region. While specific parking details for the trailhead are not provided, it's generally accessible from the Belagua valley area. We recommend checking local signage or maps for designated parking spots near the start of the trail, especially around the <a href=\"https://www.komoot.com/highlight/2709792\" target=\"_blank\" rel=\"noopener\">Belagua Refuge</a>."
+    },
+    {
+      "question": "Is the Zemeto Local Trail dog-friendly?",
+      "answer": "Yes, the Zemeto Local Trail is generally dog-friendly. However, as you might encounter local cattle grazing in the meadows, it's essential to keep your dog on a leash to ensure the safety and comfort of both your pet and the livestock."
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "The trail can be enjoyed during various seasons. Spring and autumn offer pleasant temperatures and vibrant colors, while summer provides warmer weather for hiking. Winter hiking is also possible, but be prepared for snow and colder conditions, especially in the Pyrenean plains and higher elevations."
+    },
+    {
+      "question": "Are there any permits or fees required to hike in the Valle de Roncal area?",
+      "answer": "Generally, there are no specific permits or entrance fees required to hike the Zemeto Local Trail or access the natural areas within the Valle de Roncal. However, it's always a good idea to check with local tourism offices for any updated regulations or specific requirements, especially if you plan to visit protected areas or engage in other activities."
+    },
+    {
+      "question": "Is water available along the trail?",
+      "answer": "It is advisable to carry your own water. While natural water points from streams may be available, they are often seasonal, primarily during thaws or after rainfall. Relying on these sources is not recommended, so bring enough water for your entire hike."
+    },
+    {
+      "question": "Is this a loop trail?",
+      "answer": "Yes, the Zemeto Local Trail (Zemeto SL NA 82) is a looped hiking trail, meaning you will end your hike at the same point where you started without having to retrace your steps."
+    },
+    {
+      "question": "Does the trail intersect with other paths?",
+      "answer": "Yes, the Zemeto Local Trail shares sections with several other routes. You might find yourself on parts of the Euskal Herriko ibilaldia, Errege bidea: Arrako - Belaguako aterpea, Hegoaldea: Puerto de los Navarros / Argibiela - Linza - Belagua, or the Via Sancti Martini - Chemin de Saragosse, among others, as it traverses the area."
+    },
+    {
+      "question": "Is the Zemeto Local Trail suitable for families with children?",
+      "answer": "Rated as 'moderate' difficulty, the trail involves some elevation changes and uneven surfaces. While not overly strenuous, it requires a moderate level of fitness. Families with younger children or those new to hiking might find it a good challenge, but should be prepared for the duration and terrain."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.02940356,
+    "asphalt": 0.054755665,
+    "unpaved": 0.079317406,
+    "alpin": 0.83652335
+  },
+  "way_types": {
+    "way": 0.02940356,
+    "primary": 0.054755665,
+    "hiking_path": 0.079317406,
+    "mountain_hiking_path": 0.83652335
+  },
+  "waypoints": [
+    {
+      "name": "Belagua Refuge",
+      "lat": 42.94502,
+      "lng": -0.834982,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "parking",
+        "facilities",
+        "restaurant",
+        "family_friendly",
+        "accomodation",
+        "pub"
+      ],
+      "highlight_id": 2709792
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "facilities",
+    "family_friendly",
+    "hut",
+    "parking",
+    "pub",
+    "restaurant"
+  ],
+  "tags": [],
+  "rating_score": 4.454545497894287,
+  "rating_count": 11,
+  "visitors": 74,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-02T13:19:50.926Z",
+  "changed_at": "2026-02-26T18:43:24.775Z",
+  "scraped_at": "2026-04-27T11:34:39.005470+00:00"
+}

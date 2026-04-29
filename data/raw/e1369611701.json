@@ -1,0 +1,123 @@
+{
+  "tour_id": "e1369611701",
+  "url": "https://www.komoot.com/smarttour/e1369611701",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369611701/iparla-ridges",
+  "name": "Iparla ridges",
+  "name_original": "Crêtes d'Iparla",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 28472.95448589862,
+  "duration_s": 17321,
+  "elevation_up_m": 1345.1626945617031,
+  "elevation_down_m": 1344.1010234283206,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.176955,
+  "start_lng": -1.341866,
+  "start_alt_m": 159.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This large loop leads to the discovery of the magnificent ridges of Iparla. Dizzying and spectacular, they offer magnificent panoramas of the Basque Country and the Pyrenees. This natural rampart also marks the border between Spain and France.\n\nThe starting point is in the center of Saint-Étienne-de-Baïgorry. The first part consists of weaving through the neighborhoods surrounding the village, to get closer to the foot of the ridges. It is after the small hamlet of Urdoz that the slope begins to rise seriously. You embark on a climb of several kilometers, the last portion of which is the steepest.\n\nOnce the summit is reached, the panorama rewards all the efforts made. When the sky is clear, the view stretches to the Béarn peaks of the Pyrenees. While on the other side, the view of the Basque Country and its Atlantic coast is just as spectacular.\n\nYou then embark for the flagship section of this route. By following the GR 10 route, you take a magnificent path which runs along the ridges. This climbs quickly to the Iparla peak, the highest point of the route, before climbing a number of peaks including Astate. Although the trail approaches the edge of the vertiginous cliffs, it does not involve any difficulty.\n\nThis wonderful passage ends at the Ispeguy Pass. Bordering the border, this emblematic passage of the Basque Country includes an inn which offers an ideal setting for taking a break and refueling. The route ends with a gradual and very fun descent, on a path which runs through the foothills of the ridges until reaching the starting point.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The peak of Iparla dominates the ridges of the same name, culminating at 1,044 meters above sea level. This magnificent natural wall symbolizes the separation between France and Spain. From the village of Bidarray the ascent is gradual without too much difficulty along the ridge.",
+    "The Astate is a peak culminating at 1,022 meters above sea level on the ridges of Iparla. Located on the GR 10 and right on the Franco-Spanish border, it offers extraordinary views of the Pyrenees chain.",
+    "Fresh water at St Etienne Baigorry church"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.039987713,
+    "nature": 0.0552643,
+    "asphalt": 0.06868244,
+    "paved": 0.16599458,
+    "unpaved": 0.22938824,
+    "alpin": 0.44068274
+  },
+  "way_types": {
+    "track": 0.00083686615,
+    "alpine_hiking_path": 0.040774573,
+    "minor_road": 0.103866585,
+    "street": 0.15306887,
+    "way": 0.19034857,
+    "hiking_path": 0.20629643,
+    "mountain_hiking_path": 0.3048081
+  },
+  "waypoints": [
+    {
+      "name": "Iparla Peak",
+      "lat": 43.22823,
+      "lng": -1.37839,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "viewpoint",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 2830927
+    },
+    {
+      "name": "Astate",
+      "lat": 43.1995,
+      "lng": -1.383,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 5540710
+    },
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.17572,
+      "lng": -1.40187,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "facilities",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 13,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T15:26:42.939Z",
+  "changed_at": "2024-06-11T23:02:56.223Z",
+  "scraped_at": "2026-04-27T15:19:08.017025+00:00"
+}

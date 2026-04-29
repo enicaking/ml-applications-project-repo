@@ -1,0 +1,109 @@
+{
+  "tour_id": "e924136431",
+  "url": "https://www.komoot.com/smarttour/e924136431",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e924136431/taga-y-puig-estela-circular-from-pardines",
+  "name": "Taga y Puig Estela - Circular from Pardines",
+  "name_original": "Taga y Puig Estela - Circular desde Pardines",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16071.068113551024,
+  "duration_s": 21008,
+  "elevation_up_m": 899.8568094003288,
+  "elevation_down_m": 895.587607120247,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.307842,
+  "start_lng": 2.227674,
+  "start_alt_m": 1289.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This hermitage, also known as Santa Magdalena de Pardines, has always been a place of celebrations and meetings for the people of Pardines.\r\n\r\nRomanesque church, built in the 12th century, it was consecrated by the Bishop of Urgell in 1176. In the 18th century it was transformed by adding two side chapels. It was recently restored by the architect Joan M. de Ribot, eliminating these baroque elements in the restoration.\r\n\r\nThe function of this church was to facilitate the worship of the most remote houses of the town.",
+    "The Taga is a mountain of 2040 m[1] located in the Ripollès, in the Serra de Conivella, separated from the Serra Cavallera by the Ogassa pass. Its dominant position over the Freser and Ter valleys makes it a point of reference in the region; in addition, it is an excellent viewpoint of the peaks of the Pyrenees, from Puigmal to Canigó",
+    "Peak of 2,013 meters that is between the municipalities of Ogassa and Pardines, in the Catalan region of Ripollès. It belongs to the Sierra Cavallera, separated from the Sierra de Conivella by the Portella de Ogassa"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.0194456,
+    "unpaved": 0.45322436,
+    "nature": 0.52733004
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.116666034,
+    "way": 0.3227793,
+    "hiking_path": 0.5605547
+  },
+  "waypoints": [
+    {
+      "name": "Hermitage of Saint Mary Magdalene of Puigsac",
+      "lat": 42.3083,
+      "lng": 2.227,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 4989818
+    },
+    {
+      "name": "Taga Summit (2,040 m)",
+      "lat": 42.28072,
+      "lng": 2.209986,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 2097175
+    },
+    {
+      "name": "Puig Estela, 2,013 m",
+      "lat": 42.284268,
+      "lng": 2.253906,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint",
+        "challenging"
+      ],
+      "highlight_id": 1173947
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "religious_building",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.599999904632568,
+  "rating_count": 10,
+  "visitors": 81,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-12T15:41:43.779Z",
+  "changed_at": "2024-06-05T05:32:40.195Z",
+  "scraped_at": "2026-04-27T12:25:29.822793+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "tour_id": "e849904084",
+  "url": "https://www.komoot.com/smarttour/e849904084",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e849904084/the-small-passes-loop",
+  "name": "The Small Passes Loop",
+  "name_original": "Boucle de Saint-Jean de Luz vers Ibardin",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 53731.44838595916,
+  "duration_s": 10039,
+  "elevation_up_m": 865.456441208128,
+  "elevation_down_m": 865.6374698479791,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.385967,
+  "start_lng": -1.661226,
+  "start_alt_m": 4.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle a moderate 33.4-mile loop from Saint-Jean de Luz to Ibardin, climbing 2840 feet through scenic Basque Country roads.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small bucolic road without traffic. The view is magnificent and the calm is very present.",
+    "Located on the Franco-Spanish border, the Col d'Ibardin separates the Pyrénées-Atlantiques in France from the foral community of Navarre in Spain. In addition to its many ventas, the pass offers a breathtaking view of Saint-Jean-de-Luz and its bay.",
+    "Collar mounted from France - Collar without too much difficulty. We are moving from country to summit and it's exotic ;-)"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Loop from Saint-Jean de Luz to Ibardin?",
+      "answer": "This route is classified as <strong>moderate</strong> for road cycling. It covers approximately 53.7 kilometers with an elevation gain of about 865 meters, including significant climbs to the <a href=\"https://www.komoot.com/highlight/883677\" target=\"_blank\" rel=\"noopener\">Col d'Ibardin</a> and <a href=\"https://www.komoot.com/highlight/886142\" target=\"_blank\" rel=\"noopener\">Col de Lizuniaga</a>. It requires good fitness but is primarily on well-paved surfaces."
+    },
+    {
+      "question": "What kind of scenery can I expect on this cycling loop?",
+      "answer": "You'll experience diverse and appealing scenery, from small, bucolic roads with minimal traffic to magnificent views. The route passes through the first Pyrenean reliefs, traditional Basque villages, and lush green landscapes. From the <a href=\"https://www.komoot.com/highlight/883677\" target=\"_blank\" rel=\"noopener\">Col d'Ibardin</a>, you'll get breathtaking views of Saint-Jean-de-Luz and its bay."
+    },
+    {
+      "question": "Are there any notable landmarks or points of interest along the way?",
+      "answer": "Absolutely. Key highlights include the challenging and scenic ascent to the <a href=\"https://www.komoot.com/highlight/883677\" target=\"_blank\" rel=\"noopener\">Col d'Ibardin</a>, which sits on the Franco-Spanish border and offers panoramic views. You'll also pass the <a href=\"https://www.komoot.com/highlight/886142\" target=\"_blank\" rel=\"noopener\">Col de Lizuniaga</a> and enjoy a <a href=\"https://www.komoot.com/highlight/1014586\" target=\"_blank\" rel=\"noopener\">great little road</a> section. The route also immerses you in Basque culture as it passes through charming villages."
+    },
+    {
+      "question": "Where does the route start, and is there parking available?",
+      "answer": "The loop typically starts and ends in Saint-Jean de Luz. While specific parking details aren't provided, Saint-Jean de Luz is a well-known town with various parking options. The starting point is also accessible by public transport, offering convenience for cyclists."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The Basque Country generally offers pleasant cycling conditions outside of peak summer heat and winter cold. Spring (April-June) and early autumn (September-October) are often ideal, providing comfortable temperatures and vibrant landscapes. Always check the local weather forecast before you go."
+    },
+    {
+      "question": "Are there any cafes or places to stop for refreshments on the route?",
+      "answer": "Yes, a notable stop is at the <a href=\"https://www.komoot.com/highlight/883677\" target=\"_blank\" rel=\"noopener\">Col d'Ibardin</a>. On the Spanish side of the pass, you'll find 'ventas' which are shops and restaurants where you can refuel and enjoy local specialties."
+    },
+    {
+      "question": "Do I need any special permits or pay entrance fees for this cycling loop?",
+      "answer": "No, you do not need any special permits or have to pay entrance fees to cycle the Loop from Saint-Jean de Luz to Ibardin. It's a public road cycling route."
+    },
+    {
+      "question": "Is this road cycling route suitable for families or beginners?",
+      "answer": "Given its 'moderate' difficulty, significant elevation gain, and distance, this route is best suited for cyclists with good fitness and some experience with road cycling. It might be too challenging for beginners or young children."
+    },
+    {
+      "question": "Is the Loop from Saint-Jean de Luz to Ibardin dog-friendly?",
+      "answer": "As this is a road cycling route, it is not typically suitable for dogs to accompany you on the trail itself. If you are traveling with a dog, they would need to be secured in a bike trailer or left at a suitable accommodation."
+    },
+    {
+      "question": "Does this route intersect with other well-known cycling paths?",
+      "answer": "Yes, the route intersects with several other paths. Notably, it covers sections of the La route des cols Hendaye - Larrau, La route des contrebandiers, and the Véloroute de la Rhune."
+    },
+    {
+      "question": "What kind of terrain will I encounter on the loop?",
+      "answer": "The terrain is primarily well-paved roads, suitable for racebikes. You'll experience a mix of flat sections, rolling hills, and significant climbs, particularly to the mountain passes. The route is known for its varied landscape, combining coastal influences with the foothills of the Pyrenees."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0016743795,
+    "sb#paved": 0.13597216,
+    "sb#asphalt": 0.86235344
+  },
+  "way_types": {
+    "service": 0.0015776068,
+    "cycleway": 0.025709527,
+    "minor_road": 0.041375026,
+    "primary": 0.1631432,
+    "street": 0.7681946
+  },
+  "waypoints": [
+    {
+      "name": "Great little road",
+      "lat": 43.377683,
+      "lng": -1.714458,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 1014586
+    },
+    {
+      "name": "Col d'Ibardin",
+      "lat": 43.310215,
+      "lng": -1.687926,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "settlement",
+        "mountain_pass"
+      ],
+      "highlight_id": 883677
+    },
+    {
+      "name": "Col de Lizuniaga",
+      "lat": 43.286188,
+      "lng": -1.643787,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate"
+      ],
+      "highlight_id": 886142
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "mountain_pass",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.75,
+  "rating_count": 40,
+  "visitors": 1011,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-19T12:42:23.350Z",
+  "changed_at": "2026-02-26T18:47:22.914Z",
+  "scraped_at": "2026-04-28T19:24:36.495275+00:00"
+}

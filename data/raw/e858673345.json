@@ -1,0 +1,131 @@
+{
+  "tour_id": "e858673345",
+  "url": "https://www.komoot.com/smarttour/e858673345",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e858673345/escapade-between-biarritz-and-saint-jean-de-luz",
+  "name": "Escapade between Biarritz and Saint-Jean-de-Luz",
+  "name_original": "Escapade entre Biarritz et Saint-Jean-de-Luz",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 37781.80709602469,
+  "duration_s": 9216,
+  "elevation_up_m": 427.3147443730968,
+  "elevation_down_m": 427.0122197009608,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.481169,
+  "start_lng": -1.559531,
+  "start_alt_m": 35.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The château of Belay (first mentioned in 1342), also called château de Ferragus, protected the coast and port, while religious life and community assemblies took place at Notre-Dame-de-Pitié (a chapel mentioned in 1498), dominating the Port-des-Pêcheurs, or fishing port, possibly where now the Église Sainte-Eugénie is located.\r\n Construction of the château de Ferragus was decided by the English, on the foundations of a Roman work, at the summit of the promontory overlooking the sea, named Atalaye, used as a whale-observation post. The last tower disappeared in 1856. https://en.wikipedia.org/wiki/Biarritz",
+    "There are numerous restaurants and hotels around the Plage du Port Vieux. Good starting point for an evening walk to the nearby Rocher de la Vierge, the aquarium or just for a city stroll.",
+    "Along the beautiful, flat sandy beach south of Biarritz, the Atlantic Ocean roars to the delight of the surfers.",
+    "Out of season you can enjoy a beautiful central beach with few people"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#compacted": 0.006720637,
+    "unknown": 0.011963695,
+    "sb#unpaved": 0.12100274,
+    "sb#paved": 0.24112734,
+    "sb#asphalt": 0.61918557
+  },
+  "way_types": {
+    "primary": 0.003498621,
+    "service": 0.013034368,
+    "trail": 0.029345714,
+    "way": 0.03245359,
+    "street": 0.117272414,
+    "minor_road": 0.27414945,
+    "cycleway": 0.53024584
+  },
+  "waypoints": [
+    {
+      "name": "View of Biarritz harbour",
+      "lat": 43.482914,
+      "lng": -1.565168,
+      "type": "unknown",
+      "categories": [
+        "port_harbour"
+      ],
+      "highlight_id": 762216
+    },
+    {
+      "name": "Port Vieux Beach",
+      "lat": 43.482204,
+      "lng": -1.567779,
+      "type": "beach",
+      "categories": [
+        "beach",
+        "family_friendly",
+        "viewpoint",
+        "settlement"
+      ],
+      "highlight_id": 643390
+    },
+    {
+      "name": "Basque Coast",
+      "lat": 43.477524,
+      "lng": -1.566904,
+      "type": "beach",
+      "categories": [
+        "beach"
+      ],
+      "highlight_id": 3579944
+    },
+    {
+      "name": "Guéthary",
+      "lat": 43.425083,
+      "lng": -1.609072,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint",
+        "beach"
+      ],
+      "highlight_id": 3405779
+    },
+    {
+      "name": "Main Beach",
+      "lat": 43.389988,
+      "lng": -1.662826,
+      "type": "beach",
+      "categories": [
+        "family_friendly",
+        "beach",
+        "viewpoint"
+      ],
+      "highlight_id": 4252043
+    }
+  ],
+  "categories": [
+    "beach",
+    "family_friendly",
+    "port_harbour",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.410071849822998,
+  "rating_count": 139,
+  "visitors": 958,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-26T09:12:09.037Z",
+  "changed_at": "2024-06-04T22:14:33.443Z",
+  "scraped_at": "2026-04-28T23:41:41.710889+00:00"
+}

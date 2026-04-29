@@ -1,0 +1,140 @@
+{
+  "tour_id": "e1046251706",
+  "url": "https://www.komoot.com/smarttour/e1046251706",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1046251706/from-gorramendi-to-iparla-running-in-the-basque-country",
+  "name": "From Gorramendi to Iparla – running in the Basque Country",
+  "name_original": "Des crêtes de Gorramendi à celles d'Iparla — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 24368.862546466753,
+  "duration_s": 15683,
+  "elevation_up_m": 1508.1473394230095,
+  "elevation_down_m": 1485.0562519743485,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.257346,
+  "start_lng": -1.3877,
+  "start_alt_m": 261.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This very pretty loop of 24.4 kilometers and 1,500 meters of elevation will take you to conquer the beautiful ridges of the Spanish and French Basque Country. This route is ideal for progressing on technical trails which include an interesting kilometer/elevation ratio. I advise you to leave early in the morning to benefit from a special light that highlights the already magnificent landscapes even more.\n\nThe loop starts from a small parking lot at the end of a secondary road coming from the village of Bidarray. The first few meters are done down to the level of the river. A little further on, your first ascent begins. Without real difficulty, it seizes you from the start because it is relatively demanding. The climb runs along a ridge towards Alkaxuri. With a bit of luck, you will be able to observe the vultures perched on the large rocks that litter this portion.\n\nYou come out on a vertiginous ridge which offers a magnificent panorama. On one side the Artzamendi, on the other, the ridges of Iparla which are part of the rest of your itinerary. As a real tightrope walker, you continue to the peak of Gorramendi which welcomes you with new viewpoints.\n\nThen, it's a downhill portion that allows you to unroll on a comfortable track before climbing towards the crests of Iparla with the Astate in your sights. A final steep section takes you to the summit which rewards your efforts. Once again, the view is breathtaking. You admire the immense natural wall formed by the ridges of Iparla while seeing the high Pyrenean peaks on the horizon.\n\nThis impressive ridge marks the border between France and Spain. You go up it by following the GR 10 path. Its markings facilitate your progress to the peak of Iparla. From then on, a long portion of descent awaits you until you reach your starting point.\nIt begins on a grassy plateau before taking a wider track that allows you to unroll to end with a small path to the car park.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Alkaxuri dominates a superb ridge at an altitude of 949 meters.\r\n\r\nThe panorama is magnificent, especially on the neighboring ridge of Iparla as well as the peaks of the Pyrenees chain in the distance.\r\n\r\nAccess to this ridge is not easy, but the view is well worth it.",
+    "Magnificent segment on the ridges of Gorramendi. It connects the summit of Alkaxuri (965 meters) to that of Gorramakil (1,090 meters).\r\n\r\nSuperb panoramas on the ridges of Iparla, Artzamendi, and the valley of Baztan.\r\n\r\nStay vigilant on this rather technical and sometimes aerial section.",
+    "The Gorramendi is a Spanish summit which culminates at 1,071 meters above sea level. It offers a breathtaking view of the Baztan valley as well as several peaks of the Pyrenees chain. A pleasant ridge connects it to its neighbour, the Gorramakil.",
+    "The Astate is a peak culminating at 1,022 meters above sea level on the ridges of Iparla. Located on the GR 10 and right on the Franco-Spanish border, it offers extraordinary views of the Pyrenees chain.",
+    "The peak of Iparla dominates the ridges of the same name, culminating at 1,044 meters above sea level. This magnificent natural wall symbolizes the separation between France and Spain. From the village of Bidarray the ascent is gradual without too much difficulty along the ridge."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.014257863,
+    "asphalt": 0.01948974,
+    "unknown": 0.100003436,
+    "alpin": 0.39081943,
+    "unpaved": 0.47542953
+  },
+  "way_types": {
+    "alpine_hiking_path": 0.0050525917,
+    "track": 0.01565662,
+    "minor_road": 0.019318327,
+    "street": 0.019657504,
+    "way": 0.15637374,
+    "mountain_hiking_path": 0.38576683,
+    "hiking_path": 0.3981744
+  },
+  "waypoints": [
+    {
+      "name": "Alkaxuri Summit",
+      "lat": 43.239555,
+      "lng": -1.409674,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 1035413
+    },
+    {
+      "name": "Gorramendi Ridge",
+      "lat": 43.230757,
+      "lng": -1.421992,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "trail",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 5540695
+    },
+    {
+      "name": "Gorramendi",
+      "lat": 43.2097,
+      "lng": -1.4445,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5540680
+    },
+    {
+      "name": "Astate",
+      "lat": 43.1995,
+      "lng": -1.383,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 5540710
+    },
+    {
+      "name": "Iparla Peak",
+      "lat": 43.22823,
+      "lng": -1.37839,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "viewpoint",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 2830927
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 1,
+  "visitors": 131,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-07T15:58:24.755Z",
+  "changed_at": "2024-06-07T08:29:11.940Z",
+  "scraped_at": "2026-04-27T15:18:42.681846+00:00"
+}

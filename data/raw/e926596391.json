@@ -1,0 +1,111 @@
+{
+  "tour_id": "e926596391",
+  "url": "https://www.komoot.com/smarttour/e926596391",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926596391/valle-de-tena-panticosa-spa-and-return-to-bubal-reservoir",
+  "name": "Valle de Tena – Panticosa Spa and return to Búbal reservoir",
+  "name_original": "Valle de Tena – Balneario de Panticosa y vuelta al embalse de Búbal",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 43889.59334532577,
+  "duration_s": 10270,
+  "elevation_up_m": 1323.3124198000721,
+  "elevation_down_m": 1323.3124198000721,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.736246,
+  "start_lng": -0.315011,
+  "start_alt_m": 1182.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Wonderful zoo in the forest. The main attraction is the lynx. But also wolves and bears as well as other animal species native to the Pyrenees.\r\nAbsolutely unsuitable for people with walking difficulties or families with strollers.",
+    "The history of the Spa is closely linked to its prodigious mineral-medicinal waters that very early attracted those who needed them to restore their broken health, favored by staying in a place that, among other peculiarities, enjoyed a high-altitude climate as beneficial as the effects of the waters, and a landscape of mountains as old as the world."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.04119436,
+    "sb#asphalt": 0.9588056
+  },
+  "way_types": {
+    "service": 0.001685085,
+    "minor_road": 0.0651668,
+    "primary": 0.1598619,
+    "street": 0.7732862
+  },
+  "waypoints": [
+    {
+      "name": "Lacuniacha Wildlife Park",
+      "lat": 42.69636,
+      "lng": -0.33291,
+      "type": "other_man_made",
+      "categories": [
+        "other_man_made",
+        "other_natural",
+        "forest",
+        "challenging",
+        "family_friendly",
+        "facilities"
+      ],
+      "highlight_id": 3019380
+    },
+    {
+      "name": "Río Caldarés",
+      "lat": 42.715828,
+      "lng": -0.298165,
+      "type": "river",
+      "categories": [
+        "river",
+        "intermediate",
+        "gorge"
+      ],
+      "highlight_id": 3120369
+    },
+    {
+      "name": "Panticosa Spa",
+      "lat": 42.759382,
+      "lng": -0.234316,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "settlement",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 3757737
+    }
+  ],
+  "categories": [
+    "challenging",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "river",
+    "settlement"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 131,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-15T07:16:02.394Z",
+  "changed_at": "2024-07-24T09:11:45.036Z",
+  "scraped_at": "2026-04-28T19:28:11.164154+00:00"
+}

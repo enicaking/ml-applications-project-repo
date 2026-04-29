@@ -1,0 +1,94 @@
+{
+  "tour_id": "e1220292550",
+  "url": "https://www.komoot.com/smarttour/e1220292550",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1220292550/from-santa-elena-to-hoz-de-jaca-round-trip",
+  "name": "From Santa Elena to Hoz de Jaca — round trip",
+  "name_original": "De Santa Elena a Hoz de Jaca — ida y vuelta",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11626.14531589006,
+  "duration_s": 13637,
+  "elevation_up_m": 520.1961848049194,
+  "elevation_down_m": 520.1961848049194,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.660582,
+  "start_lng": -0.322373,
+  "start_alt_m": 989,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "bring water ... there is a fountain halfway",
+    "Beautiful mountain town located at the foot of the Búbal Reservoir, where a cliff appears between the marsh and the town itself. A viewpoint appears at one end of the town that lets us see impressive views!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.004076384,
+    "unpaved": 0.008022455,
+    "paved": 0.03818669,
+    "asphalt": 0.043597087,
+    "unknown": 0.17106844,
+    "nature": 0.73504895
+  },
+  "way_types": {
+    "minor_road": 0.0439337,
+    "street": 0.04686313,
+    "way": 0.0752082,
+    "footway": 0.099936634,
+    "hiking_path": 0.7340583
+  },
+  "waypoints": [
+    {
+      "name": "View of Embalse de Lanuza from Mirador de Cotones",
+      "lat": 42.691601,
+      "lng": -0.308855,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "lake",
+        "intermediate"
+      ],
+      "highlight_id": 3217982
+    },
+    {
+      "name": "Hoz de Jaca",
+      "lat": 42.690461,
+      "lng": -0.305736,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 5926601
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.599999904632568,
+  "rating_count": 5,
+  "visitors": 23,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-19T15:04:14.395Z",
+  "changed_at": "2024-07-26T13:15:06.835Z",
+  "scraped_at": "2026-04-27T11:12:53.543981+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "tour_id": "e1369511042",
+  "url": "https://www.komoot.com/smarttour/e1369511042",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369511042/buztanzelai",
+  "name": "Buztanzelai",
+  "name_original": null,
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14295.029929735498,
+  "duration_s": 8362,
+  "elevation_up_m": 833.9905281577353,
+  "elevation_down_m": 833.9905281577351,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.176998,
+  "start_lng": -1.341874,
+  "start_alt_m": 159.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Located between the peaks of Iparla and Hautza, Buztanzelai is less crowded than its neighbors. However, this summit, easy to access, offers beautiful views of the cliffs which demarcate the border between France and Spain. The loop route starts from the center of the village of Saint-Etienne-de-Baïgorry.\n\nThe route is mainly divided into two parts: a first section of climb up to the ridges of Iparla, then a long section of descent which runs through the heart of the Baigorri valley. The path begins by crossing the town of Leizparze, before immersing itself in a small forest.\n\nAs you climb, the slopes become steeper and the terrain clears. Behind you, the view opens up over the Baigorri valley and its villages. You finally reach the ridge line at Astateko Pass. A final ascent brings you Buztanzelai. Bordering, it offers superb views of the Spanish and French slopes, as well as the cliffs of Iparla.\n\nThe long descent which slides down to the village follows the GR 10 route. However, before you set off in pursuit of its red and white markings, I suggest a short detour via the Aintziaga. This new summit, a belvedere of the Baigorri valley, offers other perspectives on the surrounding area. The descent takes place on a fun and playful path until reaching the center of Saint-Etienne-de-Baïgorry.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Étienne-de-Baïgorry is one of the most charming towns in the Basque Country. There is a Roman bridge and the typical Labourdine houses, a few steps from the Irouléguy vineyard.",
+    "Planted on the south of the Iparla ridges, this summit culminates at 1,029 meters above sea level on the heights of the Baigorri valley. It offers a vast panorama which stretches to the high Pyrenean peaks.",
+    "This small summit culminating at 905 meters has the advantage of offering a striking double perspective. On one side, it offers a beautiful view of the dizzying cliffs of Iparla while on the other, you can see the high peaks of Béarn."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "nature": 0.039464112,
+    "paved": 0.052101955,
+    "unknown": 0.16448183,
+    "alpin": 0.17726704,
+    "asphalt": 0.20017612,
+    "unpaved": 0.36650896
+  },
+  "way_types": {
+    "street": 0.07829321,
+    "mountain_hiking_path": 0.15926185,
+    "minor_road": 0.18060893,
+    "way": 0.22827806,
+    "hiking_path": 0.35355794
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Étienne-de-Baïgorry",
+      "lat": 43.17706,
+      "lng": -1.34189,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "bridge",
+        "family_friendly",
+        "historical_site",
+        "river",
+        "intermediate"
+      ],
+      "highlight_id": 4394103
+    },
+    {
+      "name": "Buztanzelai",
+      "lat": 43.1944,
+      "lng": -1.3866,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 6275680
+    },
+    {
+      "name": "Aintziaga",
+      "lat": 43.1897,
+      "lng": -1.3814,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 6275689
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 2,
+  "rating_count": 1,
+  "visitors": 13,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T12:47:49.324Z",
+  "changed_at": "2024-08-13T10:49:31.332Z",
+  "scraped_at": "2026-04-27T15:25:05.409731+00:00"
+}

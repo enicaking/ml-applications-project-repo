@@ -1,0 +1,134 @@
+{
+  "tour_id": "e971344527",
+  "url": "https://www.komoot.com/smarttour/e971344527",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e971344527/txangoa-roncesvalles-trail",
+  "name": "Txangoa - Roncesvalles Trail",
+  "name_original": "Col de Burregieta – circular desde Orreaga/Roncesvalles",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 8188.281666278439,
+  "duration_s": 4690,
+  "elevation_up_m": 472.1837015679149,
+  "elevation_down_m": 471.59187283908614,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.008137,
+  "start_lng": -1.31956,
+  "start_alt_m": 940.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog the difficult 5.1-mile Txangoa - Roncesvalles Trail, gaining 1549 feet through Pyrenean forests and past Ibañeta Pass.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Collado de Burregieta offers wonderful views from its 1441 meters above sea level. You can get there from Puerto de Ibañeta or from Orreaga/Roncesvalle along picturesque paths or combine both and take a circular route."
+  ],
+  "faqs": [
+    {
+      "question": "What is the terrain like on this route?",
+      "answer": "The terrain on the Txangoa - Roncesvalles Trail is quite varied. You'll encounter mountain paths, forest tracks, and some exposed sections. While there are parts with paved or asphalt roads, much of it involves ground forest roads. Expect some steep and rocky descents, which can be challenging, but also peaceful stretches through forests, along rivers, and across meadows."
+    },
+    {
+      "question": "Is this trail suitable for beginners?",
+      "answer": "Given its 'difficult' rating and significant elevation gain over a relatively short distance, this trail is quite demanding physically. While it doesn't involve technical climbing, the steep ascents and descents require good fitness and experience, especially for jogging. Beginners might find it very challenging."
+    },
+    {
+      "question": "Where can I park to access the trail?",
+      "answer": "Parking is available in Roncesvalles (Orreaga). Look for designated parking areas, especially those catering to Camino de Santiago pilgrims, as the area is a major hub for the route. Parking near the Collegiate Church is a common option."
+    },
+    {
+      "question": "Is the Txangoa - Roncesvalles Trail dog-friendly?",
+      "answer": "Yes, the trails around Roncesvalles are generally dog-friendly. However, it's always best to keep your dog on a leash, especially in areas where you might encounter livestock or other trail users. Be prepared to carry water for your dog, as sources might be limited on some sections."
+    },
+    {
+      "question": "What is the best time of year to jog this route?",
+      "answer": "The best time to jog this route is typically during the spring (April-May) and autumn (September-October). During these seasons, the weather is generally milder, and the scenery is beautiful. Summer can be very hot, and winter may bring snow and ice, making conditions more difficult and potentially hazardous."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for this trail?",
+      "answer": "No, you do not need a specific permit or pay an entrance fee to access the Txangoa - Roncesvalles Trail. It is part of a public network of trails, including sections of the Camino de Santiago, which are freely accessible."
+    },
+    {
+      "question": "What historical or natural highlights can I see along the way?",
+      "answer": "This route offers both natural beauty and historical significance. You'll experience stunning views of the Pyrenees and the Navarra/Basque region, passing through shady beech and oak forests. A notable point of interest is the <a href=\"https://www.komoot.com/highlight/3478859\" target=\"_blank\" rel=\"noopener\">Ibañeta Pass (Col de Burregieta)</a>, which is historically significant and offers expansive views."
+    },
+    {
+      "question": "Does this trail connect with other well-known paths?",
+      "answer": "Yes, this trail significantly overlaps with sections of the famous Camino Francés, particularly the Camino Francés - 01 and Camino Francés (Alternative). You'll also find it intersects with parts of the Lepoeder (GR12) - Auritz (GR11) and [CIMA NA14] Ibañeta - Ortzanzurieta routes, among others."
+    },
+    {
+      "question": "What should I wear or bring for jogging on this trail?",
+      "answer": "Given the varied terrain and potential for steep sections, wear appropriate trail running shoes with good grip. Layers of clothing are advisable due to changing mountain weather. Bring enough water, especially on warmer days, and consider carrying snacks. A small first-aid kit and a charged phone are also recommended."
+    },
+    {
+      "question": "Are there any facilities like cafes or accommodation near the trail?",
+      "answer": "Roncesvalles (Orreaga) is a significant stop on the Camino de Santiago, so you'll find facilities there. There are cafes, restaurants, and various accommodation options, including pilgrim hostels (albergues) and guesthouses, available in the village for before or after your run."
+    },
+    {
+      "question": "Is this a loop trail or an out-and-back route?",
+      "answer": "The 'Txangoa - Roncesvalles Trail' as described is a circular route, meaning it is a loop trail. You will start and finish in the same general area, specifically from Orreaga/Roncesvalles, making it convenient for parking."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0063678487,
+    "paved": 0.027618164,
+    "nature": 0.052077312,
+    "alpin": 0.059623227,
+    "asphalt": 0.12826547,
+    "gravel": 0.20716749,
+    "unpaved": 0.5188805
+  },
+  "way_types": {
+    "primary": 0.002777291,
+    "minor_road": 0.06083872,
+    "mountain_hiking_path": 0.076609224,
+    "street": 0.12548818,
+    "hiking_path": 0.22126038,
+    "way": 0.5130262
+  },
+  "waypoints": [
+    {
+      "name": "Ibañeta Pass (Col de Burregieta)",
+      "lat": 43.0261,
+      "lng": -1.2957,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "climb",
+        "viewpoint",
+        "intermediate",
+        "historical_site",
+        "trail",
+        "summit"
+      ],
+      "highlight_id": 3478859
+    }
+  ],
+  "categories": [
+    "climb",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 5,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-03T11:29:48.174Z",
+  "changed_at": "2026-02-26T18:48:18.277Z",
+  "scraped_at": "2026-04-27T15:05:18.041175+00:00"
+}

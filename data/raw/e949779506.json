@@ -1,0 +1,111 @@
+{
+  "tour_id": "e949779506",
+  "url": "https://www.komoot.com/smarttour/e949779506",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e949779506/valle-de-tena-natural-path-of-the-lanuza-reservoir-trail-running-circular-from-sallent-de-gallego",
+  "name": "Valle de Tena – Natural Path of the Lanuza Reservoir – trail running circular from Sallent de Gállego",
+  "name_original": "Valle de Tena – Camino Natural del Embalse de Lanuza – circular de trail running desde Sallent de Gállego",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7691.781305375492,
+  "duration_s": 3182,
+  "elevation_up_m": 104.00924471991493,
+  "elevation_down_m": 103.99938209429365,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.769158,
+  "start_lng": -0.334664,
+  "start_alt_m": 1300,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Foratata rock is named for the hole that is drawn at its top and the many climbers who climb it say that it sounds hollow when hit. But there is a legend that explains its origin in a more interesting way and, by the way, explains what happened to all the ants that gave Formigal its name. You can read it here: http://sallentdegallego.blogspot.com/2014/03/la-leyenda-de-la-pena-foratata.html",
+    "In summer a festival is held in this reservoir, next to the town of Lanuza that gives it its name, on a stage that seems to float over the reservoir.",
+    "beautiful town surrounded by mountains and reservoir"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.004723122,
+    "paved": 0.081195794,
+    "nature": 0.37762535,
+    "asphalt": 0.53645575
+  },
+  "way_types": {
+    "primary": 0.01328313,
+    "way": 0.014675115,
+    "minor_road": 0.06626306,
+    "hiking_path": 0.3826061,
+    "street": 0.5231726
+  },
+  "waypoints": [
+    {
+      "name": "View of Peña Foratata",
+      "lat": 42.7673,
+      "lng": -0.3325,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "natural_monument",
+        "intermediate",
+        "summit"
+      ],
+      "highlight_id": 5013909
+    },
+    {
+      "name": "Lanuza Reservoir",
+      "lat": 42.7501,
+      "lng": -0.3128,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "other_natural",
+        "family_friendly",
+        "other_man_made",
+        "viewpoint"
+      ],
+      "highlight_id": 5040907
+    },
+    {
+      "name": "Lanuza Village",
+      "lat": 42.7562,
+      "lng": -0.3148,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 4821984
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_man_made",
+    "other_natural",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 2,
+  "visitors": 86,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-10T15:28:50.109Z",
+  "changed_at": "2024-06-05T22:17:25.947Z",
+  "scraped_at": "2026-04-27T15:20:43.561930+00:00"
+}

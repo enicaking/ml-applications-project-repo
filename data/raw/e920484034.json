@@ -1,0 +1,135 @@
+{
+  "tour_id": "e920484034",
+  "url": "https://www.komoot.com/smarttour/e920484034",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e920484034/carlac-beech-forest-trail",
+  "name": "Carlac Beech Forest Trail",
+  "name_original": "Bosque encantado de Carlac — circular desde Bausén",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6197.972372011369,
+  "duration_s": 8049,
+  "elevation_up_m": 344.8298358016759,
+  "elevation_down_m": 339.30796584004963,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.834721,
+  "start_lng": 0.716875,
+  "start_alt_m": 900.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike through the Enchanted Forest of Carlac from Bausén, a moderate 3.9-mile circular trail with ancient beech trees and valley views.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Views of the Canejan valley from the Carlac forest",
+    "Carlac beech forest where you can enjoy the nature of the Aran Valley"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this hike?",
+      "answer": "The circular route through the Enchanted Forest of Carlac from Bausén usually takes around 2 hours and 15 minutes to complete. This duration can vary depending on your pace and how often you stop to enjoy the scenery."
+    },
+    {
+      "question": "Where does the trail start, and is there parking available?",
+      "answer": "The trail conveniently starts and ends in the charming village of Bausén. You'll find parking options within the village itself, making it easy to access the trailhead."
+    },
+    {
+      "question": "What is the terrain like on the Enchanted Forest of Carlac trail?",
+      "answer": "The trail features mostly accessible paths, but some sections require sure-footedness. As you delve deeper into the Carlac beech forest, you'll encounter ancient, twisted trees and traverse wooden walkways over the Carlac ravine. The path eventually opens into meadows as it descends."
+    },
+    {
+      "question": "What makes the Carlac Beech Forest 'enchanted'?",
+      "answer": "The Carlac Beech Forest earns its 'enchanted' reputation from its ancient, uniquely shaped beech trees, particularly on the north-facing slopes. Their dramatically twisted forms create a spectacular, fairytale-like atmosphere, especially when the forest is shrouded in mist."
+    },
+    {
+      "question": "Is this hike suitable for families with children?",
+      "answer": "While considered moderate in difficulty, requiring good physical fitness, the trail's accessible paths and magical atmosphere can be enjoyable for families with older children who are used to hiking. Younger children might find some sections challenging."
+    },
+    {
+      "question": "Is the Enchanted Forest of Carlac trail dog-friendly?",
+      "answer": "Yes, this trail is generally dog-friendly. However, it's always best to keep your dog on a leash, especially in forested areas and near wildlife, and to ensure you clean up after them to preserve the natural beauty of the Val d'Aran."
+    },
+    {
+      "question": "What is the best time of year to hike this route?",
+      "answer": "The trail is particularly atmospheric when shrouded in mist, which can occur in various seasons. However, for generally pleasant hiking conditions and to fully appreciate the forest's colors, spring and autumn are often recommended. Always check the weather forecast for Val d'Aran before you go."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this hike in Val d'Aran?",
+      "answer": "No, you do not need a specific permit or to pay an entrance fee to hike the Enchanted Forest of Carlac trail. It's freely accessible to the public. However, always respect local regulations and leave no trace."
+    },
+    {
+      "question": "Are there any notable viewpoints or landmarks along the way?",
+      "answer": "Absolutely! Along the route, you'll be treated to beautiful views of the lower Aran valley and the village of Canejan. A key highlight is the <a href=\"https://www.komoot.com/highlight/4976292\" target=\"_blank\" rel=\"noopener\">View of the Canejan Valley</a>. You'll also spend significant time immersed in the magical <a href=\"https://www.komoot.com/highlight/4976113\" target=\"_blank\" rel=\"noopener\">Carlac Beech Forest</a>. From Bausén, you can also take a short detour to the village cemetery, which offers additional views of the Lower Aran and is linked to a local legend."
+    },
+    {
+      "question": "Does this trail connect with other hiking paths?",
+      "answer": "Yes, this route intersects with several other paths. You'll find yourself on sections of the Camin Reiau - Etapa 7, the Fageda de Carlac, and the Sender circular de la Val d'Aran. Variant Les - Pont dera Lana, among others, during your hike."
+    },
+    {
+      "question": "Are there any cafes or restaurants in Bausén after the hike?",
+      "answer": "Bausén is a small, charming village. While it might not have a wide array of options, it's worth checking locally for any small cafes or traditional eateries that might be open, especially during peak season. It's a great place to experience local culture."
+    }
+  ],
+  "surfaces": {
+    "unpaved": 0.004577489,
+    "unknown": 0.005975328,
+    "paved": 0.04433302,
+    "nature": 0.94511414
+  },
+  "way_types": {
+    "minor_road": 0.04433302,
+    "way": 0.111406125,
+    "mountain_hiking_path": 0.16017081,
+    "hiking_path": 0.68409
+  },
+  "waypoints": [
+    {
+      "name": "View of the Canejan Valley",
+      "lat": 42.840079,
+      "lng": 0.723857,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "gorge",
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 4976292
+    },
+    {
+      "name": "Carlac Beech Forest",
+      "lat": 42.845309,
+      "lng": 0.716107,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "intermediate"
+      ],
+      "highlight_id": 4976113
+    }
+  ],
+  "categories": [
+    "forest",
+    "gorge",
+    "intermediate",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.7317070960998535,
+  "rating_count": 41,
+  "visitors": 534,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-09T13:56:57.912Z",
+  "changed_at": "2026-02-26T18:49:11.669Z",
+  "scraped_at": "2026-04-27T12:00:20.956750+00:00"
+}

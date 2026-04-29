@@ -1,0 +1,105 @@
+{
+  "tour_id": "e937156759",
+  "url": "https://www.komoot.com/smarttour/e937156759",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e937156759/tour-around-the-ceretana-plain-circular-from-puigcerda",
+  "name": "Tour around the Ceretana plain - Circular from Puigcerdà",
+  "name_original": "Vuelta por la llanura Ceretana - Circular desde Puigcerdà",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 34673.38952878506,
+  "duration_s": 8256,
+  "elevation_up_m": 274.4504721836919,
+  "elevation_down_m": 275.0000962995042,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.427284,
+  "start_lng": 1.928966,
+  "start_alt_m": 1146.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Bridge over the Segre",
+    "During the 70s of the last century, the municipality was a world-famous place due to the astrophysical observation that was made from the more than twenty domes that were installed there. The clarity of Cerdanya's night sky was comparable to that of the Arizona desert in the US\n\n\nhttps://ca.wikipedia.org/wiki/Prats_i_Censor",
+    "\"Sancta Maria de Quadris\" was in the 13th-14th centuries a \"domus hospitalis\" (chapel of a hospital or traveling hospital).\nThe Romanesque carving of the Virgin was burned in 1936.\nOf Romanesque origin (12th century), the temple was modified at the end of the 18th century. In practice, two entire buildings overlap: the s. XII (buried as a result of successive floods of the Segre River), and the XVIII century.\n\n\n\nhttp://invarquit.cultura.gencat.cat/Cerca/Fitxa?index=0&consulta=&codi=7743"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.00038252084,
+    "sb#paved": 0.123292916,
+    "sb#unpaved": 0.16711983,
+    "sb#asphalt": 0.70920473
+  },
+  "way_types": {
+    "way": 0.18044533,
+    "primary": 0.18419044,
+    "minor_road": 0.22307442,
+    "street": 0.41228983
+  },
+  "waypoints": [
+    {
+      "name": "Soler Bridge (Segre River)",
+      "lat": 42.397728,
+      "lng": 1.899075,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "family_friendly",
+        "river"
+      ],
+      "highlight_id": 3546536
+    },
+    {
+      "name": "Sant Serni Church, Prats i Sansor",
+      "lat": 42.365654,
+      "lng": 1.838978,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 4224915
+    },
+    {
+      "name": "Sancta Maria de Quadres",
+      "lat": 42.386289,
+      "lng": 1.837098,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 4224903
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "river"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 4,
+  "visitors": 46,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-26T14:59:04.016Z",
+  "changed_at": "2024-06-05T08:35:31.927Z",
+  "scraped_at": "2026-04-29T00:25:55.066154+00:00"
+}

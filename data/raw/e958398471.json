@@ -1,0 +1,123 @@
+{
+  "tour_id": "e958398471",
+  "url": "https://www.komoot.com/smarttour/e958398471",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e958398471/from-astau-barns-to-saussat-lake-via-oo-lake-and-espingo-lake",
+  "name": "From Astau Barns to Saussat Lake via Oô Lake and Espingo Lake",
+  "name_original": "Des Granges d‘Astau au lac de Saussat en passant par le lac d'Oô et le lac d'Espingo",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 13362.02342776187,
+  "duration_s": 21612,
+  "elevation_up_m": 933.2915697334615,
+  "elevation_down_m": 933.2915697334613,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.764454,
+  "start_lng": 0.501982,
+  "start_alt_m": 1143.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Lac d'Oô is a must in the Pyrenees. Perched at 1,507 meters above sea level, this artificial expanse is located on an old glacial lake.\r\n\r\nIts emblematic waterfall of 275 meters also contributes to the fame of this remarkable natural site.",
+    "Some streams have to be crossed on this section of the trail.",
+    "Lake Espingo offers a superb setting for a stopover before setting off again towards Lake Portillon. You can admire the peaks of Luchon such as the Tusse de Montarqué or Perdiguères. Its refuge is located overlooking and offers beds in high season and non-custodial beds in winter. You can find all the necessary information here: https://refugedespingo.ffcam.fr/FR_home.html",
+    "Magnificent mountain lake located at 1,921 meters above sea level. Mainly fed by the Lac du Portillon, it is nestled in a picturesque green setting."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0075246375,
+    "paved": 0.012239606,
+    "alpin": 0.1434308,
+    "nature": 0.18659937,
+    "unpaved": 0.6502056
+  },
+  "way_types": {
+    "street": 0.012239606,
+    "way": 0.28323624,
+    "mountain_hiking_path": 0.70452416
+  },
+  "waypoints": [
+    {
+      "name": "Lac d'Oô",
+      "lat": 42.74431,
+      "lng": 0.491713,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "hut",
+        "intermediate",
+        "waterfall"
+      ],
+      "highlight_id": 5186545
+    },
+    {
+      "name": "View of Lac d'Oô and the waterfalls",
+      "lat": 42.737935,
+      "lng": 0.499114,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "lake",
+        "waterfall",
+        "climb"
+      ],
+      "highlight_id": 4541782
+    },
+    {
+      "name": "Lake Espingo and Espingo Refuge",
+      "lat": 42.730464,
+      "lng": 0.501092,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "hut",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2600839
+    },
+    {
+      "name": "Lake Saussat",
+      "lat": 42.724965,
+      "lng": 0.502734,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 3744532
+    }
+  ],
+  "categories": [
+    "climb",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.723880767822266,
+  "rating_count": 134,
+  "visitors": 1771,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-20T23:14:11.867Z",
+  "changed_at": "2024-06-06T00:15:23.804Z",
+  "scraped_at": "2026-04-27T11:51:48.845323+00:00"
+}

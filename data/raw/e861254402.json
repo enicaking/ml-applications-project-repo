@@ -1,0 +1,121 @@
+{
+  "tour_id": "e861254402",
+  "url": "https://www.komoot.com/smarttour/e861254402",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e861254402/escape-to-the-summit-of-the-aubisque-pass-and-the-soulor",
+  "name": "Escape to the summit of the Aubisque pass and the Soulor",
+  "name_original": "Escapade au sommet du col de l'Aubisque et du Soulor",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 75867.50035799904,
+  "duration_s": 21810,
+  "elevation_up_m": 2096.7126236651384,
+  "elevation_down_m": 2096.151847917703,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.960056,
+  "start_lng": -0.333346,
+  "start_alt_m": 1358.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col d'Aubisque is at an altitude of 1709 meters and surely offers one of the most beautiful views of the Pic de Ger or the slats of Bazen.\r\nFrom up there you are surrounded by the sharp peaks that dominate the Ossau valley.",
+    "The Col du Soulor is one of the emblematic passes of the Pyrenees and the Tour de France. This pass, which rises to an altitude of 1,474 meters, also owes its fame to its neighbor, the Col d'Aubisque. Located in the beautiful Ouzom valley, its ascent from the east offers beautiful mountain panoramas. The junction which leads to the Col d'Aubisque forms a wonderful viewpoint over the Litor cirque.",
+    "The pretty little mountain village of Eaux-Bonnes is perched at an altitude of 715 meters. It owes its fame to its thermal springs which have contributed to its development since the 17th century. Nestled between Laruns and Gourette, the village invites you to take a pleasant break in a beautiful valley."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.005492381,
+    "sb#unpaved": 0.03332002,
+    "sb#paved": 0.069347836,
+    "sb#asphalt": 0.89183974
+  },
+  "way_types": {
+    "service": 0.001801112,
+    "minor_road": 0.008186409,
+    "way": 0.012126532,
+    "trail": 0.02119349,
+    "cycleway": 0.059508972,
+    "street": 0.8971835
+  },
+  "waypoints": [
+    {
+      "name": "Col d'Aubisque",
+      "lat": 42.976558,
+      "lng": -0.339763,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "climb",
+        "challenging",
+        "intermediate"
+      ],
+      "highlight_id": 128885
+    },
+    {
+      "name": "Col du Soulor",
+      "lat": 42.960631,
+      "lng": -0.261005,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "challenging",
+        "mountain_pass",
+        "intermediate"
+      ],
+      "highlight_id": 128883
+    },
+    {
+      "name": "Eaux-Bonnes Thermal Baths",
+      "lat": 42.972411,
+      "lng": -0.392656,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "historical_site",
+        "family_friendly",
+        "settlement",
+        "unknown",
+        "facilities"
+      ],
+      "highlight_id": 3453391
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "mountain_pass",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 194,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-28T08:02:39.106Z",
+  "changed_at": "2024-06-05T19:20:45.529Z",
+  "scraped_at": "2026-04-28T23:48:49.413032+00:00"
+}

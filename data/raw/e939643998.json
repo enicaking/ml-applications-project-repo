@@ -1,0 +1,95 @@
+{
+  "tour_id": "e939643998",
+  "url": "https://www.komoot.com/smarttour/e939643998",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e939643998/running-by-pla-de-l-ermita-and-tauell-valle-de-boi",
+  "name": "Running by Pla de l'Ermita and Taüll — Valle de Boí",
+  "name_original": "Running por Pla de l'Ermita y Taüll — Valle de Boí",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 4147.666549696657,
+  "duration_s": 1909,
+  "elevation_up_m": 174.58553068471338,
+  "elevation_down_m": 172.22236374239924,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.516336,
+  "start_lng": 0.856082,
+  "start_alt_m": 1642.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "We are in Taüll. In the Boí valley. An obligatory stop to visit the most emblematic Romanesque Church in the Valley and which forms part of the Romanesque ensemble. In 1931 it was declared a Historic-Artistic Monument.\r\nIn 2000 it was declared a UNESCO World Heritage Site. We will find information panels but I recommend the guided tour.",
+    "Romanesque church, located in the center of the village of Taüll."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0073840567,
+    "gravel": 0.053862024,
+    "asphalt": 0.18058988,
+    "paved": 0.30593017,
+    "unpaved": 0.45223385
+  },
+  "way_types": {
+    "footway": 0.0060884547,
+    "track": 0.048851725,
+    "hiking_path": 0.14093801,
+    "street": 0.1594778,
+    "way": 0.31129584,
+    "minor_road": 0.33334816
+  },
+  "waypoints": [
+    {
+      "name": "Sant Climent de Taüll",
+      "lat": 42.517196,
+      "lng": 0.848801,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "man_made_monument",
+        "historical_site"
+      ],
+      "highlight_id": 3081472
+    },
+    {
+      "name": "Santa Maria de Taüll",
+      "lat": 42.520193,
+      "lng": 0.847299,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "family_friendly",
+        "man_made_monument",
+        "historical_site"
+      ],
+      "highlight_id": 3081468
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "religious_building"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 3,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-30T09:34:23.737Z",
+  "changed_at": "2024-06-05T20:49:18.059Z",
+  "scraped_at": "2026-04-27T15:53:39.693130+00:00"
+}

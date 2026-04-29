@@ -1,0 +1,158 @@
+{
+  "tour_id": "e936501704",
+  "url": "https://www.komoot.com/smarttour/e936501704",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e936501704/engorgs-lakes-via-la-carbassa-and-bony-del-manyer-loop",
+  "name": "Engorgs Lakes via La Carbassa and Bony del Manyer Loop",
+  "name_original": "Estanys d'Engorgs – circular desde Meranges por La Carbassa, Bony del Manyer y Estany dels Minyons",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 29595.3223008554,
+  "duration_s": 15935,
+  "elevation_up_m": 1611.644180694358,
+  "elevation_down_m": 1611.644180694358,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.444381,
+  "start_lng": 1.788842,
+  "start_alt_m": 1520.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 18.4-mile mountain biking route from Meranges explores the glacial cirque of Estanys d'Engorgs with 5288 feet of gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A mountain pass through black pine forests connects the Aransa and Cap del Rec areas, at an altitude of over 1,900 meters. It's a peaceful spot with partial views of the Cadí mountain range and a pure high-mountain atmosphere. Ideal for a short break before tackling the descent or the next climb. On a mountain bike, the ascent has some sustained sections and a slightly broken surface; it's best to maintain a steady cadence and save energy for the final part, where the track narrows and the terrain becomes more technical.",
+    "La Carbassa is a beautiful summit located at 2,736 meters, between the municipalities of Bellver de Cerdanya and Meranges.",
+    "Bony del Manyer is a mountain of 2,809 meters in the Tossa Plana de Lles-Puigpedrós, in the region of Baixa Cerdanya."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this mountain bike route?",
+      "answer": "This challenging mountain bike route is estimated to take approximately <em>4 hours and 25 minutes</em> to complete. However, actual duration can vary based on your fitness level, technical skills, and how often you stop to enjoy the scenery."
+    },
+    {
+      "question": "Is this mountain bike route suitable for beginners?",
+      "answer": "No, this route is rated as <strong>difficult</strong> and is best suited for experienced mountain bikers with very good physical fitness. It involves significant elevation changes and potentially technical sections across rugged high-mountain terrain."
+    },
+    {
+      "question": "Where does the trail start and where can I park in Meranges?",
+      "answer": "The route starts and ends in Meranges. While specific parking details aren't provided, Meranges is the common starting point for trails in the area. You'll likely find parking options within the village or at designated trailheads nearby."
+    },
+    {
+      "question": "What kind of terrain can I expect on this mountain bike route?",
+      "answer": "Expect a varied high-mountain terrain. The route generally follows mountain paths and alpine meadows, with sections that can be steep and uneven. Given its glacial origins, you might encounter rocky sections and singletracks that demand technical skill. The landscape is rugged and diverse."
+    },
+    {
+      "question": "What notable natural features or landmarks will I encounter along the way?",
+      "answer": "You'll experience a stunning glacial landscape, passing through the Duran valley, subalpine forests, and black pine forests. Highlights include the spectacular glacial cirque of Engorgs with its complex of over ten pristine lakes, such as Estany dels Minyons and Estanys Aparellats. You'll also pass by significant points like <a href=\"https://www.komoot.com/highlight/4803212\" target=\"_blank\" rel=\"noopener\">Collet de pla Ferran</a>, the summit of <a href=\"https://www.komoot.com/highlight/512897\" target=\"_blank\" rel=\"noopener\">La Carbassa (2,740 m)</a>, and <a href=\"https://www.komoot.com/highlight/299655\" target=\"_blank\" rel=\"noopener\">Bony del Manyer (2,809 m)</a>, offering panoramic views of the Pyrenees."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this route?",
+      "answer": "The best time to mountain bike this high-mountain route is typically during the warmer months, from late spring to early autumn (June to September), when the snow has melted and weather conditions are more stable. Always check the local weather forecast before heading out, as conditions can change rapidly in the Pyrenees."
+    },
+    {
+      "question": "Is this mountain bike route dog-friendly?",
+      "answer": "The route traverses the Tossa Plana de Lles-Puigpedrós reserve. While dogs are generally allowed in natural parks, they must typically be kept on a leash to protect wildlife and ensure the safety of other visitors. Always follow local regulations and practice Leave No Trace principles."
+    },
+    {
+      "question": "Do I need any permits or is there an entrance fee for the Tossa Plana de Lles-Puigpedrós reserve?",
+      "answer": "This route is located within the Tossa Plana de Lles-Puigpedrós reserve. Generally, there are no entrance fees for accessing the reserve for activities like mountain biking. However, specific activities or larger groups might require permits. It's always advisable to check with local authorities or the park's official website for the most current regulations before your visit."
+    },
+    {
+      "question": "Does this route connect with other well-known trails?",
+      "answer": "Yes, sections of this route intersect with other established trails. You will find yourself on parts of the Territori Cerdanya 360, Ruta dels Estanys Amagats, and the Senda Pirenaica (E13 and E12), among others. This offers opportunities to explore further if you wish to extend your ride."
+    },
+    {
+      "question": "What should I pack for mountain biking this difficult route?",
+      "answer": "Given the route's difficulty and high-mountain environment, you should pack essential mountain biking gear, including a well-maintained bike, helmet, appropriate clothing layers for varying weather, plenty of water and snacks, a repair kit, first-aid supplies, and navigation tools (GPS device or map and compass). Sun protection is also crucial at high altitudes."
+    },
+    {
+      "question": "Are there any facilities like cafes or restaurants near the trailhead in Meranges?",
+      "answer": "Meranges is a small village and serves as a starting point for many routes. You can typically find basic amenities such as cafes or restaurants in the village where you can refuel before or after your ride. It's a good idea to check opening hours in advance, especially during off-peak seasons."
+    }
+  ],
+  "surfaces": {
+    "sm#nature": 0.046712287,
+    "sm#asphalt": 0.05536645,
+    "sm#paved": 0.0567,
+    "sm#alpin": 0.14296985,
+    "sm#unpaved": 0.6982514
+  },
+  "way_types": {
+    "minor_road": 0.029307825,
+    "street": 0.08225672,
+    "way": 0.33194432,
+    "trail": 0.55649114
+  },
+  "waypoints": [
+    {
+      "name": "Collet de pla Ferran",
+      "lat": 42.441889,
+      "lng": 1.754563,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 4803212
+    },
+    {
+      "name": "La Carbassa (2,740 m)",
+      "lat": 42.453016,
+      "lng": 1.726952,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 512897
+    },
+    {
+      "name": "Bony del Manyer (2,809 m)",
+      "lat": 42.473648,
+      "lng": 1.733017,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate",
+        "mountain_pass",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 299655
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-25T16:03:36.597Z",
+  "changed_at": "2026-02-26T18:49:58.822Z",
+  "scraped_at": "2026-04-28T15:54:34.044412+00:00"
+}

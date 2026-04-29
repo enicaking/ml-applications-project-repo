@@ -1,0 +1,77 @@
+{
+  "tour_id": "e1027272010",
+  "url": "https://www.komoot.com/smarttour/e1027272010",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1027272010/pico-teleno-from-filiel",
+  "name": "Pico Teleno from Filiel",
+  "name_original": "Pico Teleno desde Filiel",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16892.031677022733,
+  "duration_s": 24111,
+  "elevation_up_m": 1047.9339008535817,
+  "elevation_down_m": 1047.9339008535817,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.377699,
+  "start_lng": -6.333688,
+  "start_alt_m": 1119.9,
+  "region": "Lucillo",
+  "region_id": 58481,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": "Hiking around Lucillo offers access to a landscape characterized by lush rainforests, mountainous terrain, and coastal proximity. The region is dominated by the El Yunque National Forest, featuring dense, verdant paths and steep topography. Numerous waterfalls and rivers are present, with elevations reaching over 1,000 meters in the Luquillo Mountains. Best hiking trails in Lucillo The most popular hiking route is Cueva de San Genado from Peñalba de Santiago, a 2.8 miles (4.4 km) trail that takes 1 hour 29 minutes to complete. This moderate path offers views of the surrounding natural environment. Another top favourite among local hikers is Pico Teleno from Filiel, a difficult 10.5 miles (16.9 km) path. This route features significant elevation gain through mountainous terrain. Local hikers also love the Cabeza de la Yegua, La Mayada y Pico Tuerto – return trip from Puerto de los Portillinos through Montes Aquilianos, an 8.0 miles (12.8 km) trail leading through mountainous landscapes, often completed in about 4 hours 52 minutes. Hiking around Lucillo is defined by lush rainforests, active waterfalls, and mountainous terrain. The network offers options for various ability levels, from moderate forest paths to more challenging mountain ascents. The routes in Lucillo are highly rated by the komoot community with an average score of 4.2 stars from over 90 reviews. More than 600 hikers have used komoot to explore Lucillo's varied terrain.",
+  "region_faq": "Q: How many hiking trails are available in Luquillo?\nA: Luquillo offers a diverse network of over 40 hiking trails, primarily within the El Yunque National Forest. These trails cater to various fitness levels, from easy walks to more challenging mountain ascents.\n\nQ: What are the typical difficulty levels for hiking trails in Luquillo?\nA: The trails in Luquillo range from moderate forest paths to difficult mountain ascents. You'll find approximately 6 easy routes, 25 moderate routes, and 12 difficult routes, ensuring options for different experience levels.\n\nQ: Are there any family-friendly hikes in Luquillo?\nA: Yes, Luquillo has several family-friendly options, particularly within El Yunque National Forest. Trails like the Angelito Trail are known for being mellow and lead to tranquil spots suitable for families, such as the Mameyes River for swimming.\n\nQ: Can I find trails with waterfalls in Luquillo?\nA: Absolutely. El Yunque National Forest is famous for its numerous active waterfalls. Hikers can enjoy sights like La Coca Falls, which tumbles 85 feet, and natural water slides at Las Paylas (or Las Pailas), formed by smooth rocks in mountain streams.\n\nQ: What kind of natural landscapes can I expect to see while hiking in Luquillo?\nA: Hiking in Luquillo immerses you in lush tropical rainforests, characterized by dense, verdant paths and towering trees. As you gain elevation in the Luquillo Mountains, you might encounter mystical cloud forest ecosystems. On clear days, some mountain tops offer stunning coastal views.\n\nQ: Are there any circular walks available in Luquillo?\nA: Yes, the trail system in Luquillo, especially within El Yunque, includes various routes that can be combined or are designed as circular walks, allowing you to experience different facets of the rainforest without retracing your steps.\n\nQ: What do other hikers say about the trails in Luquillo?\nA: The hiking routes in Luquillo are highly rated by the komoot community, with an average score of 4.2 stars from over 90 reviews. Hikers often praise the unique tropical rainforest environment, the active waterfalls, and the diverse terrain.\n\nQ: What is the best time of year to hike in Luquillo?\nA: Luquillo's tropical rainforest climate means consistent moisture year-round. While hiking is possible any time, be prepared for rain, especially during the wetter months. The constant moisture contributes to the vibrant ecosystem and active waterfalls.\n\nQ: What should I wear when hiking near Luquillo?\nA: Given the tropical rainforest environment and high annual rainfall, it's advisable to wear lightweight, quick-drying clothing. Waterproof gear, sturdy hiking shoes with good grip, and insect repellent are highly recommended.\n\nQ: Are there any historic sites or points of interest along the trails in El Yunque?\nA: Yes, within El Yunque National Forest, you can explore historic sites built by the Civilian Conservation Corps in the 1930s, such as Baño Grande and Baño Oro (large stone pools), and old ranger stations like Stone House.\n\nQ: Where can I find information about the El Yunque National Forest before my hike?\nA: The El Portal Visitor Center in El Yunque National Forest provides educational programs, guided walks, and exhibits about the forest, which can be a great resource before heading out on the trails.\n\nQ: Are there opportunities for wild swimming after a hike in Luquillo?\nA: Yes, several trails lead to refreshing swimming spots. The Angelito Trail, for instance, takes you to the Mameyes River, a tranquil place perfect for a dip. Additionally, Las Paylas offers natural water slides for a unique swimming experience.",
+  "tips": [
+    "The highest peak of the Montes de León mountain range, from its 2188 masl you will have guaranteed beautiful panoramic views in all directions, highlighting the valleys of the Cabritos and Eria rivers."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.021394333,
+    "nature": 0.02426526,
+    "unknown": 0.12766263,
+    "alpin": 0.26640132,
+    "unpaved": 0.56027645
+  },
+  "way_types": {
+    "minor_road": 0.021394333,
+    "hiking_path": 0.19703622,
+    "mountain_hiking_path": 0.29066658,
+    "way": 0.49090284
+  },
+  "waypoints": [
+    {
+      "name": "Teleno Summit",
+      "lat": 42.345923,
+      "lng": -6.393799,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint"
+      ],
+      "highlight_id": 1615388
+    }
+  ],
+  "categories": [
+    "challenging",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 23,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-02-09T16:09:00.778Z",
+  "changed_at": "2024-06-07T02:16:55.476Z",
+  "scraped_at": "2026-04-27T10:03:10.937568+00:00"
+}

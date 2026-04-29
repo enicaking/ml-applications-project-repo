@@ -1,0 +1,138 @@
+{
+  "tour_id": "e1411378817",
+  "url": "https://www.komoot.com/smarttour/e1411378817",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1411378817/port-dret-trail",
+  "name": "Port Dret Trail",
+  "name_original": "Port Dret — ida y vuelta desde Soldeu",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7879.0718930704215,
+  "duration_s": 5045,
+  "elevation_up_m": 738.6944420221653,
+  "elevation_down_m": 738.6944420221655,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.57597,
+  "start_lng": 1.669109,
+  "start_alt_m": 1823.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Tackle the moderate Port Dret Trail, a 4.9-mile mountain biking route in Vall d'Incles with 2424 feet of elevation gain and stunning mountai",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Technical descent path towards Soldeu from the port. The trail passes through the pine line and offers incredible views of the valley.",
+    "Beautiful mountain pass and junction of several trails that link the surrounding valleys. This ridge at 2,572 meters above sea level separates the Valira valley from the Arieja valley. Incredible views of the surrounding mountains. The descent is technical, so be careful."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level and terrain like for mountain biking the Port Dret Trail?",
+      "answer": "The Port Dret Trail is officially rated as <em>moderate</em>, but it presents a significant challenge for mountain bikers. The terrain is highly technical, featuring rocky paths, narrow trails, and very steep sections. Riders should be prepared for demanding ascents where pushing or carrying bikes may be necessary, especially on the climb to the summit. The descent is also technical, requiring a good level of skill and fitness."
+    },
+    {
+      "question": "What kind of views and landmarks can I expect along the route?",
+      "answer": "The trail offers incredible views of the surrounding mountains, especially as you reach the <a href=\"https://www.komoot.com/highlight/6352835\" target=\"_blank\" rel=\"noopener\">Port Dret Mountain Pass</a>. Situated at an altitude of 2,572 meters, the pass provides expansive, panoramic vistas of the mountainous landscape, separating the Valira Valley from the Ariège Valley. The trail itself is also a highlight, known as the <a href=\"https://www.komoot.com/highlight/6361852\" target=\"_blank\" rel=\"noopener\">Port Dret Trail</a>."
+    },
+    {
+      "question": "Where does the Port Dret Trail start, and is parking available?",
+      "answer": "The Port Dret Trail typically starts from Soldeu, as indicated by the tour data. Specific parking information for the trailhead isn't provided, but Soldeu is a well-known area in Andorra, and parking facilities are generally available in the village. It's advisable to check local parking options in Soldeu before your visit."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for mountain biking in Vall d'Incles?",
+      "answer": "Specific permits for mountain biking the Port Dret Trail itself are generally not required. However, the trail is located within the Vall d'Incles area. While there are no general entrance fees for the valley, it's always good practice to be aware of any local regulations or protected area rules that might apply to mountain biking. Always respect local signage and environmental guidelines."
+    },
+    {
+      "question": "What is the best time of year to mountain bike the Port Dret Trail?",
+      "answer": "The best time to mountain bike the Port Dret Trail is typically during the late spring, summer, and early autumn months (roughly June to September). During these periods, the snow has usually melted, and the weather conditions are more favorable. Given the trail's high altitude, it's important to check weather forecasts for mountain conditions, as temperatures can drop quickly, and storms can develop."
+    },
+    {
+      "question": "Is the Port Dret Trail dog-friendly?",
+      "answer": "While many trails in Andorra are dog-friendly, specific regulations for the Port Dret Trail or the Vall d'Incles area regarding dogs are not detailed. It's generally recommended to keep dogs on a leash, especially in mountain environments, to protect wildlife and ensure the safety of other trail users. Always carry waste bags and pack out all waste."
+    },
+    {
+      "question": "Does the Port Dret Trail connect with other mountain biking routes?",
+      "answer": "Yes, the route intersects with several other trails. Sections of the Port Dret Trail overlap with official routes such as the CIMA AN09 (Port d'Envalira), El Camí IT1TR5 El Camí Capçaler: de Salzes a Balaguer, GRP La volta a Andorra, and HRP Étape 32. The trail also extensively uses sections of the Camí del Port Dret."
+    },
+    {
+      "question": "Is the Port Dret Trail suitable for beginners or families?",
+      "answer": "Given its technical nature, steep sections, and challenging terrain, the Port Dret Trail is <strong>not recommended for beginners or families</strong> looking for an easy ride. It requires a good level of mountain biking skill, fitness, and experience. More suitable options for beginners or families would be found on less technical trails in the region."
+    },
+    {
+      "question": "What should I bring for a mountain biking trip on this trail?",
+      "answer": "Due to the trail's challenging nature and high altitude, it's crucial to be well-prepared. Essential items include a well-maintained mountain bike, helmet, appropriate protective gear, plenty of water and snacks, navigation tools (like a GPS device or the komoot app), a first-aid kit, sun protection, and layers of clothing suitable for changing mountain weather conditions. Be prepared for potential bike pushing or carrying."
+    },
+    {
+      "question": "Are there any facilities like cafes or accommodation near the Port Dret Trail?",
+      "answer": "The Port Dret Trail starts from Soldeu, which is a well-developed village in Andorra. You will find various facilities there, including cafes, restaurants, and accommodation options. However, there are no facilities directly on the trail itself, so ensure you carry everything you need for the duration of your ride."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.008116126,
+    "sm#asphalt": 0.07548467,
+    "sm#unpaved": 0.9163992
+  },
+  "way_types": {
+    "minor_road": 0.008116126,
+    "primary": 0.07548467,
+    "way": 0.17517745,
+    "trail": 0.7412217
+  },
+  "waypoints": [
+    {
+      "name": "Port Dret Trail",
+      "lat": 42.575225,
+      "lng": 1.68216,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "viewpoint",
+        "forest",
+        "challenging"
+      ],
+      "highlight_id": 6361852
+    },
+    {
+      "name": "Port Dret Mountain Pass",
+      "lat": 42.574244,
+      "lng": 1.700242,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate",
+        "summit",
+        "challenging"
+      ],
+      "highlight_id": 6352835
+    }
+  ],
+  "categories": [
+    "challenging",
+    "forest",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 0,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-01-09T13:20:52.584Z",
+  "changed_at": "2026-02-26T20:25:31.605Z",
+  "scraped_at": "2026-04-28T16:01:34.094436+00:00"
+}

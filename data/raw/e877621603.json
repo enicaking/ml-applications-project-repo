@@ -1,0 +1,138 @@
+{
+  "tour_id": "e877621603",
+  "url": "https://www.komoot.com/smarttour/e877621603",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e877621603/lake-suyen-and-larribet-refuge-trail",
+  "name": "Lake Suyen and Larribet Refuge Trail",
+  "name_original": "Randonnée au refuge de Larribet",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11383.929923814787,
+  "duration_s": 16414,
+  "elevation_up_m": 590.6921056845149,
+  "elevation_down_m": 590.6519855684255,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.885148,
+  "start_lng": -0.270368,
+  "start_alt_m": 1476.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike to Lake Suyen and Larribet Refuge in the Pyrénées National Park, covering 7.1 miles with 1938 feet of elevation gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Very beautiful section that connects Lake Suyen at 1,536 meters above sea level to Pla de Doumblas. You stroll through the hollow of a valley as peaceful as it is magnificent.",
+    "From here you can walk to the Bactrabère lakes, which takes about 45 minutes."
+  ],
+  "faqs": [
+    {
+      "question": "How challenging is the Lake Suyen and Larribet Refuge Trail?",
+      "answer": "The trail is rated as <strong>moderate</strong> overall. The initial section to <a href=\"https://www.komoot.com/highlight/1618649\" target=\"_blank\" rel=\"noopener\">Lake Suyen</a> is relatively easy. However, the path becomes more arduous after the lake, with a challenging climb to La Claou and a final hard ascent to the <a href=\"https://www.komoot.com/highlight/2830954\" target=\"_blank\" rel=\"noopener\">Larribet Refuge</a>. Hikers should have good fitness and be sure-footed for the upper sections."
+    },
+    {
+      "question": "Is the Lake Suyen and Larribet Refuge Trail suitable for families?",
+      "answer": "The initial segment of the trail up to <a href=\"https://www.komoot.com/highlight/1618649\" target=\"_blank\" rel=\"noopener\">Lake Suyen</a> is considered relatively easy and suitable for families. Beyond the lake, the trail becomes more challenging with steeper ascents, so families with younger children or those seeking an easier hike might consider turning back at the lake."
+    },
+    {
+      "question": "What natural landmarks and points of interest will I see along the route?",
+      "answer": "You'll encounter diverse scenery, starting with a fir forest leading to the beautiful <a href=\"https://www.komoot.com/highlight/1618649\" target=\"_blank\" rel=\"noopener\">Lake Suyen</a>. Further along, you'll pass the impressive Doumblas waterfall and the Toue de Doumblas, an old shepherd's shelter. The route also features La Claou, a charming area with a small lake, before reaching the <a href=\"https://www.komoot.com/highlight/2830954\" target=\"_blank\" rel=\"noopener\">Larribet Refuge</a> amidst a stunning mineral landscape with views of Balaïtous and Palas peaks."
+    },
+    {
+      "question": "Where does the Lake Suyen and Larribet Refuge Trail start, and is there parking available?",
+      "answer": "The trail typically starts near the Pont de Doumblas. Parking is usually available at the trailhead, but it's advisable to arrive early, especially during peak season, as specific details on parking capacity can vary."
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "The best time to hike this trail is generally from late spring to early autumn (June to September) when the weather is most favorable and the high-altitude sections are free of snow. Always check local weather conditions before heading out, as mountain weather can change rapidly."
+    },
+    {
+      "question": "Are dogs allowed on the Lake Suyen and Larribet Refuge Trail?",
+      "answer": "No, dogs are <strong>not allowed</strong> on this trail. The route lies within the protected Pyrenees National Park, which prohibits dogs to preserve its exceptional natural beauty and biodiversity."
+    },
+    {
+      "question": "Do I need any permits or need to pay an entrance fee for the Pyrenees National Park?",
+      "answer": "There are generally no entrance fees to access the Pyrenees National Park itself. However, specific regulations apply within the park, such as the prohibition of dogs. No special hiking permits are typically required for this trail, but it's always good practice to check the official park website for any updates before your visit."
+    },
+    {
+      "question": "Can I stay overnight at the Larribet Refuge?",
+      "answer": "Yes, the <a href=\"https://www.komoot.com/highlight/2830954\" target=\"_blank\" rel=\"noopener\">Larribet Refuge</a> offers accommodation, meals, and even hot showers. It's known as a well-equipped '4-star of Pyrenean refuges' and serves as an excellent base for further exploration. It's recommended to book in advance, especially during peak season."
+    },
+    {
+      "question": "What wildlife and flora can I expect to see on the trail?",
+      "answer": "The area is rich in biodiversity. You might spot wildlife such as Izard, marmots, and ermine, as well as various bird species including bearded vultures. The flora transitions from beech and fir forests to moorland and diverse high-altitude alpine meadows."
+    },
+    {
+      "question": "Does this trail connect to other hiking routes?",
+      "answer": "Yes, the route covers nearly all of the official 'Lac de Suyen et refuge de Larribet' trail. It also passes through sections of the HRP Étape 13, Sentier du labassa, and Sentier du larribet, offering possibilities for longer or alternative adventures."
+    },
+    {
+      "question": "Is there water available on the trail?",
+      "answer": "While you'll pass by <a href=\"https://www.komoot.com/highlight/1618649\" target=\"_blank\" rel=\"noopener\">Lake Suyen</a> and the Larribet stream, it's always recommended to carry sufficient water for your hike. The <a href=\"https://www.komoot.com/highlight/2830954\" target=\"_blank\" rel=\"noopener\">Larribet Refuge</a> provides water and refreshments."
+    }
+  ],
+  "surfaces": {
+    "paved": 0.0030959526,
+    "unknown": 0.009212149,
+    "asphalt": 0.010393057,
+    "alpin": 0.3014779,
+    "unpaved": 0.67582095
+  },
+  "way_types": {
+    "minor_road": 0.009212149,
+    "street": 0.010393057,
+    "hiking_path": 0.38891414,
+    "mountain_hiking_path": 0.5914807
+  },
+  "waypoints": [
+    {
+      "name": "Lake Suyen",
+      "lat": 42.878239,
+      "lng": -0.267646,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 1618649
+    },
+    {
+      "name": "Larribet Refuge",
+      "lat": 42.858071,
+      "lng": -0.288737,
+      "type": "pub",
+      "categories": [
+        "accomodation",
+        "pub",
+        "hut",
+        "facilities",
+        "restaurant"
+      ],
+      "highlight_id": 2830954
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "facilities",
+    "hut",
+    "lake",
+    "pub",
+    "restaurant"
+  ],
+  "tags": [],
+  "rating_score": 4.862069,
+  "rating_count": 29,
+  "visitors": 404,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-08T11:40:13.900Z",
+  "changed_at": "2026-02-26T18:47:47.470Z",
+  "scraped_at": "2026-04-27T11:32:07.638298+00:00"
+}

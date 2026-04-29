@@ -1,0 +1,115 @@
+{
+  "tour_id": "e1031164888",
+  "url": "https://www.komoot.com/smarttour/e1031164888",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1031164888/col-d-ibardin-col-de-saint-ignace-and-col-lizuniaga-circular-from-bidasoa",
+  "name": "Col d'Ibardin, Col de Saint Ignace and Col Lizuniaga — circular from Bidasoa",
+  "name_original": "Col d'Ibardin, Col de Saint Ignace y Col Lizuniaga — circular desde Bidasoa",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 54237.27947108305,
+  "duration_s": 10507,
+  "elevation_up_m": 964.0183234913729,
+  "elevation_down_m": 963.5323520189578,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.33908,
+  "start_lng": -1.753691,
+  "start_alt_m": 4.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col de Saint-Ignace is at an altitude of 169 meters. It is the starting point for many trails which lead to La Rhune and its surroundings. There is a car park but also a restaurant as well as the little train which leads to the summit of La Rhune.",
+    "Located in Spain, a few steps from the border with France, the Col de Lizuniaga is 250 meters above sea level. From the village of Bera, the climb is 4.2 kilometers long with an average of 4.3% including a passage of 8.7% at most. At the foot of the Rhune, it offers a beautiful view of this emblematic summit of the Basque Country.",
+    "Much of the climb is in shade. Due to the shops on the pass there is usually quite a lot of traffic on Sundays. Especially on the French side."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#unpaved": 0.0002575589,
+    "unknown": 0.0019248376,
+    "sb#paved": 0.1697174,
+    "sb#asphalt": 0.8281002
+  },
+  "way_types": {
+    "trail": 0.0002575589,
+    "cycleway": 0.0138345575,
+    "minor_road": 0.019134449,
+    "primary": 0.15061727,
+    "street": 0.81615615
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Ignace Pass",
+      "lat": 43.324714,
+      "lng": -1.600707,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "restaurant",
+        "family_friendly",
+        "viewpoint",
+        "facilities"
+      ],
+      "highlight_id": 852512
+    },
+    {
+      "name": "Col Lizuniaga",
+      "lat": 43.282354,
+      "lng": -1.632201,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 5456397
+    },
+    {
+      "name": "Ascent to Col d'Ibardin from Bera",
+      "lat": 43.293302,
+      "lng": -1.689766,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate",
+        "climb",
+        "verified_segment"
+      ],
+      "highlight_id": 4424262
+    }
+  ],
+  "categories": [
+    "climb",
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "mountain_pass",
+    "restaurant",
+    "trail",
+    "verified_segment",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.595238208770752,
+  "rating_count": 42,
+  "visitors": 1001,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-02-14T17:33:17.110Z",
+  "changed_at": "2024-06-07T03:14:23.369Z",
+  "scraped_at": "2026-04-28T19:17:15.838678+00:00"
+}

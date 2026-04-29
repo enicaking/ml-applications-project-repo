@@ -1,0 +1,123 @@
+{
+  "tour_id": "e1816070279",
+  "url": "https://www.komoot.com/smarttour/e1816070279",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1816070279/via-augusta-penedes",
+  "name": "Via Augusta Penedès",
+  "name_original": "Vía Augusta Penedès",
+  "sport": "mtb_easy",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 52477.795215654674,
+  "duration_s": 16506,
+  "elevation_up_m": 561.9158074389492,
+  "elevation_down_m": 561.68965842372,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 41.453332,
+  "start_lng": 1.868775,
+  "start_alt_m": 105.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This route immerses you in history, as its route is based on the Via Augusta Penedès, which follows the layout of an ancient Iberian road transformed into a road by the Romans in the 2nd century BC. The landscape is made up of a mosaic of vineyards, whose tones change with each season of the year. If you like wine or cava, you are in the right place.\n\nThis is a linear route that starts in Sant Salvador de la Calçada (Gelida) and ends in Bellvei. Throughout its 53 kilometres, you experience a continuous up and down, accumulating 560 metres of positive gradient. The route takes place on secondary roads and compacted dirt tracks. Although it has some gradients, it is not particularly demanding, making it suitable for cyclists of any level.\n\nThe route offers you multiple opportunities to stop and enjoy the local gastronomy, as it passes through various towns along the route. This is why you only need to carry some snacks and enough water on the route.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Sant Pere de Lavern is a neo-Romanesque style church, protected as a cultural asset of local interest, the work of architect Enric Sagnier. The church has a Latin cross plan with a single nave with two side chapels and a semicircular apse. The old rectory was demolished in 1995 to allow the construction of a new convent of Poor Clare nuns.\r\n\r\nThe church was rebuilt at the beginning of the 20th century on the remains of the original Romanesque church (dated to the year 917).",
+    "The church of Sant Joan Salerm is in the Romanesque style (10th century), with a bell tower added in the 18th century. As a curiosity, the etymology of \"salerm\" refers to \"uncultivated land\", since at the time of its construction, long before vineyards began to be cultivated in the Penedès, this place was a forest.",
+    "The remains of this fortification date from the 10th century, when the municipality was created, and it has been the protagonist of various historical episodes: its destruction in 1003 after a Saracen attack, the siege in the 15th century during the Catalan civil war, or in the XVII, during the War of the Segadors, in which the French troops defeated the Castilians in this same place. It was from this fact that a process of plundering began that lasted for centuries. The rectangular tower of the castle is not preserved and only a few walls remain.",
+    "The church of Sant Esteve de les Masuques has been documented since the year 976, between the 10th and 12th centuries it was the only parish in the area of Castellet. The building has undergone various reforms over the years, especially the façade. In addition to the church, there is a Roman site that includes a necropolis with inscriptions and a milestone."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.004469904,
+    "sb#compacted": 0.0044979756,
+    "unknown": 0.02083936,
+    "sb#asphalt": 0.18263198,
+    "sb#paved": 0.21983707,
+    "sb#unpaved": 0.5677237
+  },
+  "way_types": {
+    "service": 0.0005278831,
+    "primary": 0.0006224061,
+    "cycleway": 0.033247907,
+    "trail": 0.11646576,
+    "minor_road": 0.12973619,
+    "street": 0.24633496,
+    "way": 0.4730649
+  },
+  "waypoints": [
+    {
+      "name": "Sant Pere de Lavern",
+      "lat": 41.397381,
+      "lng": 1.767307,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "unknown"
+      ],
+      "highlight_id": 5312727
+    },
+    {
+      "name": "Sant Joan Salerm",
+      "lat": 41.40373,
+      "lng": 1.75244,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "historical_site",
+        "intermediate",
+        "unknown"
+      ],
+      "highlight_id": 4660823
+    },
+    {
+      "name": "Castle of La Granada",
+      "lat": 41.379019,
+      "lng": 1.719146,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 4418293
+    },
+    {
+      "name": "Saint Stephen's Church, Les Masuques",
+      "lat": 41.288275,
+      "lng": 1.639771,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 2872195
+    }
+  ],
+  "categories": [
+    "castle",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "unknown"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "Catalunya",
+  "author_id": "catalunya",
+  "created_at": "2024-08-26T12:22:44.785Z",
+  "changed_at": "2025-05-25T09:31:35.698Z",
+  "scraped_at": "2026-04-28T08:41:01.468477+00:00"
+}

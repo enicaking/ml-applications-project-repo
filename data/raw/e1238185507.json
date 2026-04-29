@@ -1,0 +1,127 @@
+{
+  "tour_id": "e1238185507",
+  "url": "https://www.komoot.com/smarttour/e1238185507",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1238185507/the-rivera-del-riu-de-sant-nicolau-to-the-refugi-d-estany-llong-parque-nacional-de-aigueestortes-i-estany-de-sant-maurici",
+  "name": "The Rivera del Riu de Sant Nicolau to the Refugi d'Estany Llong — Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "name_original": "La Rivera del Riu de Sant Nicolau hasta el Refugi d'Estany Llong — Parque Nacional de Aigüestortes i Estany de Sant Maurici",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21191.658473804102,
+  "duration_s": 23732,
+  "elevation_up_m": 749.5791848583335,
+  "elevation_down_m": 749.5791848583335,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.544618,
+  "start_lng": 0.845425,
+  "start_alt_m": 1385.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The lake or pond of La Llebreta is located in the municipality of Vall de Boí, in the region of Alta Ribagorça, within the National Park of Aigüestortes y Lago de Sant Maurici\r\nCuriously, this lake is not of glacial origin like many others in the area, but was formed from a landslide of one of the mountains that caused a natural barrier in this valley.",
+    "Waterfall of the Santo Nicolau river. We'll meet her right next to the path.",
+    "FREE SHELTERS\n\nIt is the open part of the Estany Llong refuge, when the refuge is not guarded, 10 minutes from it. It is a building known as \"La Centraleta\", located at the confluence of the river Contraix and the river Sant Nicolau. It has 10 seats available and is equipped with blankets, mattresses, an emergency radio, a fireplace and firewood.",
+    "The Estany Llong refuge is located at an altitude of 1,985 meters and has 47 places. It has showers, central heating and fireplace, blankets, mattresses and food service."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.04237882,
+    "paved": 0.18044288,
+    "unpaved": 0.7771783
+  },
+  "way_types": {
+    "street": 0.0036188113,
+    "mountain_hiking_path": 0.04237882,
+    "way": 0.17682406,
+    "hiking_path": 0.7771783
+  },
+  "waypoints": [
+    {
+      "name": "La Llebreta Lake",
+      "lat": 42.547594,
+      "lng": 0.884455,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "family_friendly",
+        "viewpoint"
+      ],
+      "highlight_id": 4530577
+    },
+    {
+      "name": "Sant Esperit Waterfall",
+      "lat": 42.550989,
+      "lng": 0.896289,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 3781870
+    },
+    {
+      "name": "Centraleta Shelter",
+      "lat": 42.57045,
+      "lng": 0.936228,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "challenging"
+      ],
+      "highlight_id": 4349636
+    },
+    {
+      "name": "Estany Llong Refuge",
+      "lat": 42.57246,
+      "lng": 0.9425,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate",
+        "restaurant",
+        "pub",
+        "accomodation"
+      ],
+      "highlight_id": 549556
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "family_friendly",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "pub",
+    "restaurant",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.862069,
+  "rating_count": 29,
+  "visitors": 244,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-31T09:25:44.024Z",
+  "changed_at": "2024-08-12T07:46:16.871Z",
+  "scraped_at": "2026-04-27T11:55:08.517529+00:00"
+}

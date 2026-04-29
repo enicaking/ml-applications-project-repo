@@ -1,0 +1,109 @@
+{
+  "tour_id": "e975874750",
+  "url": "https://www.komoot.com/smarttour/e975874750",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e975874750/ibones-de-piedrafita-y-de-tramacastilla-circular-por-la-pista-de-la-patacua",
+  "name": "Ibónes de Piedrafita y de Tramacastilla – circular por la pista de la Patacua",
+  "name_original": null,
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 26646.613046438266,
+  "duration_s": 9521,
+  "elevation_up_m": 645.1501417499687,
+  "elevation_down_m": 639.8882153757604,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.713494,
+  "start_lng": -0.316709,
+  "start_alt_m": 1211,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Piedrafita lake is located at the foot of the imposing and steep Peña Telera, which with its 2,762 meters of altitude is, after the Peña Retona, the highest peak in the Sierra de la Partacua. Access to the lake is mostly by forest track currently closed to traffic. In winter it can be accessed with snowshoes, and even if there is not much snow and we find a previous track, it can be climbed without special equipment, as is the case described below.",
+    "All the Aragonese lakes are protected as they are included in the Inventory of Singular Wetlands, so any activity that could modify the quality of their waters is prohibited. While bathing is not specifically mentioned, it is understood that bathing with chemicals on the skin such as sunscreens, deodorants, perfumes or creams is negatively affecting the quality of the water, so it cannot be done. You can read the protection decree and the list of wetlands included here: boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=558856590404",
+    "La Partacua was one of the three quiñones into which the Tena Valley was administratively divided. The quiñones were a common division in the mountain areas especially designed for pastures."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.001129416,
+    "sm#nature": 0.008902859,
+    "sm#paved": 0.017823236,
+    "sm#gravel": 0.029667223,
+    "sm#asphalt": 0.13840914,
+    "sm#unpaved": 0.80406815
+  },
+  "way_types": {
+    "trail": 0.011913427,
+    "minor_road": 0.023140034,
+    "street": 0.16388898,
+    "way": 0.8010576
+  },
+  "waypoints": [
+    {
+      "name": "Piedrafita Lake",
+      "lat": 42.69609,
+      "lng": -0.35468,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 1600419
+    },
+    {
+      "name": "Tramacastilla Lake",
+      "lat": 42.721576,
+      "lng": -0.371593,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 1765445
+    },
+    {
+      "name": "La Partacua Trail",
+      "lat": 42.717016,
+      "lng": -0.346741,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 3600590
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.777777671813965,
+  "rating_count": 27,
+  "visitors": 200,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-09T20:05:57.446Z",
+  "changed_at": "2024-05-31T09:24:44.397Z",
+  "scraped_at": "2026-04-28T15:04:03.751621+00:00"
+}

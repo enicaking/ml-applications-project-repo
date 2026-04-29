@@ -1,0 +1,133 @@
+{
+  "tour_id": "e1070068938",
+  "url": "https://www.komoot.com/smarttour/e1070068938",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1070068938/great-tour-of-the-lakes-running-in-the-ossau-valley",
+  "name": "Great tour of the lakes – running in the Ossau Valley",
+  "name_original": "Le grand tour des lacs — Courir dans la vallée d'Ossau",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 49017.22188949805,
+  "duration_s": 34586,
+  "elevation_up_m": 3769.389575253853,
+  "elevation_down_m": 3769.3895752538547,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.956651,
+  "start_lng": -0.32883,
+  "start_alt_m": 1386.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This course of 49 kilometers and 3,400 meters of elevation gain starts from the ski resort of Gourette. This large loop is ideal for all lovers of panoramas and mountain lakes. Along different valleys, it has its share of surprises and spectacular viewpoints.\n\nThe route begins by taking the GR 10 which climbs slightly in the valley. The climb intensifies when you leave the GR to climb to Lac de Louesque. Shortly after, it is the Sanctus peak which provides the first panoramic point of your outing. You continue on a long descent which passes by the Uzious pass, then the Bouleste hut before ending at the Lac de Tech. There follows a clear portion of ascent which leads to the Col de l'Hospitalet, the highest point of the route with its 2,523 meters of altitude.\n\nA brief descent leads to Lake Migouélou and its refuge, ideal for a well-deserved break. A new climb offers you the Col d'Artouste and its breathtaking view of the Pic du Midi d'Ossau before switching towards the Lac d'Artouste. You will find a restaurant near the arrival of the train. Take the opportunity to eat and fill up with water.\n\nA beautiful portion of descent allows you to unwind as you go down to the Soussouéou valley. At the huts of the same name, you embark on the final ascent of the route. This leads to Hourquette d'Arre following the GR 10 path. At the pass, you switch to Lake Anglas. All you have to do then is find your starting point by continuing to follow the red and white markings of the GR.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Sanctus peak rises to 2,482 meters above sea level from the heights of Gourette. Easy to access, it offers superb views of the various lakes below.",
+    "Very large dam lake located at 2,278 meters above sea level. It is nestled at the foot of a beautiful ridge comprising several peaks around 2,700 meters above sea level. You will find on its banks the refuge of the same name, ideally placed to take a break.",
+    "two mountain lakes below the very beautiful Col d'Artouste. Also good for bivouac.",
+    "Superb mountain lake which is 1,989 meters above sea level. Nestled in a remarkable setting, it includes several species of fish including brown trout.\r\n\r\nThe small train that facilitated the construction of the dam has been transformed into a tourist attraction, which makes the lake more accessible. The start is on the shores of Lac de Fabrèges.",
+    "La Hourquette d'Arrê peaks at 2,574 meters above sea level. This chain of small peaks forms a barrier between the Ossau and Aspe valleys.\r\n\r\nA small passage on the GR10 allows you to go from one to the other."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "gravel": 0.0042005354,
+    "asphalt": 0.0044350983,
+    "unknown": 0.00584568,
+    "paved": 0.008045089,
+    "nature": 0.023886502,
+    "alpin": 0.37156367,
+    "unpaved": 0.58202344
+  },
+  "way_types": {
+    "minor_road": 0.0019806363,
+    "street": 0.0041651065,
+    "way": 0.093678124,
+    "mountain_hiking_path": 0.4391959,
+    "hiking_path": 0.46098024
+  },
+  "waypoints": [
+    {
+      "name": "Sanctus Peak",
+      "lat": 42.9266,
+      "lng": -0.30793,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 5598997
+    },
+    {
+      "name": "Lake Migouélou",
+      "lat": 42.8877,
+      "lng": -0.2988,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 5599612
+    },
+    {
+      "name": "Carnau Lakes",
+      "lat": 42.8775,
+      "lng": -0.3203,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 5599626
+    },
+    {
+      "name": "Lake Artouste",
+      "lat": 42.8624,
+      "lng": -0.3361,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5598102
+    },
+    {
+      "name": "Hourquette d'Arre",
+      "lat": 42.92029,
+      "lng": -0.33029,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate",
+        "summit",
+        "challenging"
+      ],
+      "highlight_id": 3461924
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "other_natural",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-05T21:52:15.380Z",
+  "changed_at": "2024-06-07T19:34:43.237Z",
+  "scraped_at": "2026-04-27T15:39:14.298903+00:00"
+}

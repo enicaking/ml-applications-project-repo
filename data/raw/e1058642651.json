@@ -1,0 +1,158 @@
+{
+  "tour_id": "e1058642651",
+  "url": "https://www.komoot.com/smarttour/e1058642651",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1058642651/munagirre-and-oianleku-cromlech-loop",
+  "name": "Munagirre and Oianleku Cromlech Loop",
+  "name_original": "Basate y Munagirre — trailrunning circular por el Parque Natural Aiako Harria",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 9597.970893073178,
+  "duration_s": 5425,
+  "elevation_up_m": 359.30141472595005,
+  "elevation_down_m": 361.08233032383225,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.243935,
+  "start_lng": -1.832672,
+  "start_alt_m": 601.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This challenging 6.0-mile trailrunning route in Aiako Harria Natural Park offers panoramic views and ancient cromlechs.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Funerary monument dating from the Iron Age and discovered in 1909 and excavated in 1967. Inside the ashes and bones of the deceased were deposited.",
+    "Small peak of the Aiako Harria Natural Park. A very short distance away is the megalithic remains in the form of the Oianleku cromlech.",
+    "Summit of the Igoin/Bianditz ridge."
+  ],
+  "faqs": [
+    {
+      "question": "What level of fitness is required for the Basate y Munagirre trailrunning route?",
+      "answer": "This trail is classified as <strong>difficult</strong> for trailrunning. It requires a very good fitness level, sure-footedness, and sturdy shoes. Some sections may also benefit from alpine experience due to varied terrain and steep descents."
+    },
+    {
+      "question": "What is the terrain like on this trail?",
+      "answer": "The route features varied terrain, including pleasant grassy paths, sections through streams and a beech forest, and ridgeline traverses. You'll encounter steep descents, mountainous landscapes with granite, and clean undergrowth. There is a known impassable and muddy tunnel that should be avoided."
+    },
+    {
+      "question": "Where does the trail start and is there parking available?",
+      "answer": "The starting point of the Basate y Munagirre trail is conveniently located next to a car park, making access straightforward for those arriving by car."
+    },
+    {
+      "question": "What natural features and landmarks can I expect to see along the route?",
+      "answer": "You'll be treated to stunning 360-degree panoramas of the Southern Basque Country, the Labour coastline, and views extending to San Sebastian and the peaks of the Three Crowns (Aiako Harria). The trail also passes significant megalithic structures, including the <a href=\"https://www.komoot.com/highlight/3043402\" target=\"_blank\" rel=\"noopener\">Oianleku Cromlech</a> and the Basate cromlechs. You'll also pass through a beautiful beech forest and might spot remnants of the old Artikutza train track and ruined buildings."
+    },
+    {
+      "question": "Is the Basate y Munagirre trail dog-friendly?",
+      "answer": "As this trail is located within the Aiako Harria Natural Park, dogs are generally allowed but must be kept on a leash to protect wildlife and ensure the safety of other trail users. Always follow local park regulations."
+    },
+    {
+      "question": "Do I need a permit or is there an entrance fee for the Aiako Harria Natural Park?",
+      "answer": "Typically, there are no specific permits required or entrance fees to access the trails within Aiako Harria Natural Park for recreational activities like trailrunning. However, always check for any updated local regulations before your visit."
+    },
+    {
+      "question": "What is the best time of year to run this trail?",
+      "answer": "The trail offers beautiful scenery year-round, but spring and autumn are often ideal for trailrunning due to milder temperatures and vibrant natural colors. Summer can be warm, and winter might present colder conditions or snow at higher elevations, requiring appropriate gear."
+    },
+    {
+      "question": "Does this trail intersect with other well-known paths?",
+      "answer": "Yes, the route intersects with several other paths. You will find yourself on sections of the Artikutzako trenbide zaharra, Aiako Arria bihotza, E04 Mendibai ibilbidea: Ereñotzu - Behobia, and E14 Epaipide ibilbidea: Ugaldetxo - Aritxulegi trails, among others."
+    },
+    {
+      "question": "Are there any specific challenges or insider tips for this route?",
+      "answer": "Be aware that while much of the path is generally wide, there are sections with steep descents, particularly when crossing streams. The trail also includes a muddy and impassable tunnel that should be avoided. Given the 'difficult' rating, ensure you have appropriate footwear for varied terrain and good sure-footedness."
+    },
+    {
+      "question": "How long does it typically take to complete the Basate y Munagirre trailrunning circular route?",
+      "answer": "For an experienced trailrunner, this circular route, which is approximately 9.6 kilometers long with about 360 meters of elevation gain, typically takes around 1 hour and 30 minutes to complete. This duration can vary based on individual fitness and pace."
+    },
+    {
+      "question": "Are there any facilities like cafes or restaurants near the trailhead?",
+      "answer": "While the trailhead itself is next to a car park, specific facilities like cafes or restaurants are not directly on the trail. You would likely find options in nearby towns or villages surrounding the Aiako Harria Natural Park, such as Oiartzun."
+    }
+  ],
+  "surfaces": {
+    "asphalt": 0.0038470605,
+    "unknown": 0.028614542,
+    "unpaved": 0.123589754,
+    "nature": 0.4132655,
+    "alpin": 0.43068314
+  },
+  "way_types": {
+    "street": 0.0038470605,
+    "hiking_path": 0.05397442,
+    "way": 0.4648956,
+    "mountain_hiking_path": 0.4772829
+  },
+  "waypoints": [
+    {
+      "name": "Oianleku Cromlech",
+      "lat": 43.25461,
+      "lng": -1.8276,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "intermediate",
+        "natural_monument",
+        "historical_site",
+        "viewpoint"
+      ],
+      "highlight_id": 3043402
+    },
+    {
+      "name": "Basate (630 m)",
+      "lat": 43.25526,
+      "lng": -1.82814,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "unknown",
+        "forest"
+      ],
+      "highlight_id": 5576427
+    },
+    {
+      "name": "Munagirre Summit (781 m)",
+      "lat": 43.244,
+      "lng": -1.82266,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5543806
+    }
+  ],
+  "categories": [
+    "forest",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "summit",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 4,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-03-23T16:53:29.013Z",
+  "changed_at": "2026-02-26T19:24:22.155Z",
+  "scraped_at": "2026-04-27T15:03:13.804276+00:00"
+}

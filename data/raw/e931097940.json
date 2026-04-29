@@ -1,0 +1,110 @@
+{
+  "tour_id": "e931097940",
+  "url": "https://www.komoot.com/smarttour/e931097940",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e931097940/balandrau-from-collet-de-la-gralla-circular-trail-run-in-the-natural-park-of-the-ter-and-freser-headwaters",
+  "name": "Balandrau from Collet de la Gralla - circular trail run in the Natural Park of the Ter and Freser Headwaters",
+  "name_original": "Balandrau desde el Collet de la Gralla - trail run circular Parque Natural de las Cabeceras del Ter y del Freser",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 17658.73841538768,
+  "duration_s": 9365,
+  "elevation_up_m": 729.6729939635834,
+  "elevation_down_m": 723.2827302291296,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.350574,
+  "start_lng": 2.257734,
+  "start_alt_m": 1934,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "To rest for a while before facing the Balandrau, sunbathing with the groundhogs.",
+    "Spectacular climb.\r\n\r\nThe Balandrau is a mountain in the Pyrenees massif, specifically in the north of the Ripollés region (Gerona Province) and relatively close to the Vall de Núria. It reaches an altitude of 2,584 meters.",
+    "Typical hill to climb the famous Pico del Balandrau 2,585m."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.062851086,
+    "unknown": 0.09992103,
+    "unpaved": 0.4087202,
+    "gravel": 0.4285077
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.062851086,
+    "hiking_path": 0.4087202,
+    "way": 0.52842873
+  },
+  "waypoints": [
+    {
+      "name": "Tregurà Mountain Hut",
+      "lat": 42.354465,
+      "lng": 2.236598,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "intermediate"
+      ],
+      "highlight_id": 4095994
+    },
+    {
+      "name": "Summit of Balandrau",
+      "lat": 42.369773,
+      "lng": 2.219782,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "viewpoint",
+        "challenging"
+      ],
+      "highlight_id": 1259371
+    },
+    {
+      "name": "Three Peaks Pass",
+      "lat": 42.37475,
+      "lng": 2.22948,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "summit",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 2772115
+    }
+  ],
+  "categories": [
+    "challenging",
+    "hut",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 5,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-20T07:49:28.465Z",
+  "changed_at": "2024-06-05T07:05:46.051Z",
+  "scraped_at": "2026-04-27T16:13:06.850597+00:00"
+}

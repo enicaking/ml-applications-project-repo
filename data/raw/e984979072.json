@@ -1,0 +1,139 @@
+{
+  "tour_id": "e984979072",
+  "url": "https://www.komoot.com/smarttour/e984979072",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e984979072/fuente-alta-circuit",
+  "name": "Fuente Alta Circuit",
+  "name_original": "Circuito de la Fuente Alta – circular desde Pradollano",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10077.094063445056,
+  "duration_s": 10461,
+  "elevation_up_m": 244.5532876019472,
+  "elevation_down_m": 247.33862823394725,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.095006,
+  "start_lng": -3.398998,
+  "start_alt_m": 2159.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 6.3-mile (10.1 km) Fuente Alta Circuit in Sierra Nevada, featuring forests, meadows, and views of Veleta peak.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "This open-air museum aims to mediate a group of traditional mountain huts preserved as they were in origin. They cannot be visited inside (some serve as a warehouse for the company that manages the ski resort), but some very characteristic details can be seen from the outside, such as their circular and triangular skylights with stone slabs that frame them.",
+    "The small ski resort town is an excellent place for a pause along the route to the top of the Veleta, and a valid destination in itself: From winter into spring this is as far as the road is ploughed and kept free of snow all year. You can take a lift to get closer to the summit ;-)"
+  ],
+  "faqs": [
+    {
+      "question": "What kind of terrain and scenery can I expect on the Fuente Alta Circuit?",
+      "answer": "The Fuente Alta Circuit offers a varied landscape. You'll hike through dense coniferous forests, primarily wild pines and larches, interspersed with open meadows. The route provides a mix of wooded areas and clearings, offering diverse visual experiences throughout."
+    },
+    {
+      "question": "Are there any historical sites or notable viewpoints along the route?",
+      "answer": "Yes, the trail passes by old farmhouses, known as 'luck,' which offer glimpses into the historical way of life in the Sierra Nevada. One notable point is the <a href=\"https://www.komoot.com/highlight/5303862\" target=\"_blank\" rel=\"noopener\">Fuente Alta Ethnographic Museum</a>. From various points, especially at the foot of the Veleta peak, you can enjoy impressive views."
+    },
+    {
+      "question": "How long does it typically take to complete the Fuente Alta Circuit?",
+      "answer": "The Fuente Alta Circuit is approximately 7.2 to 9 kilometers long. Most hikers complete it in about 2 hours 49 minutes to 3 hours 30 minutes, depending on pace and stops."
+    },
+    {
+      "question": "Where does the Fuente Alta Circuit trailhead begin, and is there parking available?",
+      "answer": "The trail is located near the urbanization of <a href=\"https://www.komoot.com/highlight/1115944\" target=\"_blank\" rel=\"noopener\">Pradollano</a>. As it's a loop trail with free access, you can typically start from various points around Pradollano. Parking availability will depend on the specific starting point you choose within the area."
+    },
+    {
+      "question": "Is the Fuente Alta Circuit suitable for beginners or more experienced hikers?",
+      "answer": "The Fuente Alta Circuit is generally considered to be of moderate difficulty. While it doesn't have extreme slopes, there are constant changes in grade, making it engaging. Its high altitude (starting around 2,100 to 2,150 meters) also makes it suitable for training. It's a good option for hikers with some experience or those looking for a moderately challenging walk."
+    },
+    {
+      "question": "Is the Fuente Alta Circuit dog-friendly?",
+      "answer": "The trail is generally dog-friendly, but as it's located within the Sierra Nevada National Park, it's crucial to keep your dog on a leash at all times to protect local wildlife and ensure the safety of other trail users."
+    },
+    {
+      "question": "What is the best time of year to hike the Fuente Alta Circuit?",
+      "answer": "The best time to hike the Fuente Alta Circuit is typically during the spring, summer, and early autumn months when the weather is most favorable. During winter, snow can make parts of the trail challenging or inaccessible, requiring appropriate gear and experience."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for the Fuente Alta Circuit, and what about Sierra Nevada National Park regulations?",
+      "answer": "No permits or entrance fees are required to access the Fuente Alta Circuit itself, as it offers free access. However, since the trail is within the Sierra Nevada National Park, it's important to respect park regulations, such as staying on marked paths, not disturbing wildlife, and packing out all trash."
+    },
+    {
+      "question": "Does this trail intersect with other paths?",
+      "answer": "Yes, the Fuente Alta Circuit is a well-established route. The trail extensively uses sections of the official \"Circuito Fuente Alta\" path, and also briefly intersects with parts of the \"Plaza de Pradollano\" route."
+    },
+    {
+      "question": "Is the Fuente Alta Circuit suitable for trail running or cross-country biking?",
+      "answer": "Yes, the Fuente Alta Circuit is versatile and suitable for both hikers and cross-country bikers. Its moderate difficulty and constant changes in grade also make it a good option for medium-distance trail running."
+    },
+    {
+      "question": "What should I bring for a hike on the Fuente Alta Circuit?",
+      "answer": "Given its moderate difficulty and high altitude, we recommend bringing plenty of water, appropriate hiking footwear, layers of clothing for changing weather conditions, sun protection (hat, sunscreen), and snacks. A map or GPS device is also advisable."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.041196708,
+    "asphalt": 0.1836058,
+    "unpaved": 0.25532335,
+    "paved": 0.51987416
+  },
+  "way_types": {
+    "minor_road": 0.037040085,
+    "street": 0.16936573,
+    "hiking_path": 0.21283177,
+    "way": 0.58076245
+  },
+  "waypoints": [
+    {
+      "name": "Fuente Alta Ethnographic Museum",
+      "lat": 37.10544,
+      "lng": -3.41133,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "other_man_made",
+        "family_friendly",
+        "intermediate"
+      ],
+      "highlight_id": 5303862
+    },
+    {
+      "name": "Pradollano",
+      "lat": 37.09411,
+      "lng": -3.39975,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "facilities",
+        "intermediate",
+        "family_friendly"
+      ],
+      "highlight_id": 1115944
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "other_man_made",
+    "settlement"
+  ],
+  "tags": [],
+  "rating_score": 4.6923075,
+  "rating_count": 26,
+  "visitors": 99,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-25T10:52:41.105Z",
+  "changed_at": "2026-02-26T19:12:45.018Z",
+  "scraped_at": "2026-04-27T09:52:01.595602+00:00"
+}

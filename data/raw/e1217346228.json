@@ -1,0 +1,157 @@
+{
+  "tour_id": "e1217346228",
+  "url": "https://www.komoot.com/smarttour/e1217346228",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1217346228/arco-de-piedrafita-de-jaca-trail",
+  "name": "Arco de Piedrafita de Jaca Trail",
+  "name_original": "Subida al Arco de Piedrafita — circular por la Sierra de Partacua",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 9850.028245180945,
+  "duration_s": 12901,
+  "elevation_up_m": 458.7569985417365,
+  "elevation_down_m": 458.7569985417367,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.697318,
+  "start_lng": -0.33329,
+  "start_alt_m": 1367,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the difficult 6.1-mile Arco de Piedrafita de Jaca Trail to the natural arch, offering stunning views of Peña Telera and the Tena Valley",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful path not only for its surroundings but also for the views offered by Peña Telera on its north face, with a drop of many meters of rock. One of the highest peaks of the Sierra de Partacua.",
+    "The stone window is a fantastic whim of nature. The path goes around the arch to the right until it becomes a stone eye where the bluish Búbal reservoir appears inside at the foot of the Pyrenees. On the right there are some ledges that allow you to climb to the upper edge and get views, photos and sensations from all possible angles, although the best photos are from below. The return goes down the same slippery path until the marked intersection towards Piedrafita de Jaca. The entertaining hiking route is also shared with a mountain biking itinerary.",
+    "Before reaching the Arco de Piedrafita we find these beautiful views of the southernmost part of the Sierra de Patacua. Impressive!!"
+  ],
+  "faqs": [
+    {
+      "question": "Where does the Arco de Piedrafita de Jaca Trail start and where can I park?",
+      "answer": "The trail typically begins from the charming village of Piedrafita de Jaca. You can usually find parking within or near the village, which serves as the main access point for this route."
+    },
+    {
+      "question": "What is the overall difficulty of the hike to the Arco de Piedrafita?",
+      "answer": "While the initial section to the Ibón de Piedrafita is considered easy, the subsequent ascent to the natural arch involves a steep slope with loose stones, making it the most demanding part. Overall, the route is generally classified as a difficult hike, requiring attention to changes in direction and suitable for those with some hiking experience."
+    },
+    {
+      "question": "What kind of terrain can I expect on this route?",
+      "answer": "The terrain is varied. You'll find wide tracks in some sections, narrower paths, and a challenging final ascent to the arch over loose stones. The trail also passes through the ancient Betato Forest, and alongside the Barranco del Boj. During winter, snow and muddy conditions can add to the challenge."
+    },
+    {
+      "question": "What are the main points of interest along the way?",
+      "answer": "The route offers several highlights. You'll encounter the tranquil <a href=\"https://www.komoot.com/highlight/3076568\" target=\"_blank\" rel=\"noopener\">Piedrafita Arch</a> itself, the picturesque Ibón de Piedrafita mountain lake, and the ancient Betato Forest. You can also enjoy stunning <a href=\"https://www.komoot.com/highlight/5920377\" target=\"_blank\" rel=\"noopener\">Peña Telera views</a> and <a href=\"https://www.komoot.com/highlight/5920533\" target=\"_blank\" rel=\"noopener\">Views of Punta Cochaldo</a>."
+    },
+    {
+      "question": "Is the Arco de Piedrafita de Jaca Trail dog-friendly?",
+      "answer": "Yes, the trail is generally dog-friendly. However, as it's located in a natural area, it's always best to keep your dog on a leash to protect local wildlife and ensure their safety, especially on steeper or more crowded sections."
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "Spring and autumn are ideal for hiking this trail, offering pleasant temperatures and beautiful scenery, especially in autumn when the Betato Forest displays spectacular multi-colored foliage. While possible in winter, be prepared for deep snow and muddy conditions, which significantly increase the difficulty."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for hiking in Sierra de la Partacua?",
+      "answer": "There are no specific permits or entrance fees required to hike the Arco de Piedrafita de Jaca Trail within the Sierra de la Partacua. However, always respect local regulations regarding nature conservation and leave no trace."
+    },
+    {
+      "question": "Does this trail connect with other hiking routes?",
+      "answer": "Yes, the route intersects with several other paths. You'll find sections that overlap with official trails like \"R03 - La Partacua,\" \"Piedrafita de Jaca - Ibón de Piedrafita,\" and the \"Ruta del Betato.\" This allows for variations or longer excursions if desired."
+    },
+    {
+      "question": "Is the trail suitable for families with children?",
+      "answer": "The initial section leading to the Ibón de Piedrafita is often described as easy and suitable for families. However, the subsequent climb to the natural arch is steep and involves loose stones, making it challenging for younger children or those not accustomed to strenuous hiking. Consider turning back at the Ibón if hiking with small children."
+    },
+    {
+      "question": "What should I bring for a hike on this trail?",
+      "answer": "Given the varied terrain and potential for steep sections, sturdy hiking boots are essential. We also recommend bringing sufficient water, snacks, sun protection, and layers of clothing. Carrying a GPS device or a detailed map is advisable for navigation, even though the route is generally well-marked."
+    },
+    {
+      "question": "Are there any local legends or unique features about the Betato Forest?",
+      "answer": "Yes, the ancient Betato Forest is not only known for its diverse deciduous trees but is also steeped in local legends of witches and goblins. It adds a mystical element to the scenic beauty of the trail, especially during autumn."
+    }
+  ],
+  "surfaces": {
+    "nature": 0.08963021,
+    "unknown": 0.13407207,
+    "alpin": 0.3092352,
+    "unpaved": 0.46706253
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.1335178,
+    "alpine_hiking_path": 0.17571738,
+    "hiking_path": 0.19430089,
+    "way": 0.49646392
+  },
+  "waypoints": [
+    {
+      "name": "Peña Telera views",
+      "lat": 42.701333,
+      "lng": -0.346423,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "summit",
+        "trail",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 5920377
+    },
+    {
+      "name": "Piedrafita Arch",
+      "lat": 42.683987,
+      "lng": -0.351059,
+      "type": "natural_monument",
+      "categories": [
+        "natural_monument",
+        "viewpoint",
+        "challenging",
+        "other_natural",
+        "intermediate"
+      ],
+      "highlight_id": 3076568
+    },
+    {
+      "name": "Views of Punta Cochaldo",
+      "lat": 42.683975,
+      "lng": -0.346752,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "mountain_pass",
+        "intermediate",
+        "other_natural"
+      ],
+      "highlight_id": 5920533
+    }
+  ],
+  "categories": [
+    "challenging",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.6666665,
+  "rating_count": 36,
+  "visitors": 307,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-17T16:24:10.881Z",
+  "changed_at": "2026-02-26T19:30:47.852Z",
+  "scraped_at": "2026-04-27T11:22:23.944339+00:00"
+}

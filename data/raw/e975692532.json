@@ -1,0 +1,141 @@
+{
+  "tour_id": "e975692532",
+  "url": "https://www.komoot.com/smarttour/e975692532",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e975692532/pico-comodoto-loop-from-pineta",
+  "name": "Pico Comodoto Loop from Pineta",
+  "name_original": "Pico Comodoto – circular desde Pineta (ZA-003)",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21823.67559679279,
+  "duration_s": 11705,
+  "elevation_up_m": 1176.537601506953,
+  "elevation_down_m": 1172.7834042934599,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.651687,
+  "start_lng": 0.14043,
+  "start_alt_m": 1241.7,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 13.6-mile mountain biking route to Pico Comodoto offers 360-degree panoramic views of the Pineta Valley and Monte Perdido.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Comodoto is one of those less sought-after peaks due to its modest altitude, which doesn't even reach 2,500 meters. However, its location in the Pineta Valley, in a secondary mountain range (the Sierra de Espierba) surrounded by 3,000-meter peaks, offers us an extraordinary vantage point with superb views: Las Tres Marías, La Suca, Collado de Añisclo, Punta Las Olas, the Baudrimonts, Pico Añisclo/Soum de Ramond, Monte Perdido, Cilindro de Marboré, Balcón de Pineta...",
+    "Beautiful views of the two valleys."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete this mountain biking route?",
+      "answer": "The Pico Comodoto – circular desde Pineta (ZA-003) route usually takes between 3 hours 15 minutes to 5 hours to complete, depending on your fitness level and how often you stop to enjoy the views. The Komoot estimate is around 3 hours 15 minutes."
+    },
+    {
+      "question": "Is this trail suitable for beginner mountain bikers?",
+      "answer": "No, this trail is consistently rated as 'difficult' and requires very good fitness and advanced riding skills. Some sections, especially the final push to the summit, are not bikeable and require hike-a-bike. It's considered a good route for those looking to get started in 'cicloalpinismo' due to its sustained, rather than extreme, inclines."
+    },
+    {
+      "question": "What is the terrain like on this mountain biking route?",
+      "answer": "The terrain is varied, covering approximately 22 km. You'll encounter narrow asphalt roads, well-maintained forest tracks (pistas forestales), unpaved sections, and singletrack. The ascent from Camping Pineta starts on asphalt, transitions to a stony forest track, and culminates in a non-bikeable path to the summit. Descents can be steep, fluid, or broken, with some sections through forests."
+    },
+    {
+      "question": "What kind of views can I expect along the way?",
+      "answer": "The scenery is a major highlight. From the summit of <a href=\"https://www.komoot.com/highlight/5772097\" target=\"_blank\" rel=\"noopener\">Pico Comodoto</a>, you'll get extraordinary 360-degree panoramic views of the Pineta Valley, the Circo de Pineta, the north face of Monte Perdido, and other prominent Pyrenean peaks. The 'Plana Fonda' area is particularly beautiful, often compared to an immense Japanese garden."
+    },
+    {
+      "question": "What is the best time of year to mountain bike this route?",
+      "answer": "The recommended season for this trail is from June to October. Outside of these months, there can be snow, making the route impassable or significantly more challenging."
+    },
+    {
+      "question": "Are there any specific highlights or landmarks to look out for on the trail?",
+      "answer": "Absolutely! The main highlight is the summit of <a href=\"https://www.komoot.com/highlight/5772097\" target=\"_blank\" rel=\"noopener\">Pico Comodoto</a> itself, offering incredible panoramic views. You'll also pass through <a href=\"https://www.komoot.com/highlight/4069248\" target=\"_blank\" rel=\"noopener\">Espierba Pass</a>, and the 'Plana Fonda' area is renowned for its beauty."
+    },
+    {
+      "question": "Does this route intersect with other official trails?",
+      "answer": "Yes, the route incorporates sections of several official trails. You'll ride parts of the Senda Pirenaica - E23, Variante 16.2, Pista de La Estiva, Senda de Espierba a Comodoto, and Antiguo camino a Pineta."
+    },
+    {
+      "question": "Where does the Pico Comodoto – circular desde Pineta (ZA-003) trail start and where can I park?",
+      "answer": "The trail typically starts from Camping Pineta. Parking is usually available at or near the camping area, which serves as a common access point for routes in the Pineta Valley."
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "While dogs are generally allowed in the peripheral zones of Ordesa y Monte Perdido National Park, specific regulations apply within the park itself. It's best to check the latest park rules regarding dogs on trails before you go, especially given the challenging nature of this route and potential for wildlife encounters."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee to ride this trail, especially within the national park?",
+      "answer": "The Pico Comodoto trail is located within the Parque Nacional de Ordesa y Monte Perdido. Generally, there are no entrance fees for accessing the park's trails. However, certain areas or activities might require specific permits or have restrictions, especially during peak seasons. It's always advisable to check the official park website for any current regulations or permit requirements before your visit."
+    },
+    {
+      "question": "What makes this route unique for mountain biking?",
+      "answer": "This route is considered a classic for 'ciclopirineismo' (a combination of cycling and mountaineering) in the area. It offers a unique blend of sustained mountain biking with a significant hike-a-bike section to reach the true summit, providing a diverse and rewarding experience for advanced riders seeking both a physical challenge and spectacular panoramic views."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.002544474,
+    "sm#paved": 0.028839916,
+    "sm#nature": 0.03971273,
+    "sm#asphalt": 0.16350336,
+    "sm#alpin": 0.1646782,
+    "sm#unpaved": 0.6007213
+  },
+  "way_types": {
+    "minor_road": 0.002544474,
+    "street": 0.19234328,
+    "trail": 0.34899855,
+    "way": 0.4561137
+  },
+  "waypoints": [
+    {
+      "name": "Pico Comodoto",
+      "lat": 42.674642,
+      "lng": 0.129626,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "challenging",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 5772097
+    },
+    {
+      "name": "Espierba Pass",
+      "lat": 42.6614,
+      "lng": 0.1566,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "forest"
+      ],
+      "highlight_id": 4069248
+    }
+  ],
+  "categories": [
+    "challenging",
+    "forest",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 8,
+  "visitors": 143,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-09T15:31:10.787Z",
+  "changed_at": "2026-02-26T18:53:50.292Z",
+  "scraped_at": "2026-04-28T15:15:59.764658+00:00"
+}

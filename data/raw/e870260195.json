@@ -1,0 +1,128 @@
+{
+  "tour_id": "e870260195",
+  "url": "https://www.komoot.com/smarttour/e870260195",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e870260195/la-rhune-from-sare",
+  "name": "La Rhune from Sare",
+  "name_original": "La Rhune à partir de Sare",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 14077.623574253577,
+  "duration_s": 20133,
+  "elevation_up_m": 880.5389464954799,
+  "elevation_down_m": 879.3599885941517,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.311628,
+  "start_lng": -1.583966,
+  "start_alt_m": 60.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Col des Trois Fontaines offers a superb view of the Rhune but also of its surroundings. Several paths converge at this location and allow you to vary the approaches to reach the summit.",
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "Old Roman bridge over the stream just before La Petite Rhune campsite. Not on the GR10.",
+    "The medieval road offers the opportunity for a beautiful walk in the middle of the Basque countryside. You will be happy to be on a mountain bike because of the cobblestones!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.046881538,
+    "paved": 0.060338203,
+    "asphalt": 0.13389407,
+    "nature": 0.14434522,
+    "unpaved": 0.2939757,
+    "alpin": 0.32056528
+  },
+  "way_types": {
+    "footway": 0.02471625,
+    "street": 0.0914886,
+    "minor_road": 0.13549805,
+    "way": 0.16966695,
+    "hiking_path": 0.2580649,
+    "mountain_hiking_path": 0.32056528
+  },
+  "waypoints": [
+    {
+      "name": "Col des Trois Fontaines",
+      "lat": 43.316841,
+      "lng": -1.633133,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 3241506
+    },
+    {
+      "name": "La Rhune summit",
+      "lat": 43.30897,
+      "lng": -1.635038,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Roman Bridge Near La Petite Rhune",
+      "lat": 43.304245,
+      "lng": -1.59453,
+      "type": "bridge",
+      "categories": [
+        "bridge",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 3759571
+    },
+    {
+      "name": "Old medieval road south of Sare.",
+      "lat": 43.310235,
+      "lng": -1.580078,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "trail",
+        "intermediate",
+        "cycle_way"
+      ],
+      "highlight_id": 3861038
+    }
+  ],
+  "categories": [
+    "bridge",
+    "cycle_way",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.536585330963135,
+  "rating_count": 41,
+  "visitors": 186,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2024-08-16T04:55:33.505Z",
+  "changed_at": "2024-08-16T04:55:36.518Z",
+  "scraped_at": "2026-04-27T11:08:28.054307+00:00"
+}

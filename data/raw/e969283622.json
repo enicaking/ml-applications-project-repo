@@ -1,0 +1,112 @@
+{
+  "tour_id": "e969283622",
+  "url": "https://www.komoot.com/smarttour/e969283622",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e969283622/orbaizeta-valle-aezkoa-selva-irati-bizcarrandi-circular-route",
+  "name": "Orbaizeta, Valle Aezkoa, Selva Irati, Bizcarrandi – Circular Route",
+  "name_original": "Orbaizeta, Valle Aezkoa, Selva Irati, Bizcarrandi – Ruta Circular",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "db#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 48197.05846330878,
+  "duration_s": 15002,
+  "elevation_up_m": 1123.4957838000507,
+  "elevation_down_m": 1128.466230550707,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.974165,
+  "start_lng": -1.227867,
+  "start_alt_m": 741.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Orbaizeta is the prelude to the Irati Forest. 4 km from the town are the remains of the Orbaitzeta Royal Munitions Factory, which played a crucial role in the history of this town. Guided tours of these ruins are organized to admire the industrial architecture of the 18th century. It is also possible to find important megalithic monuments on this mountain, such as dolmens, etc.",
+    "It is mandatory to go to the Selva de Irati when you are in Navarra, especially during the autumn when the leaves turn ochres, yellows and reds. It has the largest beech and fir forest in all of Europe.",
+    "Spectacular views and an unforgettable stretch.\r\nWatch out for storms in this area in summer."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.015342231,
+    "sb#compacted": 0.14496331,
+    "sb#paved": 0.2351988,
+    "sb#asphalt": 0.28838232,
+    "sb#unpaved": 0.31611332
+  },
+  "way_types": {
+    "service": 0.0017925494,
+    "minor_road": 0.028327115,
+    "trail": 0.078792445,
+    "street": 0.43996677,
+    "way": 0.45112112
+  },
+  "waypoints": [
+    {
+      "name": "Royal Orbaizeta Ammunition Factory",
+      "lat": 42.974666,
+      "lng": -1.229912,
+      "type": "historical_site",
+      "categories": [
+        "historical_site",
+        "man_made_monument",
+        "intermediate"
+      ],
+      "highlight_id": 5229503
+    },
+    {
+      "name": "Irati Forest via the Aezkoa Valley",
+      "lat": 43.002791,
+      "lng": -1.205113,
+      "type": "forest",
+      "categories": [
+        "forest",
+        "intermediate",
+        "natural_monument",
+        "family_friendly"
+      ],
+      "highlight_id": 4326305
+    },
+    {
+      "name": "View of Bizcarrandi",
+      "lat": 42.956498,
+      "lng": -1.152753,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "other_natural",
+        "intermediate",
+        "trail"
+      ],
+      "highlight_id": 3485396
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "other_natural",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 5,
+  "rating_count": 1,
+  "visitors": 19,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-31T20:27:43.062Z",
+  "changed_at": "2024-07-24T10:02:16.395Z",
+  "scraped_at": "2026-04-28T23:28:28.970592+00:00"
+}

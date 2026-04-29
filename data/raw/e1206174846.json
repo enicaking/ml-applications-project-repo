@@ -1,0 +1,89 @@
+{
+  "tour_id": "e1206174846",
+  "url": "https://www.komoot.com/smarttour/e1206174846",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1206174846/loop-6-the-beille-plateau-and-ariege-valley-10-pyrenean-routes",
+  "name": "Loop 6: The Beille plateau and Ariège valley – 10 Pyrenean routes",
+  "name_original": "Boucle 6 : Le plateau de Beille et la vallée de l'Ariège — 10 itinéraires pyrénéens",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 80875.21343226549,
+  "duration_s": 18601,
+  "elevation_up_m": 2273.0383057184818,
+  "elevation_down_m": 2272.8812114837533,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.720334,
+  "start_lng": 1.840934,
+  "start_alt_m": 731.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This very beautiful loop takes place on both sides of the upper Ariège valley. The starting point is the spa town of Ax-les-Thermes. You leave it by taking the corniche road which, on the hillside, takes you to the descent which leads to the village of Verdun.\n\nThe Verdun coast around kilometer 30 is worth the trip, because taking its hairpin bends is pure pleasure. After crossing the bridge over the river, you arrive at Les Cabannes where the official start of the ascent of the Plateau de Beille takes place.\n\nThis 16 kilometer climb is difficult and has significant percentages. On this plateau, a beautiful 360° view rewards you for all your efforts.\n\nAfter having taken advantage of the altitude, you will have to think about going down. You return to your starting point by taking a road that follows the course of the Ariège.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Ax-les-Thermes is a magnificent mountain town located in Ariège. This spa resort has the advantage of being attractive all year round for all sports and nature lovers. There you will find all the necessary amenities to have a pleasant time. The range of accommodation, restaurants and shops is relatively wide.",
+    "View of the Ariege Valley, Luzenac and the D20, Route de Corniche.",
+    "Out of the forest cover, the slope begins to reduce and the hairpin bends become more extensive. Courage, you are close to the top."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0038008634,
+    "sb#paved": 0.06593827,
+    "sb#asphalt": 0.9302609
+  },
+  "way_types": {
+    "minor_road": 0.0017210689,
+    "service": 0.0020797944,
+    "primary": 0.10546151,
+    "street": 0.89073765
+  },
+  "waypoints": [
+    {
+      "name": "Ax-les-Thermes",
+      "lat": 42.72101,
+      "lng": 1.83866,
+      "type": "settlement",
+      "categories": [
+        "settlement"
+      ],
+      "highlight_id": 5596535
+    },
+    {
+      "name": "Talc Valley viewpoint",
+      "lat": 42.758862,
+      "lng": 1.794092,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5843043
+    },
+    {
+      "name": "Final loops on the Plateau de Beille",
+      "lat": 42.739243,
+      "lng": 1.682273,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3689626
+    }
+  ],
+  "categories": [
+    "settlement"
+  ],
+  "tags": [],
+  "rating_score": 3.5,
+  "rating_count": 2,
+  "visitors": 246,
+  "author_name": "Vincent Reboul",
+  "author_id": "985077174705",
+  "created_at": "2023-07-10T13:12:38.041Z",
+  "changed_at": "2024-06-08T15:27:38.600Z",
+  "scraped_at": "2026-04-28T20:20:55.230022+00:00"
+}

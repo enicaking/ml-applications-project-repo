@@ -1,0 +1,117 @@
+{
+  "tour_id": "e851067784",
+  "url": "https://www.komoot.com/smarttour/e851067784",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e851067784/loop-of-saint-etienne-de-baigorry",
+  "name": "Loop of Saint-Etienne de Baïgorry",
+  "name_original": "Boucle de Saint-Etienne de Baïgorry",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 75911.70910705275,
+  "duration_s": 15713,
+  "elevation_up_m": 1627.8208107094486,
+  "elevation_down_m": 1628.1313017699435,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.175629,
+  "start_lng": -1.346338,
+  "start_alt_m": 162.3,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Fresh water at St Etienne Baigorry church",
+    "Small col on the border between the Basque Country and France. It has a restaurant with a bar and a small shop that sells snacks and souvenirs",
+    "almost car free alternative through gorges direction \"Pas de Roland\""
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 6.195332e-05,
+    "sb#paved": 0.21784732,
+    "sb#asphalt": 0.7820907
+  },
+  "way_types": {
+    "way": 6.195332e-05,
+    "minor_road": 0.029501166,
+    "primary": 0.2288338,
+    "street": 0.7416031
+  },
+  "waypoints": [
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.175698,
+      "lng": -1.402125,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    },
+    {
+      "name": "Otxondo Pass",
+      "lat": 43.236875,
+      "lng": -1.494258,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "facilities",
+        "intermediate",
+        "cycle_way",
+        "restaurant"
+      ],
+      "highlight_id": 211367
+    },
+    {
+      "name": "Gorges du Pas de Roland Road (T-900)",
+      "lat": 43.30207,
+      "lng": -1.36706,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "intermediate",
+        "cycle_way",
+        "river",
+        "viewpoint"
+      ],
+      "highlight_id": 864815
+    }
+  ],
+  "categories": [
+    "climb",
+    "cycle_way",
+    "facilities",
+    "gorge",
+    "intermediate",
+    "mountain_pass",
+    "restaurant",
+    "river",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.642857,
+  "rating_count": 14,
+  "visitors": 565,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-20T13:56:37.255Z",
+  "changed_at": "2024-06-04T21:48:46.061Z",
+  "scraped_at": "2026-04-28T19:26:00.761300+00:00"
+}

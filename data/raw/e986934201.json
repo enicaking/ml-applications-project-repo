@@ -1,0 +1,115 @@
+{
+  "tour_id": "e986934201",
+  "url": "https://www.komoot.com/smarttour/e986934201",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e986934201/from-matalascanas-to-el-rocio-through-the-donana-national-park",
+  "name": "From Matalascañas to El Rocío through the Doñana National Park",
+  "name_original": "De Matalascañas a El Rocío por el Parque Nacional de Doñana",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 32948.638673240195,
+  "duration_s": 6992,
+  "elevation_up_m": 74.2566735118072,
+  "elevation_down_m": 74.25667351180721,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.007139,
+  "start_lng": -6.564928,
+  "start_alt_m": 22,
+  "region": "Almonte",
+  "region_id": 64957,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": "Touring cycling around Almonte offers diverse experiences across its varied landscapes. The region is characterized by rolling hills and forested terrain of the Lanark Highlands, alongside the picturesque Mississippi River. Extensive gravel networks and unmaintained roads provide opportunities for challenging rides. The area features a mix of paved roads, well-maintained crushed gravel surfaces, and unmaintained roads. Best touring cycling routes around Almonte The most popular touring cycling routes in Almonte often feature sections of the Ottawa Valley Recreational Trail, providing accessible crushed gravel paths for various distances. These routes typically offer a mix of scenic river views and rural landscapes. Another top favourite among local touring cyclists are the routes exploring the Lanark Highlands, which include varying levels of elevation and forested sections. These paths range from moderate to difficult, catering to those seeking more challenging terrain. Local touring cyclists also love the routes that incorporate historic villages and natural features like the Mississippi River, often completed in about 2 to 4 hours depending on the chosen loop. Touring cycling around Almonte is defined by rolling hills, extensive gravel networks, and the scenic Mississippi River. The network offers options for different ability levels, from leisurely rides to challenging gravel adventures. The routes in Almonte are highly rated by the komoot community with an average score of 3.7 stars from over 49 reviews. More than 520 touring cyclists have used komoot to explore Almonte's varied terrain.",
+  "region_faq": "Q: How many touring cycling routes are available around Almonte?\nA: There are over 20 touring cycling routes around Almonte, offering a variety of experiences. These include routes suitable for easy rides, moderate challenges, and some more difficult options for experienced cyclists.\n\nQ: What kind of terrain can I expect on Almonte's touring cycling routes?\nA: Almonte's touring cycling routes feature diverse terrain. You'll find rolling hills and forested sections in the Lanark Highlands, picturesque paths along the Mississippi River, and extensive gravel networks, including unmaintained roads and even some ATV trails, particularly popular for adventure touring.\n\nQ: Are there any family-friendly cycling options in Almonte?\nA: Yes, Almonte offers family-friendly cycling options. The Ottawa Valley Recreational Trail (OVRT), including the Almonte Alameda section, provides accessible crushed gravel paths that are generally flat and suitable for all ages. Many routes also incorporate short, leisurely loops.\n\nQ: What are some scenic natural features I can see while cycling in Almonte?\nA: Cyclists can enjoy stunning natural beauty. Routes often follow the scenic Mississippi River, offering views of its falls and historic mills. You'll also encounter various lakes like Clayton Lake and White Lake, and ride through diverse ecosystems including pine forests and sugar bush areas within the Lanark Highlands.\n\nQ: Are there any circular touring cycling routes in the Almonte area?\nA: Yes, many touring cycling routes around Almonte are designed as circular loops, allowing you to start and end in the same location. These loops vary in length, from shorter options like the Naismith Loop (22 km) to longer rides such as the Tour de Mississippi Mills (100 km).\n\nQ: What historical or cultural points of interest can I explore along the routes?\nA: Almonte's routes often pass through or near charming historic villages like Pakenham, known for its impressive Five-Span Bridge, and Almonte itself with its unique shops and heritage architecture on Mill Street. The Mill of Kintail, a historic landmark connected to James Naismith, is also a notable point of interest on some loops.\n\nQ: What is the best time of year for touring cycling in Almonte?\nA: The best time for touring cycling in Almonte is generally from spring through fall. The region is particularly beautiful in autumn with vibrant fall foliage. Summers offer warm weather, while spring brings fresh greenery. Always check local weather conditions before heading out.\n\nQ: Where can I find parking for cycling routes in Almonte?\nA: Parking is available at various trailheads and public areas throughout Almonte and surrounding villages. For routes utilizing the Ottawa Valley Recreational Trail, you can often find parking in towns like Almonte, Carleton Place, and Arnprior.\n\nQ: What do other touring cyclists enjoy most about cycling in Almonte?\nA: The area is highly rated by the komoot community, with an average score of 3.7 stars from over 40 reviews. Reviewers often praise the diverse landscapes, the extensive gravel networks for adventure cycling, and the charming historic towns and natural features like the Mississippi River.\n\nQ: Are there places to stop for food and water along the cycling routes?\nA: Yes, Almonte and nearby villages like Pakenham and Clayton offer various cafes, restaurants, and stores where you can resupply with food and water. Almonte's Mill Street, in particular, has a good selection of unique shops and eateries.\n\nQ: What are the options for more challenging touring cycling routes?\nA: For those seeking a challenge, Almonte is renowned for its gravel riding. Routes like the 'Almonte Gravel Express' feature a high percentage of gravel roads, unmaintained roads, and even some singletrack, often winding through the Lanark Highlands with varying elevations.\n\nQ: Can I access cycling routes using public transport in Almonte?\nA: While Almonte itself has limited public transit options for direct access to trailheads, the Ottawa Valley Recreational Trail (OVRT) connects Almonte to other towns like Carleton Place and Arnprior, which may have more public transport links to regional networks.",
+  "tips": [
+    "Views of Arroyo La Rocina on one side of the bridge and Charco de la Boca on the other.",
+    "About 1,000,000 come every year! Pilgrims",
+    "A small but particular place with its sandy streets and famous Virgen de Rocío, which during the El Rocío pilgrimage attracts more than a million people."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.010283273,
+    "sb#cobbles": 0.012645037,
+    "sb#paved": 0.02532742,
+    "sb#unpaved": 0.06549177,
+    "sb#asphalt": 0.8862525
+  },
+  "way_types": {
+    "service": 0.0072266646,
+    "way": 0.027046176,
+    "street": 0.033996552,
+    "cycleway": 0.037972458,
+    "minor_road": 0.046354935,
+    "primary": 0.8474032
+  },
+  "waypoints": [
+    {
+      "name": "La Rocina Stream",
+      "lat": 37.126008,
+      "lng": -6.494247,
+      "type": "river",
+      "categories": [
+        "river",
+        "family_friendly",
+        "other_natural",
+        "viewpoint"
+      ],
+      "highlight_id": 4374390
+    },
+    {
+      "name": "Hermitage of El Rocío",
+      "lat": 37.131039,
+      "lng": -6.484655,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "man_made_monument",
+        "family_friendly",
+        "historical_site",
+        "unknown"
+      ],
+      "highlight_id": 885349
+    },
+    {
+      "name": "El Rocío Village",
+      "lat": 37.133076,
+      "lng": -6.483837,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "religious_building",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 5287815
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "man_made_monument",
+    "other_natural",
+    "religious_building",
+    "river",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 2.875,
+  "rating_count": 8,
+  "visitors": 42,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-28T16:23:42.391Z",
+  "changed_at": "2024-06-06T08:43:26.343Z",
+  "scraped_at": "2026-04-28T23:18:42.996855+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "tour_id": "e1369593928",
+  "url": "https://www.komoot.com/smarttour/e1369593928",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1369593928/lindus",
+  "name": "Lindus ",
+  "name_original": "Lindus",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 21092.289150852044,
+  "duration_s": 10726,
+  "elevation_up_m": 879.7693747743215,
+  "elevation_down_m": 892.0648292527694,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.069696,
+  "start_lng": -1.416273,
+  "start_alt_m": 434.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful loop offers a little-used route on the borders of the Aldudes valley. From the village of Urepel located at the foot of a mountain belt, you gradually gain altitude until you reach the border summit of Lindus.\n\nThe last French village in the Aldudes valley, Urepel and its fish farms are located at the foot of the majestic Basque mountains. You start by going around some of the peaks that dominate the town. This first part takes place on open ground before entering an unfathomable forest.\n\nFor a moment, the trees part to let a road pass. This is the Col d’Hauzay, located on the route of the HRP (Haute Route Pyrénéenne). There you will find a small tap to fill up with water before continuing the ascent to the next pass.\n\nBurdinkurutxeta marks your arrival on the French-Spanish border. An invisible line, it runs up to the heights of Lindus not far away. At the cost of a final effort you reach the summit.\n\nThe highest point of the route, the Lindus offers wonderful perspectives on the slopes of neighboring countries. Savor the panoramas that stretch to the high Pyrenean peaks on a clear day. You then pass at the foot of several Spanish peaks before beginning a long descent into the Aldudes valley. The path is populated with beautiful vegetation which accompanies the descent, while allowing a glimpse of the landscape until your return to Urepel.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Urepel is a pretty little Basque village nestled in the Aldudes valley. Located near the Spanish border, it is 421 meters above sea level.",
+    "Located at an altitude of 965 meters not far from the Spanish border, this small pass is on the route of the HRP (Haute Route Pyrénéenne). Despite dense vegetation, some views open onto the Aldudes valley. There is also a drinking water tap.",
+    "Culminating at 1,121 meters above sea level, the summit of Lindus is located precisely on the border which separates France from Spain. The panoramas on both sides are undeniably worth the detour.",
+    "Great passage clinging to the hillside, above the Aldude valley. The trail alternates between open parts and more shaded portions."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.0009988826,
+    "alpin": 0.0424786,
+    "unknown": 0.098084405,
+    "paved": 0.23470424,
+    "unpaved": 0.6237339
+  },
+  "way_types": {
+    "minor_road": 0.0065642237,
+    "mountain_hiking_path": 0.0424786,
+    "way": 0.21130297,
+    "street": 0.23570313,
+    "hiking_path": 0.5039511
+  },
+  "waypoints": [
+    {
+      "name": "Urepel",
+      "lat": 43.06969,
+      "lng": -1.41628,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5540829
+    },
+    {
+      "name": "Col d'Hauzay",
+      "lat": 43.04706,
+      "lng": -1.37129,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "forest",
+        "viewpoint",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 6275932
+    },
+    {
+      "name": "Lindus",
+      "lat": 43.02968,
+      "lng": -1.35983,
+      "type": "summit",
+      "categories": [
+        "summit"
+      ],
+      "highlight_id": 6275942
+    },
+    {
+      "name": "Joli chemin suspendu",
+      "lat": 43.0452,
+      "lng": -1.3968,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 6276342
+    }
+  ],
+  "categories": [
+    "forest",
+    "intermediate",
+    "mountain_pass",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 8,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-07T15:00:54.032Z",
+  "changed_at": "2024-08-13T10:51:07.752Z",
+  "scraped_at": "2026-04-27T15:05:08.550527+00:00"
+}

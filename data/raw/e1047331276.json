@@ -1,0 +1,114 @@
+{
+  "tour_id": "e1047331276",
+  "url": "https://www.komoot.com/smarttour/e1047331276",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1047331276/cascada-de-aitzondo-sl-gi-1006-circular-through-the-aiako-harria-natural-park",
+  "name": "Cascada de Aitzondo (SL-Gi 1006) — circular through the Aiako Harria Natural Park",
+  "name_original": "Cascada de Aitzondo (SL-Gi 1006) — circular por el Parque Natural Aiako Harria",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 6568.132579246987,
+  "duration_s": 7660,
+  "elevation_up_m": 220.31436107191362,
+  "elevation_down_m": 220.31436107191365,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.328892,
+  "start_lng": -1.776949,
+  "start_alt_m": 17.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Irugurutzeta ovens constitute the largest battery of ovens in Gipuzkoa and one of the most important in the Basque Country.\r\n\r\nAfter being calcined, the iron ores were loaded onto the wagons and from there they left for the Kostorbe station in the Irun neighborhood of Mendibil. From there, they were transported to Hendaye (for subsequent export to other areas of France, such as Bayonne or the Landes, and even to other countries such as Belgium, Germany or England), and to the ports of Pasaia, Bilbao... Their destination was the Blast Furnaces.",
+    "It connects the Hornos with the lower part of the Aitzondo waterfall, steep but short, a railing created with pikes and cables helps a lot to go up or down it.",
+    "The Aitzondo waterfall is located in the Aiako Harria natural park, at the western end of the Pyrenees. This waterfall is one of the largest in Guipuzcoa, with a drop of 140 meters that ends in a small pond."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.206314,
+    "gravel": 0.21592006,
+    "asphalt": 0.22877353,
+    "paved": 0.3489924
+  },
+  "way_types": {
+    "hiking_path": 0.04679241,
+    "mountain_hiking_path": 0.1595216,
+    "footway": 0.21344659,
+    "way": 0.22521576,
+    "street": 0.35502365
+  },
+  "waypoints": [
+    {
+      "name": "Irugurutzeta Furnaces",
+      "lat": 43.317083,
+      "lng": -1.771928,
+      "type": "man_made_monument",
+      "categories": [
+        "man_made_monument",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 5113984
+    },
+    {
+      "name": "Path With Handrail to Aitzondo Waterfall",
+      "lat": 43.309772,
+      "lng": -1.773022,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "waterfall",
+        "facilities",
+        "intermediate"
+      ],
+      "highlight_id": 5007529
+    },
+    {
+      "name": "Aitzondo Waterfall",
+      "lat": 43.307501,
+      "lng": -1.77147,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "intermediate",
+        "cave",
+        "natural_monument",
+        "viewpoint",
+        "unknown"
+      ],
+      "highlight_id": 1841170
+    }
+  ],
+  "categories": [
+    "cave",
+    "facilities",
+    "historical_site",
+    "intermediate",
+    "man_made_monument",
+    "natural_monument",
+    "trail",
+    "unknown",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.558441638946533,
+  "rating_count": 77,
+  "visitors": 301,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-03-09T15:45:50.157Z",
+  "changed_at": "2024-06-07T09:16:15.208Z",
+  "scraped_at": "2026-04-27T11:01:43.651207+00:00"
+}

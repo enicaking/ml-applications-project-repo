@@ -1,0 +1,111 @@
+{
+  "tour_id": "e1422205052",
+  "url": "https://www.komoot.com/smarttour/e1422205052",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422205052/marcadau-valley",
+  "name": "Marcadau Valley",
+  "name_original": "La vallée du Marcadau",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 15697.9004781851,
+  "duration_s": 18339,
+  "elevation_up_m": 533.2285588440827,
+  "elevation_down_m": 533.8372568297364,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.851619,
+  "start_lng": -0.137021,
+  "start_alt_m": 1484.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This hike, accessible to all levels, offers a lovely route which winds through the hollow of the Marcadau valley. Imbued with a unique atmosphere where history and pastoralism blend wonderfully with nature, it begins at the paid parking lot of the Pont d'Espagne. Note that if you wish to split this stage in two, it is possible to spend the night at the Wallon-Marcadau refuge, located in the middle of the route.\n\nThe route passes quickly above the Gave du Marcadau to reach the restoration sites located at the Pont d’Espagne. A beautiful waterfall is located slightly upstream. The route continues to climb towards the Clot plateau and its pretty eponymous chalet.\n\nAs the water flows, you gradually sink into the Marcadau valley. Crossed by the eponymous watercourse, it spreads out over several small plateaus. They are crossed without difficulty while following the banks of the Gave. In winter, this site offers beautiful ski touring trails, while in summer it is a delight for fly fishermen.\n\nA short climb in the woods brings you to a new plateau which offers superb views of the mountains. Not far from there, you reach the Wallon-Marcadau refuge. Freshly renovated, it is possible to spend the night there or take a nice break before turning back into the valley. The return takes approximately the same route as the outward journey, with the only difference being that it takes the other bank of the Gave du Marcadau.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Pont d'Espagne, beyond the construction, is an exceptional natural site where waterfalls follow one another. It is the starting point for many hikes and walks which lead to Lac de Gaube and to the Oulettes glacier. Others take you to the Marcadau valley or to the banks of Lake Ilhéou, where you can spend the night in a refuge. From Cauterets, the site which is located in the heart of the Pyrenees national park is accessible by transport (choose the bus rather than your car), by chairlift but also on foot via the GR10.",
+    "The Marcadau plateau is very easy to access from the Pont d'Espagne parking lot. First stage of the Marcadau valley, it is crossed by the Gave of the same name. This green setting is appreciated by hikers but also by fly fishermen. Climbing it offers a pleasant and easy immersion in the mountains.",
+    "The Wallon-Marcadau refuge is located at an altitude of 1,865 meters in the verdant Marcadeau valley. The refuge is the starting point for many hiking trails. It includes 113 beds in total. For more information: https://www.refuge-marcadau.csvss.fr/fr/"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.014141141,
+    "nature": 0.065891296,
+    "paved": 0.10861026,
+    "alpin": 0.27211508,
+    "unpaved": 0.5392422
+  },
+  "way_types": {
+    "footway": 0.0047402414,
+    "minor_road": 0.08753932,
+    "mountain_hiking_path": 0.27211508,
+    "hiking_path": 0.27324665,
+    "way": 0.3623587
+  },
+  "waypoints": [
+    {
+      "name": "View of the Pont d'Espagne waterfalls",
+      "lat": 42.85101,
+      "lng": -0.13992,
+      "type": "waterfall",
+      "categories": [
+        "waterfall",
+        "natural_monument",
+        "viewpoint",
+        "intermediate",
+        "bridge",
+        "lake",
+        "family_friendly",
+        "river"
+      ],
+      "highlight_id": 94909
+    },
+    {
+      "name": "Marcadau Plateau",
+      "lat": 42.8436,
+      "lng": -0.1653,
+      "type": "river",
+      "categories": [
+        "river"
+      ],
+      "highlight_id": 6383483
+    },
+    {
+      "name": "Wallon-Marcadau Refuge",
+      "lat": 42.82008,
+      "lng": -0.195,
+      "type": "hut",
+      "categories": [
+        "hut"
+      ],
+      "highlight_id": 2730892
+    }
+  ],
+  "categories": [
+    "bridge",
+    "family_friendly",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "river",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.819672107696533,
+  "rating_count": 61,
+  "visitors": 950,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-25T10:26:43.543Z",
+  "changed_at": "2024-06-13T13:15:27.170Z",
+  "scraped_at": "2026-04-27T11:31:47.309384+00:00"
+}

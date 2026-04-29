@@ -1,0 +1,200 @@
+{
+  "tour_id": "e977603263",
+  "url": "https://www.komoot.com/smarttour/e977603263",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e977603263/los-cahorros-de-monachil-loop",
+  "name": "Los Cahorros de Monachil Loop",
+  "name_original": "Parque Nacional de Sierra Nevada – circular de Los Cahorros de Monachil",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 8025.116762990955,
+  "duration_s": 8652,
+  "elevation_up_m": 251.27005286155622,
+  "elevation_down_m": 253.13103494931545,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 37.130466,
+  "start_lng": -3.535457,
+  "start_alt_m": 826.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Hike the moderate 5.0-mile Los Cahorros de Monachil Loop, featuring hanging bridges, a dramatic gorge, and river paths near Granada.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Route with an attractive route through the narrow gorge of this river, with hanging bridges, waterfalls and a refreshing riverside landscape.",
+    "A small detour that is worthwhile. This idyllic spot by the river is 70 meters from the main path. On a hot day we were glad to be able to sit under the cool canopy of leaves.",
+    "Tajo de las Palomas is a 8.2 kilometer loop trail located near Monachil.",
+    "If you pass through here on your way back to Monachil you can appreciate the monumentality of what was sculpted by the river that passes below.",
+    "Beautiful view of Monachil. The municipality of Monachil is part of the Sierra Nevada Natural Park and is located on the north-western slope. The town center, located on the left bank of the river of the same name, is at an altitude of 810 meters, but the municipality extends to mountainous areas of up to 3000 meters altitude."
+  ],
+  "faqs": [
+    {
+      "question": "How long does it typically take to complete the Los Cahorros de Monachil Loop?",
+      "answer": "The Los Cahorros de Monachil Loop usually takes between 3 to 4 hours to complete, depending on your pace and how often you stop to enjoy the scenery or take photos. The total distance is about 8 km."
+    },
+    {
+      "question": "What is the terrain like on this hike?",
+      "answer": "The terrain is quite varied and adventurous! You'll start with a narrow path through a 'fairytale forest' along the Monachil River, featuring small staircases and low tree branches. As you enter the gorge, expect dramatic limestone rock walls, narrow sections that might require crouching or crawling, and the use of metal handles. The route also includes several <a href=\"https://www.komoot.com/highlight/141744\" target=\"_blank\" rel=\"noopener\">hanging bridges</a>, waterfalls, and natural rock pools. The return leg often opens up to olive groves and expansive views."
+    },
+    {
+      "question": "Is the Los Cahorros de Monachil Loop suitable for beginners or families?",
+      "answer": "Yes, it's generally considered easy to moderate and is a popular choice for families and beginners who are comfortable with some adventurous elements. Good mobility is essential due to narrow sections and the need to occasionally crouch or use metal handles. Children who are used to walking in mountainous terrain will likely enjoy the 'Indiana Jones-like' obstacles."
+    },
+    {
+      "question": "What are the main highlights or features of this hike?",
+      "answer": "The trail is packed with unique features! You'll experience the dramatic <a href=\"https://www.komoot.com/highlight/141744\" target=\"_blank\" rel=\"noopener\">Los Cahorros Gorge</a>, navigate through tight rock passages, and cross numerous suspension bridges, including one that's 63 meters long. Other highlights include waterfalls, natural rock pools, and stunning <a href=\"https://www.komoot.com/highlight/3659382\" target=\"_blank\" rel=\"noopener\">views of Monachil Gorge</a> and the village of <a href=\"https://www.komoot.com/highlight/5239876\" target=\"_blank\" rel=\"noopener\">Monachil</a> itself."
+    },
+    {
+      "question": "Where can I park for the Los Cahorros de Monachil Loop?",
+      "answer": "Parking is typically available in the village of Monachil, which is the common starting point for the loop. There are designated parking areas, but they can fill up quickly, especially on weekends and holidays. Arriving early is recommended."
+    },
+    {
+      "question": "How do I get to the trailhead using public transport?",
+      "answer": "The trail is easily accessible from Granada. You can take a local bus service (e.g., line 183) from Granada directly to Monachil. The bus stop in Monachil is usually a short walk from the start of the trail."
+    },
+    {
+      "question": "What is the best time of year to hike this trail?",
+      "answer": "Spring (April-May) and autumn (September-October) are ideal, offering pleasant temperatures and lush scenery. Summer can be very hot, especially on the exposed uphill sections, but the natural rock pools provide a refreshing break. Winter can be beautiful, but check weather conditions as some sections might be slippery or colder."
+    },
+    {
+      "question": "Is Los Cahorros de Monachil dog-friendly?",
+      "answer": "Yes, the trail is generally dog-friendly. However, due to the narrow sections, hanging bridges, and occasional need to crouch or use metal handles, ensure your dog is agile and comfortable with such obstacles. Always keep your dog on a leash, especially in crowded areas and near wildlife."
+    },
+    {
+      "question": "Do I need a permit or pay an entrance fee for this trail?",
+      "answer": "No, you do not need a specific permit or pay an entrance fee to hike the Los Cahorros de Monachil Loop. It's freely accessible to the public. As it's located within the Sierra Nevada Natural Park, please respect all park regulations regarding litter, noise, and wildlife."
+    },
+    {
+      "question": "Are there opportunities for swimming along the trail?",
+      "answer": "Yes, there are several natural rock pools along the Monachil River, particularly in the gorge section, that offer opportunities for a refreshing dip. These are especially inviting during the warmer months."
+    },
+    {
+      "question": "Does the trail intersect with other hiking paths?",
+      "answer": "Yes, the route for Los Cahorros de Monachil Loop utilizes sections of several other paths. You'll find yourself on parts of the Sendero del Río Monachil and the Pradollano - Monachil trail, among others, as you complete the loop."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0023784263,
+    "asphalt": 0.002852309,
+    "alpin": 0.01600712,
+    "paved": 0.084335536,
+    "unpaved": 0.8944266
+  },
+  "way_types": {
+    "street": 0.0020582483,
+    "footway": 0.0023784263,
+    "minor_road": 0.069207855,
+    "way": 0.13233748,
+    "mountain_hiking_path": 0.21819182,
+    "hiking_path": 0.57582617
+  },
+  "waypoints": [
+    {
+      "name": "Los Cahorros Gorge, Monachil",
+      "lat": 37.126779,
+      "lng": -3.524362,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "intermediate",
+        "waterfall",
+        "challenging",
+        "trail",
+        "climb",
+        "bridge",
+        "river",
+        "viewpoint"
+      ],
+      "highlight_id": 141744
+    },
+    {
+      "name": "Shaded area to rest",
+      "lat": 37.122005,
+      "lng": -3.505405,
+      "type": "river",
+      "categories": [
+        "river",
+        "forest",
+        "viewpoint",
+        "family_friendly"
+      ],
+      "highlight_id": 4557646
+    },
+    {
+      "name": "Tajo de las Palomas",
+      "lat": 37.12454,
+      "lng": -3.511473,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "canyon",
+        "natural_monument",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 432856
+    },
+    {
+      "name": "View of Monachil Gorge",
+      "lat": 37.129271,
+      "lng": -3.519138,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "natural_monument",
+        "trail",
+        "intermediate",
+        "gorge"
+      ],
+      "highlight_id": 3659382
+    },
+    {
+      "name": "View of Monachil",
+      "lat": 37.129859,
+      "lng": -3.531991,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "river",
+        "settlement",
+        "intermediate"
+      ],
+      "highlight_id": 5239876
+    }
+  ],
+  "categories": [
+    "bridge",
+    "canyon",
+    "challenging",
+    "climb",
+    "family_friendly",
+    "forest",
+    "gorge",
+    "intermediate",
+    "natural_monument",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.8128724,
+  "rating_count": 839,
+  "visitors": 2738,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-12T11:43:14.119Z",
+  "changed_at": "2026-02-26T18:45:18.017Z",
+  "scraped_at": "2026-04-27T09:44:49.215291+00:00"
+}

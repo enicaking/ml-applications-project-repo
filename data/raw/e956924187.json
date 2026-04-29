@@ -1,0 +1,117 @@
+{
+  "tour_id": "e956924187",
+  "url": "https://www.komoot.com/smarttour/e956924187",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e956924187/etang-den-beys-and-its-refuge-hike-starting-from-the-fanguil-car-park-national-reserve-of-orlu",
+  "name": "Etang d’En Beys and its refuge – hike starting from the Fanguil car park – National Reserve of Orlu",
+  "name_original": "Etang d’En Beys et son refuge – randonnée au départ du parking du Fanguil – Réserve Nationale d'Orlu",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 17481.549552187163,
+  "duration_s": 21576,
+  "elevation_up_m": 902.9716689516092,
+  "elevation_down_m": 902.9716689516092,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.679176,
+  "start_lng": 1.949092,
+  "start_alt_m": 1151,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A national wildlife reserve, the Orlu Valley is an exceptional site for nature lovers.",
+    "The En Beys refuge which overlooks the eponymous ponds culminates at an altitude of 1,970 meters, in the heart of the Orlu national reserve. Situated on the great GR 7 which connects the Vosges to the Pyrenees, the refuge remains an excellent detour for the GRP® tour of the Ax Mountains or Tour des Pérics.\r\n\r\nIn a warm and family setting, the refuge guardians offer 70 beds in high season as well as a complete catering offer. In winter, 15 places remain freely accessible, accessible through the window at the top of the ladder which fits on one of the walls of the building.\r\n\r\nThe refuge is an ideal place to observe the burning of the granite walls of the Pics Rouges at sunset, or the galloping chamois in the snowfields in the early morning. If you wish to extend your stay for one night, do not hesitate to contact the refuge on 05 61 64 24 24 to find out about opening dates and bed availability.",
+    "The ponds of En Beys designate a set of three ponds located between 1,900 and 2,000 meters above sea level.\r\n\r\nReading a map, you will guess that the lake furthest upstream is the largest of the three. It is also the one on which the En Beys refuge is based, an essential stopover for a night in an entirely mountain setting.\r\n\r\nThe layout of the lake is perfect for admiring the colors of dawn or dusk. If you sleep at the refuge, take advantage of it for a moment of contemplation."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unpaved": 0.4994844,
+    "unknown": 0.50051564
+  },
+  "way_types": {
+    "footway": 0.0032472732,
+    "way": 0.49726835,
+    "hiking_path": 0.4994844
+  },
+  "waypoints": [
+    {
+      "name": "Vallée d'Orlu",
+      "lat": 42.650002,
+      "lng": 1.962184,
+      "type": "other_natural",
+      "categories": [
+        "other_natural",
+        "intermediate",
+        "gorge",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 5174857
+    },
+    {
+      "name": "En Beys Refuge",
+      "lat": 42.626723,
+      "lng": 1.944335,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "facilities",
+        "accomodation",
+        "pub",
+        "hut",
+        "intermediate",
+        "natural_monument",
+        "lake",
+        "viewpoint"
+      ],
+      "highlight_id": 936490
+    },
+    {
+      "name": "En Beys Lakes",
+      "lat": 42.625636,
+      "lng": 1.942257,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 939074
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "facilities",
+    "forest",
+    "gorge",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.933333396911621,
+  "rating_count": 15,
+  "visitors": 268,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-18T23:55:30.848Z",
+  "changed_at": "2024-06-05T23:45:39.394Z",
+  "scraped_at": "2026-04-27T12:22:15.822011+00:00"
+}

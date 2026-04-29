@@ -1,0 +1,128 @@
+{
+  "tour_id": "e1427037096",
+  "url": "https://www.komoot.com/smarttour/e1427037096",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1427037096/olhette-to-la-rhune",
+  "name": "Olhette to La Rhune",
+  "name_original": "La Rhune depuis Olhette",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10752.74606323841,
+  "duration_s": 17533,
+  "elevation_up_m": 764.1129055609031,
+  "elevation_down_m": 767.98164389531,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.331457,
+  "start_lng": -1.65927,
+  "start_alt_m": 103.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful hike provides access to one of the best-known mountains in the Basque Country: the Rhune. Culminating just above 900 meters, this peak reigns over the Basque coast. Bordering, it offers spectacular panoramas over a large part of the Basque Country. Note that it is possible to make the round trip via its little train from the Col de Saint-Ignace. All the information is here: https://www.rhune.com/fr/.\n\nThe start of the route is at the parking lot located at the end of Chemin Xurien Borda, in the Olhette district. The route begins by following the tracks of the GR 10. It gradually climbs towards the Col des Trois Fontaines. After a short passage under the woods, the view quickly clears and you can already see your objective for the day.\n\nThe passage to the pass and the crossing of its small wood announce the final ascent towards the Rhune. This is the steepest portion. Numerous switchbacks allow you to quickly gain height before reaching the esplanade at the top. From there, a spectacular view extends to the Landes coastline on one side and the Basque mountains on the other.\n\nSavor the panoramas, while enjoying the refreshments provided by the inn at the summit. Then, you begin the long descent phase to return to the starting point. This begins on a relatively wide track which plunges below the foothills of the summit. Then, you take a small path which goes off to the right. This path goes around Larrun Txiki for a little less than two kilometers until reaching Venta Yasola, ideal for taking a short break. After the venta, you continue the descent until you reach the GR 10 path, which brings you back to your starting point and concludes this superb loop.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The GR 10 path emerges and offers the first panorama of the Rhune when coming from Olhette.",
+    "La Rhune or “Larrun” in Basque is a peak in the Basque Country which rises to an altitude of 901 meters. La Rhune, which is accessible by train or on foot, is located on the border between France and Spain.",
+    "La Venta Yasola is an ideal place to take a break while enjoying the view. Open on sunny days, it offers a simple, local menu. Remember to call to make sure it's open!",
+    "The Col de Descarga haundi offers a small flat area ideal for bivouacking. Several paths converge here, including the GR 10, the HRP (Haute Route Pyrénéenne) as well as paths that allow the ascent of the Ziburu and the Rhune."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0061440426,
+    "paved": 0.01938956,
+    "gravel": 0.10075554,
+    "unpaved": 0.14890078,
+    "nature": 0.16551997,
+    "alpin": 0.5592901
+  },
+  "way_types": {
+    "minor_road": 0.004051276,
+    "footway": 0.004372861,
+    "hiking_path": 0.13598906,
+    "way": 0.24773729,
+    "mountain_hiking_path": 0.60784954
+  },
+  "waypoints": [
+    {
+      "name": "View of the Rhune",
+      "lat": 43.32659,
+      "lng": -1.65146,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 1055664
+    },
+    {
+      "name": "La Rhune summit",
+      "lat": 43.309035,
+      "lng": -1.635434,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "intermediate"
+      ],
+      "highlight_id": 1016283
+    },
+    {
+      "name": "Venta Yasola",
+      "lat": 43.31337,
+      "lng": -1.65931,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "viewpoint",
+        "intermediate",
+        "cafe"
+      ],
+      "highlight_id": 3553218
+    },
+    {
+      "name": "Col de Descarga Haundi",
+      "lat": 43.31869,
+      "lng": -1.65756,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "mountain_pass"
+      ],
+      "highlight_id": 3092891
+    }
+  ],
+  "categories": [
+    "cafe",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5885167,
+  "rating_count": 209,
+  "visitors": 1774,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-10-08T20:38:51.363Z",
+  "changed_at": "2024-10-08T20:38:54.640Z",
+  "scraped_at": "2026-04-27T11:08:11.417427+00:00"
+}

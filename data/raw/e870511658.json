@@ -1,0 +1,120 @@
+{
+  "tour_id": "e870511658",
+  "url": "https://www.komoot.com/smarttour/e870511658",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e870511658/hike-from-ainhoa",
+  "name": "Hike from Ainhoa",
+  "name_original": "Randonnée à partir d'Ainhoa",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7149.631625131497,
+  "duration_s": 9303,
+  "elevation_up_m": 443.02547066965934,
+  "elevation_down_m": 442.0986211204282,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.30687,
+  "start_lng": -1.497683,
+  "start_alt_m": 119.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "In the heart of the Basque Country, Ainhoa is considered one of the most beautiful villages in France. Its typical Basque houses are notably on the way to Compostela as well as the GR 10.",
+    "Great view on the village of Ainhoa and La Rhune in the background.",
+    "Since 1886, the Notre-Dame-d'Aubépine chapel has had a way of the cross which comes from the village of Ainhoa.\r\n\r\nThis portion is at the foot of Mount Errebi on the GR 10.\r\n\r\nThe chapel offers a beautiful view of the village of Ainhoa below.",
+    "Mount Errebi culminates at 583 meters above sea level. This summit, which looks like a large grassy bump, dominates the village of Ainhoa and offers a pretty panorama of the Pyrenees chain and the Atlantic coast."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.000557117,
+    "unknown": 0.24169025,
+    "paved": 0.37523055,
+    "unpaved": 0.38252208
+  },
+  "way_types": {
+    "street": 0.000557117,
+    "footway": 0.03476184,
+    "minor_road": 0.12812175,
+    "hiking_path": 0.361242,
+    "way": 0.47531733
+  },
+  "waypoints": [
+    {
+      "name": "Ainhoa",
+      "lat": 43.306603,
+      "lng": -1.498783,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "religious_building"
+      ],
+      "highlight_id": 3412283
+    },
+    {
+      "name": "View on Ainhoa and the Basque Coast",
+      "lat": 43.304378,
+      "lng": -1.489987,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 4649331
+    },
+    {
+      "name": "Notre-Dame-d'Aubépine chapel",
+      "lat": 43.303451,
+      "lng": -1.482424,
+      "type": "religious_building",
+      "categories": [
+        "religious",
+        "religious_building",
+        "viewpoint",
+        "intermediate",
+        "historical_site"
+      ],
+      "highlight_id": 732868
+    },
+    {
+      "name": "Mont Errebi",
+      "lat": 43.305126,
+      "lng": -1.471928,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 2529385
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "religious",
+    "religious_building",
+    "settlement",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.678571,
+  "rating_count": 56,
+  "visitors": 224,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-08-03T15:19:49.680Z",
+  "changed_at": "2024-06-04T23:33:37.191Z",
+  "scraped_at": "2026-04-27T11:08:24.871249+00:00"
+}

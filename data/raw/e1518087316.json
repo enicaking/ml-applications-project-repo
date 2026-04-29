@@ -1,0 +1,131 @@
+{
+  "tour_id": "e1518087316",
+  "url": "https://www.komoot.com/smarttour/e1518087316",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1518087316/saint-jean-de-luz-to-sare-cycle-route",
+  "name": "Saint-Jean-de-Luz to Sare cycle route",
+  "name_original": "La voie verte de Saint-Jean-de-Luz à Sare",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 28789.052880027226,
+  "duration_s": 7109,
+  "elevation_up_m": 327.455911742499,
+  "elevation_down_m": 327.43957277485265,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.386785,
+  "start_lng": -1.663348,
+  "start_alt_m": 1.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This route allows you to discover the new Rhune cycle route, from the Atlantic coast to the Pyrenean foothills. The loop starts from Saint-Jean-de-Luz and its emblematic bay and then reaches Sare, labeled “Most Beautiful Village in France”.\n\nYou quickly discover the fishing port of Saint-Jean-de-Luz. It is the largest tuna port in France. Hake and anchovy are also other fishing specialties from this port. From the Chantaco district, a first section of four kilometers of greenway takes you to Ascain. This village with its typical architecture is lively with numerous games of Basque pelota on the fronton.\n \nAt the exit of Ascain, you then attack the climb to the Col de Saint-Ignace via a second portion of two-kilometer greenway. At the top, an inn allows you to enjoy a nice break before continuing. If your schedule allows it, you can also take the little train there to discover the summit of Rhune.\n\nOtherwise, a pleasant descent leads to the picturesque village of Sare, nestled at the foot of the Rhune. We advise you to take a gourmet break to regain your strength before returning: the Basque cake is the traditional and emblematic pastry of the region.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Located at the mouth of the Nivelle, the port of Saint-Jean-de-Luz is the leading tuna port in France. It is located in the hollow of the beautiful bay of Saint-Jean-de-Luz. Anchovy and hake fishing are other specialties of this pretty port.",
+    "Ascain is an authentic village in the Basque Country. Populated by its typical houses, it sits in a unique atmosphere at the foot of the first peaks of the Pyrenees.",
+    "The Col de Saint-Ignace is at an altitude of 169 meters. It is the starting point for many trails which lead to La Rhune and its surroundings. There is a car park but also a restaurant as well as the little train which leads to the summit of La Rhune.",
+    "Sare is one of the most beautiful villages in the Basque Country. Nestled at the foot of the Pyrenees and in particular the Rhune, its history dates back to the Bronze Age."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#cobbles": 0.0007763184,
+    "unknown": 0.025858073,
+    "sb#unpaved": 0.12891854,
+    "sb#paved": 0.2580395,
+    "sb#asphalt": 0.58640754
+  },
+  "way_types": {
+    "service": 0.0009000038,
+    "way": 0.022643084,
+    "minor_road": 0.15583178,
+    "primary": 0.18144348,
+    "street": 0.30157536,
+    "cycleway": 0.33760628
+  },
+  "waypoints": [
+    {
+      "name": "Port of Saint-Jean-de-Luz",
+      "lat": 43.38674,
+      "lng": -1.66333,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "other_man_made",
+        "family_friendly",
+        "cycle_way",
+        "port_harbour"
+      ],
+      "highlight_id": 440412
+    },
+    {
+      "name": "Ascain",
+      "lat": 43.34503,
+      "lng": -1.62096,
+      "type": "settlement",
+      "categories": [
+        "family_friendly",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 3411050
+    },
+    {
+      "name": "Saint-Ignace Pass",
+      "lat": 43.32499,
+      "lng": -1.60055,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "restaurant",
+        "family_friendly",
+        "viewpoint",
+        "facilities"
+      ],
+      "highlight_id": 852512
+    },
+    {
+      "name": "Sare",
+      "lat": 43.3126,
+      "lng": -1.58005,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "wheelchair_accessible"
+      ],
+      "highlight_id": 5778510
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "historical_site",
+    "mountain_pass",
+    "other_man_made",
+    "port_harbour",
+    "restaurant",
+    "settlement",
+    "viewpoint",
+    "wheelchair_accessible"
+  ],
+  "tags": [],
+  "rating_score": 4.7272725105285645,
+  "rating_count": 11,
+  "visitors": 86,
+  "author_name": "Explore France",
+  "author_id": "france",
+  "created_at": "2024-04-16T15:16:58.505Z",
+  "changed_at": "2024-06-03T13:50:36.775Z",
+  "scraped_at": "2026-04-28T23:38:04.233448+00:00"
+}

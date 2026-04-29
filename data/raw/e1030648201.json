@@ -1,0 +1,136 @@
+{
+  "tour_id": "e1030648201",
+  "url": "https://www.komoot.com/smarttour/e1030648201",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1030648201/stage-4-luz-saint-sauveur-to-vielle-aure-grand-raid-des-pyrenees",
+  "name": "Stage 4: Luz-Saint-Sauveur to Vielle-Aure — Grand Raid des Pyrénées",
+  "name_original": "Étape 4 : De Luz-Saint-Sauveur à Vielle-Aure — Grand Raid des Pyrénées en off",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 42141.426418846364,
+  "duration_s": 24811,
+  "elevation_up_m": 2166.718856738425,
+  "elevation_down_m": 2079.2364954885334,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": false,
+  "start_lat": 42.873849,
+  "start_lng": -0.003203,
+  "start_alt_m": 705.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This last stage aims to bring you back to the starting point: the village of Vielle-Aure. Overall, the profile is divided into two parts: a long gradual climb to the middle of the course and then a slightly hilly descent to your final destination. This stage comes down to flirting alternately with the GR 10 trail.\n\nThe route begins by climbing on the sides of the soum de Nère, with beautiful parts in the forest. The first kilometers follow the departmental road which goes to the Col du Tourmalet, part of it is on the GR 10.\n\nAt the hamlet of Tournaboup, you cross the road to enter the magnificent Gaubie valley. You find the GR 10 to sink into this peaceful and preserved valley. Bridges and ruins bear witness to centuries-old pastoral activity as you progress. The slope rises gradually to harden between the huts of Aygues Cluses and the hourquette Nère, the highest point of the stage. At the pass, a magnificent landscape awaits you with superb panoramas of the lakes towards which you begin a technical descent.\n\nAs you progress, several lakes are revealed to you, including the superb Port Bielh lake. The rest of the descent plunges into a beautiful forest before revealing the immense Lake Oule. From there, you embark on the last climb of your journey to the Col du Portet. From then on, you follow again the markup of the GR 10 which you left at the edge of Hourquette Nère. It is at the foot of Cap de Pède that you leave it to dive on a track towards your final destination.\n\nYou reach the heights of Vielle-Aure via the neighboring village of Vignec. A few hundred meters later, you have arrived at the end of your formidable Pyrenean odyssey. This authentic village offers you a last moment out of time to perfectly end your adventure.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Gaubie valley includes the Gaubie and Pountou bridges. It houses the ruins of the Gaubie huts and leads to the plateau of Aygues Cluses and its refuge.",
+    "The Hourquette Nère is a mountain pass which is 2,465 meters above sea level. Located at the foot of the Aygues Cluses peak, it offers a magnificent view of the Bastan and Gourget lakes.",
+    "This natural lake, of glacial origin, is revealed to walkers who arrive via the passes. Well sheltered behind its granite barrier, it is impossible to see it from the bottom of the massif.\r\nOver time, the geology of the massif made it possible to dig a basin and create a rocky edge. It is this “glacial lock” which erases Port Bielh Lake from the landscape when you are below.\r\n\r\nApart from a few pines, you will not find much vegetation there. The site is essentially mineral but still offers small lawns suitable for bivouacs.",
+    "Lake Oule, an artificial body of water, is one of the largest in the Néouvielle reserve. His work dates from the interwar period, when the Midi railway company decided to transform a pasture plateau into a water reservoir in order to supply the Eget hydroelectric power station. Its waters come from Lake Oredon through a canal designed to supply the body of water.",
+    "Vieille-Aure is a charming little village in the Pyrenees located in the Néouvielle national reserve.\r\nAuthentic with its alleys and Auroises houses, it is the starting point for many mountain activities."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.014499162,
+    "gravel": 0.024469461,
+    "asphalt": 0.062147494,
+    "unknown": 0.06316964,
+    "nature": 0.19943619,
+    "unpaved": 0.28717667,
+    "alpin": 0.34910136
+  },
+  "way_types": {
+    "track": 0.00015568626,
+    "primary": 0.0015505088,
+    "footway": 0.002264557,
+    "minor_road": 0.045305625,
+    "street": 0.054379355,
+    "hiking_path": 0.19214232,
+    "way": 0.26086673,
+    "mountain_hiking_path": 0.4433352
+  },
+  "waypoints": [
+    {
+      "name": "Gaubie Valley",
+      "lat": 42.882673,
+      "lng": 0.11608,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5455414
+    },
+    {
+      "name": "Hourquette Nère Pass",
+      "lat": 42.8736,
+      "lng": 0.1721,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass"
+      ],
+      "highlight_id": 5448581
+    },
+    {
+      "name": "Lake of Port Bielh",
+      "lat": 42.87108,
+      "lng": 0.18639,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 3387891
+    },
+    {
+      "name": "Lake Oule",
+      "lat": 42.8401,
+      "lng": 0.1989,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 929638
+    },
+    {
+      "name": "Vielle-Aure",
+      "lat": 42.82965,
+      "lng": 0.32824,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site"
+      ],
+      "highlight_id": 3003195
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 33,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-02-13T21:26:28.550Z",
+  "changed_at": "2024-06-07T03:00:45.858Z",
+  "scraped_at": "2026-04-27T15:38:40.572191+00:00"
+}

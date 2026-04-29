@@ -1,0 +1,93 @@
+{
+  "tour_id": "e1221103617",
+  "url": "https://www.komoot.com/smarttour/e1221103617",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1221103617/hiking-through-the-barranco-de-sia-circular-from-gavin",
+  "name": "Hiking through the Barranco de Sía — circular from Gavín",
+  "name_original": "Yésero por el Barranco de Sía — circular desde Gavín",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 11581.436048410933,
+  "duration_s": 5373,
+  "elevation_up_m": 374.78716563630644,
+  "elevation_down_m": 378.84793744005435,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.619824,
+  "start_lng": -0.297161,
+  "start_alt_m": 977.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Beautiful path that passes over the Barranco de Sia and is a path that used to connect the town of Gavín with San Bartolomé de Gavín.",
+    "Between the Sierras de Tendeñera and the Sierra de Serrablo lies this beautiful and picturesque village in the middle of the Barranco de Sia."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.05264297,
+    "nature": 0.055054314,
+    "unknown": 0.11313921,
+    "unpaved": 0.36650458,
+    "asphalt": 0.41265893
+  },
+  "way_types": {
+    "minor_road": 0.048409082,
+    "way": 0.14576755,
+    "hiking_path": 0.3942001,
+    "street": 0.41162327
+  },
+  "waypoints": [
+    {
+      "name": "Barranco de Sía",
+      "lat": 42.622217,
+      "lng": -0.278171,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "trail",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5928168
+    },
+    {
+      "name": "Yésero",
+      "lat": 42.621785,
+      "lng": -0.247391,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "unknown"
+      ],
+      "highlight_id": 5928169
+    }
+  ],
+  "categories": [
+    "gorge",
+    "intermediate",
+    "settlement",
+    "trail",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-20T06:54:09.282Z",
+  "changed_at": "2024-07-26T13:19:43.486Z",
+  "scraped_at": "2026-04-27T15:13:24.699098+00:00"
+}

@@ -1,0 +1,135 @@
+{
+  "tour_id": "e1052142614",
+  "url": "https://www.komoot.com/smarttour/e1052142614",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1052142614/route-11-pic-du-perdiguere-15-peaks-over-3-000-metres-in-the-pyrenees",
+  "name": "Route 11: Pic du Perdiguère – 15 peaks over 3,000 metres in the Pyrenees",
+  "name_original": "Circuit 11 : Le pic du Perdiguère — 15 sommets de plus de 3 000 mètres dans les Pyrénées",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 28282.519314420944,
+  "duration_s": 51830,
+  "elevation_up_m": 2179.986765952708,
+  "elevation_down_m": 2179.9867659527076,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.763873,
+  "start_lng": 0.50195,
+  "start_alt_m": 1148.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Perdiguère peak stands on the border between Spain and France at 3,222 meters above sea level. The highest peak in the Luchonnais, it offers a magnificent panorama. This hike allows you to climb several peaks exceeding 3,000 meters around the peak.\n\nI suggest a route that starts from the Granges d'Astau in the Oô valley. From the free car park, take a track that goes up through the forest towards Lake Oô. This site is one of the most visited in the Pyrenees, which is quickly understood when you discover the beauty of this place. The waterfall that feeds the lake helps to make the setting even more majestic.\n\nThe climb continues, still meandering through the forest which opens at the Col d'Espingo. Below are the refuge and the lake of the same name. You continue in the direction of Lake Saussat via a pretty plateau of summer pastures. From there, the path rises again to reach the Portillon refuge. It is ideally located for a welcome break after a long stretch of climb. The refuge offers a surprising new setting, with its lake in the foreground, the impressive Aiguille du Litérole, and your objective: the Perdiguère.\n\nHere I suggest a loop that takes you to the lower Litérole pass then to the spectacular Litérole needle. Several peaks over 3,000 meters follow one another here: Litérole point (3,132 meters), Royo peak (3,121 meters), Royo point (3,098 meters), Litérole tuca (3,095 meters). Be sure to stay on the ridge and not move on its sides. This passage requires you to have a mountain foot so as not to be impressed by some dizzying passages. By staying on the path, you will not encounter any major difficulties.\n\nLike a tightrope walker, you walk on the ridge that delimits the Franco-Spanish border. Your progress gradually brings you closer to the final ascent to Perdiguère. Less vertiginous, it nevertheless includes some steep passages. At the top, the spectacle is breathtaking, the Aneto and the Posets, the highest Pyrenean peaks are revealed to you. You can also see the Pic de Maupas or the Pic Lézat.\n\nFor the return, you turn back to the upper Litérole pass which is at the foot of the Tuca de Litérole. You then dive into the upper valley of Litérole to head towards the Lac du Portillon. This is the normal way to reach the Perdiguère. It leads directly to the summit without taking the Aiguille du Litérole is its 3,000 meters. You then go around the lake to find the path that slides to the refuge. From there, the return route follows the same route as you took on the outward journey.\n\nThis hike is flexible as desired. Indeed, although achievable in one day, it remains reserved for the most seasoned. I strongly advise you to stop at the Portillon refuge, or to bivouac at the lakes of Espingo or Saussat. The passage over the Aiguille du Litérole does not involve any major difficulty, but does require some experience in the mountains. You can also access Perdiguère by going directly to the Litérole upper pass.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Located in the heart of the Pyrenees, at the foot of Lac d'Oô, the Granges d'Astau offer a restaurant, a bar and a gîte on the GR 10 trail.",
+    "Lac d'Oô is a must in the Pyrenees. Perched at 1,507 meters above sea level, this artificial expanse is located on an old glacial lake.\r\n\r\nIts emblematic waterfall of 275 meters also contributes to the fame of this remarkable natural site.",
+    "Magnificent mountain lake located at 1,921 meters above sea level. Mainly fed by the Lac du Portillon, it is nestled in a picturesque green setting.",
+    "Culminating at 3,222 meters above sea level, the Perdiguère peak dominates a magnificent ridge that includes several peaks exceeding 3,000 meters. Located on the Franco-Spanish border, it dominates the massif of the same name offering an absolutely incredible 360 degree panorama."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.004412394,
+    "unknown": 0.014994282,
+    "nature": 0.08966508,
+    "unpaved": 0.31162798,
+    "alpin": 0.5793003
+  },
+  "way_types": {
+    "hiking_path": 0.0013169621,
+    "street": 0.004412394,
+    "footway": 0.014994282,
+    "way": 0.13096698,
+    "alpine_hiking_path": 0.2010979,
+    "mountain_hiking_path": 0.6472115
+  },
+  "waypoints": [
+    {
+      "name": "The Granges of Astau",
+      "lat": 42.7637,
+      "lng": 0.5019,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "settlement",
+        "facilities",
+        "restaurant",
+        "parking",
+        "family_friendly",
+        "accomodation"
+      ],
+      "highlight_id": 3157739
+    },
+    {
+      "name": "Lac d'Oô",
+      "lat": 42.74431,
+      "lng": 0.491713,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "viewpoint",
+        "hut",
+        "intermediate",
+        "waterfall"
+      ],
+      "highlight_id": 5186545
+    },
+    {
+      "name": "Lake Saussat",
+      "lat": 42.724965,
+      "lng": 0.502734,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 3744532
+    },
+    {
+      "name": "Perdiguero Peak",
+      "lat": 42.69203,
+      "lng": 0.51888,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "viewpoint",
+        "natural_monument",
+        "challenging"
+      ],
+      "highlight_id": 2503788
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "facilities",
+    "family_friendly",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "parking",
+    "restaurant",
+    "settlement",
+    "summit",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.538461685180664,
+  "rating_count": 13,
+  "visitors": 184,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-16T12:46:24.090Z",
+  "changed_at": "2024-06-07T11:08:05.801Z",
+  "scraped_at": "2026-04-27T12:06:05.284001+00:00"
+}

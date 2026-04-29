@@ -1,0 +1,101 @@
+{
+  "tour_id": "e1153804424",
+  "url": "https://www.komoot.com/smarttour/e1153804424",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1153804424/loop-9-route-de-napoleon-basque-country-passes",
+  "name": "Loop 9: Route de Napoléon – Basque Country passes",
+  "name_original": "Circuit 9 : Route de Napoléon — Cols du Pays basque",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 45368.652435675715,
+  "duration_s": 10309,
+  "elevation_up_m": 1322.6854963842902,
+  "elevation_down_m": 1323.2769061968343,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.162789,
+  "start_lng": -1.23988,
+  "start_alt_m": 168.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Although this loop of about 45 kilometers does not include any passes, it still offers its share of elevation. In the footsteps of the Camino de Compostela, the itinerary embarks on a road with panoramas as diverse as they are striking.\n\nThe route starts from the village of Saint-Jean-Pied-de-Port. With a rich history and heritage, the town also delights nature lovers with its location at the foot of the mountains. As soon as you leave Saint-Jean-Pied-de-Port, the road rises very steeply.\n\nAlthough the forest remains omnipresent, few passages are shaded. This allows you to see the landscapes taking shape as you progress. The first section of the climb is also the steepest, the percentages soften as you progress. Along the way, you discover the amazing refuge of Orisson. Its terrace invites you to take a pleasant break to savor the view of the valley.\n\nOnce again in the saddle, you must continue to progress uphill. The peak of Orisson marks the beginning of a series of summits near which a superb panoramic road crosses. Gradually the slope fades and towards the Arnosteguy pass you begin a beautiful downhill section. This plunges into the heart of the valley, crossing a thick forest before emerging on the Nive. The river then accompanies you until you return to Saint-Jean-Pied-de-Port.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint-Jean-Pied-de-Port is an essential village in the Basque Country. Nestled at the confluence of the Nives, the medieval city is at the crossroads of the roads serving the Basque Country. The city has a relatively rich historical and architectural heritage. There is notably a medieval enclosure made up of an imposing wall pierced by four large gates. At its heart you will find several artisans who offer many local products. The medieval city also owes its fame to the Camino de Santiago which crosses it. An emblematic stop on this trail, the village welcomes many of its pilgrims throughout the year. At the foot of the Basque mountains, in Saint-Jean-Pied-de-Port, life is good. Take the time to stroll through its streets, eat on its various terraces or relax in the many lodges there.",
+    "On the way over the pass - the ideal stopover. Definitely reserve a few days before by mail!",
+    "Very nice stretch of road that winds at the foot of several peaks. Each bend offers a new panorama of the rolling mountains just steps away from Spain."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#asphalt": 1.0
+  },
+  "way_types": {
+    "primary": 0.0006958668,
+    "minor_road": 0.009556175,
+    "street": 0.98974794
+  },
+  "waypoints": [
+    {
+      "name": "Saint-Jean-Pied-de-Port",
+      "lat": 43.1628,
+      "lng": -1.2398,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "historical_site",
+        "man_made_monument"
+      ],
+      "highlight_id": 4917203
+    },
+    {
+      "name": "Orisson Mountain Hut and Inn",
+      "lat": 43.10879,
+      "lng": -1.23914,
+      "type": "hut",
+      "categories": [
+        "hut",
+        "viewpoint",
+        "restaurant",
+        "intermediate"
+      ],
+      "highlight_id": 2745189
+    },
+    {
+      "name": "Scenic route",
+      "lat": 43.054333,
+      "lng": -1.261327,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5784387
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "man_made_monument",
+    "restaurant",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.7272725105285645,
+  "rating_count": 11,
+  "visitors": 177,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-06-05T16:22:11.949Z",
+  "changed_at": "2024-06-08T06:06:14.435Z",
+  "scraped_at": "2026-04-28T19:26:16.440607+00:00"
+}

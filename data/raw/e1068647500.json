@@ -1,0 +1,107 @@
+{
+  "tour_id": "e1068647500",
+  "url": "https://www.komoot.com/smarttour/e1068647500",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1068647500/port-de-bales-emblematic-passes-of-the-pyrenees",
+  "name": "Port de Balès – emblematic passes of the Pyrenees",
+  "name_original": "Circuit 13 : Port de Balès — Les cols emblématiques des Pyrénées",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 67011.87355890601,
+  "duration_s": 13726,
+  "elevation_up_m": 1547.4940200974856,
+  "elevation_down_m": 1545.37053937667,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.79748,
+  "start_lng": 0.59705,
+  "start_alt_m": 621,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Culminating at 1,755 meters, the port of Balès is less well known and renowned than its neighbours, which are none other than the Tourmalet or the Portillon. However, its irregular and brittle ascent has earned it the chance to be climbed a few times by the Tour de France since its first in 2007.\n\nThe route starts at Bagnères-de-Luchon train station. This spa town is the starting point for many passes in the same area. The first part runs on a long false flat which joins the Garonne which you then leave in the direction of SIradan. You now progress on a slightly steeper road to Mauléon-Barousse.\n\nThe climb officially starts in the village and stretches for almost 19 kilometres. The first are affordable before the slope becomes more demanding and irregular. The road rises via several switchbacks and some passages exceed 14%. The arrival at the top gives you a beautiful view of the surrounding peaks which exceed 2,000 meters in altitude.\n\nThe descent plunges you into the bottom of a valley where the Neste d'Oueil flows. This pretty stream brings you back a few kilometers from Bagnères-de-Luchon, which you just need to reach via a slightly downhill section.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The pretty little village of Mauléon-Barousse marks the start of the ascent towards the port of Balès. The climb is 18.9 kilometers long with an average of 6.3%, some of which exceed 14%.",
+    "The port of Balès rises to an altitude of 1,755 meters. The climb from Mauléon-Barousse is 18.9 kilometers long with an average gradient of 6.3%, including some sections at over 14%.",
+    "Nicknamed “the queen of the Pyrenees”, Bagnères-de-Luchon, also called Luchon, is a famous spa resort in Occitania. There is a wide range of accommodation and catering options."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.00010697108,
+    "sb#paved": 0.009181132,
+    "sb#asphalt": 0.99071187
+  },
+  "way_types": {
+    "way": 0.00010697108,
+    "primary": 0.02029896,
+    "minor_road": 0.020584282,
+    "cycleway": 0.11809814,
+    "street": 0.8409116
+  },
+  "waypoints": [
+    {
+      "name": "Mauléon-Barousse",
+      "lat": 42.9594,
+      "lng": 0.56758,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly",
+        "river",
+        "unknown"
+      ],
+      "highlight_id": 804462
+    },
+    {
+      "name": "Port de Balès",
+      "lat": 42.87417,
+      "lng": 0.50062,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "viewpoint",
+        "cycle_way"
+      ],
+      "highlight_id": 370808
+    },
+    {
+      "name": "Bagnères-de-Luchon",
+      "lat": 42.7919,
+      "lng": 0.5912,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5558028
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "mountain_pass",
+    "river",
+    "settlement",
+    "unknown",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.857142925262451,
+  "rating_count": 21,
+  "visitors": 1040,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-04-04T15:15:30.372Z",
+  "changed_at": "2024-06-07T19:18:51.529Z",
+  "scraped_at": "2026-04-28T19:54:43.761946+00:00"
+}

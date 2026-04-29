@@ -1,0 +1,115 @@
+{
+  "tour_id": "e1427052611",
+  "url": "https://www.komoot.com/smarttour/e1427052611",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1427052611/ispeguy-pass-to-hautza",
+  "name": "Ispéguy pass to Hautza",
+  "name_original": "Hautza depuis le col d'Ispéguy",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 10258.191944796563,
+  "duration_s": 17377,
+  "elevation_up_m": 794.9417359857723,
+  "elevation_down_m": 790.7751224404934,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.175718,
+  "start_lng": -1.401861,
+  "start_alt_m": 673,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This hike takes you on a border ridge between France and Spain. You progress successively on the heights of the Baigorri and Baztan valleys, located in Spanish Navarre. From the Ispeguy pass to the Hautza in a round trip, this route includes a significant kilometer-altitude difference ratio which has the merit of offering incredible views.\n\nThe Ispeguy border pass is an ideal starting point, where several paths converge. In addition to parking, there is an inn-restaurant perfect for refueling at the start or end of the hike. The route begins by following the GR 5 path, which runs along the hillside.\n\nA first escapade offers the Elhorriko Kaskoa, a real belvedere over the Baigorri valley. The view of the cliffs of Iparla is shared with the first Pyrenean peaks of Béarn. You then head towards Hautza, via an uphill section which runs along a relatively wide ridge. You juggle the French-Spanish border before reaching the highest point of the route which is located exclusively in Spain. L’Hautza offers panoramas of the Spanish slope and the Baztan valley. On the other side, on a clear day, you can see the peak of Anie.\n\nThe last section of the route joins the Ispeguy Pass mainly via descent. This time, you are traveling on the Spanish slope overlooking the Baztan valley. Back at the inn, its terrace and kitchen invite you to enjoy beautiful plates of Iberian ham, valley trout, or other Spanish specialties.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Fresh water at St Etienne Baigorry church",
+    "Located at 987 meters above sea level, Elhorriko Kaskoa is a peak that is easily reached from the Ispeguy Pass. Dominating the village of Baigorri, it forms a great viewpoint over all the peaks of Iparla.",
+    "Hautza or Autza peaks at 1,306 meters above sea level. It offers a beautiful panorama of the Basque Country and the other surrounding mountains. Hundreds of megalithic blocks give it a mystical side."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.010775628,
+    "unpaved": 0.114463605,
+    "nature": 0.2298358,
+    "alpin": 0.644925
+  },
+  "way_types": {
+    "way": 0.17458701,
+    "hiking_path": 0.180488,
+    "mountain_hiking_path": 0.644925
+  },
+  "waypoints": [
+    {
+      "name": "Ispéguy Pass",
+      "lat": 43.17571,
+      "lng": -1.40185,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "cycle_way",
+        "viewpoint",
+        "climb",
+        "intermediate",
+        "mountain_pass",
+        "restaurant",
+        "facilities"
+      ],
+      "highlight_id": 211371
+    },
+    {
+      "name": "Elhorriko Kaskoa",
+      "lat": 43.15704,
+      "lng": -1.39566,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 1819027
+    },
+    {
+      "name": "Hautza Summit",
+      "lat": 43.151317,
+      "lng": -1.420239,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "challenging",
+        "viewpoint",
+        "intermediate"
+      ],
+      "highlight_id": 1035416
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "facilities",
+    "intermediate",
+    "mountain_pass",
+    "natural_monument",
+    "restaurant",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.709677219390869,
+  "rating_count": 31,
+  "visitors": 242,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-30T10:26:51.809Z",
+  "changed_at": "2024-06-13T14:50:23.944Z",
+  "scraped_at": "2026-04-27T11:08:30.982892+00:00"
+}

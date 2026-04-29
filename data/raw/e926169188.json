@@ -1,0 +1,102 @@
+{
+  "tour_id": "e926169188",
+  "url": "https://www.komoot.com/smarttour/e926169188",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e926169188/ceretanas-roads-circular-from-bellver-de-cerdanya",
+  "name": "Ceretanas Roads - Circular from Bellver de Cerdanya",
+  "name_original": "Carreteras Ceretanas - Circular desde Bellver de Cerdanya",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 2,
+  "distance_m": 46181.74433658835,
+  "duration_s": 11173,
+  "elevation_up_m": 799.8547377030252,
+  "elevation_down_m": 799.6582646653542,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.368645,
+  "start_lng": 1.778219,
+  "start_alt_m": 1041.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Small village on the slopes of Cadí where you can breathe peace away from the main road of La Cerdanya",
+    "Beautiful hermitage that is accessed after a climb of approximately 2 km and a small descent of 300 meters. Highly recommended as a first effort for a longer route"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sb#paved": 0.368967,
+    "sb#asphalt": 0.631033
+  },
+  "way_types": {
+    "minor_road": 0.15455163,
+    "primary": 0.24625541,
+    "street": 0.599193
+  },
+  "waypoints": [
+    {
+      "name": "Montellà Village",
+      "lat": 42.354678,
+      "lng": 1.705288,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly"
+      ],
+      "highlight_id": 1139401
+    },
+    {
+      "name": "Prullans",
+      "lat": 42.378863,
+      "lng": 1.736317,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "family_friendly",
+        "religious_building",
+        "viewpoint"
+      ],
+      "highlight_id": 5029922
+    },
+    {
+      "name": "Sant Grau del Puig Hermitage",
+      "lat": 42.341717,
+      "lng": 1.840887,
+      "type": "religious_building",
+      "categories": [
+        "religious_building",
+        "intermediate",
+        "historical_site",
+        "viewpoint"
+      ],
+      "highlight_id": 3905092
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.5,
+  "rating_count": 2,
+  "visitors": 20,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-09-14T15:52:23.315Z",
+  "changed_at": "2024-07-24T09:11:18.346Z",
+  "scraped_at": "2026-04-28T20:13:28.055200+00:00"
+}

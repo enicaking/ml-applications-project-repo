@@ -1,0 +1,115 @@
+{
+  "tour_id": "e1221130465",
+  "url": "https://www.komoot.com/smarttour/e1221130465",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1221130465/ascent-to-the-embalse-de-respomuso-and-the-ibon-de-arriel-circular-from-the-embalse-de-la-sarra",
+  "name": "Ascent to the Embalse de Respomuso and the Ibon de Arriel — circular from the Embalse de la Sarra",
+  "name_original": "Subida al Embalse de Respomuso y al Ibon de Arriel — circular desde el Embalse de la Sarra",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 19175.71941815293,
+  "duration_s": 9628,
+  "elevation_up_m": 986.1340554913065,
+  "elevation_down_m": 986.1340554913063,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.791806,
+  "start_lng": -0.326435,
+  "start_alt_m": 1464.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Accessible by car and with a barbecue and parking in the north corner.",
+    "Sometimes also called Respumoso or even Respumuso, this reservoir in the Valle de Aguas Limpias was originally an ibón that grew with a large dam in the mid-20th century during the Franco regime, despite warnings about the ecological impact it would have.",
+    "The Arriel Lakes are two lakes joined together at 2,259 meters above sea level at the foot of the Palas summit on the Spanish side. Nestled at the foot of impressive rocky mountains, these stretches offer a grandiose setting for a well-deserved break."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.00029561072,
+    "unknown": 0.0015269041,
+    "nature": 0.03768644,
+    "asphalt": 0.086880155,
+    "unpaved": 0.8736109
+  },
+  "way_types": {
+    "street": 0.086880155,
+    "way": 0.09262953,
+    "hiking_path": 0.31252027,
+    "footway": 0.50797004
+  },
+  "waypoints": [
+    {
+      "name": "La Sarra Reservoir from the dam",
+      "lat": 42.796133,
+      "lng": -0.330995,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "family_friendly",
+        "parking",
+        "viewpoint",
+        "facilities",
+        "other_man_made"
+      ],
+      "highlight_id": 5332377
+    },
+    {
+      "name": "Respomuso Reservoir",
+      "lat": 42.8172,
+      "lng": -0.2955,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "man_made_monument",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 5118956
+    },
+    {
+      "name": "Arriel Lakes",
+      "lat": 42.8339,
+      "lng": -0.3152,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5884949
+    }
+  ],
+  "categories": [
+    "facilities",
+    "family_friendly",
+    "intermediate",
+    "lake",
+    "man_made_monument",
+    "natural_monument",
+    "other_man_made",
+    "parking",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 25,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-20T07:16:07.846Z",
+  "changed_at": "2024-07-26T13:20:06.120Z",
+  "scraped_at": "2026-04-27T15:21:05.321900+00:00"
+}

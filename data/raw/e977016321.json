@@ -1,0 +1,138 @@
+{
+  "tour_id": "e977016321",
+  "url": "https://www.komoot.com/smarttour/e977016321",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e977016321/r21-oroses-loop",
+  "name": "R21 - Oroses Loop",
+  "name_original": "Ribera del Río Gállego — circular desde Biescas",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "easy",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c1",
+  "constitution": 3,
+  "distance_m": 15295.980553484382,
+  "duration_s": 3580,
+  "elevation_up_m": 108.28787083230054,
+  "elevation_down_m": 107.855850495504,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.626538,
+  "start_lng": -0.321744,
+  "start_alt_m": 853.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The R21 - Oroses Loop is an easy 9.5-mile touring cycling route in Espacio BTT Pirineo Alto Gállego, taking about 59 minutes.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Oros Bajo is a town close to the town of Biescas, where right at the entrance we find the Mozarabic church of the Oros Bajos. The town, located at the foot of the mountain, is also known because the Barranco dos Lucas falls there. 200 meters from the town and with a path that can be accessed on foot, we find the Barranco de dos Lucas dam. Beyond, at 600, the waterfall with the same name mentioned above.",
+    "Biescas is one of the largest and most important municipalities in the Pyrenees. It has 19 population centers —in addition to Biescas itself—, but at least seven of them are uninhabited. It is considered the gateway to the Tena Valley and, in fact, remains of an ancient Roman road that communicated with it are still preserved."
+  ],
+  "faqs": [
+    {
+      "question": "Where does the R21 - Oroses Loop touring cycling route start, and is there parking available?",
+      "answer": "The R21 - Oroses Loop is a circular route that can be started from various points, including the town of <a href=\"https://www.komoot.com/highlight/5754858\" target=\"_blank\" rel=\"noopener\">Biescas</a>. Parking is generally available in and around the towns along the route, such as <a href=\"https://www.komoot.com/highlight/5754858\" target=\"_blank\" rel=\"noopener\">Biescas</a> or <a href=\"https://www.komoot.com/highlight/5916530\" target=\"_blank\" rel=\"noopener\">Oros Bajo</a>."
+    },
+    {
+      "question": "Is the R21 - Oroses Loop suitable for beginners in touring cycling?",
+      "answer": "Yes, this route is classified as <strong>easy</strong>, making it very suitable for beginners in touring cycling. With a modest elevation gain of about 108 meters over its 15.3 km distance, it offers a gentle introduction to cycling in the area."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The best time to cycle the R21 - Oroses Loop is typically during spring and autumn when the weather is mild and the scenery is vibrant. Summer can also be pleasant, especially in the mornings or late afternoons, though it can get warm. Winter cycling is possible but may require more preparation for colder temperatures."
+    },
+    {
+      "question": "Are dogs allowed on the R21 - Oroses Loop?",
+      "answer": "Yes, dogs are generally allowed on this touring cycling route. However, it's always recommended to keep your dog on a leash, especially when passing through towns or near livestock, and to ensure you clean up after them to maintain the natural environment for everyone."
+    },
+    {
+      "question": "Are there any permits or entrance fees required to cycle the R21 - Oroses Loop or access Espacio BTT Pirineo Alto Gállego?",
+      "answer": "No, there are no specific permits or entrance fees required to cycle the R21 - Oroses Loop. It is part of the Espacio BTT Pirineo Alto Gállego network, which is freely accessible for cycling activities."
+    },
+    {
+      "question": "What kind of terrain can I expect on the R21 - Oroses Loop?",
+      "answer": "The R21 - Oroses Loop is designed for touring bicycles, so you can expect mostly well-maintained paths and roads. Given its easy difficulty, the terrain is generally smooth, suitable for a comfortable ride through the valley and past settlements."
+    },
+    {
+      "question": "What can I see along the route?",
+      "answer": "The route passes through charming settlements like <a href=\"https://www.komoot.com/highlight/5916530\" target=\"_blank\" rel=\"noopener\">Oros Bajo</a> and <a href=\"https://www.komoot.com/highlight/5754858\" target=\"_blank\" rel=\"noopener\">Biescas</a>, offering glimpses into local life and architecture. You'll enjoy scenic views of the surrounding landscape, typical of the Alto Gállego region."
+    },
+    {
+      "question": "Does the R21 - Oroses Loop intersect with other well-known paths?",
+      "answer": "Yes, the route shares sections with several other official trails, including R10 - Lárrede, R17 - Oliván, and Camino Ribera del Gállego. You may also encounter parts of R27 - Erata and Senderos del Serrablo."
+    },
+    {
+      "question": "What should I pack for a touring cycling trip on this route?",
+      "answer": "For this easy touring cycling route, pack essentials like water, snacks, a basic repair kit, and appropriate clothing for the weather. Sun protection (sunscreen, hat) is advisable, and a camera to capture the scenery is always a good idea."
+    },
+    {
+      "question": "Are there places to stop for food or drinks along the way?",
+      "answer": "Yes, as the route passes through settlements like <a href=\"https://www.komoot.com/highlight/5754858\" target=\"_blank\" rel=\"noopener\">Biescas</a> and <a href=\"https://www.komoot.com/highlight/5916530\" target=\"_blank\" rel=\"noopener\">Oros Bajo</a>, you will find opportunities to stop for refreshments, meals, or to replenish supplies."
+    }
+  ],
+  "surfaces": {
+    "sb#cobbles": 0.0012744047,
+    "sb#paved": 0.015555252,
+    "sb#unpaved": 0.09912415,
+    "sb#compacted": 0.29060856,
+    "sb#asphalt": 0.5934376
+  },
+  "way_types": {
+    "primary": 0.0027581544,
+    "minor_road": 0.09981177,
+    "way": 0.31860572,
+    "street": 0.57882434
+  },
+  "waypoints": [
+    {
+      "name": "Oros Bajo",
+      "lat": 42.591944,
+      "lng": -0.310938,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "waterfall",
+        "river",
+        "intermediate",
+        "religious_building",
+        "historical_site"
+      ],
+      "highlight_id": 5916530
+    },
+    {
+      "name": "Biescas",
+      "lat": 42.628773,
+      "lng": -0.32194,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 5754858
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "river",
+    "settlement",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4,
+  "rating_count": 2,
+  "visitors": 19,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-11T15:48:14.420Z",
+  "changed_at": "2026-02-26T19:02:59.785Z",
+  "scraped_at": "2026-04-28T23:34:12.579285+00:00"
+}

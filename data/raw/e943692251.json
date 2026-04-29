@@ -1,0 +1,96 @@
+{
+  "tour_id": "e943692251",
+  "url": "https://www.komoot.com/smarttour/e943692251",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e943692251/between-bagneres-de-luchon-and-baussens",
+  "name": "Between Bagnères de Luchon and Baussens",
+  "name_original": "Entre Bagnères de Luchon et Baussens",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 59097.94677250395,
+  "duration_s": 11420,
+  "elevation_up_m": 1149.7598149647488,
+  "elevation_down_m": 1148.8463770290964,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.837922,
+  "start_lng": 0.731707,
+  "start_alt_m": 592.8,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Saint Béat is a very typical French village. The village maintains its architectural style throughout, and it is deeply rooted in the landscape. You can find bars and a few other shops.",
+    "In stead of going over the main road this is a nice deviation. A very short steep climb in the beginning following by nice flowing road through little villages. Good asfalt and low in traffic. Recommended over the main roads as these are not that exciting and quite busy."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.0012162002,
+    "sb#paved": 0.01030063,
+    "sb#asphalt": 0.9884832
+  },
+  "way_types": {
+    "minor_road": 0.033212505,
+    "cycleway": 0.080781065,
+    "primary": 0.29261446,
+    "street": 0.59339195
+  },
+  "waypoints": [
+    {
+      "name": "View of the Château de Saint-Béat",
+      "lat": 42.915653,
+      "lng": 0.691655,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "viewpoint",
+        "religious_building",
+        "historical_site",
+        "intermediate"
+      ],
+      "highlight_id": 1798442
+    },
+    {
+      "name": "Clumartin Road",
+      "lat": 42.896335,
+      "lng": 0.616259,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "intermediate",
+        "cycle_way",
+        "climb"
+      ],
+      "highlight_id": 898295
+    }
+  ],
+  "categories": [
+    "castle",
+    "climb",
+    "cycle_way",
+    "historical_site",
+    "intermediate",
+    "religious_building",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.545454502105713,
+  "rating_count": 11,
+  "visitors": 578,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-04T14:18:24.575Z",
+  "changed_at": "2024-06-05T21:24:46.013Z",
+  "scraped_at": "2026-04-28T20:00:58.759033+00:00"
+}

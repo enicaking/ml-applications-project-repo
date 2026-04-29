@@ -1,0 +1,154 @@
+{
+  "tour_id": "e1326075465",
+  "url": "https://www.komoot.com/smarttour/e1326075465",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1326075465/opposite-aneto-3-404-metres-11-168-ft-highest-point-in-the-pyrenees",
+  "name": "Opposite Aneto – 3,404 metres (11,168 ft): highest point in the Pyrenees ",
+  "name_original": "Face à l’Aneto - 3 404 mètres : Point culminant des Pyrénées",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16165.897478521272,
+  "duration_s": 29487,
+  "elevation_up_m": 1335.3407154727277,
+  "elevation_down_m": 1333.849800182394,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.721296,
+  "start_lng": 0.654016,
+  "start_alt_m": 1385.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Pyrenees range extends from the Atlantic Ocean to the Mediterranean Sea for more than 400 kilometers. A natural border between France and Spain, it has 212 peaks exceeding 3,000 meters in altitude. The highest point, Aneto, reigns on the Spanish slope at 3,404 meters above sea level.\n\nThis beautiful loop offers a panorama of the king of the Pyrenees, from one of its most beautiful viewpoints: the port of Vénasque. Bordering, this impressive passage is reached from the Pique valley at the cost of an ascent as demanding as it is majestic. The route begins at the Hospice de France, accessible by car from Luchon.\n\nThe climb begins immediately upon exiting the refuge in a remarkable green setting. This section includes more than 1,000 meters of elevation gain. As you progress, the environment evolves. The green softness gives way to mineral terrain. The Vénasque refuge and lakes allow you to take a break before finalizing the ascent to the pass.\n\nNestled between two rock walls, the port of Vénasque is a narrow passage at an altitude of 2,444 meters. In front of you is Aneto, the highest point of the Pyrenees, while behind you the view overlooking the Pique valley is just as extraordinary.\n\nYou are now operating on Spanish territory. This part begins with a pleasant section which offers magnificent views of the Esera valley. This section is done on a gradual descent before going back up towards the Pas de l'Escalette where you find France. A long descent follows which follows the border before arriving at the Hospice de France.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "At the end of the Pique Valley is the Hospice de France. Dating back to the 17th century, this inn has always been intended to receive travelers who venture here. It is located in a superb green setting not far from the Franco-Spanish border.",
+    "The Vénasque lakes, also nicknamed the “Booms of Vénasque”, are located at an altitude of 2,250 meters, not far from the refuge of the same name. They offer a magnificent panorama overlooking the valley.",
+    "The port of Vénasque, or “puerto de Benasque” in Spanish, is a pass in the Pyrenees located on the Franco-Spanish border. Culminating at 2,444 meters above sea level, it separates the Pique valley to the north and the Esera valley to the south.\r\n\r\nIts small rocky passage nestles between the Mine and the Pic de Sauvegarde. The panorama is absolutely magnificent, both on the French and Spanish sides.",
+    "A great view of the valley.\r\nGreat hike with beautiful views of the entire final valley of Benasque with Pic de Aneto and Maladeta Massif. The first half of the hike to Puerto de Benasque is strenuous with a steep gradient, the second half with a pleasant, gentle gradient.",
+    "From the Benasque Hospital to Puerto de la Picada, it is a simple and\r\nvery beautiful, with unbeatable views of the north face of Maladeta.\r\nThe path is well defined and marked by milestones until reaching Port de la Picada itself. It goes up gently in a zigzag pattern until it reaches the Basetas del Portillón, small lakes that can sometimes be found dry. From here, we turn right, looking for an easterly orientation to overcome the last slope that leaves us at Port de la Picada. On the other side, you can see small lakes called Bom des Clòts de Lunfèrn and the Valley that descends towards Artiga de Lin (Vall d'Aran)."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "unknown": 0.011571038,
+    "nature": 0.028699018,
+    "unpaved": 0.046998728,
+    "alpin": 0.91273123
+  },
+  "way_types": {
+    "minor_road": 0.011571038,
+    "way": 0.028699018,
+    "hiking_path": 0.046998728,
+    "mountain_hiking_path": 0.91273123
+  },
+  "waypoints": [
+    {
+      "name": "Hospice of France",
+      "lat": 42.72095,
+      "lng": 0.65484,
+      "type": "facilities",
+      "categories": [
+        "facilities",
+        "hut",
+        "accomodation",
+        "pub",
+        "restaurant",
+        "intermediate",
+        "settlement",
+        "historical_site"
+      ],
+      "highlight_id": 5556928
+    },
+    {
+      "name": "Vénasque Lakes",
+      "lat": 42.6954,
+      "lng": 0.6417,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 5556912
+    },
+    {
+      "name": "Port de Vénasque / Puerto de Benasque",
+      "lat": 42.692246,
+      "lng": 0.640994,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging",
+        "viewpoint",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 3511207
+    },
+    {
+      "name": "Vale Rio de Esera",
+      "lat": 42.68798,
+      "lng": 0.644685,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "intermediate",
+        "trail",
+        "other_natural",
+        "gorge"
+      ],
+      "highlight_id": 1341414
+    },
+    {
+      "name": "Picada Pass",
+      "lat": 42.689245,
+      "lng": 0.660324,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "intermediate",
+        "trail",
+        "viewpoint",
+        "summit"
+      ],
+      "highlight_id": 2579806
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "challenging",
+    "facilities",
+    "gorge",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "lake",
+    "mountain_pass",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "settlement",
+    "summit",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.861111,
+  "rating_count": 36,
+  "visitors": 411,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-09-27T10:30:07.208Z",
+  "changed_at": "2024-06-10T16:00:57.376Z",
+  "scraped_at": "2026-04-27T11:51:57.759445+00:00"
+}

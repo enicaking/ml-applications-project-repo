@@ -1,0 +1,115 @@
+{
+  "tour_id": "e1383198270",
+  "url": "https://www.komoot.com/smarttour/e1383198270",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1383198270/aubert-and-aumar-lakes",
+  "name": "Aubert and Aumar lakes",
+  "name_original": "Les lacs d'Aubert et d'Aumar",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 7888.3325539055995,
+  "duration_s": 11091,
+  "elevation_up_m": 321.2715586921113,
+  "elevation_down_m": 321.2715586921113,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.828098,
+  "start_lng": 0.169422,
+  "start_alt_m": 1861.9,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This route, accessible to practitioners of all levels, offers two of the most famous and popular lakes in the Néouvielle reserve. The Aubert and Aumar lakes are two superb bodies of water that overlap at the foot of magnificent mountains. They have the advantage of being served by a shuttle from June 1 to September 30, for seven euros for a round trip. They are also accessible by car except between 9:30 a.m. and 6 p.m.\n\nThe departure point is in the paid parking lot at Lake Orédon. You follow a path which immediately plunges into a beautiful pine forest. This first portion includes the most elevation gain. You gradually climb to the heights of the lake, on a fairly stony path. When you reach Les Laquettes, the path softens and goes up the banks of the lake in a magical atmosphere.\n\nThe clear waters of the lake contrast with the steep, jagged mountains that border it. As you progress, you can see the peak of Néouvielle in the distance. Like a lighthouse, it guides the ascent towards the next lake, that of Aubert. You access it by arriving under its dam.\n\nA wide track goes up the body of water towards the parking lot where the shuttle arrives. There you will find signs indicating the way to the next lake, that of Aumar. Bordered by pretty lawns, it is ideal for a pleasant break or a refreshing swim. The return takes place on the same path, exclusively downhill.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Lake Orédon is the most accessible of all since a car park has been installed on its banks. If this causes large crowds in high season, the lake of Orédon remains one of the most impressive of the Néouvielle massif.\r\n\r\nWith the mountains that throw themselves steeply into its waters, Lake Orédon looks like a fjord that makes it very different from all the other bodies of water in the reserve. To have !",
+    "The laquettes are located below Lake Aubert, at an altitude of 2,085 meters. These are groups of small ponds and pools irrigated by winter snow and overflow from the surrounding lakes. However, these wetlands regularly dry up in summer. If California has its “thousand lakes” on the John Muir Trail, we have the lakes on the GR 10 and it is no less magical.",
+    "Lake Aubert, located at an altitude of 2,148 meters, serves as a mirror for Hourquette d'Aubert. This artificial body of water (dam lake) is fed by the small glaciers of Ramougn and the Chaussenque breccia, as well as by the overflow of Lake Aumar located overlooking the Aubert.\r\n\r\nAn orientation table allows you to put small names on the peaks that surround the lake. So you will be able to locate the Néouvielle peak.",
+    "Lake Aumar, which adjoins Lake Aubert, offers a superb picture from its barges, since it highlights the peaks of Néouvielle and Ramougn. A Pyrenean show par excellence."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "paved": 0.003188621,
+    "unknown": 0.0703393,
+    "unpaved": 0.07542976,
+    "alpin": 0.85104233
+  },
+  "way_types": {
+    "street": 0.003188621,
+    "hiking_path": 0.07542976,
+    "minor_road": 0.07687424,
+    "mountain_hiking_path": 0.8445074
+  },
+  "waypoints": [
+    {
+      "name": "Lake Orédon",
+      "lat": 42.82823,
+      "lng": 0.16946,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 3755161
+    },
+    {
+      "name": "Les Laquettes",
+      "lat": 42.833694,
+      "lng": 0.156196,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "viewpoint",
+        "other_natural"
+      ],
+      "highlight_id": 609898
+    },
+    {
+      "name": "Lac d'Aubert",
+      "lat": 42.8395,
+      "lng": 0.1433,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 1627219
+    },
+    {
+      "name": "Lake Aumar",
+      "lat": 42.8426,
+      "lng": 0.1456,
+      "type": "lake",
+      "categories": [
+        "lake"
+      ],
+      "highlight_id": 609892
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.755102157592773,
+  "rating_count": 49,
+  "visitors": 551,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-11-27T17:14:49.694Z",
+  "changed_at": "2024-06-12T10:18:03.960Z",
+  "scraped_at": "2026-04-27T11:44:16.614441+00:00"
+}

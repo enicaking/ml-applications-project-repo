@@ -1,0 +1,92 @@
+{
+  "tour_id": "e948230648",
+  "url": "https://www.komoot.com/smarttour/e948230648",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e948230648/ibones-del-anayet-trail-running-circular-from-portalet-car-park-formigal",
+  "name": "Ibones del Anayet – trail running circular from Portalet car park (Formigal)",
+  "name_original": "Ibones del Anayet – circular de trail running desde aparcamiento del Portalet (Formigal)",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 11547.473986457644,
+  "duration_s": 6295,
+  "elevation_up_m": 562.4712410056843,
+  "elevation_down_m": 562.4712410056843,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.799648,
+  "start_lng": -0.414023,
+  "start_alt_m": 1756.6,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": null,
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The Anayet lakes are located at an altitude of 2,200m below two peaks: El Vértice de Anayet and El Pico de Anayet, both of volcanic origin.",
+    "This ibón is located at an altitude of 1950 m.\r\n\r\nAll the Aragonese lakes are protected as they are included in the Inventory of Singular Wetlands, so any activity that could modify the quality of their waters is prohibited. While bathing is not specifically mentioned, it is understood that bathing with chemicals on the skin such as sunscreens, deodorants, perfumes or creams is negatively affecting the quality of the water, so it cannot be done. You can read the protection decree and the list of wetlands included here: http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=558856590404"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.008008377,
+    "unknown": 0.014944392,
+    "nature": 0.022862496,
+    "alpin": 0.031990558,
+    "unpaved": 0.9221942
+  },
+  "way_types": {
+    "mountain_hiking_path": 0.054853056,
+    "way": 0.13614641,
+    "hiking_path": 0.80900055
+  },
+  "waypoints": [
+    {
+      "name": "Anayet Lakes",
+      "lat": 42.779032,
+      "lng": -0.444449,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "viewpoint",
+        "intermediate",
+        "natural_monument"
+      ],
+      "highlight_id": 571806
+    },
+    {
+      "name": "Ibón de Espelunziecha",
+      "lat": 42.78883,
+      "lng": -0.42976,
+      "type": "lake",
+      "categories": [
+        "lake",
+        "intermediate",
+        "natural_monument",
+        "viewpoint"
+      ],
+      "highlight_id": 1846222
+    }
+  ],
+  "categories": [
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 21,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-10-09T09:27:28.917Z",
+  "changed_at": "2024-06-05T22:03:42.833Z",
+  "scraped_at": "2026-04-27T15:28:47.155821+00:00"
+}

@@ -1,0 +1,172 @@
+{
+  "tour_id": "e859885367",
+  "url": "https://www.komoot.com/smarttour/e859885367",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e859885367/corniche-basque-loop-from-saint-jean-de-luz",
+  "name": "Corniche Basque Loop from Saint-Jean-de-Luz",
+  "name_original": "Boucle de Saint-Jean-de-Luz à Hendaye en longeant la mer",
+  "sport": "touringbicycle",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "db#t1",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 29609.33780129869,
+  "duration_s": 7319,
+  "elevation_up_m": 372.9734016925976,
+  "elevation_down_m": 372.9619629193984,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.385966,
+  "start_lng": -1.66123,
+  "start_alt_m": 4.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Cycle 18.4 miles (29.6 km) along the Basque coast from Saint-Jean-de-Luz to Hendaye, featuring cliffs, ocean views, and Abbadia Castle.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The cornice stretches from Saint-Jean-de-Luz to Hendaye over more than 10km. The landscapes are wild between the two cities.",
+    "The Château d'Abbadia is characterized by its neo-Gothic architecture inspired by the fortified castles of the Middle Ages. It is classified as a historic monument and Maison des Illustres.",
+    "Hendaye is the first French city after the border with Spain, just opposite Hondarribia."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of the Loop from Saint-Jean-de-Luz to Hendaye along the sea?",
+      "answer": "This touring bicycle route is generally considered to be of <strong>moderate difficulty</strong>. While some sections are easy, there are parts, especially the rerouted coastal road, that include a significant 400-meter steep incline and other hills, requiring good fitness."
+    },
+    {
+      "question": "What kind of terrain can I expect on this cycling route?",
+      "answer": "The route primarily features <strong>paved surfaces</strong>, including dedicated cycle paths (about 15.84 km) and shared roads (4.97 km). You'll find a well-surfaced cycle lane in Hendaye, including a unique wooden pontoon. Be aware that some sections, particularly when exiting Saint-Jean-de-Luz, can have heavy traffic. The path also involves riding along ridges and includes some hills."
+    },
+    {
+      "question": "What are the main points of interest along the way?",
+      "answer": "You'll encounter spectacular scenery and notable landmarks. Highlights include the dramatic <a href=\"https://www.komoot.com/highlight/3292416\" target=\"_blank\" rel=\"noopener\">La Corniche Basque Cliffs</a>, the historic Fort de Socoa, and the impressive <a href=\"https://www.komoot.com/highlight/3292419\" target=\"_blank\" rel=\"noopener\">Abbadia Castle and Observatory</a>. Don't miss the panoramic <a href=\"https://www.komoot.com/highlight/3292425\" target=\"_blank\" rel=\"noopener\">View of the Bay of Hendaye</a> as you descend into Hendaye."
+    },
+    {
+      "question": "Is the Loop from Saint-Jean-de-Luz to Hendaye along the sea suitable for families?",
+      "answer": "While much of the route is on dedicated cycle paths, some sections involve shared roads with potential heavy traffic, especially when exiting Saint-Jean-de-Luz. The 4.5 km Corniche road between Ciboure and Hendaye also requires vigilance. Due to these factors and some steep inclines, it's advisable for families with children to exercise caution and assess their comfort with moderate difficulty sections."
+    },
+    {
+      "question": "Where can I park to access the trail?",
+      "answer": "Specific parking information isn't detailed, but Saint-Jean-de-Luz and Hendaye are well-known towns. You can typically find public parking in or near the town centers of Saint-Jean-de-Luz or Hendaye, which serve as convenient starting points for this loop."
+    },
+    {
+      "question": "Are dogs allowed on this cycling route?",
+      "answer": "The provided information does not specify restrictions regarding dogs on this particular cycling route. Generally, dogs on a leash are permitted on public cycle paths and shared roads in France, but it's always best to check local signage or specific town regulations upon arrival."
+    },
+    {
+      "question": "What is the best time of year to cycle this route?",
+      "answer": "The Basque coast generally offers pleasant cycling conditions outside of peak summer heat and winter cold. Spring (April-June) and early autumn (September-October) are often ideal, providing comfortable temperatures and beautiful scenery without the busiest crowds. Always check the local weather forecast before you go."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this trail?",
+      "answer": "No specific permits or entrance fees are required to cycle this public route between Saint-Jean-de-Luz and Hendaye. It utilizes public cycle paths and shared roads."
+    },
+    {
+      "question": "Does this route connect with other major cycling paths?",
+      "answer": "Yes, this route is notable as it represents the final stage of <strong>La Vélodyssée</strong> (the Atlantic Cycling Route) before reaching the Spanish border. It also provides an opportunity to connect with <strong>EuroVelo 1</strong>, allowing you to continue towards Spain and Portugal."
+    },
+    {
+      "question": "Are there any challenging sections I should be aware of?",
+      "answer": "Yes, cyclists should be prepared for a <strong>steep 400-meter incline</strong> on the rerouted section of the coastal 'corniche' road. Additionally, near the Spanish border at Behobie, the route currently presents obstacles such as steep slopes and stairs, which may require dismounting."
+    },
+    {
+      "question": "How long does it typically take to complete the loop?",
+      "answer": "The estimated duration for this touring bicycle loop is approximately <strong>2 hours</strong>, covering a distance of about 29.6 kilometers. This duration can vary based on your cycling speed, stops for sightseeing, and fitness level."
+    },
+    {
+      "question": "What kind of views can I expect along the route?",
+      "answer": "The route offers truly <strong>spectacular and panoramic views</strong>. You'll be treated to sweeping vistas over the Golfe de Gascogne from the Corniche de Socoa cliffs, the beautiful protected cove of Socoa, and the bay of Saint-Jean-de-Luz. On one side, you'll see dramatic cliffs and the expansive ocean, while the majestic Pyrenees mountains provide a stunning backdrop on the other."
+    }
+  ],
+  "surfaces": {
+    "sb#cobbles": 0.008556181,
+    "sb#compacted": 0.020704385,
+    "sb#unpaved": 0.032555856,
+    "unknown": 0.1755537,
+    "sb#paved": 0.3628727,
+    "sb#asphalt": 0.39975718
+  },
+  "way_types": {
+    "trail": 0.003108638,
+    "service": 0.0035874967,
+    "way": 0.028011912,
+    "primary": 0.03144055,
+    "minor_road": 0.12173864,
+    "cycleway": 0.3880649,
+    "street": 0.4240479
+  },
+  "waypoints": [
+    {
+      "name": "La Corniche Basque Cliffs",
+      "lat": 43.381669,
+      "lng": -1.729728,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "beach",
+        "viewpoint",
+        "challenging",
+        "natural_monument"
+      ],
+      "highlight_id": 3292416
+    },
+    {
+      "name": "Abbadia Castle and Observatory",
+      "lat": 43.377156,
+      "lng": -1.749371,
+      "type": "castle",
+      "categories": [
+        "castle",
+        "man_made_monument",
+        "family_friendly",
+        "viewpoint",
+        "historical_site"
+      ],
+      "highlight_id": 3292419
+    },
+    {
+      "name": "View of the Bay of Hendaye",
+      "lat": 43.364255,
+      "lng": -1.770824,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "cycle_way",
+        "family_friendly",
+        "beach",
+        "river",
+        "settlement"
+      ],
+      "highlight_id": 3292425
+    }
+  ],
+  "categories": [
+    "beach",
+    "castle",
+    "challenging",
+    "cycle_way",
+    "family_friendly",
+    "gorge",
+    "historical_site",
+    "man_made_monument",
+    "natural_monument",
+    "river",
+    "settlement",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 3.9512195587158203,
+  "rating_count": 41,
+  "visitors": 180,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-07-27T07:53:46.690Z",
+  "changed_at": "2026-02-26T18:57:53.636Z",
+  "scraped_at": "2026-04-28T23:37:54.948961+00:00"
+}

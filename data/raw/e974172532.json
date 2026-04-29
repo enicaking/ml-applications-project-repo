@@ -1,0 +1,147 @@
+{
+  "tour_id": "e974172532",
+  "url": "https://www.komoot.com/smarttour/e974172532",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e974172532/etang-d-en-beys-trail",
+  "name": "Étang d'En Beys Trail",
+  "name_original": "Etang d’En Beys et son refuge – trail au départ du parking du Fanguil – Réserve Nationale d'Orlu",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 16981.50779963611,
+  "duration_s": 9590,
+  "elevation_up_m": 896.568916680905,
+  "elevation_down_m": 896.568916680905,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.679176,
+  "start_lng": 1.949092,
+  "start_alt_m": 1151,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Jog this difficult 10.6-mile (17.0 km) trail in the Orlu National Reserve, gaining 2942 feet (897 metres) to reach Étang d'En Beys.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "A national wildlife reserve, the Orlu Valley is an exceptional site for nature lovers.",
+    "The En Beys refuge which overlooks the eponymous ponds culminates at an altitude of 1,970 meters, in the heart of the Orlu national reserve. Situated on the great GR 7 which connects the Vosges to the Pyrenees, the refuge remains an excellent detour for the GRP® tour of the Ax Mountains or Tour des Pérics.\r\n\r\nIn a warm and family setting, the refuge guardians offer 70 beds in high season as well as a complete catering offer. In winter, 15 places remain freely accessible, accessible through the window at the top of the ladder which fits on one of the walls of the building.\r\n\r\nThe refuge is an ideal place to observe the burning of the granite walls of the Pics Rouges at sunset, or the galloping chamois in the snowfields in the early morning. If you wish to extend your stay for one night, do not hesitate to contact the refuge on 05 61 64 24 24 to find out about opening dates and bed availability."
+  ],
+  "faqs": [
+    {
+      "question": "Where can I park to access the Étang d'En Beys Trail?",
+      "answer": "The most common starting point for this trail is the Parking du Fanguil, located within the Réserve Nationale d'Orlu. This parking area provides direct access to the trailhead."
+    },
+    {
+      "question": "Is this trail suitable for beginner trail runners?",
+      "answer": "This trail is rated as <strong>difficult</strong> for jogging due to significant elevation gain (around 896 meters) and varied, often challenging terrain. It's best suited for experienced trail runners with good fitness and sure-footedness. Beginners might find it very demanding."
+    },
+    {
+      "question": "What kind of terrain can I expect on the route?",
+      "answer": "The route features diverse terrain, including forest paths, vast meadows like the prairie de Gaudu, and sections with rocky, uneven ground. You may also encounter humid passages, steep inclines, and even scree fields. Some parts are well-marked, while others require careful footing, especially on descents where slippery stones can be present."
+    },
+    {
+      "question": "What natural highlights will I see along the way?",
+      "answer": "You'll be immersed in the stunning high-mountain scenery of the Orlu National Reserve. Key highlights include breathtaking views of several high-altitude lakes, especially the Étang d'En Beys itself, often surrounded by rhododendrons. The route also passes through the beautiful <a href=\"https://www.komoot.com/highlight/5174857\" target=\"_blank\" rel=\"noopener\">Vallée d'Orlu</a>."
+    },
+    {
+      "question": "How long does it typically take to jog this trail?",
+      "answer": "For jogging, the estimated duration for this 17 km trail is around 2 hours and 39 minutes. However, given its <strong>difficult</strong> rating and significant elevation, individual times may vary based on fitness and pace."
+    },
+    {
+      "question": "Are there any facilities or places to rest along the trail?",
+      "answer": "Yes, the trail leads to the <a href=\"https://www.komoot.com/highlight/936490\" target=\"_blank\" rel=\"noopener\">En Beys Refuge</a>, located at 1970m by the lake. This guarded refuge offers a welcome resting point and can provide an overnight stay for those undertaking longer routes."
+    },
+    {
+      "question": "What is the best time of year to jog this trail?",
+      "answer": "The best time to jog this trail is typically during the late spring, summer, and early autumn months (June to September) when the weather is more stable, and the high-mountain paths are clear of snow. Always check local weather conditions before heading out."
+    },
+    {
+      "question": "Is this trail dog-friendly?",
+      "answer": "As the trail is located within the Réserve Nationale d'Orlu, specific regulations apply. Generally, dogs are allowed but must be kept on a leash to protect the local wildlife and environment. Always check the latest rules for the reserve before your visit."
+    },
+    {
+      "question": "Are there any permits or entrance fees required for the Orlu National Reserve?",
+      "answer": "There are typically no entrance fees or specific permits required for day access to the Réserve Nationale d'Orlu for hiking or jogging. However, as a protected area, visitors are expected to respect environmental regulations, such as staying on marked paths, not disturbing wildlife, and packing out all trash."
+    },
+    {
+      "question": "Does the route connect with other long-distance trails?",
+      "answer": "Yes, this route is part of larger networks. It covers 100% of the official trail 'L'Étang d'En Beys' and also intersects with sections of 'Des Vosges aux Pyrénées 14' and 'Porte de Barboilliere - Portella Blanca d'Andorra'."
+    },
+    {
+      "question": "What kind of wildlife might I encounter in the Orlu National Reserve?",
+      "answer": "The Orlu National Reserve is known for its rich biodiversity. Along the trail, you have a good chance of observing high-mountain wildlife such as isards (Pyrenean chamois) and marmots, especially in quieter areas and during early morning or late afternoon hours."
+    }
+  ],
+  "surfaces": {
+    "unpaved": 0.4880889,
+    "unknown": 0.5119111
+  },
+  "way_types": {
+    "hiking_path": 0.4880889,
+    "way": 0.5119111
+  },
+  "waypoints": [
+    {
+      "name": "Vallée d'Orlu",
+      "lat": 42.648559,
+      "lng": 1.961424,
+      "type": "other_natural",
+      "categories": [
+        "other_natural",
+        "intermediate",
+        "gorge",
+        "viewpoint",
+        "forest"
+      ],
+      "highlight_id": 5174857
+    },
+    {
+      "name": "En Beys Refuge",
+      "lat": 42.626649,
+      "lng": 1.944687,
+      "type": "restaurant",
+      "categories": [
+        "restaurant",
+        "facilities",
+        "accomodation",
+        "pub",
+        "hut",
+        "intermediate",
+        "natural_monument",
+        "lake",
+        "viewpoint"
+      ],
+      "highlight_id": 936490
+    }
+  ],
+  "categories": [
+    "accomodation",
+    "facilities",
+    "forest",
+    "gorge",
+    "hut",
+    "intermediate",
+    "lake",
+    "natural_monument",
+    "other_natural",
+    "pub",
+    "restaurant",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 28,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-06T22:17:28.123Z",
+  "changed_at": "2026-02-26T19:00:57.011Z",
+  "scraped_at": "2026-04-27T16:13:29.849366+00:00"
+}

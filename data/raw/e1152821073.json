@@ -1,0 +1,107 @@
+{
+  "tour_id": "e1152821073",
+  "url": "https://www.komoot.com/smarttour/e1152821073",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1152821073/xicu-3-and-aymerigalls",
+  "name": "Xicu 3 and Aymerigalls",
+  "name_original": "Xicu 3 & Aymerigalls",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t3",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 13833.546774664524,
+  "duration_s": 6661,
+  "elevation_up_m": 565.2102247924231,
+  "elevation_down_m": 564.2656271108096,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 41.858047,
+  "start_lng": 2.661014,
+  "start_alt_m": 134.2,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "On this tour you need strong nerves, excellent driving skills and a bit of courage. Because the trail program includes: Xicu 3 and Aymerigalls.\n\nThese two descents are among the trickiest in the entire area. A fireworks display of technical hurdles awaits you that need to be overcome. Sometimes you will drive down endless stone slabs and look for the best line. Other times you race across the dry forest floor, which is peppered with roots and loose stones.\n\nLook forward to exciting, spectacular and wild trails that make this round a very special mountain bike adventure. Anyone who masters all parts with flying colors will not only be pumped full of adrenaline, but will also arrive back at the starting point full of happiness hormones.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "If you like conquering rocks, roots and steps in steep terrain, this descent called “Xicu 3” is just right for you. With sophisticated riding technique, you'll master this downhill with a big grin on your face. Highly recommended for anyone who likes to take technical routes under their cleats.https://www.youtube.com/watch?v=WLw5MO-y8Rs",
+    "Aymerigalls is a very technical trail with lots of rock slabs and some uphill challenges. This trail is really fun provided you have excellent riding technique. Probably one of the toughest trails in the area. ✨",
+    "The second section of Aymerigalls, which begins after crossing the gravel road, scores with steep rocks and a magnificent view. Highly recommended!"
+  ],
+  "faqs": [],
+  "surfaces": {
+    "sm#gravel": 0.0047793724,
+    "unknown": 0.006796907,
+    "sm#asphalt": 0.10329475,
+    "sm#alpin": 0.14866132,
+    "sm#unpaved": 0.1788524,
+    "sm#nature": 0.5576153
+  },
+  "way_types": {
+    "minor_road": 0.00048130145,
+    "service": 0.0047793724,
+    "street": 0.10281345,
+    "trail": 0.3636268,
+    "way": 0.5282991
+  },
+  "waypoints": [
+    {
+      "name": "Xicu 3 Trail",
+      "lat": 41.862245,
+      "lng": 2.643105,
+      "type": "mtb_park",
+      "categories": [
+        "mtb_park",
+        "trail",
+        "challenging"
+      ],
+      "highlight_id": 5744549
+    },
+    {
+      "name": "Aymerigalls – First Part",
+      "lat": 41.856081,
+      "lng": 2.637792,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "challenging",
+        "mtb_park"
+      ],
+      "highlight_id": 5694838
+    },
+    {
+      "name": "Aymerigalls – Second Part",
+      "lat": 41.859098,
+      "lng": 2.645125,
+      "type": "mtb_park",
+      "categories": [
+        "mtb_park",
+        "challenging",
+        "trail",
+        "viewpoint"
+      ],
+      "highlight_id": 5694844
+    }
+  ],
+  "categories": [
+    "challenging",
+    "mtb_park",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 17,
+  "author_name": "Diana",
+  "author_id": "371692835994",
+  "created_at": "2023-06-04T20:08:51.074Z",
+  "changed_at": "2024-05-31T09:52:50.619Z",
+  "scraped_at": "2026-04-28T16:02:43.565575+00:00"
+}

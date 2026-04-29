@@ -1,0 +1,130 @@
+{
+  "tour_id": "e1046346590",
+  "url": "https://www.komoot.com/smarttour/e1046346590",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1046346590/loop-on-the-heights-of-urepel-running-in-the-basque-country",
+  "name": "Loop on the heights of Urepel – running in the Basque Country",
+  "name_original": "Boucle sur les hauteurs d'Urepel — Courir au Pays basque",
+  "sport": "jogging",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dj#t3",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 23295.842047548198,
+  "duration_s": 12581,
+  "elevation_up_m": 1019.5654215869371,
+  "elevation_down_m": 1019.5654215869374,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 43.069792,
+  "start_lng": -1.4164,
+  "start_alt_m": 420,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This beautiful loop of about 23 kilometers and 1,000 meters of elevation gain takes you to the heights of the Basque Country, dancing on the Franco-Spanish border. It starts from the small village of Urepel, nestled in the Aldudes valley.\n\nThe first kilometers include little elevation. They allow you to enjoy beautiful views of the village, then go up a beautiful track that rushes into the forest along a peaceful stream. A first steep but short climb takes you above this wooded part. You are about to enter Spain when you find a wider track.\n\nMoving again in a magnificent forest, you make a slight downhill portion before climbing to finally lead to a wide ridge introduced by the Enokerri.\n\nHere, the landscape is discovered and the panoramas open up. A very pleasant trail takes you from peak to peak, such as Artsalgo Gaina and Argintzu. As you advance, the horizon expands and you discover some of the mysteries of the Basque Country.\n\nYou conclude this magnificent portion by bypassing the Lohiluze, before plunging into a long downhill section. This rushes into a magnificent and generous forest until it brings you back to your starting point, in the village of Urepel.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Superb path that rushes into a beautiful forest while skirting a small stream. A real treat from Urepel.",
+    "The Enokerri culminates at 1,174 meters above sea level. At the edge of a beautiful forest, the landscape emerges and opens up pretty panoramas on the Basque horizon.",
+    "Artsalgo Gaina is a pretty grassy peak in the Spanish Basque Country.\r\n\r\nIt offers beautiful views of the Basque ridges that surround it as well as the one of which it is part.",
+    "Argintzu is a pretty peak in the Spanish Basque Country culminating at 1,208 meters above sea level.\r\n\r\nOn a sunny day, the panoramas seem endless, enjoy this magnificent portion.",
+    "Urepel is a pretty little Basque village nestled in the Aldudes valley. Located near the Spanish border, it is 421 meters above sea level."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "asphalt": 0.021940786,
+    "gravel": 0.026962688,
+    "paved": 0.038284548,
+    "nature": 0.053120878,
+    "alpin": 0.18871978,
+    "unknown": 0.3132383,
+    "unpaved": 0.357733
+  },
+  "way_types": {
+    "alpine_hiking_path": 0.0107763875,
+    "street": 0.05714321,
+    "minor_road": 0.13656172,
+    "mountain_hiking_path": 0.19919044,
+    "hiking_path": 0.26243377,
+    "way": 0.3338945
+  },
+  "waypoints": [
+    {
+      "name": "Joli chemin boisé",
+      "lat": 43.04725,
+      "lng": -1.413476,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5541037
+    },
+    {
+      "name": "Enokerri",
+      "lat": 43.036,
+      "lng": -1.4844,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "forest",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5540853
+    },
+    {
+      "name": "Artsalgo Gaina",
+      "lat": 43.0493,
+      "lng": -1.49621,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "natural_monument",
+        "intermediate",
+        "viewpoint"
+      ],
+      "highlight_id": 5541001
+    },
+    {
+      "name": "Argintzu",
+      "lat": 43.0592,
+      "lng": -1.4888,
+      "type": "summit",
+      "categories": [
+        "summit",
+        "intermediate",
+        "viewpoint",
+        "natural_monument"
+      ],
+      "highlight_id": 5540881
+    },
+    {
+      "name": "Urepel",
+      "lat": 43.06969,
+      "lng": -1.41628,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 5540829
+    }
+  ],
+  "categories": [
+    "forest",
+    "intermediate",
+    "natural_monument",
+    "summit",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 1,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2023-03-07T18:05:26.076Z",
+  "changed_at": "2024-06-07T08:31:03.406Z",
+  "scraped_at": "2026-04-27T15:05:26.328204+00:00"
+}

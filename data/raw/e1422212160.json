@@ -1,0 +1,106 @@
+{
+  "tour_id": "e1422212160",
+  "url": "https://www.komoot.com/smarttour/e1422212160",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1422212160/the-cirque-de-gavarnie",
+  "name": "The cirque de Gavarnie ",
+  "name_original": "Le cirque de Gavarnie",
+  "sport": "hike",
+  "tour_type": "editorial_tour",
+  "difficulty": "moderate",
+  "difficulty_technical": "t2",
+  "difficulty_fitness": "c2",
+  "constitution": 3,
+  "distance_m": 11838.235620357696,
+  "duration_s": 16689,
+  "elevation_up_m": 674.490300989957,
+  "elevation_down_m": 674.4903009899567,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.734969,
+  "start_lng": -0.010268,
+  "start_alt_m": 1391.1,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "The Gavarnie cirque is one of the most remarkable sites in the Pyrenees and France. Victor Hugo described it thus: “It is a mountain and a wall at the same time; it is the most mysterious building from the most mysterious of architects; it is the colossus of nature; it’s Gavarnie.” Listed as a UNESCO World Heritage Site since 1997, it is home to the largest waterfall in mainland France which flows over 422 meters!\n\nThis hike starting from Gavarnie has the advantage of being accessible to as many people as possible. This route includes a variant which takes a little height to approach a balcony path which winds along the circus. However, if you wish, you can follow the classic path which is confined to the bottom of the valley.\n\nFrom the car park, you cross Gavarnie and its many small shops which dot the start of the route. After a little over a kilometer, follow the signs for the Haute Route Pyrénéenne (HRP) which goes up towards the Chalet du Pailla. When you reach this small shelter, you are done with the climb. You then take the “balcony trail” which runs towards the Gavarnie cirque on a pleasant section which gradually descends.\n\nThe path leads to the circus hotel. Ideal for a short break, it is only a few hundred meters from the foot of the Gavarnie waterfall. Take the time to visit him before retracing your steps. Back at the hotel, follow the HRP signs again which take you back to Gavarnie.",
+  "description_language": "en",
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "The east ledge allows you to overlook the Cirque and admire it from an angle not seen in photos. This path deviates from the main access and therefore offers an alternative for the return path. You will thus avoid the round trip on your steps and will be able to trace a beautiful loop and cover a large part of the Cirque.",
+    "Classified as a UNESCO World Heritage Site since 1997, the Cirque de Gavarnie is located in the heart of the Pyrenees National Park. Of glacial origin, it is home to the largest waterfall in Europe, with a height of 422 meters. Its large limestone walls and peaks over 3,000 meters mark the border with Spain.",
+    "By advancing to the very bottom of the circus, you can stand under the great waterfall of Gavarnie, 422 meters high.\r\nThe many waterfalls of the circus are notably fed by the glaciers which rest under the ridge line: glaciers of the Brèche, the Helmet, the Shoulder, the Cascade, or the western glacier called the Marboré."
+  ],
+  "faqs": [],
+  "surfaces": {
+    "alpin": 0.14035027,
+    "asphalt": 0.1753133,
+    "nature": 0.3024608,
+    "unpaved": 0.38187566
+  },
+  "way_types": {
+    "minor_road": 0.17713235,
+    "hiking_path": 0.22639634,
+    "way": 0.2734026,
+    "mountain_hiking_path": 0.3230687
+  },
+  "waypoints": [
+    {
+      "name": "East ledge of the Cirque de Gavarnie",
+      "lat": 42.710716,
+      "lng": -0.002999,
+      "type": "unknown",
+      "categories": [],
+      "highlight_id": 3390863
+    },
+    {
+      "name": "Cirque de Gavarnie",
+      "lat": 42.703996,
+      "lng": -0.007952,
+      "type": "gorge",
+      "categories": [
+        "gorge",
+        "natural_monument",
+        "waterfall",
+        "viewpoint",
+        "family_friendly",
+        "natural_monument",
+        "rock"
+      ],
+      "highlight_id": 3710757
+    },
+    {
+      "name": "Great cascade",
+      "lat": 42.694683,
+      "lng": -0.006169,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "waterfall",
+        "natural_monument",
+        "family_friendly"
+      ],
+      "highlight_id": 288177
+    }
+  ],
+  "categories": [
+    "family_friendly",
+    "gorge",
+    "natural_monument",
+    "rock",
+    "viewpoint",
+    "waterfall"
+  ],
+  "tags": [],
+  "rating_score": 4.790960311889648,
+  "rating_count": 354,
+  "visitors": 2140,
+  "author_name": "Julien Harté",
+  "author_id": "999599803959",
+  "created_at": "2024-01-25T10:39:01.483Z",
+  "changed_at": "2024-06-13T13:15:59.965Z",
+  "scraped_at": "2026-04-27T11:31:19.128546+00:00"
+}

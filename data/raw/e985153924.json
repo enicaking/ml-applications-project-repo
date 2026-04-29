@@ -1,0 +1,143 @@
+{
+  "tour_id": "e985153924",
+  "url": "https://www.komoot.com/smarttour/e985153924",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e985153924/port-de-larrau-climb-cima-na01",
+  "name": "Port de Larrau Climb (CIMA NA01)",
+  "name_original": "Port de Larrau desde Aribe",
+  "sport": "racebike",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dr#t1",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 87148.87875679566,
+  "duration_s": 18193,
+  "elevation_up_m": 1873.2781626073072,
+  "elevation_down_m": 1873.2781626073095,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.943759,
+  "start_lng": -1.263611,
+  "start_alt_m": 707.4,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "This difficult 54.2-mile road cycling route from Aribe to Port de Larrau in Selva de Irati offers 6146 feet of elevation gain and stunning P",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "At the exit/entrance of the tunnel that we find almost at the top of Puerto de Larrau, we have the most photographed horseshoe curve on the Spanish side of this port. The perspective of this curve with the Irati Forest behind it is beautiful.",
+    "The port of Larrau is clearly worth the detour. The slope is sustained from the Auberge de Logibar. It eases when crossing Larrau and picks up again until the first Erroimendy pass (the wind is very often from the front and the last ramp is quite terrible). There are then 3.5 quiet kilometers in a sublime landscape and three switchbacks in the last kilometer at more than 10%."
+  ],
+  "faqs": [
+    {
+      "question": "How difficult is the Port de Larrau from Aribe cycling route?",
+      "answer": "This route is classified as a <strong>difficult</strong> road ride, requiring a very good fitness level. While the ascent from the Spanish side (Aribe) has milder gradients than the French side, it still involves a significant climb. The overall climb from Navarra spans approximately 10.8 kilometers with an average gradient of 6.4% and an elevation gain of about 685 meters. The steepest quarter-mile can reach an 8.4% gradient."
+    },
+    {
+      "question": "How long does it typically take to cycle this route?",
+      "answer": "The estimated duration for the entire 87-kilometer route, including the climb to Port de Larrau and return, is around 5 hours. However, this can vary significantly based on your fitness level, the number of stops you make, and weather conditions."
+    },
+    {
+      "question": "What is the best time of year to cycle the Port de Larrau from Aribe route?",
+      "answer": "The Port de Larrau is typically open for cycling from <strong>May to November</strong>. Depending on weather conditions, it might also be possible to ride in April and early December. Summer months offer the most reliable weather, but spring and autumn can provide cooler temperatures and beautiful scenery."
+    },
+    {
+      "question": "Where can I park in Aribe to start the ride?",
+      "answer": "While specific parking areas in Aribe are not detailed, as a small village, you can generally find suitable parking within or on the outskirts of the village to begin your ride. It's advisable to check local signage upon arrival for designated parking spots."
+    },
+    {
+      "question": "What kind of scenery and viewpoints can I expect along the way?",
+      "answer": "The route offers pleasant, isolated, and tranquil scenery. You'll pass through lush forests in the lower sections, eventually breaking above the tree-line to reveal impressive upper slopes. On clear days, the views from the Basque Pyrenees can be fantastic, including Mount Orhi from the pass. The overall experience is one of peace and quiet due to minimal traffic."
+    },
+    {
+      "question": "Are there any notable highlights or landmarks on the route?",
+      "answer": "Yes, the route features significant points of interest for cyclists. You'll encounter the challenging <a href=\"https://www.komoot.com/highlight/5304336\" target=\"_blank\" rel=\"noopener\">Hairpin bend at Port de Larrau</a> as you ascend, leading up to the iconic <a href=\"https://www.komoot.com/highlight/128891\" target=\"_blank\" rel=\"noopener\">Larrau Pass</a> itself, which sits at an altitude of 1,578 meters."
+    },
+    {
+      "question": "Do I need any permits or pay entrance fees for this route, especially within Selva de Irati?",
+      "answer": "The cycling route itself does not typically require specific permits or entrance fees. While the area is close to the Selva de Irati, a renowned forest, the road to Port de Larrau is a public thoroughfare. However, if you plan to explore specific areas or engage in other activities within the Selva de Irati, it's always wise to check for any local regulations or fees that might apply to those specific activities or access points."
+    },
+    {
+      "question": "What is the road surface like on the Port de Larrau from Aribe route?",
+      "answer": "The road surface is generally in <strong>very good condition</strong> and well-paved, making it suitable for road bikes. There is minimal traffic, which enhances the cycling experience. However, be aware that some segments, particularly on less-trafficked side roads or very old sections, might occasionally be unpaved or less smooth, though this is not typical for the main ascent."
+    },
+    {
+      "question": "Are there any amenities like cafes or accommodation near the start of the route in Aribe?",
+      "answer": "Aribe is a small village, so amenities are limited but available. You may find a local bar or guesthouse. For a wider selection of cafes, restaurants, and accommodation, you might need to look in slightly larger towns in the surrounding Navarra region before or after your ride."
+    },
+    {
+      "question": "Is the Port de Larrau from Aribe route dog-friendly?",
+      "answer": "As this is a challenging road cycling route designed for racebikes, it is generally <strong>not suitable for dogs</strong>. The route involves significant distances and elevation on paved roads with occasional traffic, which is not an ideal environment for pets. If you are looking for dog-friendly activities in the Pyrenees, consider dedicated hiking trails or parks where dogs are explicitly allowed and can safely walk off-leash or on a lead."
+    },
+    {
+      "question": "What kind of bike and gear do you recommend for this route?",
+      "answer": "Given the route's classification as a 'racebike' tour with significant elevation gain and a 'difficult' grade, a <strong>road bike</strong> with appropriate gearing for climbing is highly recommended. Ensure your bike is in excellent mechanical condition. Essential gear includes a helmet, sufficient water and nutrition, repair kit, and layers of clothing suitable for changing mountain weather. A GPS device is also useful for navigation."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.0016886065,
+    "sb#paved": 0.19758818,
+    "sb#asphalt": 0.8007232
+  },
+  "way_types": {
+    "minor_road": 0.012471777,
+    "way": 0.08331796,
+    "street": 0.37099168,
+    "primary": 0.5332186
+  },
+  "waypoints": [
+    {
+      "name": "Hairpin bend at Port de Larrau",
+      "lat": 42.97612,
+      "lng": -1.00428,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "viewpoint",
+        "cycle_way",
+        "intermediate",
+        "mountain_pass"
+      ],
+      "highlight_id": 5304336
+    },
+    {
+      "name": "Larrau Pass",
+      "lat": 42.974178,
+      "lng": -0.993565,
+      "type": "mountain_pass",
+      "categories": [
+        "mountain_pass",
+        "challenging",
+        "climb",
+        "viewpoint",
+        "mountain_pass",
+        "trail",
+        "intermediate"
+      ],
+      "highlight_id": 128891
+    }
+  ],
+  "categories": [
+    "challenging",
+    "climb",
+    "cycle_way",
+    "intermediate",
+    "mountain_pass",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": null,
+  "rating_count": 0,
+  "visitors": 19,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2022-11-25T16:24:47.258Z",
+  "changed_at": "2026-02-26T19:15:46.511Z",
+  "scraped_at": "2026-04-28T19:13:45.092747+00:00"
+}

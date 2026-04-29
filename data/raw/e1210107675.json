@@ -1,0 +1,165 @@
+{
+  "tour_id": "e1210107675",
+  "url": "https://www.komoot.com/smarttour/e1210107675",
+  "source": "komoot",
+  "share_url": "https://www.komoot.com/smarttour/e1210107675/la-ribagorza-mtb-route-25-benasque-to-llanos-del-hospital",
+  "name": "La Ribagorza MTB Route 25: Benasque to Llanos del Hospital",
+  "name_original": "Benasque a Llanos del Hospital — ida y vuelta por Parque Natural Posets-Maladet",
+  "sport": "mtb",
+  "tour_type": "editorial_tour",
+  "difficulty": "difficult",
+  "difficulty_technical": "dm#t2",
+  "difficulty_fitness": "c3",
+  "constitution": 3,
+  "distance_m": 29349.35343053915,
+  "duration_s": 11437,
+  "elevation_up_m": 957.8396053015417,
+  "elevation_down_m": 957.8723979519721,
+  "avg_speed_kmh": null,
+  "kcal_active": 0,
+  "kcal_resting": 0,
+  "roundtrip": true,
+  "start_lat": 42.606797,
+  "start_lng": 0.524521,
+  "start_alt_m": 1166.5,
+  "region": null,
+  "region_id": null,
+  "country": null,
+  "description": "Tackle the difficult La Ribagorza MTB Route 25 from Benasque to Llanos del Hospital, a 18.2-mile ride with 3143 feet of gain.",
+  "description_language": null,
+  "region_intro": null,
+  "region_faq": null,
+  "tips": [
+    "Benasque occupies the central valley of the three that make up the Posets-Maladeta Natural Park. From this town with a lot of soul you can enjoy the Pyrenean landscape. Not only that, but it is home to the largest number of 3,000-meter-high peaks in the mountain range.\r\n\r\nThe Benasque Valley forms the center and heart of the Pyrenees.",
+    "This is a nice trail that is mostly single track. The perfect way to start or end a longer mountain bike ride or just as part of a small loop.",
+    "Mountain clothing"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difficulty level of this mountain bike route?",
+      "answer": "This route is classified as a <strong>difficult</strong> mountain bike ride. It demands very good fitness and advanced riding skills due to its rugged high-mountain terrain, significant elevation changes, and technical sections with continuous blocks, steps, and loose stones. Some parts may even require you to push your bike."
+    },
+    {
+      "question": "Where can I park to access the trail in Benasque?",
+      "answer": "You'll typically start this route from Benasque. Parking is available within the village, though it can get busy during peak season. Look for designated parking areas near the <a href=\"https://www.komoot.com/highlight/2730451\" target=\"_blank\" rel=\"noopener\">Benasque Village Center</a>, which serves as a convenient starting point for the trail."
+    },
+    {
+      "question": "What kind of terrain should I expect on the ride?",
+      "answer": "The terrain is rugged and varied, typical of the high Pyrenees. You'll encounter a mix of tracks and winding trails, navigating through forests of beech, boxwood, and oak on steeper slopes, and potentially marlstone in lower sections. Expect continuous ups and downs, with rocky sections and loose stones that add to the technical challenge."
+    },
+    {
+      "question": "Is this route suitable for families or beginner mountain bikers?",
+      "answer": "No, this route is <strong>not recommended for beginners or families</strong>. Its classification as 'difficult' and the need for 'very good fitness' and 'advanced riding skills' mean it's best suited for experienced mountain bikers looking for a significant physical and technical challenge."
+    },
+    {
+      "question": "What are the best times of year to ride this trail?",
+      "answer": "The best time to ride this high-mountain route is typically during the warmer months, from late spring to early autumn (June to September), when the snow has melted and weather conditions are more stable. Always check local weather forecasts before heading out, as conditions can change rapidly in the Pyrenees."
+    },
+    {
+      "question": "Are there any permits or fees required to ride in the Posets-Maladeta Natural Park?",
+      "answer": "While there are generally no specific permits or entrance fees required for mountain biking within the <a href=\"https://www.komoot.com/highlight/3862258\" target=\"_blank\" rel=\"noopener\">Posets-Maladeta Natural Park</a>, it's crucial to respect all park regulations. This includes staying on marked trails, not disturbing wildlife, and practicing Leave No Trace principles. Always check the official park website for any updated rules or seasonal restrictions."
+    },
+    {
+      "question": "What notable sights or viewpoints will I encounter along the way?",
+      "answer": "The route offers spectacular scenery throughout. You'll experience phenomenal panoramic views of the surrounding mountains and valleys. A notable viewpoint is the <a href=\"https://www.komoot.com/highlight/3862258\" target=\"_blank\" rel=\"noopener\">Plan of the Hospital de Benasque</a>, which provides stunning vistas. The trail also passes through charming villages and meadows, immersing you in the natural and cultural landscape of the Ribagorza region."
+    },
+    {
+      "question": "Is the trail dog-friendly?",
+      "answer": "While dogs are generally allowed on trails within the Posets-Maladeta Natural Park, they must be kept on a leash at all times to protect wildlife and ensure the safety of other trail users. Be prepared to carry out any waste, as facilities may be limited."
+    },
+    {
+      "question": "Does this route intersect with other trails?",
+      "answer": "Yes, this route, officially known as La Ribagorza. BTT. Ruta 25. Benasque - Llanos del Hospital, also shares sections with other well-known paths. You'll find it intersects with parts of the Tour de l'Aneto, Variante 20.1, and the <a href=\"https://www.komoot.com/highlight/6088812\" target=\"_blank\" rel=\"noopener\">Camino del Rigau</a>, among others. This can offer opportunities for longer rides or alternative loops if you're familiar with the area."
+    },
+    {
+      "question": "Are there any facilities like cafes or accommodation near the trail?",
+      "answer": "Benasque, as your starting point, offers various amenities including cafes, restaurants, and accommodation options. At the destination, Llanos del Hospital, you'll find the Hospital de Benasque, which typically provides services like accommodation and dining. It's always a good idea to check opening hours, especially outside of peak season."
+    },
+    {
+      "question": "What should I bring for this challenging mountain bike ride?",
+      "answer": "Given the route's difficulty and high-mountain environment, you should bring plenty of water, energy snacks, a repair kit for your bike, appropriate layers of clothing for changing weather conditions, a helmet, gloves, and sturdy mountain biking shoes. A first-aid kit, navigation tools (like a GPS device or the komoot app), and sun protection are also highly recommended."
+    }
+  ],
+  "surfaces": {
+    "unknown": 0.007197249,
+    "sm#paved": 0.089149095,
+    "sm#gravel": 0.12124907,
+    "sm#asphalt": 0.13978268,
+    "sm#unpaved": 0.6426219
+  },
+  "way_types": {
+    "minor_road": 0.0204223,
+    "primary": 0.021411879,
+    "trail": 0.11992644,
+    "street": 0.1880088,
+    "way": 0.6502306
+  },
+  "waypoints": [
+    {
+      "name": "Benasque Village Center",
+      "lat": 42.60714,
+      "lng": 0.523784,
+      "type": "settlement",
+      "categories": [
+        "settlement",
+        "historical_site",
+        "family_friendly"
+      ],
+      "highlight_id": 2730451
+    },
+    {
+      "name": "Camino del Rigau",
+      "lat": 42.614911,
+      "lng": 0.528035,
+      "type": "trail",
+      "categories": [
+        "trail",
+        "viewpoint",
+        "other_natural",
+        "intermediate",
+        "cycle_way"
+      ],
+      "highlight_id": 6088812
+    },
+    {
+      "name": "Plan of the Hospital de Benasque",
+      "lat": 42.6838,
+      "lng": 0.6122,
+      "type": "viewpoint",
+      "categories": [
+        "viewpoint",
+        "forest",
+        "other_natural",
+        "intermediate",
+        "river",
+        "hut",
+        "facilities",
+        "settlement"
+      ],
+      "highlight_id": 3862258
+    }
+  ],
+  "categories": [
+    "cycle_way",
+    "facilities",
+    "family_friendly",
+    "forest",
+    "historical_site",
+    "hut",
+    "intermediate",
+    "other_natural",
+    "river",
+    "settlement",
+    "trail",
+    "viewpoint"
+  ],
+  "tags": [],
+  "rating_score": 4.25,
+  "rating_count": 4,
+  "visitors": 74,
+  "author_name": "komoot",
+  "author_id": "komoot",
+  "created_at": "2023-07-13T10:18:32.844Z",
+  "changed_at": "2026-02-26T19:39:40.976Z",
+  "scraped_at": "2026-04-28T15:25:52.051763+00:00"
+}
