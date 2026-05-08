@@ -156,52 +156,6 @@ report/tables/
 
 ---
 
-## Installation
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate it on Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-Activate it on macOS/Linux:
-
-```bash
-source venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Install the SpaCy English model if needed:
-
-```bash
-python -m spacy download en_core_web_sm
-```
-
----
-
-## How to Run
-
-Run the notebooks in this order:
-
-```text
-1. notebooks/01_data_exploration.ipynb
-2. notebooks/02_task1_nlp.ipynb
-3. notebooks/03_task2_recommender.ipynb
-4. notebooks/04_report_figures.ipynb
-```
-
----
 
 ## Current Status
 
