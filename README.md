@@ -32,6 +32,10 @@ ml-applications-project-repo/
 │   ├── raw/              # Raw JSON files scraped from Komoot
 │   └── trails.pkl        # Processed dataset
 │
+├── crawler/              # Cawling logic
+│
+├── scrapin/              # Scraping logic
+│
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_task1_nlp.ipynb
