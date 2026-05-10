@@ -1,0 +1,1 @@
+full_text = description + tips + faqs + region_intro + region_faq
