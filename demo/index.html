@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Komoot Trail Recommender — Group 14</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/tabler-icons.min.css">
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  :root {
+    --green-dark:   #1f3a1f;
+    --green-mid:    #5c8c3e;
+    --green-light:  #a8c97a;
+    --green-pale:   #eaf3de;
+    --amber:        #d97706;
+    --amber-pale:   #fef3c7;
+    --text-primary: #1f3a1f;
+    --text-secondary: #3d5c2a;
+    --text-muted:   #6b7c5a;
+    --border:       rgba(31,58,31,0.18);
+    --border-hover: rgba(31,58,31,0.35);
+    --bg-page:      #f7faf2;
+    --bg-card:      #ffffff;
+    --bg-surface:   #f0f5e8;
+    --radius-md:    8px;
+    --radius-lg:    12px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: Calibri, 'Segoe UI', sans-serif;
+    background: var(--bg-page);
+    color: var(--text-primary);
+    min-height: 100vh;
+  }
+
+  /* Header (full width) */
+  header {
+    background: var(--green-dark);
+    color: #fff;
+    padding: 2rem 2.5rem 1.5rem;
+    border-bottom: 4px solid var(--amber);
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+  }
+  header::after {
+    content: '';
+    position: absolute;
+    right: -60px; top: -60px;
+    width: 320px; height: 320px;
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.06);
+    box-shadow: 0 0 0 60px rgba(255,255,255,0.03), 0 0 0 120px rgba(255,255,255,0.02);
+    pointer-events: none;
+  }
+  .header-eyebrow {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 0.5rem;
+  }
+  .header-title {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.15;
+    color: #fff;
+  }
+  .header-title em {
+    color: var(--green-light);
+    font-style: italic;
+  }
+  .header-sub {
+    font-size: 13px;
+    color: rgba(255,255,255,0.55);
+    margin-top: 0.4rem;
+  }
+
+  /* Full‑width container for the recommender + map */
+  .main-layout {
+    display: flex;
+    gap: 20px;
+    padding: 2rem 1.5rem 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  /* Left side: controls + results */
+  .left-panel {
+    flex: 1;
+    min-width: 0;
+    max-width: 720px;
+  }
+
+  /* Right side: map */
+  .map-panel {
+    width: 400px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 20px;
+    height: calc(100vh - 100px);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  #map {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Section label */
+  .section-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+  }
+
+  /* Controls */
+  .controls-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 1.25rem;
+  }
+
+  select, input[type=range] {
+    width: 100%;
+    cursor: pointer;
+    font-family: Calibri, sans-serif;
+    font-size: 14px;
+  }
+
+  select {
+    appearance: none;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 8px 32px 8px 12px;
+    color: var(--text-primary);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%235c8c3e' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    transition: border-color 0.15s;
+  }
+  select:hover, select:focus { border-color: var(--green-mid); outline: none; }
+
+  input[type=range] {
+    -webkit-appearance: none;
+    height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    flex: 1;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px; height: 18px;
+    border-radius: 50%;
+    background: var(--green-mid);
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1px var(--green-mid);
+    cursor: pointer;
+  }
+
+  /* Method & topk row */
+  .method-topk-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+  }
+
+  .method-row { display: flex; gap: 6px; flex-wrap: wrap; }
+  .method-btn {
+    cursor: pointer;
+    padding: 6px 14px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border);
+    font-size: 13px;
+    font-family: Calibri, sans-serif;
+    background: var(--bg-card);
+    color: var(--text-secondary);
+    transition: all 0.15s;
+  }
+  .method-btn:hover:not(.active) { border-color: var(--green-mid); color: var(--green-mid); }
+  .method-btn.active {
+    background: var(--green-dark);
+    color: #fff;
+    border-color: var(--green-dark);
+    font-weight: 600;
+  }
+
+  /* CTA button */
+  .cta-btn {
+    width: 100%;
+    padding: 11px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Calibri, sans-serif;
+    background: var(--amber);
+    color: #fff;
+    border: none;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: background 0.15s, transform 0.1s;
+    letter-spacing: 0.02em;
+  }
+  .cta-btn:hover { background: #b45309; }
+  .cta-btn:active { transform: scale(0.99); }
+
+  /* Generate button */
+  .gen-btn {
+    width: 100%;
+    padding: 9px 14px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: Calibri, sans-serif;
+    background: var(--bg-card);
+    color: var(--green-dark);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: all 0.15s;
+    margin-bottom: 1.25rem;
+  }
+  .gen-btn:hover {
+    border-color: var(--green-mid);
+    color: var(--green-mid);
+  }
+
+  /* Badges */
+  .badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: var(--radius-md);
+    display: inline-block;
+    font-family: Calibri, sans-serif;
+  }
+  .badge-sport    { background: var(--green-pale); color: #2d5a1a; }
+  .badge-diff     { background: var(--amber-pale); color: #92400e; }
+  .badge-region   { background: #e8f4e8; color: #1f5c1f; }
+
+  /* Query trail box */
+  .query-trail {
+    background: var(--green-dark);
+    color: #fff;
+    border-radius: var(--radius-lg);
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+  .query-trail .trail-name { font-family: Georgia, serif; font-size: 15px; font-weight: 700; color: #fff; }
+  .query-trail .trail-name a { color: inherit; text-decoration: none; }
+  .query-trail .trail-name a:hover { text-decoration: underline; }
+  .query-trail .trail-meta { font-size: 12px; color: rgba(255,255,255,0.6); margin-top: 3px; }
+  .trail-desc {
+    font-size: 12px;
+    color: inherit;
+    margin-top: 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .query-trail .trail-desc { color: rgba(255,255,255,0.5); }
+  .query-trail .badge-sport  { background: rgba(92,140,62,0.35); color: var(--green-light); }
+  .query-trail .badge-diff   { background: rgba(217,119,6,0.3); color: #fcd34d; }
+  .query-trail .badge-region { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.7); }
+  .query-icon-circle {
+    width: 36px; height: 36px; border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+  }
+
+  /* Result cards */
+  .trail-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1rem 1.25rem;
+    margin-bottom: 10px;
+    transition: border-color 0.15s;
+  }
+  .trail-card:hover { border-color: var(--green-mid); }
+  .trail-card .trail-name { font-family: Georgia, serif; font-size: 14px; font-weight: 700; color: var(--text-primary); }
+  .trail-card .trail-name a { color: inherit; text-decoration: none; }
+  .trail-card .trail-name a:hover { text-decoration: underline; }
+  .trail-card .trail-meta { font-size: 12px; color: var(--text-muted); margin-bottom: 8px; }
+  .trail-card .trail-desc { color: #6b7c5a; }
+
+  /* Similarity bar */
+  .sim-bar { height: 4px; background: var(--border); border-radius: 2px; margin-top: 8px; overflow: hidden; }
+  .sim-bar-fill { height: 100%; background: var(--green-mid); border-radius: 2px; transition: width 0.4s ease; }
+
+  /* Misc */
+  .results-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .method-strength { font-size: 11px; color: var(--text-muted); }
+  #loading-msg { padding: 2rem 0; text-align: center; color: var(--text-muted); font-size: 14px; }
+  .topk-row { display: flex; align-items: center; gap: 10px; margin-bottom: 1.5rem; }
+  .topk-row.compact { margin-bottom: 0; }
+  .topk-val { font-size: 14px; font-weight: 700; color: var(--green-dark); min-width: 18px; }
+  .score-block { text-align: right; min-width: 52px; }
+  .score-pct { font-size: 17px; font-weight: 700; color: var(--green-dark); font-family: Georgia, serif; }
+  .score-label { font-size: 11px; color: var(--text-muted); }
+
+  /* Footer (full width) */
+  footer {
+    text-align: center;
+    padding: 1.5rem 1rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    width: 100%;
+  }
+  .footer-message {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-style: italic;
+    color: var(--green-mid);
+    font-size: 1.1rem;
+    margin-bottom: 6px;
+  }
+  .footer-icon {
+    font-size: 1.6rem;
+    color: var(--green-light);
+  }
+
+  /* Responsive stacking */
+  @media (max-width: 900px) {
+    .main-layout { flex-direction: column; padding: 1rem; }
+    .map-panel { width: 100%; height: 400px; position: static; }
+    .left-panel { max-width: 100%; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="header-eyebrow">UC3M · Machine Learning Applications · Final Project · Group 14</div>
+  <div class="header-title">Komoot Trail <em>Recommender System</em></div>
+  <div class="header-sub">Content-based &amp; collaborative filtering over 5,642 Spanish trails scraped from Komoot</div>
+</header>
+
+<div class="main-layout">
+  <div class="left-panel">
+    <!-- Filters (sport + difficulty) -->
+    <div class="controls-grid">
+      <div>
+        <div class="section-label">Sport</div>
+        <select id="sport-filter">
+          <option value="">Any sport</option>
+          <option value="hike">Hiking</option>
+          <option value="mountainbike">Mountain biking</option>
+          <option value="jogging">Running</option>
+          <option value="racebike">Road cycling</option>
+          <option value="touringbicycle">Touring bicycle</option>
+        </select>
+      </div>
+      <div>
+        <div class="section-label">Difficulty</div>
+        <select id="difficulty-filter">
+          <option value="">Any difficulty</option>
+          <option value="easy">Easy</option>
+          <option value="moderate">Moderate</option>
+          <option value="hard">Hard</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Current random trail display -->
+    <div id="current-query" class="query-trail">
+      <!-- filled by JS -->
+    </div>
+
+    <!-- Generate new random trail button -->
+    <button class="gen-btn" id="generate-btn" onclick="pickRandomTrail()">
+      <i class="ti ti-dice-5" aria-hidden="true"></i> Generate random trail
+    </button>
+
+    <!-- Vectorization method + number of recs -->
+    <div class="method-topk-row">
+      <div style="flex:1; min-width:200px;">
+        <div class="section-label">Vectorization method</div>
+        <div class="method-row">
+          <button class="method-btn active" data-method="fasttext" onclick="setMethod(this)">FastText</button>
+          <button class="method-btn" data-method="tfidf" onclick="setMethod(this)">TF-IDF</button>
+          <button class="method-btn" data-method="lda" onclick="setMethod(this)">LDA</button>
+          <button class="method-btn" data-method="bert" onclick="setMethod(this)">BERT</button>
+        </div>
+      </div>
+      <div style="flex-shrink: 0;">
+        <div class="section-label">Number of recommendations</div>
+        <div class="topk-row compact">
+          <input type="range" id="topk" min="2" max="4" value="4" step="1" oninput="document.getElementById('topk-out').textContent=this.value">
+          <span id="topk-out" class="topk-val">4</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Find similar trails -->
+    <button class="cta-btn" onclick="recommend()">
+      <i class="ti ti-route" aria-hidden="true"></i> Find similar trails
+    </button>
+
+    <!-- Results -->
+    <div id="results-area" style="margin-top:1.5rem;">
+      <div id="loading-msg">Choose a sport &amp; method, then click “Find similar trails”</div>
+    </div>
+  </div>
+
+  <!-- Map panel -->
+  <aside class="map-panel">
+    <div id="map"></div>
+  </aside>
+</div>
+
+<footer>
+  <div class="footer-message">Happy Exploring!</div>
+  <i class="ti ti-plant footer-icon" aria-hidden="true"></i>
+</footer>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+let TRAILS = [];
+const TOPK = { fasttext: null, tfidf: null, lda: null, bert: null };
+let currentQueryIndex = -1;
+
+// Map management
+let map = null;
+let allTrailsLayer = null;
+let highlightLayer = null;
+
+function mapTrail(d, originalIndex) {
+  return {
+    name:       d.name,
+    sport:      d.sport,
+    difficulty: d.difficulty,
+    distance_km: d.distance_m / 1000,
+    rating: Math.round(Number(d.rating_score) * 1000) / 1000, // round to 3 decimals
+    region:     d.region,
+    desc:       d.description || '',
+    url:        d.url || '',
+    lat:        d.start_lat || null,
+    lng:        d.start_lng || null,
+    idx:        originalIndex
+  };
+}
+
+function setStatus(msg, color) {
+  document.getElementById('results-area').innerHTML =
+    `<div id="loading-msg" style="color:${color||'inherit'}">${msg}</div>`;
+}
+
+// ---------- Map functions ----------
+function initMap() {
+  map = L.map('map').setView([40.0, -3.5], 5);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors',
+    maxZoom: 18
+  }).addTo(map);
+
+  allTrailsLayer = L.layerGroup().addTo(map);
+  TRAILS.forEach(trail => {
+    if (trail.lat && trail.lng) {
+      L.circleMarker([trail.lat, trail.lng], {
+        radius: 3,
+        color: '#5c8c3e',
+        fillColor: '#5c8c3e',
+        fillOpacity: 0.5,
+        weight: 1
+      }).addTo(allTrailsLayer);
+    }
+  });
+
+  highlightLayer = L.layerGroup().addTo(map);
+}
+
+function updateMapHighlight(queryIdx, resultIndices) {
+  if (!map) return;
+  highlightLayer.clearLayers();
+
+  // Query trail – dark green
+  if (queryIdx >= 0 && TRAILS[queryIdx].lat) {
+    const q = TRAILS[queryIdx];
+    L.circleMarker([q.lat, q.lng], {
+      radius: 8,
+      color: '#1f3a1f',
+      fillColor: '#1f3a1f',
+      fillOpacity: 0.9,
+      weight: 2
+    }).addTo(highlightLayer).bindPopup(`<b>${q.name}</b><br>${q.region}`);
+  }
+
+  // Result trails – amber/orange
+  if (resultIndices) {
+    resultIndices.forEach(idx => {
+      const t = TRAILS[idx];
+      if (t && t.lat) {
+        L.circleMarker([t.lat, t.lng], {
+          radius: 6,
+          color: '#92400e',
+          fillColor: '#d97706',
+          fillOpacity: 0.9,
+          weight: 2
+        }).addTo(highlightLayer).bindPopup(`<b>${t.name}</b><br>${t.region}`);
+      }
+    });
+  }
+}
+
+// ---------- Data loading ----------
+Promise.all([
+  fetch('trails.json').then(r => { if (!r.ok) throw new Error('trails.json'); return r.json(); }),
+  fetch('topk_fasttext.json').then(r => { if (!r.ok) throw new Error('topk_fasttext.json'); return r.json(); }),
+  fetch('topk_tfidf.json').then(r =>    { if (!r.ok) throw new Error('topk_tfidf.json');    return r.json(); }),
+  fetch('topk_lda.json').then(r =>      { if (!r.ok) throw new Error('topk_lda.json');      return r.json(); }),
+  fetch('topk_bert.json').then(r =>     { if (!r.ok) throw new Error('topk_bert.json');     return r.json(); }),
+]).then(([jsonData, ft, tfidf, lda, bert]) => {
+  const VALID_SPORTS = new Set(['mountainbike','hike','jogging','racebike','touringbicycle']);
+  const VALID_DIFFS  = new Set(['easy','moderate','hard']);
+  TRAILS = jsonData
+    .map((d, i) => mapTrail(d, i))
+    .filter(t => t.name && VALID_SPORTS.has(t.sport) && VALID_DIFFS.has(t.difficulty));
+  TOPK.fasttext = ft;
+  TOPK.tfidf    = tfidf;
+  TOPK.lda      = lda;
+  TOPK.bert     = bert;
+
+  initMap();
+  pickRandomTrail();
+  setStatus(`✓ Loaded ${TRAILS.length} trails and all 4 models.`);
+
+  document.getElementById('sport-filter').addEventListener('change', pickRandomTrail);
+  document.getElementById('difficulty-filter').addEventListener('change', pickRandomTrail);
+}).catch(err => {
+  setStatus(`⚠ Could not load ${err.message} — make sure all files are in the same folder as this HTML file.`, '#d97706');
+});
+
+const SPORT_ICONS = {
+  hike: "ti-walk",
+  mountainbike: "ti-bike",
+  jogging: "ti-run",
+  racebike: "ti-bike",
+  touringbicycle: "ti-bike"
+};
+const METHOD_PROFILES = {
+  fasttext: { sport: 0.891, difficulty: 0.537, region: 0.078, strength: "semantics" },
+  tfidf:    { sport: 0.517, difficulty: 0.484, region: 0.217, strength: "place names" },
+  lda:      { sport: 0.798, difficulty: 0.494, region: 0.054, strength: "topics" },
+  bert:     { sport: 0.519, difficulty: 0.513, region: 0.048, strength: "context" },
+};
+let activeMethod = "fasttext";
+
+function setMethod(btn) {
+  document.querySelectorAll(".method-btn").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  activeMethod = btn.dataset.method;
+}
+
+/** Pick a random trail matching current filters and display it */
+function pickRandomTrail() {
+  if (!TRAILS.length) return;
+  const sport = document.getElementById("sport-filter").value;
+  const diff  = document.getElementById("difficulty-filter").value;
+
+  const poolIndices = TRAILS
+    .map((t, i) => ({ t, i }))
+    .filter(({ t }) => (!sport || t.sport === sport) && (!diff || t.difficulty === diff))
+    .map(({ i }) => i);
+
+  if (poolIndices.length === 0) {
+    currentQueryIndex = -1;
+    document.getElementById('current-query').innerHTML = `
+      <div style="text-align:center;padding:1rem;color:rgba(255,255,255,0.5);">
+        <i class="ti ti-mood-sad" style="font-size:1.4rem;display:block;margin-bottom:6px;"></i>
+        No trails match these filters. Try widening your selection.
+      </div>`;
+    if (highlightLayer) highlightLayer.clearLayers();
+    return;
+  }
+
+  currentQueryIndex = poolIndices[Math.floor(Math.random() * poolIndices.length)];
+  const query = TRAILS[currentQueryIndex];
+  renderQueryTrail(query);
+  updateMapHighlight(currentQueryIndex, []);
+}
+
+function renderQueryTrail(query) {
+  const icon = SPORT_ICONS[query.sport] || "ti-route";
+  const distStr = query.distance_km >= 50 ? query.distance_km.toFixed(0) + " km" : query.distance_km.toFixed(1) + " km";
+
+  document.getElementById('current-query').innerHTML = `
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;">
+      <div class="query-icon-circle">
+        <i class="ti ${icon}" style="font-size:18px;color:#a8c97a;" aria-hidden="true"></i>
+      </div>
+      <div>
+        <div class="trail-name"><a href="${query.url || '#'}" target="_blank" rel="noopener">${query.name}</a></div>
+        <div class="trail-meta">${query.region} · ${distStr} · ⭐ ${query.rating}</div>
+      </div>
+    </div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px;">
+      <span class="badge badge-sport">${query.sport}</span>
+      <span class="badge badge-diff">${query.difficulty}</span>
+      <span class="badge badge-region">${query.region}</span>
+    </div>
+    <div class="trail-desc">${query.desc}</div>`;
+}
+
+function recommend() {
+  if (!TRAILS.length || !TOPK.fasttext) {
+    setStatus('⚠ Still loading data, please wait a moment and try again.', '#d97706');
+    return;
+  }
+  if (currentQueryIndex === -1) {
+    setStatus('No trail selected — please generate a random trail first.', '#d97706');
+    return;
+  }
+
+  const sport  = document.getElementById("sport-filter").value;
+  const diff   = document.getElementById("difficulty-filter").value;
+  const topK   = parseInt(document.getElementById("topk").value);
+  const method = activeMethod;
+  const profile = METHOD_PROFILES[method];
+
+  const query = TRAILS[currentQueryIndex];
+  const topkForQuery = TOPK[method][String(currentQueryIndex)] || [];
+
+  const candidates = topkForQuery
+    .map(({ idx, sim }) => ({ trail: TRAILS[idx], sim, idx }))
+    .filter(({ trail }) => trail);
+
+  const scoredFiltered = candidates
+    .filter(({ trail }) => (!sport || trail.sport === sport) && (!diff || trail.difficulty === diff));
+
+  const scoredUnfiltered = candidates;
+  const seen = new Set(scoredFiltered.map(x => x.idx));
+  const combined = [...scoredFiltered];
+  for (const item of scoredUnfiltered) {
+    if (combined.length >= topK) break;
+    if (!seen.has(item.idx)) {
+      combined.push(item);
+      seen.add(item.idx);
+    }
+  }
+  const scored = combined.slice(0, topK);
+  const resultIndices = scored.map(s => s.idx);
+
+  const icon = SPORT_ICONS[query.sport] || "ti-route";
+  const distStr = query.distance_km >= 50 ? query.distance_km.toFixed(0) + " km" : query.distance_km.toFixed(1) + " km";
+
+  let html = `
+    <div class="results-header">
+      <div class="section-label" style="margin-bottom:0;">Top ${topK} similar trails · ${method.toUpperCase()}</div>
+      <div class="method-strength">Best at: ${profile.strength}</div>
+    </div>`;
+
+  scored.forEach(({ trail, sim }) => {
+    const d = trail.distance_km >= 50 ? trail.distance_km.toFixed(0) + " km" : trail.distance_km.toFixed(1) + " km";
+    const simPct = Math.round(sim * 100);
+    const ti = SPORT_ICONS[trail.sport] || "ti-route";
+    html += `
+      <div class="trail-card">
+        <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+          <div style="flex:1;min-width:0;">
+            <div style="display:flex;align-items:center;gap:7px;margin-bottom:4px;">
+              <i class="ti ${ti}" style="font-size:14px;color:#5c8c3e;flex-shrink:0;" aria-hidden="true"></i>
+              <span class="trail-name"><a href="${trail.url || '#'}" target="_blank" rel="noopener">${trail.name}</a></span>
+            </div>
+            <div class="trail-meta">${trail.region} · ${d} · ⭐ ${trail.rating}</div>
+            <div style="display:flex;gap:5px;flex-wrap:wrap;">
+              <span class="badge badge-sport">${trail.sport}</span>
+              <span class="badge badge-diff">${trail.difficulty}</span>
+              <span class="badge badge-region">${trail.region}</span>
+            </div>
+          </div>
+          <div class="score-block">
+            <div class="score-pct">${simPct}%</div>
+            <div class="score-label">match</div>
+          </div>
+        </div>
+        <div class="sim-bar"><div class="sim-bar-fill" style="width:${simPct}%"></div></div>
+        <div class="trail-desc">${trail.desc}</div>
+      </div>`;
+  });
+
+  document.getElementById("results-area").innerHTML = html;
+  updateMapHighlight(currentQueryIndex, resultIndices);
+}
+</script>
+</body>
+</html>
