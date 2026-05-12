@@ -43,8 +43,9 @@ ml-applications-project-repo/
 │   └── 04_report_figures.ipynb
 │
 ├── report/
-│   ├── figures/
-│   └── tables/
+│   └─── figures/
+│   
+├── demo/
 │
 ├── scrape_batch.py
 ├── requirements.txt
@@ -160,6 +161,17 @@ report/tables/
 
 ---
 
+## Demo
+
+A simple, locally-hosted interactive UI that shows the content-based recommender system is available within the demo folder. Simply open terminal, `cd` to the demo folder, and run `python -m http.server 8000`. 
+
+Then, the URL http://localhost:8000/ should take you to this page:
+
+<img width="2968" height="1608" alt="image" src="https://github.com/user-attachments/assets/cf52e5be-6209-495a-b929-7a1fcbcf9ef1" />
+
+
+---
+
 
 ## Current Status
 
@@ -170,10 +182,10 @@ report/tables/
 | Text preprocessing | Completed |
 | Text vectorization | Completed |
 | Content-based recommender | Completed |
-| Collaborative filtering | In progress |
-| Hybrid recommender | Not finalized |
-| Final report | In progress |
-| Presentation | In progress |
+| Collaborative filtering | Completed |
+| Hybrid recommender | Future Work |
+| Final report | Completed |
+| Presentation | Completed |
 
 ---
 
